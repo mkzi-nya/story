@@ -1,6 +1,8 @@
 # [https://mkzi-nya.github.io/story/](https://mkzi-nya.github.io/story/)
 该网页展现了 Milthm 游戏剧情内容及一些二创文章，欢迎投稿
 
+该网页完全为玩家制作，与官方并无关联
+
 
 ## 投稿途径：
 - QQ: 510334363
