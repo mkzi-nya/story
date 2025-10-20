@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     nav: [{ text: 'Home', link: '/index' }],
     sidebar: [
-      { text: 'Milthm Story', items: [{ text: 'Languages', link: '/index' }] },
+      { text: 'Milthm Story', items: [{ text: 'Languages', link: '/story' }] },
       {
         text: '二创分区',
         items: [{ text: '曲绘分析', link: '/illustration' }]
