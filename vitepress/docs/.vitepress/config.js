@@ -18,9 +18,23 @@ export default defineConfig({
         items: [
           { text: '曲绘分析', link: '/illustration' },
           {
-            text: '二创文章',
+            text: '长篇文章',
             items: [
               { text: '终焉', link: '/demise' },
+            ]
+          },
+          {
+            text: '短篇文章',
+            items: [
+              { text: '樱雨谛', link: '/yyd' },
+            ]
+          },
+          {
+            text: '整活向',
+            items: [
+              { text: '舌尖上的卤味鸭', link: '/sjsdlwy' },
+              { text: 'Milthm野史外传', link: '/yeshi' },
+              { text: 'Oiiaioooooiai', link: '/oiiai' }
             ]
           }
         ]
