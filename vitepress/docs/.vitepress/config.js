@@ -66,7 +66,8 @@ export default defineConfig({
               { text: 'Milthm野史外传', link: '/yeshi' },
               { text: 'Oiiaioooooiai', link: '/oiiai' }
             ]
-          }
+          },
+          { text: '按作者索引', link: '/author' },
         ]
       }
     ],
