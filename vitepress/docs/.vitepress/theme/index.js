@@ -21,7 +21,7 @@ const MusicToggle = {
     }
   },
   mounted() {
-    this.audio = new Audio('/story/story.mp3')
+    this.audio = new Audio('/story/files/story.mp3')
     this.audio.loop = true
     this.audio.preload = 'auto'
 
