@@ -141,7 +141,7 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 - Có chuyện gì đã xảy ra với cô ấy ?
 - (Tôi lấy ra một mảnh giấy nhàu nát và đưa cho cô ấy.)
 - (Đó là bức ảnh một người phụ nữ trên giường đang ôm một đứa trẻ mới chào đời.)
-- Tên cô ấy là Susan. Gần đây cô ấy có một đứa con. Lẽ ra đó có thể là một ra đình hạnh phúc, nhưng chồng cô bỏ đi, và đứa con của cô đã bị bắt đi.
+- Tên cô ấy là Susan. Gần đây cô ấy có một đứa con. Lẽ ra đó có thể là một gia đình hạnh phúc, nhưng chồng cô bỏ đi, và đứa con của cô đã bị bắt đi.
 - Bây giờ, cô ấy thành ra như thế này. Đây là những gì xảy ra nếu con người bị dính mưa. Họ không bao giờ tỉnh lại và phải dựa vào những cỗ máy này để duy trì sự sống.
 - Đó là lý do tại sao những cảnh đẹp đều biến mất. Cơn mưa đã cuốn trôi chúng đi… chúng ta sống dưới mái nhà, như bị giam cầm.
 - Giấc mơ của cô…… <i>đẹp quá</i>…
@@ -175,7 +175,7 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 - … Hả?! Nhưng… làm thế nào?
 - Đúng thế.
 - Nhưng… làm sao chúng ta cứu cô ấy được? Không thể cứ thuyết phục họ là không được…
-- (Thật nhẽ nhõm vì tôi đã bảo cô ấy không được nói chuyện với ai, nhưng tôi vẫn lo lắng về khả năng cô ấy bị lộ.)
+- (Thật nhẹ nhõm vì tôi đã bảo cô ấy không được nói chuyện với ai, nhưng tôi vẫn lo lắng về khả năng cô ấy bị lộ.)
 - Nhưng… cô ấy nhìn được giấc mơ của người khác… những bí ẩn về cô cứ chồng chất lên.
 
 <br><br>
@@ -384,7 +384,7 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 - (Khuôn mặt cô không còn vẻ khỏe mạnh như trong mơ. Phụ thuộc vào máy quá lâu đã khiến cô trở nên yếu đuối, nhưng đôi mắt cô vẫn tỏ ra mạnh mẽ.)
 - Giúp dì dậy với. Dì cần quay lại và kiểm tra lều của dì.
 - Có cháu đây. Dì cứ bình tĩnh.
-- Su-Susan! ? Cô… cô đã tỉnh lại ! ?
+- Su-Susan!? Cô... cô tỉnh lại rồi !
 - (Trước khi kịp trả lời, anh ấy đã chạy đi, và chẳng bao lâu mọi người đều biết Susan đã thức dậy.)
 - (Người dân quây quanh chúng tôi rất nhanh.)
 - Susan thật sự đã tỉnh lại !
