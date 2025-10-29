@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/story/',
-  title: 'Milthm text',
+  title: 'Home',
   description: 'Markdown reader with languages in sidebar',
 
   themeConfig: {
@@ -19,16 +19,16 @@ export default defineConfig({
             collapsible: true,
             collapsed: true,
             items: [
-            { text: '简体中文', link: '/story/zh_Hans' },
-            { text: '繁體中文', link: '/story/zh_Hant' },
-            { text: '粵語', link: '/story/yue_Hant' },
-            { text: 'English', link: '/story/en' },
-            { text: '日本語', link: '/story/ja' },
-            { text: 'Español', link: '/story/es' },
-            { text: 'Français', link: '/story/fr' },
-            { text: '한국어', link: '/story/ko' },
-            { text: 'Русский', link: '/story/ru' },
-            { text: 'TiếngViệt', link: '/story/vi' },
+            { text: '简体中文', link: '/milthm/story/zh_Hans' },
+            { text: '繁體中文', link: '/milthm/story/zh_Hant' },
+            { text: '粵語', link: '/milthm/story/yue_Hant' },
+            { text: 'English', link: '/milthm/story/en' },
+            { text: '日本語', link: '/milthm/story/ja' },
+            { text: 'Español', link: '/milthm/story/es' },
+            { text: 'Français', link: '/milthm/story/fr' },
+            { text: '한국어', link: '/milthm/story/ko' },
+            { text: 'Русский', link: '/milthm/story/ru' },
+            { text: 'TiếngViệt', link: '/milthm/story/vi' },
             ]
           },
           {
@@ -105,6 +105,6 @@ export default defineConfig({
       }
     ],
     outline: { level: [2, 4] },
-    outlineTitle: 'On this page'
+    outlineTitle: '导览'
   }
 })
