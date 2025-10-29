@@ -3,28 +3,35 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/story/',
-  title: 'Milthm story text',
+  title: 'Milthm text',
   description: 'Markdown reader with languages in sidebar',
 
   themeConfig: {
     nav: [{ text: 'Home', link: '/index' }],
     sidebar: [
       { 
-        text: 'Milthm Story', 
+        text: 'Milthm Text', 
         collapsible: true,
-        collapsed: true,
+        collapsed: false,
         items: [
-        { text: '简体中文', link: '/story/zh_Hans' },
-        { text: '繁體中文', link: '/story/zh_Hant' },
-        { text: '粵語', link: '/story/yue_Hant' },
-        { text: 'English', link: '/story/en' },
-        { text: '日本語', link: '/story/ja' },
-        { text: 'Español', link: '/story/es' },
-        { text: 'Français', link: '/story/fr' },
-        { text: '한국어', link: '/story/ko' },
-        { text: 'Русский', link: '/story/ru' },
-        { text: 'TiếngViệt', link: '/story/vi' },
-        ] 
+          {
+            text: 'Story',
+            collapsible: true,
+            collapsed: true,
+            items: [
+            { text: '简体中文', link: '/story/zh_Hans' },
+            { text: '繁體中文', link: '/story/zh_Hant' },
+            { text: '粵語', link: '/story/yue_Hant' },
+            { text: 'English', link: '/story/en' },
+            { text: '日本語', link: '/story/ja' },
+            { text: 'Español', link: '/story/es' },
+            { text: 'Français', link: '/story/fr' },
+            { text: '한국어', link: '/story/ko' },
+            { text: 'Русский', link: '/story/ru' },
+            { text: 'TiếngViệt', link: '/story/vi' },
+            ]
+          }
+        ]
       },
       {
         text: '二创分区',
