@@ -1,16 +1,9 @@
 import DefaultTheme from 'vitepress/theme'
 import { h } from 'vue'
-import './style.css'  // 引入自定义样式
+import ChatBubble from './components/ChatBubble.vue'
+import './style.css'
 
-export default {
-  ...DefaultTheme,
-  Layout() {
-    return h(DefaultTheme.Layout, null, {
-      'nav-bar-content-after': () => h(MusicToggle)
-    })
-  }
-}
-
+// 音乐播放按钮组件
 const MusicToggle = {
   name: 'MusicToggle',
   data() {
@@ -31,6 +24,7 @@ const MusicToggle = {
         this.unlocked = true
       }
     }
+
     document.addEventListener('click', unlock, { once: true })
     document.addEventListener('touchstart', unlock, { once: true })
   },
@@ -54,9 +48,22 @@ const MusicToggle = {
         'aria-label': 'Toggle background music',
         onClick: this.toggle
       },
-      [
-        h('span', { class: 'icon' }, this.isPlaying ? '🎵' : '🔇')
-      ]
+      [h('span', { class: 'icon' }, this.isPlaying ? '🎵' : '🔇')]
     )
+  }
+}
+
+// 导出主题配置
+export default {
+  ...DefaultTheme,
+  Layout() {
+    // 在导航栏后面插入音乐按钮
+    return h(DefaultTheme.Layout, null, {
+      'nav-bar-content-after': () => h(MusicToggle)
+    })
+  },
+  enhanceApp({ app }) {
+    // 注册 ChatBubble 组件
+    app.component('ChatBubble', ChatBubble)
   }
 }
