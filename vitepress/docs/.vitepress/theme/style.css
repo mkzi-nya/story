@@ -37,3 +37,24 @@
 #bgm-toggle.paused .icon {
   transform: translateX(-9px);
 }
+/* ===== 侧边栏 ❤ 收藏标志 ===== */
+.VPSidebarItem .link .fav {
+  float: right;
+  font-size: 14px;
+  color: #555; /* 浅色模式下为深灰 */
+  opacity: 0.8;
+  margin-left: 6px;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+/* hover 时轻微放大 */
+.VPSidebarItem .link:hover .fav {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* 暗色模式下改为浅灰 */
+html.dark .VPSidebarItem .link .fav {
+  color: #ccc;
+  opacity: 0.9;
+}

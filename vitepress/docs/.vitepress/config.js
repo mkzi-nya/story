@@ -30,6 +30,32 @@ export default defineConfig({
             { text: 'Русский', link: '/story/ru' },
             { text: 'TiếngViệt', link: '/story/vi' },
             ]
+          },
+          {
+            text: 'Raingpt',
+            collapsible: true,
+            collapsed: true,
+            items: [
+            { text: '欢迎', link: '/milthm/raingpt/welcome' },
+            { text: '又又又又断触了<span class="fav">❤</span>', link: '/milthm/raingpt/judgement' },
+            { text: '雨丝的机制<span class="fav">❤</span>', link: '/milthm/raingpt/hold-tricks' },
+            { text: '游戏机制细节<span class="fav">❤</span>', link: '/milthm/raingpt/level-rule' },
+            { text: 'Reality<span class="fav">❤</span>', link: '/milthm/raingpt/reality' },
+            { text: '星星<span class="fav">❤</span>', link: '/milthm/raingpt/star' },
+            { text: '蓝牙耳机<span class="fav">❤</span>', link: '/milthm/raingpt/bluetooth' },
+            { text: '“绮梦”玩法<span class="fav">❤</span>', link: '/milthm/raingpt/character-guidence' },
+            { text: '你是谁?', link: '/milthm/raingpt/who-are-you' },
+            { text: '倾盆大雨是什么', link: '/milthm/raingpt/what-is-downpour' },
+            { text: '那个“❤”是什么', link: '/milthm/raingpt/what-is-heart' },
+            { text: '下午茶', link: '/milthm/raingpt/coffee' },
+            { text: '被砍了怎么办?', link: '/milthm/raingpt/susan' },
+            { text: '哄我睡觉', link: '/milthm/raingpt/sleep' },
+            { text: '你知道吗?', link: '/milthm/raingpt/do-you-know' },
+            { text: '还是场景原画师', link: '/milthm/raingpt/or-scene-illustration' },
+            { text: '奖励', link: '/milthm/raingpt/rain' },
+            { text: '/查询 精神状态', link: '/milthm/raingpt/checkstate' },
+            { text: '关于制作团队', link: '/milthm/raingpt/about-us' },
+            ]
           }
         ]
       },
