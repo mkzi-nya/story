@@ -97,7 +97,8 @@ export default defineConfig({
             items: [
               { text: '舌尖上的卤味鸭', link: '/fan-made/meme/sjsdlwy' },
               { text: 'Milthm野史外传', link: '/fan-made/meme/yeshi' },
-              { text: 'Oiiaioooooiai', link: '/fan-made/meme/oiiai' }
+              { text: 'Oiiaioooooiai', link: '/fan-made/meme/oiiai' },
+              { text: '神秘小习俗', link: '/fan-made/meme/custom' }
             ]
           },
           { text: '按作者索引', link: '/fan-made/author' },
