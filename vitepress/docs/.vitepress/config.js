@@ -91,6 +91,13 @@ export default defineConfig({
             ]
           },
           {
+            text: '其他',
+            collapsible: true,
+            collapsed: true,
+            items: [
+              { text: '靈', link: '/fan-made/other/rei' },
+            ]
+          },          {
             text: '整活向',
             collapsible: true,
             collapsed: true,
