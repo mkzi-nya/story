@@ -572,7 +572,7 @@ I never wished for my child to be born into this world — especially not one wh
 
 ## Secundaria <a id="side"></a>
 
-### A Spring Waiting in Blossoms <a id="side1"></a>
+### Una primavera en flor <a id="side1"></a>
 
 #### 1.1  <a id="side1-1"></a>
 

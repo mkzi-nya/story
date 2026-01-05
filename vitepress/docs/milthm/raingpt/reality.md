@@ -26,7 +26,7 @@
 
 <ChatBubble role="bot" avatar="https://mkzi-nya.github.io/story/files/raingpt/raingpt.png">
 分数主要是根据击打音符的准确度来计算的。
-只要达到 100 万分（即AP），分数最高段位也不会上涨了哦。
+只要达到 100 万分（AP必定能达到100万分哦），分数最高段位也不会上涨了哦。
 </ChatBubble>
 
 <ChatBubble role="bot" avatar="https://mkzi-nya.github.io/story/files/raingpt/raingpt.png">
