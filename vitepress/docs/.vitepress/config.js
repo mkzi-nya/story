@@ -88,7 +88,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '樱雨谛', link: '/fan-made/notes/yyd' },
-            ]
+              { text: '露维娅走了', link: '/fan-made/notes/luvia_died' },            ]
           },
           {
             text: '其他',
