@@ -44,6 +44,8 @@ export default defineConfig({
             { text: '星星<span class="fav">❤</span>', link: '/milthm/raingpt/star' },
             { text: '蓝牙耳机<span class="fav">❤</span>', link: '/milthm/raingpt/bluetooth' },
             { text: '“绮梦”玩法<span class="fav">❤</span>', link: '/milthm/raingpt/character-guidence' },
+            { text: '怎么兑换歌曲<span class="fav">❤</span>', link: '/milthm/raingpt/garden-guidence' },
+            { text: '新用户福利?', link: '/milthm/raingpt/gift' },
             { text: '你是谁?', link: '/milthm/raingpt/who-are-you' },
             { text: '倾盆大雨是什么', link: '/milthm/raingpt/what-is-downpour' },
             { text: '那个“❤”是什么', link: '/milthm/raingpt/what-is-heart' },
@@ -53,6 +55,7 @@ export default defineConfig({
             { text: '你知道吗?', link: '/milthm/raingpt/do-you-know' },
             { text: '还是场景原画师', link: '/milthm/raingpt/or-scene-illustration' },
             { text: '奖励', link: '/milthm/raingpt/rain' },
+            { text: '七大怪谈', link: '/milthm/raingpt/ghost' },
             { text: '/查询 精神状态', link: '/milthm/raingpt/checkstate' },
             { text: '关于制作团队', link: '/milthm/raingpt/about-us' },
             ]

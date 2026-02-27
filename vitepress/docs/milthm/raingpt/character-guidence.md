@@ -48,6 +48,10 @@ RainGPT 撤回了一条消息
 ～(∠・ω&lt; )⌒☆
 </ChatBubble>
 
+<ChatBubble role="bot" avatar="https://mkzi-nya.github.io/story/files/raingpt/raingpt.png">
+先邀请开头的几位朋友~
+</ChatBubble>
+
 <ChatBubble role="system">
 RainGPT 邀请 露薇娅 加入了群聊
 </ChatBubble>
@@ -137,4 +141,17 @@ RainGPT 邀请 浅仪洸花 加入了群聊
 <ChatBubble role="bot" avatar="https://mkzi-nya.github.io/story/files/raingpt/raingpt.png">
 等待作物成熟以后，可以收获作物
 作物可以用来兑换歌曲、谱面等内容哦！
+</ChatBubble>
+
+<ChatBubble role="user" avatar="https://mkzi-nya.github.io/story/files/raingpt/me.png">
+……
+</ChatBubble>
+
+<ChatBubble role="user" avatar="https://mkzi-nya.github.io/story/files/raingpt/me.png">
+一想到每次添加新角色你就要做新的表情包，
+就有点想笑……
+</ChatBubble>
+
+<ChatBubble role="bot" avatar="https://mkzi-nya.github.io/story/files/raingpt/raingpt.png">
+<img src="https://mkzi-nya.github.io/story/files/raingpt/honoka_emotionless.png" alt="honoka_emotionless" class="chat-image" />
 </ChatBubble>
