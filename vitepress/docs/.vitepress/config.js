@@ -83,6 +83,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '终焉', link: '/fan-made/articles/demise' },
+              { text: '忆 希 雨', link: '/fan-made/articles/rainy_memory_and_fable' },
             ]
           },
           {

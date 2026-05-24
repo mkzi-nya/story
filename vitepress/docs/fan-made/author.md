@@ -1,5 +1,7 @@
 # 按作者索引
 
+---
+
 ## 听雨(Rainey)
 
 | 类别 | 作品 |
@@ -9,8 +11,26 @@
 | 曲绘分析 | [幕雨星光](/fan-made/illustration#%E6%9A%AE%E4%BA%88%E6%98%9F%E5%85%89)<br>[OverRain](/fan-made/illustration#overrain)<br>[Garden](/fan-made/illustration#garden) |
 | 整活向 | [舌尖上的卢味鸭](/fan-made/meme/sjsdlwy)<br>[Milthm野史](/fan-made/meme/yeshi)<br>[Oiiaioooooiai](/fan-made/meme/oiiai) |
 
+---
+
 ## SatYRr
 
 | 类别 | 作品 |
 |-|-|
 | 曲绘分析 | [Brightened Demonios](/fan-made/illustration#brightened-demonios) |
+
+---
+
+## omca
+
+| 类别 | 作品 |
+|-|-|
+| 长篇文章 | [忆 希 雨](/fan-made/articles/rainy_memory_and_fable) |
+
+---
+
+## 千枫
+
+| 类别 | 作品 |
+|-|-|
+| 短篇文章 | [露维娅走了](/fan-made/notes/luvia_died.md) |
