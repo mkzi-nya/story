@@ -1,0 +1,2411 @@
+{
+  "episode": "main_story_2_11",
+  "blocks": [
+    {
+      "type": "scene",
+      "value": "dark_access"
+    },
+    {
+      "type": "bgs",
+      "value": "windstorm"
+    },
+    {
+      "type": "chara_settings",
+      "value": "lwy|luvia-arcadia"
+    },
+    {
+      "type": "chara_settings",
+      "value": "npc-aleksei|npc1"
+    },
+    {
+      "type": "chara_settings",
+      "value": "npc-nameless|npc-female"
+    },
+    {
+      "type": "chara",
+      "value": "lwy/frown+npc-sergay+npc-nameless"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10001",
+          "speaker": "pb"
+        },
+        {
+          "id": "10002",
+          "speaker": "pb"
+        },
+        {
+          "id": "10003",
+          "speaker": "pb"
+        },
+        {
+          "id": "10004",
+          "speaker": "pb"
+        },
+        {
+          "id": "10005",
+          "speaker": "npc-sergay"
+        },
+        {
+          "id": "10006",
+          "speaker": "npc-sergay"
+        },
+        {
+          "id": "10007",
+          "speaker": "npc-sergay"
+        },
+        {
+          "id": "10008",
+          "speaker": "w"
+        },
+        {
+          "id": "10009",
+          "speaker": "npc-sergay"
+        },
+        {
+          "id": "10010",
+          "speaker": "pb"
+        },
+        {
+          "id": "10011",
+          "speaker": "npc-nameless,sluice-team-member"
+        },
+        {
+          "id": "10012",
+          "speaker": "w"
+        },
+        {
+          "id": "10013",
+          "speaker": "npc-aleksei"
+        },
+        {
+          "id": "10014",
+          "speaker": "npc-nameless,sluice-team-member"
+        },
+        {
+          "id": "10015",
+          "speaker": "npc-nameless,sluice-team-member"
+        },
+        {
+          "id": "10016",
+          "speaker": "w"
+        },
+        {
+          "id": "10017",
+          "speaker": "npc-nameless,sluice-team-member"
+        },
+        {
+          "id": "10018",
+          "speaker": "npc-aleksei"
+        },
+        {
+          "id": "10019",
+          "speaker": "npc-sergay"
+        },
+        {
+          "id": "10020",
+          "speaker": "npc-sergay"
+        },
+        {
+          "id": "10021",
+          "speaker": "w"
+        },
+        {
+          "id": "10022",
+          "speaker": "w"
+        },
+        {
+          "id": "10023",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "scene",
+      "value": "dark_access"
+    },
+    {
+      "type": "chara",
+      "value": "solara/scare"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10024",
+          "speaker": "pb"
+        },
+        {
+          "id": "10025",
+          "speaker": "pb"
+        },
+        {
+          "id": "10026",
+          "speaker": "pb"
+        },
+        {
+          "id": "10027",
+          "speaker": "solara"
+        },
+        {
+          "id": "10028",
+          "speaker": "pb"
+        },
+        {
+          "id": "10029",
+          "speaker": "pb"
+        },
+        {
+          "id": "10030",
+          "speaker": "pb"
+        },
+        {
+          "id": "10031",
+          "speaker": "pb"
+        },
+        {
+          "id": "10032",
+          "speaker": "pb"
+        },
+        {
+          "id": "10033",
+          "speaker": "pb"
+        },
+        {
+          "id": "10034",
+          "speaker": "pb"
+        },
+        {
+          "id": "10035",
+          "speaker": "pb"
+        },
+        {
+          "id": "10036",
+          "speaker": "pb"
+        },
+        {
+          "id": "10037",
+          "speaker": "pb"
+        },
+        {
+          "id": "10038",
+          "speaker": "solara"
+        },
+        {
+          "id": "10039",
+          "speaker": "pb"
+        },
+        {
+          "id": "10040",
+          "speaker": "pb"
+        },
+        {
+          "id": "10041",
+          "speaker": "pb"
+        },
+        {
+          "id": "10042",
+          "speaker": "pb"
+        },
+        {
+          "id": "10043",
+          "speaker": "pb"
+        },
+        {
+          "id": "10044",
+          "speaker": "solara"
+        },
+        {
+          "id": "10045",
+          "speaker": "pb"
+        },
+        {
+          "id": "10046",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "se",
+      "value": "avg/door_knock"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10047",
+          "speaker": "solara"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "solara/scare+selene/sad"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10048",
+          "speaker": "selene"
+        },
+        {
+          "id": "10049",
+          "speaker": "solara"
+        },
+        {
+          "id": "10050",
+          "speaker": "pb"
+        },
+        {
+          "id": "10051",
+          "speaker": "pb"
+        },
+        {
+          "id": "10052",
+          "speaker": "selene"
+        },
+        {
+          "id": "10053",
+          "speaker": "selene"
+        },
+        {
+          "id": "10054",
+          "speaker": "solara"
+        },
+        {
+          "id": "10055",
+          "speaker": "selene"
+        },
+        {
+          "id": "10056",
+          "speaker": "solara"
+        },
+        {
+          "id": "10057",
+          "speaker": "solara"
+        },
+        {
+          "id": "10058",
+          "speaker": "selene"
+        },
+        {
+          "id": "10059",
+          "speaker": "pb"
+        },
+        {
+          "id": "10060",
+          "speaker": "pb"
+        },
+        {
+          "id": "10061",
+          "speaker": "pb"
+        },
+        {
+          "id": "10062",
+          "speaker": "selene"
+        },
+        {
+          "id": "10063",
+          "speaker": "solara"
+        },
+        {
+          "id": "10064",
+          "speaker": "solara"
+        },
+        {
+          "id": "10065",
+          "speaker": "selene"
+        },
+        {
+          "id": "10066",
+          "speaker": "pb"
+        },
+        {
+          "id": "10067",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "bgm",
+      "value": "When I'm alone"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10068",
+          "speaker": "selene"
+        },
+        {
+          "id": "10069",
+          "speaker": "pb"
+        },
+        {
+          "id": "10070",
+          "speaker": "selene"
+        },
+        {
+          "id": "10071",
+          "speaker": "selene"
+        },
+        {
+          "id": "10072",
+          "speaker": "selene"
+        },
+        {
+          "id": "10073",
+          "speaker": "pb"
+        },
+        {
+          "id": "10074",
+          "speaker": "selene"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10075",
+          "speaker": "pb"
+        },
+        {
+          "id": "10076",
+          "speaker": "pb"
+        },
+        {
+          "id": "10077",
+          "speaker": "pb"
+        },
+        {
+          "id": "10078",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10079",
+          "speaker": "solara"
+        },
+        {
+          "id": "10080",
+          "speaker": "selene"
+        },
+        {
+          "id": "10081",
+          "speaker": "selene"
+        },
+        {
+          "id": "10082",
+          "speaker": "selene"
+        },
+        {
+          "id": "10083",
+          "speaker": "selene"
+        },
+        {
+          "id": "10084",
+          "speaker": "pb"
+        },
+        {
+          "id": "10085",
+          "speaker": "selene"
+        },
+        {
+          "id": "10086",
+          "speaker": "pb"
+        },
+        {
+          "id": "10087",
+          "speaker": "selene"
+        },
+        {
+          "id": "10088",
+          "speaker": "solara"
+        },
+        {
+          "id": "10089",
+          "speaker": "selene"
+        },
+        {
+          "id": "10090",
+          "speaker": "selene"
+        },
+        {
+          "id": "10091",
+          "speaker": "selene"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10092",
+          "speaker": "pb"
+        },
+        {
+          "id": "10093",
+          "speaker": "pb"
+        },
+        {
+          "id": "10094",
+          "speaker": "pb"
+        },
+        {
+          "id": "10095",
+          "speaker": "pb"
+        },
+        {
+          "id": "10096",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "scene",
+      "value": "selene_sunny"
+    },
+    {
+      "type": "bgs",
+      "value": "stop"
+    },
+    {
+      "type": "chara",
+      "value": "selene/cry_with_smile"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10097",
+          "speaker": "selene"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10098",
+          "speaker": "selene"
+        },
+        {
+          "id": "10099",
+          "speaker": "pb"
+        },
+        {
+          "id": "10100",
+          "speaker": "pb"
+        },
+        {
+          "id": "10101",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10102",
+          "speaker": "selene"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10103",
+          "speaker": "selene"
+        }
+      ]
+    }
+  ],
+  "dialogues": {
+    "zh_Hans": {
+      "say10102": "太阳……真的好漂亮。",
+      "say10042": "而叠在最上面的那间集装箱房间，就横倒在控制室的门前。",
+      "say10044": "（姐姐……姐姐就在控制室里吗？！）",
+      "say10071": "阿卡迪亚的人民，只能由你来替我带领了。",
+      "say10075": "姐姐身上背负的责任太重了。",
+      "say10025": "连接旧开拓区的区域并非全部都处于住宅区地势的最低处。但索莱娜知晓塞勒涅会挑选面前几条路的哪一条走。",
+      "say10010": "对讲机里传来了水闸工作小组的汇报。",
+      "say10094": "象征着无情的未来。",
+      "say10078": "她甚至没能有机会休息。",
+      "say10054": "那样的话，我立刻就过去……！！！",
+      "say10039": "本来应该是这样。但索莱娜估错了一件事：既然芯片处理器能够损坏，那建筑本身也可能早就已经老化了。",
+      "say10006": "新开拓区那里再去两个搬钢筋的！",
+      "say10029": "根本不需要鼓足勇气；她已经有了足够的决心。望向那漆黑的，间隔性被闪烁的深红色警示灯照得一片通红的深潭。",
+      "say10023": "没有问题……！！",
+      "say10063": "我不要听这些，我不想要听这些！！",
+      "say10083": "对不起，我太忙了，甚至从来都没机会真正向着这个梦想去努力……",
+      "say10051": "可惜，拦在门前的是一整台集装箱，而且还没算上三米多深的水位所带来的巨大压强。",
+      "say10057": "怎、怎么可能，怎么会？！我、我现在就去，我游泳的速度很快，姐姐你等我……！！",
+      "say10027": "（我一定……会找到你，姐姐。）",
+      "say10070": "只有三天……在那之前，一定要到城郊的研究院找到处理器。",
+      "say10080": "我从来，都只会在心里把一件事放在人民的前面。",
+      "say10101": "姐姐，你要去哪里？",
+      "say10013": "工厂区的第一道防线还是崩溃了，洪水正在朝你们这里来，预计还有12秒撞上4-02号防水门。",
+      "say10019": "没时间了，我们不能让洪水留在工厂区泡烂所有的设备。",
+      "say10055": "但是，前往发电机的时间……不够我坚持下去了。",
+      "say10066": "索莱娜眼含泪光，颤抖的手依然扒在门框上拼死地用力。",
+      "say10004": "大家都在为了一线生机拼尽全力。",
+      "say10021": "你们三个、你们五个人！！跟我一起，我们去4-02号门开门泄洪！！",
+      "say10043": "并且，3米深的积水已经将这台集装箱的一半埋葬在了水面之下。",
+      "say10069": "上涨的水位，依然在不断淹没控制室。",
+      "say10050": "索莱娜几乎是扑上面前的门缝，使出浑身力气想要将门给扒开。",
+      "say10016": "所有人往障碍后面退！！退开！！！",
+      "say10084": "她的双手，因为浸泡在水中而冰冷得痛心。",
+      "say10022": "露薇娅帮我确认这里所有的路口已经封堵完毕，我们开门后得至少撑住1分钟！",
+      "say10033": "唯有自己，深入此处。",
+      "say10077": "她一刻都没有休息过。",
+      "say10095": "充满不确定性的，残酷的未来。",
+      "say10015": "洪水，是洪水撞击区域连通门的声音！！",
+      "say10097": "我真想让大家，都能亲眼看一看。",
+      "say10100": "为何，为何距离如此遥远？",
+      "say10049": "姐姐？！姐姐，你出得来吗？！！我这就救你出来！！",
+      "say10020": "调几个人去焊接管道！水把工厂淹了我们直接就损失后期生产力了！",
+      "say10090": "就算是被雨雾遮住了……太阳一直都在。",
+      "say10074": "领袖没了可以再换，人民没了，一切就都没了。",
+      "say10081": "那就是你，索莱娜。我的妹妹。",
+      "say10034": "但……她不会后悔。姐姐一定就在那前面。",
+      "say10099": "明明自己的手和姐姐的手已经触碰在一起。",
+      "say10067": "塞勒涅将手轻轻地搭在了索莱娜的手背上。",
+      "say10026": "正是因为高处通道的水尚未没过膝盖，塞勒涅才不可能出现在那里。",
+      "say10085": "妹妹，你知道吗？",
+      "say10096": "继续……流逝着。",
+      "say10068": "索莱娜，留给阿卡迪亚的时间不多了。",
+      "say10056": "……！！",
+      "say10086": "最后的氧气，就要被洪水给侵占了。",
+      "say10007": "盾构机上的混凝土先别运过去！等我的指令！",
+      "say10036": "作为维修小队的队长，索莱娜将这里的地图完全印在了脑子里。就算是在水下，她也能顺利找到控制室的位置。",
+      "say10012": "呼叫控制中心。准备工作基本完成，阿列克谢先生，情况如何？！",
+      "say10030": "她朝那里前进。朝水深处前进，直到水已经没过了肩头。",
+      "say10008": "我们得尽快完善铺设工作。",
+      "say10040": "过量的雨水在涌入这块区域后，原开拓区入口那几面金属架上的碎石箱已经倾倒在一旁。",
+      "say10062": "索莱娜，你一定要仔细听好，你们现在最重要的任务，就是到地表找到替换用的处理器。",
+      "say10091": "太阳就在那云层的后面。",
+      "say10093": "以近乎停滞的速度，继续流逝着。",
+      "say10092": "时间，流逝着。",
+      "say10098": "看到我已经瞧见的那片天空。",
+      "say10024": "住宅区最西部与旧开拓区相隔了约30米，这其中包含了许多条几米宽的通道。",
+      "say10002": "原定在这时就会彻底淹没阿卡迪亚的洪水，多亏了前线人员的抢修才得以暂缓。",
+      "say10045": "她浮上水面，扒着集装箱半猛喘了几口气，这才有力气爬上箱体。",
+      "say10082": "我本来想让你有一个快乐的家庭，至少能过上幸福的生活……",
+      "say10037": "这种简单的小事，比起姐姐所承受的痛苦而言……",
+      "say10088": "明明全都被云遮着，外头根本就没有太阳，这世界已经没有太阳了……",
+      "say10089": "怎么会呢？",
+      "say10060": "姐姐身上背负的责任，太重了。",
+      "say10032": "他们所有人都朝着自己来的方向逃走了。",
+      "say10103": "世界，真的好耀眼啊。",
+      "say10028": "她略微低头，瞧向那朝下的坡度。那里最终也会通往旧开拓区的防水门控制室。",
+      "say10059": "索莱娜惶恐不安地回过头，瞧向始终都那样冷静的塞勒涅。",
+      "say10003": "现在已经是凌晨一点半。今夜的阿卡迪亚，多少人一起紧急工作，没人合得上眼。",
+      "say10073": "塞勒涅将旧开拓区的钥匙从门的缝隙中塞给了泣不成声的索莱娜。",
+      "say10046": "两米之外就是姐姐所在的控制室。但那里现在仅剩下一道被砸得略微变形的门。洪水在无情地往里倒灌。",
+      "say10048": "……索莱娜？",
+      "say10041": "沉重的箱体砸毁了几栋集装箱材质的房屋。原本像叠积木一样垒起来的结构轻而易举就向着下方控制室所在的位置塌陷。",
+      "say10001": "距离警报响起已经过了两个半小时。",
+      "say10053": "我还差打开发电机这最关键的一步，通往旧开拓区的防水门就会开了。",
+      "say10065": "索莱娜！听我说！！！",
+      "say10058": "先别去，留下！！",
+      "say10072": "抱歉，在这种时候将这样的责任交给了你……",
+      "say10061": "她不愿意接受自己“已经来不及去打开发电机”这种简单的事实。",
+      "say10017": "明、明白！",
+      "say10018": "洪水抵达第4区02号门，目前所有水闸都未受损。",
+      "say10052": "没用的，索莱娜。我已经试过所有办法了。",
+      "say10087": "第一次和你一起去地表的时候，也是我第一次见到太阳。",
+      "say10079": "姐姐……",
+      "say10047": "姐姐？",
+      "say10011": "所有水闸都已成功封锁！赶上了！",
+      "say10005": "4-03大门的支撑焊接需要人手！",
+      "say10009": "我同意。喂，愣着干什么！检查隔离带固定点！",
+      "say10035": "深深地吸一口气，潜入水中。她不知道下一次遇到氧气会是在多久之后，但她从来没打算转身逃走。",
+      "say10038": "（……不值一提。）",
+      "say10076": "始终如此。",
+      "say10014": "喂！等、等下，有震动……！",
+      "say10031": "这里已经不再有其他人。",
+      "say10064": "如果姐姐想拜托我什么事，我要你活着出来才会接受！！"
+    },
+    "zh_Hant": {
+      "say10102": "太陽……真的好漂亮。",
+      "say10042": "而疊在最上面的那間集裝箱房間，就橫倒在控制室的門前。",
+      "say10044": "（姐姐……姐姐就在控制室裡嗎？！）",
+      "say10071": "阿卡迪亞的人民，只能由你來替我帶領了。",
+      "say10075": "姐姐身上揹負的責任太重了。",
+      "say10025": "連接舊開拓區的區域並非全部都處於住宅區地勢的最低處。但索萊娜知曉塞勒涅會挑選面前幾條路的哪一條走。",
+      "say10010": "對講機裡傳來了水閘工作小組的彙報。",
+      "say10094": "象徵著無情的未來。",
+      "say10078": "她甚至沒能有機會休息。",
+      "say10054": "那樣的話，我立刻就過去……！！！",
+      "say10039": "本來應該是這樣。但索萊娜估錯了一件事：既然芯片處理器能夠損壞，那建築本身也可能早就已經老化了。",
+      "say10006": "新開拓區那裡再去兩個搬鋼筋的！",
+      "say10029": "根本不需要鼓足勇氣；她已經有了足夠的決心。望向那漆黑的，間隔性被閃爍的深紅色警示燈照得一片通紅的深潭。",
+      "say10023": "沒有問題……！！",
+      "say10063": "我不要聽這些，我不想要聽這些！！",
+      "say10083": "對不起，我太忙了，甚至從來都沒機會真正向著這個夢想去努力……",
+      "say10051": "可惜，攔在門前的是一整臺集裝箱，而且還沒算上三米多深的水位所帶來的巨大壓強。",
+      "say10057": "怎、怎麼可能，怎麼會？！我、我現在就去，我游泳的速度很快，姐姐你等我……！！",
+      "say10027": "（我一定……會找到你，姐姐。）",
+      "say10070": "只有三天……在那之前，一定要到城郊的研究院找到處理器。",
+      "say10080": "我從來，都只會在心裡把一件事放在人民的前面。",
+      "say10101": "姐姐，你要去哪裡？",
+      "say10013": "工廠區的第一道防線還是崩潰了，洪水正在朝你們這裡來，預計還有12秒撞上4-02號防水門。",
+      "say10019": "沒時間了，我們不能讓洪水留在工廠區泡爛所有的設備。",
+      "say10055": "但是，前往發電機的時間……不夠我堅持下去了。",
+      "say10066": "索萊娜眼含淚光，顫抖的手依然扒在門框上拼死地用力。",
+      "say10004": "大家都在為了一線生機拼盡全力。",
+      "say10021": "你們三個、你們五個人！！跟我一起，我們去4-02號門開門洩洪！！",
+      "say10043": "並且，3米深的積水已經將這臺集裝箱的一半埋葬在了水面之下。",
+      "say10069": "上漲的水位，依然在不斷淹沒控制室。",
+      "say10050": "索萊娜幾乎是撲上面前的門縫，使出渾身力氣想要將門給扒開。",
+      "say10016": "所有人往障礙後面退！！退開！！！",
+      "say10084": "她的雙手，因為浸泡在水中而冰冷得痛心。",
+      "say10022": "露薇婭幫我確認這裡所有的路口已經封堵完畢，我們開門後得至少撐住1分鐘！",
+      "say10033": "唯有自己，深入此處。",
+      "say10077": "她一刻都沒有休息過。",
+      "say10095": "充滿不確定性的，殘酷的未來。",
+      "say10015": "洪水，是洪水撞擊區域連通門的聲音！！",
+      "say10097": "我真想讓大家，都能親眼看一看。",
+      "say10100": "為何，為何距離如此遙遠？",
+      "say10049": "姐姐？！姐姐，你出得來嗎？！！我這就救你出來！！",
+      "say10020": "調幾個人去焊接管道！水把工廠淹了我們直接就損失後期生產力了！",
+      "say10090": "就算是被雨霧遮住了……太陽一直都在。",
+      "say10074": "領袖沒了可以再換，人民沒了，一切就都沒了。",
+      "say10081": "那就是你，索萊娜。我的妹妹。",
+      "say10034": "但……她不會後悔。姐姐一定就在那前面。",
+      "say10099": "明明自己的手和姐姐的手已經觸碰在一起。",
+      "say10067": "塞勒涅將手輕輕地搭在了索萊娜的手背上。",
+      "say10026": "正是因為高處通道的水尚未沒過膝蓋，塞勒涅才不可能出現在那裡。",
+      "say10085": "妹妹，你知道嗎？",
+      "say10096": "繼續……流逝著。",
+      "say10068": "索萊娜，留給阿卡迪亞的時間不多了。",
+      "say10056": "……！！",
+      "say10086": "最後的氧氣，就要被洪水給侵佔了。",
+      "say10007": "盾構機上的混凝土先別運過去！等我的指令！",
+      "say10036": "作為維修小隊的隊長，索萊娜將這裡的地圖完全印在了腦子裡。就算是在水下，她也能順利找到控制室的位置。",
+      "say10012": "呼叫控制中心。準備工作基本完成，阿列克謝先生，情況如何？！",
+      "say10030": "她朝那裡前進。朝水深處前進，直到水已經沒過了肩頭。",
+      "say10008": "我們得儘快完善鋪設工作。",
+      "say10040": "過量的雨水在湧入這塊區域後，原開拓區入口那幾面金屬架上的碎石箱已經傾倒在一旁。",
+      "say10062": "索萊娜，你一定要仔細聽好，你們現在最重要的任務，就是到地表找到替換用的處理器。",
+      "say10091": "太陽就在那雲層的後面。",
+      "say10093": "以近乎停滯的速度，繼續流逝著。",
+      "say10092": "時間，流逝著。",
+      "say10098": "看到我已經瞧見的那片天空。",
+      "say10024": "住宅區最西部與舊開拓區相隔了約30米，這其中包含了許多條几米寬的通道。",
+      "say10002": "原定在這時就會徹底淹沒阿卡迪亞的洪水，多虧了前線人員的搶修才得以暫緩。",
+      "say10045": "她浮上水面，扒著集裝箱半猛喘了幾口氣，這才有力氣爬上箱體。",
+      "say10082": "我本來想讓你有一個快樂的家庭，至少能過上幸福的生活……",
+      "say10037": "這種簡單的小事，比起姐姐所承受的痛苦而言……",
+      "say10088": "明明全都被雲遮著，外頭根本就沒有太陽，這世界已經沒有太陽了……",
+      "say10089": "怎麼會呢？",
+      "say10060": "姐姐身上揹負的責任，太重了。",
+      "say10032": "他們所有人都朝著自己來的方向逃走了。",
+      "say10103": "世界，真的好耀眼啊。",
+      "say10028": "她略微低頭，瞧向那朝下的坡度。那裡最終也會通往舊開拓區的防水門控制室。",
+      "say10059": "索萊娜惶恐不安地回過頭，瞧向始終都那樣冷靜的塞勒涅。",
+      "say10003": "現在已經是凌晨一點半。今夜的阿卡迪亞，多少人一起緊急工作，沒人合得上眼。",
+      "say10073": "塞勒涅將舊開拓區的鑰匙從門的縫隙中塞給了泣不成聲的索萊娜。",
+      "say10046": "兩米之外就是姐姐所在的控制室。但那裡現在僅剩下一道被砸得略微變形的門。洪水在無情地往裡倒灌。",
+      "say10048": "……索萊娜？",
+      "say10041": "沉重的箱體砸毀了幾棟集裝箱材質的房屋。原本像疊積木一樣壘起來的結構輕而易舉就向著下方控制室所在的位置塌陷。",
+      "say10001": "距離警報響起已經過了兩個半小時。",
+      "say10053": "我還差打開發電機這最關鍵的一步，通往舊開拓區的防水門就會開了。",
+      "say10065": "索萊娜！聽我說！！！",
+      "say10058": "先別去，留下！！",
+      "say10072": "抱歉，在這種時候將這樣的責任交給了你……",
+      "say10061": "她不願意接受自己「已經來不及去打開發電機」這種簡單的事實。",
+      "say10017": "明、明白！",
+      "say10018": "洪水抵達第4區02號門，目前所有水閘都未受損。",
+      "say10052": "沒用的，索萊娜。我已經試過所有辦法了。",
+      "say10087": "第一次和你一起去地表的時候，也是我第一次見到太陽。",
+      "say10079": "姐姐……",
+      "say10047": "姐姐？",
+      "say10011": "所有水閘都已成功封鎖！趕上了！",
+      "say10005": "4-03大門的支撐焊接需要人手！",
+      "say10009": "我同意。喂，愣著幹什麼！檢查隔離帶固定點！",
+      "say10035": "深深地吸一口氣，潛入水中。她不知道下一次遇到氧氣會是在多久之後，但她從來沒打算轉身逃走。",
+      "say10038": "（……不值一提。）",
+      "say10076": "始終如此。",
+      "say10014": "喂！等、等下，有震動……！",
+      "say10031": "這裡已經不再有其他人。",
+      "say10064": "如果姐姐想拜託我什麼事，我要你活著出來才會接受！！"
+    },
+    "yue_Hant": {
+      "say10102": "太陽……真係好靚。",
+      "say10042": "而疊喺最上面嗰間集裝箱房間，就橫倒喺控制室嘅門前。",
+      "say10044": "（姐姐……姐姐就喺控制室入面嗎？！）",
+      "say10071": "阿卡迪亞嘅人民，只能由你嚟替我帶領了。",
+      "say10075": "姐姐身上背負嘅責任太重了。",
+      "say10025": "連接舊開拓區嘅區域並非全部都處於住宅區地勢最低處。但陽娜知道月蓮會揀面前幾條路嘅邊一條行。",
+      "say10010": "對講機入面傳嚟水閘工作小組嘅匯報。",
+      "say10094": "象徵住無情嘅未來。",
+      "say10078": "佢甚至冇機會休息。",
+      "say10054": "噉嘅話，我即刻就過去……！！！",
+      "say10039": "本來應該係噉。但陽娜估錯咗一件事：既然芯片處理器可以損壞，噉建築本身都可能早就已經老化了。",
+      "say10006": "新開拓區嗰度再去兩個搬鋼筋嘅！",
+      "say10029": "根本唔需要鼓足勇氣；佢已經有咗足夠嘅決心。望向嗰漆黑嘅，間隔性被閃爍嘅深紅色警示燈照得一片通紅嘅深潭。",
+      "say10023": "冇問題……！！",
+      "say10063": "我唔要聽呢啲，我唔想聽呢啲！！",
+      "say10083": "對唔住，我太忙了，甚至從來都冇機會真正向住呢個夢想去努力……",
+      "say10051": "可惜，攔喺門前嘅係成台集裝箱，而且仲未算上三米幾深嘅水位所帶嚟嘅巨大壓強。",
+      "say10057": "點、點可能，點會？！我、我而家就去，我游水嘅速度好快，姐姐你等我……！！",
+      "say10027": "（我一定……會搵到你，姐姐。）",
+      "say10070": "只有三日……喺嗰之前，一定要到城郊嘅研究院搵到處理器。",
+      "say10080": "我從來，都只會喺心入面將一件事放喺人民前面。",
+      "say10101": "姐姐，你要去邊度？",
+      "say10013": "工廠區嘅第一道防線仲係崩潰了，洪水正朝住你哋呢邊嚟，預計仲有12秒撞上4-02號防水門。",
+      "say10019": "冇時間了，我哋唔可以畀洪水留喺工廠區泡爛所有設備。",
+      "say10055": "但係，前往發電機嘅時間……唔夠我堅持落去了。",
+      "say10066": "陽娜眼含淚光，顫抖嘅手依然扒喺門框上拼死噉用力。",
+      "say10004": "大家都喺為咗一線生機拼盡全力。",
+      "say10021": "你哋三個、你哋五個人！！跟我一齊，我哋去4-02號門開門洩洪！！",
+      "say10043": "並且，3米深嘅積水已經將呢台集裝箱嘅一半埋葬喺水面之下。",
+      "say10069": "上漲嘅水位，依然喺不斷淹沒控制室。",
+      "say10050": "陽娜幾乎係撲上面前嘅門縫，使出渾身力氣想將門扒開。",
+      "say10016": "所有人往障礙後面退！！退開！！！",
+      "say10084": "佢嘅雙手，因為浸喺水中而凍到痛心。",
+      "say10022": "露薇婭幫我確認呢度所有路口已經封堵完畢，我哋開門後至少要撐住1分鐘！",
+      "say10033": "唯有自己，深入此處。",
+      "say10077": "佢一刻都冇休息過。",
+      "say10095": "充滿不確定性嘅，殘酷嘅未來。",
+      "say10015": "洪水，係洪水撞擊區域連通門嘅聲音！！",
+      "say10097": "我真想畀大家，都可以親眼睇一睇。",
+      "say10100": "點解，點解距離如此遙遠？",
+      "say10049": "姐姐？！姐姐，你出得嚟嗎？！！我呢就救你出嚟！！",
+      "say10020": "調幾個人去焊接管道！水將工廠浸咗我哋直接就損失後期生產力了！",
+      "say10090": "就算被雨霧遮住……太陽一直都喺。",
+      "say10074": "領袖冇咗可以再換，人民冇咗，一切就都冇了。",
+      "say10081": "嗰就係你，陽娜。我嘅妹妹。",
+      "say10034": "但……佢唔會後悔。姐姐一定就喺嗰前面。",
+      "say10099": "明明自己嘅手同姐姐嘅手已經觸碰喺一齊。",
+      "say10067": "月蓮將手輕輕搭喺陽娜嘅手背上。",
+      "say10026": "正因為高處通道嘅水仲未浸過膝頭，月蓮先唔可能出現喺嗰度。",
+      "say10085": "妹妹，你知唔知？",
+      "say10096": "繼續……流逝住。",
+      "say10068": "陽娜，留畀阿卡迪亞嘅時間唔多了。",
+      "say10056": "……！！",
+      "say10086": "最後嘅氧氣，就要被洪水侵佔了。",
+      "say10007": "盾構機上嘅混凝土先唔好運過去！等我嘅指令！",
+      "say10036": "作為維修小隊嘅隊長，陽娜將呢度嘅地圖完全印喺腦入面。就算係喺水下，佢都可以順利搵到控制室嘅位置。",
+      "say10012": "呼叫控制中心。準備工作基本完成，阿列克謝先生，情況點樣？！",
+      "say10030": "佢朝嗰度前進。朝水深處前進，直到水已經浸過肩頭。",
+      "say10008": "我哋要盡快完善鋪設工作。",
+      "say10040": "過量嘅雨水喺湧入呢塊區域之後，原開拓區入口嗰幾面金屬架上嘅碎石箱已經傾倒喺一旁。",
+      "say10062": "陽娜，你一定要仔細聽好，你哋而家最重要嘅任務，就係到地表搵到替換用嘅處理器。",
+      "say10091": "太陽就喺嗰雲層嘅後面。",
+      "say10093": "以近乎停滯嘅速度，繼續流逝住。",
+      "say10092": "時間，流逝住。",
+      "say10098": "睇到我已經見過嘅嗰片天空。",
+      "say10024": "住宅區最西部同舊開拓區相隔咗約30米，呢入面包含好多條幾米寬嘅通道。",
+      "say10002": "原定喺呢個時候就會徹底淹沒阿卡迪亞嘅洪水，多虧前線人員嘅搶修先得以暫緩。",
+      "say10045": "佢浮上水面，扒住集裝箱猛喘咗幾口氣，呢先有力氣爬上箱體。",
+      "say10082": "我本來想畀你有一個快樂嘅家庭，至少可以過上幸福嘅生活……",
+      "say10037": "呢種簡單嘅小事，比起姐姐所承受嘅痛苦而言……",
+      "say10088": "明明全部都被雲遮住，外面根本就冇太陽，呢個世界已經冇太陽了……",
+      "say10089": "點會呢？",
+      "say10060": "姐姐身上背負嘅責任，太重了。",
+      "say10032": "佢哋所有人都朝住自己嚟嘅方向逃走了。",
+      "say10103": "世界，真係好耀眼啊。",
+      "say10028": "佢略微低頭，望向嗰朝下嘅坡度。嗰度最終亦會通往舊開拓區嘅防水門控制室。",
+      "say10059": "陽娜惶恐不安噉回過頭，望向始終都咁冷靜嘅月蓮。",
+      "say10003": "而家已經係凌晨一點半。今夜嘅阿卡迪亞，幾多人一齊緊急工作，冇人合得上眼。",
+      "say10073": "月蓮將舊開拓區嘅鎖匙從門嘅縫隙中塞畀泣不成聲嘅陽娜。",
+      "say10046": "兩米之外就係姐姐所在嘅控制室。但嗰度而家只剩低一道被砸到略微變形嘅門。洪水喺無情噉往入面倒灌。",
+      "say10048": "……陽娜？",
+      "say10041": "沉重嘅箱體砸毀咗幾棟集裝箱材質嘅房屋。原本好似疊積木噉壘起嚟嘅結構輕而易舉就向住下方控制室所在嘅位置塌陷。",
+      "say10001": "距離警報響起已經過咗兩個半鐘。",
+      "say10053": "我仲差打開發電機呢最關鍵嘅一步，通往舊開拓區嘅防水門就會開了。",
+      "say10065": "陽娜！聽我講！！！",
+      "say10058": "先唔好去，留低！！",
+      "say10072": "抱歉，喺呢種時候將噉嘅責任交畀你……",
+      "say10061": "佢唔願意接受自己「已經嚟唔切去打開發電機」呢種簡單嘅事實。",
+      "say10017": "明、明白！",
+      "say10018": "洪水抵達第4區02號門，目前所有水閘都未受損。",
+      "say10052": "冇用嘅，陽娜。我已經試過所有辦法了。",
+      "say10087": "第一次同你一齊去地表嘅時候，亦係我第一次見到太陽。",
+      "say10079": "姐姐……",
+      "say10047": "姐姐？",
+      "say10011": "所有水閘都已成功封鎖！趕上了！",
+      "say10005": "4-03大門嘅支撐焊接需要人手！",
+      "say10009": "我同意。喂，呆住做乜！檢查隔離帶固定點！",
+      "say10035": "深深吸一口氣，潛入水中。佢唔知下一次遇到氧氣會係幾耐之後，但佢從來冇打算轉身逃走。",
+      "say10038": "（……唔值一提。）",
+      "say10076": "始終如此。",
+      "say10014": "喂！等、等下，有震動……！",
+      "say10031": "呢度已經唔再有其他人。",
+      "say10064": "如果姐姐想拜託我乜事，我要你活住出嚟先會接受！！"
+    },
+    "en": {
+      "say10102": "The sun... is so beautiful.",
+      "say10042": "And the topmost container room had toppled right in front of the control room door.",
+      "say10044": "(Sis... is Sis inside the control room?!)",
+      "say10071": "The people of Arcadia... only you can lead them in my stead now.",
+      "say10075": "The burden her sister carried was too heavy.",
+      "say10025": "Not all areas connected to the old development district lie at the lowest elevation of the residential district. But Solara knew which of the routes ahead Selene would choose.",
+      "say10010": "A report came in over the walkie-talkie from the floodgate team.",
+      "say10094": "A symbol of a merciless future.",
+      "say10078": "She never even had the chance to rest.",
+      "say10054": "If that's all, then I'll go right now…!!!",
+      "say10039": "That should have been true. But Solara misjudged one thing: if chip processors could fail, then the buildings themselves might have already deteriorated.",
+      "say10006": "The New Expansion District needs 2 more rebar handlers!",
+      "say10029": "She did not need to summon courage. She already had enough resolve. She stared at the pitch-black deep pool, intermittently dyed red by flashing dark-red warning lights.",
+      "say10023": "No problem...!!",
+      "say10063": "No, I don't want to hear this! I don't want to hear any of it!!",
+      "say10083": "I'm sorry. I was too busy. I never even got the chance to truly fight for that dream…",
+      "say10051": "But blocking the door was an entire container, not even counting the massive pressure from more than three meters of water.",
+      "say10057": "H-how is that possible, how?! I-I'm going now, I swim fast, Sis just wait for me...!!",
+      "say10027": "(I will... find you, Sis.)",
+      "say10070": "Only three days left... before then, you must find the processor at the suburban institute.",
+      "say10080": "There has only ever been one thing I would place above the people in my heart.",
+      "say10101": "My Sis, where are you going?",
+      "say10013": "The first defensive line in the factory district has still failed. The flood is moving toward your position. Twelve seconds until hitting Watertight Gate 4-02.",
+      "say10019": "We're out of time. We can't let the floodwater stay in the factory district and soak all the equipment.",
+      "say10055": "But… by the time you make it to the generator… I won't be able to hold on anymore.",
+      "say10066": "Tears in her eyes, Solara kept desperately pulling at the doorframe with trembling hands.",
+      "say10004": "Everyone is fighting with everything they have for the slimmest chance of survival.",
+      "say10021": "Hey, you three—no no no, you five! With me! We're heading to Gate 4-02 to open it and let the floodwater out!!",
+      "say10043": "And three meters of standing water had already buried half of that container below the surface.",
+      "say10069": "The rising water level kept swallowing the control room.",
+      "say10050": "Solara practically threw herself at the crack in the door, using all her strength to pry it open.",
+      "say10016": "Everyone fall back behind the barriers!! Get back!!!",
+      "say10084": "Her hands were painfully cold from soaking in water.",
+      "say10022": "Luvia, confirm all intersections here are fully sealed. After we open it, we need to hold for at least one minute!",
+      "say10033": "Only she went deeper.",
+      "say10077": "She had never rested for even a moment.",
+      "say10095": "A cruel future full of uncertainty.",
+      "say10015": "The flood! It's the flood hitting the connecting gate!!",
+      "say10097": "I wish everyone… could see it with their own eyes.",
+      "say10100": "Why, why do we feel so far apart?",
+      "say10049": "Sis?! Sis, can you get out?!! I'll get you out right now!!",
+      "say10020": "Get some people on pipe welding! If the factory floods, we lose long-term production capacity!",
+      "say10090": "Even if it's hidden by rain and fog... the sun is still there.",
+      "say10074": "Leaders can be replaced. But without the people, nothing remains.",
+      "say10081": "And that is you, Solara. My little sister.",
+      "say10034": "But... she would not regret it. Sis had to be ahead.",
+      "say10099": "Even though my hand and my sister's hand were touching each other.",
+      "say10067": "Selene softly placed her hand over Solara’s.",
+      "say10026": "Precisely because the water in the elevated passage had not yet passed the knees, Selene couldn’t possibly have been there.",
+      "say10085": "Little sister... did you know?",
+      "say10096": "Still... passing.",
+      "say10068": "Solara, there is not much time left for Arcadia.",
+      "say10056": "...!!",
+      "say10086": "The last pockets of air were about to be claimed by the flood.",
+      "say10007": "Don't touch the TBM! Wait for my order!",
+      "say10036": "As captain of the maintenance squad, Solara had this map engraved in her mind. Even underwater, she could find the control room.",
+      "say10012": "Calling control center. Preparations almost complete. Mr. Aleksei, what's the situation?!",
+      "say10030": "She moved toward it. Toward deeper water, until it rose over her shoulders.",
+      "say10008": "We need to finish the laying work as fast as possible.",
+      "say10040": "After excessive rainwater surged into this area, the rubble boxes on metal frames at the old development entrance had toppled aside.",
+      "say10062": "Solara, listen carefully. Your most important task now is to reach the surface and find a replacement processor.",
+      "say10091": "Just beyond those clouds.",
+      "say10093": "At an almost frozen pace, it still kept passing.",
+      "say10092": "Time kept passing.",
+      "say10098": "To see the sky I have seen.",
+      "say10024": "The westernmost part of the residential district is about 30 meters from the old development district, with many passages a few meters wide in between.",
+      "say10002": "The flood that had been expected to completely swallow Arcadia by now was held back, thanks to the desperate repair efforts at the front lines.",
+      "say10045": "She surfaced, clung to the upper side of the container, and gasped hard for air before she had the strength to climb on top.",
+      "say10082": "I only wanted you to have a happy family, at least a peaceful life…",
+      "say10037": "Such a simple thing, compared to the suffering Sis had borne…",
+      "say10088": "But it was all covered by clouds. No sun out there. No sun anymore…",
+      "say10089": "How could that be?",
+      "say10060": "The burden her sister carried was too heavy.",
+      "say10032": "Everyone else had fled in the direction she came from.",
+      "say10103": "The world... it really is so dazzling.",
+      "say10028": "She lowered her head slightly and looked toward the downward slope. It, too, eventually led to the waterproof gate control room of the Old Expansion District.",
+      "say10059": "Solara turned back in panic and looked at Selene, who remained as calm as ever.",
+      "say10003": "It was already half past one in the morning. Tonight in Arcadia, countless people were working around the clock—no one could get a wink of sleep.",
+      "say10073": "Selene slid the key to the Old Expansion District through the gap in the door to Solara, who was crying too hard to speak.",
+      "say10046": "The control room where her sister was, lay only two meters away. But now only a slightly deformed door remained, crushed by impact. Floodwater was pouring in relentlessly.",
+      "say10048": "...Solara?",
+      "say10041": "The heavy containers crushed several container-made houses. Structures once stacked like toy blocks collapsed easily toward the lower control-room area.",
+      "say10001": "Two and a half hours have passed since the alarm sounded.",
+      "say10053": "I'm one last key step away from starting the generator. Once that happens, the waterproof gate to the old development district will open.",
+      "say10065": "Solara! Listen to me!!!",
+      "say10058": "Don't go yet, stay here!!",
+      "say10072": "I'm sorry for placing this responsibility on you at a time like this…",
+      "say10061": "She refused to accept the plain truth: there was no longer time for her to reach the generator and turn it on.",
+      "say10017": "U-understood!",
+      "say10018": "The flood has reached Gate 4-02 in District 4. All floodgates are holding.",
+      "say10052": "It's useless, Solara. I've tried every way.",
+      "say10087": "The first time I went up to the surface with you… it was the first time I ever saw the sun.",
+      "say10079": "Sister…",
+      "say10047": "Sis?",
+      "say10011": "All floodgates sealed! We made it in time!",
+      "say10005": "Gate 4-03 needs more welding hands!",
+      "say10009": "Agreed. Hey, don't stand there! Check the isolation barrier anchor points!",
+      "say10035": "She took a deep breath and plunged into the water. She did not know when she would next reach air, but fleeing had never been her intention.",
+      "say10038": "(...is not worth mentioning.)",
+      "say10076": "It always had been.",
+      "say10014": "Hey! W-wait, hold on… there's a vibration…!",
+      "say10031": "No one else was here anymore.",
+      "say10064": "If you want anything from me, come out alive first! Only then will I accept it!!"
+    },
+    "ja": {
+      "say10102": "太陽……本当に、美しい。",
+      "say10042": "そして、一番上に積まれていたコンテナの部屋が、まさに制御室の扉の前に横倒しになっていた。",
+      "say10044": "（姉さん……姉さんが制御室の中にいるの？！）",
+      "say10071": "アルカディアの人々を、私の代わりに導いてくれるのは、あなただけよ。",
+      "say10075": "姉さんの背負ってきた責任は、重すぎる。",
+      "say10025": "旧開拓区と繋がる区域のすべてが、住宅区で最も低い位置にあるわけではない。しかしSoreinaは、Seleneが前方のいくつかの道のうち、どれを選んで進むかを知っていた。",
+      "say10010": "無線機から、水門作業チームの報告が入った。",
+      "say10094": "それは非情な未来を象徴している。",
+      "say10078": "彼女には、休める機会さえ、訪れなかったのだ。",
+      "say10054": "それなら、私が今すぐに……！！！",
+      "say10039": "本来なら、そうだった。だが、Soreinaは一つのことを読み誤っていた。チッププロセッサが損傷しうるのなら、建物自体も、とっくに老朽化していたかもしれないのだ。",
+      "say10006": "新開拓区の方へ、あと二人、鉄筋を運んでくれ！",
+      "say10029": "勇気を振り絞る必要など、まったくなかった。彼女にはもう、十分すぎる決意が備わっていた。間欠的に明滅する深紅の警告灯に血のように照らし出される、暗い深淵を見つめながら。",
+      "say10023": "問題ない……！！",
+      "say10063": "そんな話、聞きたくない、私、聞きたくないの！！",
+      "say10083": "ごめんね、忙しすぎて、この夢に向けて本当に努力することさえ、今まで一度だってできなかった……",
+      "say10051": "無念なことに、扉の前に立ちはだかっているのは完全な一台のコンテナだった。しかも、三メートル以上の水位がもたらす強大な水圧は、計算に入ってすらいなかった。",
+      "say10057": "ど、どうして、なんで？！わ、私が今すぐ、私、泳ぐのはすごく速いんだから、姉さんは待ってて……！！",
+      "say10027": "（私は必ず……見つけ出してみせる、姉さん。）",
+      "say10070": "たった三日……それまでに、必ず市の郊外の研究院で、プロセッサを見つけ出さなければ。",
+      "say10080": "私ね、これまでずっと、心の中でだけ、人々よりも前に置いてきたものが、一つだけあるの。",
+      "say10101": "姉さん、あなたはどこへ行こうとしているの？",
+      "say10013": "工場区の第一防衛ラインが崩壊しました。洪水がそちらへ向かっています。推定、あと十二秒で4-02号防水扉に激突します。",
+      "say10019": "時間がない。洪水を工場区に滞留させて、すべての設備を水浸しにするわけにはいかない。",
+      "say10055": "でも、発電機のあるところへ行くまでの時間が……私にはもう、持ちそうにないの。",
+      "say10066": "Soreinaは目に涙を光らせ、震える手を扉の枠にかけたまま、必死に力を込め続けている。",
+      "say10004": "皆が、一縷の望みのために全力を尽くしている。",
+      "say10021": "お前たち三人、お前たち五人は！！私と一緒に来て、4-02号ゲートを開けて放水するわよ！！",
+      "say10043": "しかも、深さ三メートルの水が、このコンテナの半分を水面下に葬っている。",
+      "say10069": "上昇し続ける水位が、それでも制御室を水没させていく。",
+      "say10050": "Soreinaはほとんど身を投げ出すようにして、目の前の扉の隙間にすがりつき、体中のありったけの力で扉をこじ開けようとした。",
+      "say10016": "全員、障害物の後ろに退がれ！！退くんだ！！！",
+      "say10084": "彼女の両手は、冷たい水に浸かったせいで、痛いほどに冷え切っていた。",
+      "say10022": "Luviaはここにある交差点がすべて封鎖し終わっているか確認してくれ。私たちがゲートを開けたら、少なくとも一分間は持ちこたえなければならない！",
+      "say10033": "ただ自分だけが、この奥深くへと踏み込んでいく。",
+      "say10077": "彼女には一刻だって、休んでいる暇はなかった。",
+      "say10095": "不確かさに満ちた、残酷な未来を。",
+      "say10015": "洪水だ、洪水が区域の連絡扉に激突している音だ！！",
+      "say10097": "私、本当は皆にも、この目で見せてあげたかった。",
+      "say10100": "どうして、どうしてこんなにも遠く隔たっているの？",
+      "say10049": "姉さん？！姉さん、出て来られるの？！！今すぐ、助け出すから！！",
+      "say10020": "何人か人員を割いて配管の溶接に向かわせろ！工場が水没したら、後期の生産力が直に失われるんだぞ！",
+      "say10090": "たとえ雨雲に遮られていても……太陽はいつだって、そこにあるの。",
+      "say10074": "指導者は失っても代わりはいる。でも、人々を失ったら、すべてが終わってしまうから。",
+      "say10081": "それはね、Soreina。私の妹、あなただよ。",
+      "say10034": "だが……彼女に後悔はない。姉さんは、きっとあの先にいる。",
+      "say10099": "自分の手と、姉さんの手は、たしかに触れ合っているのに。",
+      "say10067": "Seleneはそっと、その手をSoreinaの手の甲に重ねた。",
+      "say10026": "高い位置にある通路では水がまだ膝を越えていないからこそ、Seleneがそこにいるはずがなかったのだ。",
+      "say10085": "ねえ、Soreina、知ってる？",
+      "say10096": "それでも……時は、過ぎていく。",
+      "say10068": "Soreina、もう、アルカディアに残された時間は多くないの。",
+      "say10056": "……！！",
+      "say10086": "最後の酸素も、もうすぐ洪水に奪われてしまう。",
+      "say10007": "シールドマシン上のコンクリートはまだ運ぶな！私の指示を待て！",
+      "say10036": "修繕小隊の隊長として、Soreinaはここの地図をそっくりそのまま頭に叩き込んでいた。たとえ水の中であっても、彼女は滞りなく制御室の位置を見つけ出せる。",
+      "say10012": "制御センターを呼び出す。準備作業はほぼ完了した、アレクセイ殿、状況はどうですか？！",
+      "say10030": "彼女はそちらへと歩を進めた。水のおくへと進んでいき、ついに水かさが肩の高さを越えた。",
+      "say10008": "我々は敷設作業を一刻も早く完了させなければ。",
+      "say10040": "過剰な雨水がこのエリアに流れ込んだ後、旧開拓区入口にある金属フレームの上の、砕石を詰めた箱が、幾つかそばに転倒していた。",
+      "say10062": "Soreina、あなた、どうかちゃんと聞いて。これからの、あなたたちにとって最も重要な任務は、地上へ行って、交換するためのプロセッサを見つけてくることよ。",
+      "say10091": "太陽は、あの雲の向こうに、ずっといるのよ。",
+      "say10093": "ほとんど停滞してしまったかのような速度で、それでも、過ぎ続けていく。",
+      "say10092": "時間は、過ぎていく。",
+      "say10098": "私がこの目で見た、あの空を。",
+      "say10024": "住宅区の最西部と旧開拓区の間は、約三十メートル隔たっており、それには多くの、幅数メートルの通路が含まれている。",
+      "say10002": "本来ならば、とうにアルカディアを完全に水没させていたはずの洪水は、前線で緊急修理にあたった者たちの尽力により、かろうじて遅れていた。",
+      "say10045": "彼女は水面に浮上し、コンテナにへばりつきながら、荒く数度、息を継いだ。そうしてようやく、力を振り絞って箱体に這い上がった。",
+      "say10082": "私はもともと、あなたに幸せな家庭を持たせてあげたかった。少なくとも、幸福な生活を送らせてあげられたら、って……",
+      "say10037": "こんな簡単なこと、姉さんの背負ってきた苦しみに比べたら……",
+      "say10088": "あんなに全部が雲で遮られて、外には太陽なんてありはしなかった。この世界にもう太陽なんてなかったのに……",
+      "say10089": "そんなこと、あるはずないでしょう？",
+      "say10060": "姉さんの背負ってきた責任は、重すぎる。",
+      "say10032": "他の誰もが、みな自分がやって来た方角へと逃げ去っていった。",
+      "say10103": "世界って、本当に、眩しいんだね。",
+      "say10028": "彼女は少しうつむき、下り斜面の方を見下ろした。そこもまた、最終的には旧開拓区の防水扉制御室へと続いている。",
+      "say10059": "Soreinaは慄然と振り返り、相変わらず冷静なSeleneを見つめた。",
+      "say10003": "時刻はもう夜中の一時半だ。今夜のアルカディアでは、どれだけ多くの人々が共に緊急作業にあたり、一睡もできずにいるだろう。",
+      "say10073": "Seleneは旧開拓区の鍵を、扉の隙間から、声もなく泣きじゃくるSoreinaへと手渡した。",
+      "say10046": "2m先が、姉さんのいる制御室だった。しかしそこには今、ただ、押し潰されてわずかに変形した扉だけが残されている。洪水は、無情にも中へと逆流し続けている。",
+      "say10048": "……Soreina？",
+      "say10041": "重量のある箱体が、数棟のコンテナ製の家屋をなぎ倒した。もともと積み木を重ねたように組まれていた構造は、いとも容易く、下方の制御室がある位置へと崩落したのだ。",
+      "say10001": "警報が鳴り響いてから、すでに二時間半が過ぎていた。",
+      "say10053": "あとは発電機を起動させる、この最も肝心な段階を残すだけ。そうすれば旧開拓区へ通じる防水扉は開くわ。",
+      "say10065": "Soreina！私の話を聞いて！！！",
+      "say10058": "まずは行かないで、ここにいて！！",
+      "say10072": "ごめんね、こんな時に、こんな責任をあなたに預けることになって……",
+      "say10061": "彼女は、「発電機を起動させるにはもはや間に合わない」という単純な事実を受け入れたくなかった。",
+      "say10017": "りょ、了解！",
+      "say10018": "洪水が第4区02号ゲートに到達。現在のところ、全水門に損傷はありません。",
+      "say10052": "無駄よ、Soreina。もう、できるかぎりの手は尽くしたの。",
+      "say10087": "初めてあなたと一緒に地表に行った時、私、初めて太陽を見たの。",
+      "say10079": "姉さん……",
+      "say10047": "姉さん？",
+      "say10011": "すべての水門の封鎖に成功しました！なんとか間に合いました！",
+      "say10005": "4-03ゲートの溶接補強に人手が要る！",
+      "say10009": "同感だ。おい、ぼんやりするな！防護帯の固定点を点検しろ！",
+      "say10035": "深く息を吸い込み、水中へ潜る。次の酸素にいつありつけるのか、彼女にはわからない。しかし、彼女は一度だって、引き返して逃げ出そうなどとは考えなかった。",
+      "say10038": "（……取るに足らない。）",
+      "say10076": "それは、ずっとそうだった。",
+      "say10014": "おい！ま、待て、振動が……！",
+      "say10031": "ここには、もはや誰もいない。",
+      "say10064": "もし姉さんが私に何か頼みたいことがあるなら、生きてここから出てきたときに、受け入れてあげる！！"
+    },
+    "es": {
+      "say10102": "The sun... is so beautiful.",
+      "say10042": "And the topmost container room had toppled right in front of the control room door.",
+      "say10044": "(Sis... is Sis inside the control room?!)",
+      "say10071": "The people of Arcadia... only you can lead them in my stead now.",
+      "say10075": "The burden her sister carried was too heavy.",
+      "say10025": "Not all areas connected to the old development district lie at the lowest elevation of the residential district. But Solara knew which of the routes ahead Selene would choose.",
+      "say10010": "A report came in over the walkie-talkie from the floodgate team.",
+      "say10094": "A symbol of a merciless future.",
+      "say10078": "She never even had the chance to rest.",
+      "say10054": "If that's all, then I'll go right now…!!!",
+      "say10039": "That should have been true. But Solara misjudged one thing: if chip processors could fail, then the buildings themselves might have already deteriorated.",
+      "say10006": "The New Expansion District needs 2 more rebar handlers!",
+      "say10029": "She did not need to summon courage. She already had enough resolve. She stared at the pitch-black deep pool, intermittently dyed red by flashing dark-red warning lights.",
+      "say10023": "No problem...!!",
+      "say10063": "No, I don't want to hear this! I don't want to hear any of it!!",
+      "say10083": "I'm sorry. I was too busy. I never even got the chance to truly fight for that dream…",
+      "say10051": "But blocking the door was an entire container, not even counting the massive pressure from more than three meters of water.",
+      "say10057": "H-how is that possible, how?! I-I'm going now, I swim fast, Sis just wait for me...!!",
+      "say10027": "(I will... find you, Sis.)",
+      "say10070": "Only three days left... before then, you must find the processor at the suburban institute.",
+      "say10080": "There has only ever been one thing I would place above the people in my heart.",
+      "say10101": "My Sis, where are you going?",
+      "say10013": "The first defensive line in the factory district has still failed. The flood is moving toward your position. Twelve seconds until hitting Watertight Gate 4-02.",
+      "say10019": "We're out of time. We can't let the floodwater stay in the factory district and soak all the equipment.",
+      "say10055": "But… by the time you make it to the generator… I won't be able to hold on anymore.",
+      "say10066": "Tears in her eyes, Solara kept desperately pulling at the doorframe with trembling hands.",
+      "say10004": "Everyone is fighting with everything they have for the slimmest chance of survival.",
+      "say10021": "Hey, you three—no no no, you five! With me! We're heading to Gate 4-02 to open it and let the floodwater out!!",
+      "say10043": "And three meters of standing water had already buried half of that container below the surface.",
+      "say10069": "The rising water level kept swallowing the control room.",
+      "say10050": "Solara practically threw herself at the crack in the door, using all her strength to pry it open.",
+      "say10016": "Everyone fall back behind the barriers!! Get back!!!",
+      "say10084": "Her hands were painfully cold from soaking in water.",
+      "say10022": "Luvia, confirm all intersections here are fully sealed. After we open it, we need to hold for at least one minute!",
+      "say10033": "Only she went deeper.",
+      "say10077": "She had never rested for even a moment.",
+      "say10095": "A cruel future full of uncertainty.",
+      "say10015": "The flood! It's the flood hitting the connecting gate!!",
+      "say10097": "I wish everyone… could see it with their own eyes.",
+      "say10100": "Why, why do we feel so far apart?",
+      "say10049": "Sis?! Sis, can you get out?!! I'll get you out right now!!",
+      "say10020": "Get some people on pipe welding! If the factory floods, we lose long-term production capacity!",
+      "say10090": "Even if it's hidden by rain and fog... the sun is still there.",
+      "say10074": "Leaders can be replaced. But without the people, nothing remains.",
+      "say10081": "And that is you, Solara. My little sister.",
+      "say10034": "But... she would not regret it. Sis had to be ahead.",
+      "say10099": "Even though my hand and my sister's hand were touching each other.",
+      "say10067": "Selene softly placed her hand over Solara’s.",
+      "say10026": "Precisely because the water in the elevated passage had not yet passed the knees, Selene couldn’t possibly have been there.",
+      "say10085": "Little sister... did you know?",
+      "say10096": "Still... passing.",
+      "say10068": "Solara, there is not much time left for Arcadia.",
+      "say10056": "...!!",
+      "say10086": "The last pockets of air were about to be claimed by the flood.",
+      "say10007": "Don't touch the TBM! Wait for my order!",
+      "say10036": "As captain of the maintenance squad, Solara had this map engraved in her mind. Even underwater, she could find the control room.",
+      "say10012": "Calling control center. Preparations almost complete. Mr. Aleksei, what's the situation?!",
+      "say10030": "She moved toward it. Toward deeper water, until it rose over her shoulders.",
+      "say10008": "We need to finish the laying work as fast as possible.",
+      "say10040": "After excessive rainwater surged into this area, the rubble boxes on metal frames at the old development entrance had toppled aside.",
+      "say10062": "Solara, listen carefully. Your most important task now is to reach the surface and find a replacement processor.",
+      "say10091": "Just beyond those clouds.",
+      "say10093": "At an almost frozen pace, it still kept passing.",
+      "say10092": "Time kept passing.",
+      "say10098": "To see the sky I have seen.",
+      "say10024": "The westernmost part of the residential district is about 30 meters from the old development district, with many passages a few meters wide in between.",
+      "say10002": "The flood that had been expected to completely swallow Arcadia by now was held back, thanks to the desperate repair efforts at the front lines.",
+      "say10045": "She surfaced, clung to the upper side of the container, and gasped hard for air before she had the strength to climb on top.",
+      "say10082": "I only wanted you to have a happy family, at least a peaceful life…",
+      "say10037": "Such a simple thing, compared to the suffering Sis had borne…",
+      "say10088": "But it was all covered by clouds. No sun out there. No sun anymore…",
+      "say10089": "How could that be?",
+      "say10060": "The burden her sister carried was too heavy.",
+      "say10032": "Everyone else had fled in the direction she came from.",
+      "say10103": "The world... it really is so dazzling.",
+      "say10028": "She lowered her head slightly and looked toward the downward slope. It, too, eventually led to the waterproof gate control room of the Old Expansion District.",
+      "say10059": "Solara turned back in panic and looked at Selene, who remained as calm as ever.",
+      "say10003": "It was already half past one in the morning. Tonight in Arcadia, countless people were working around the clock—no one could get a wink of sleep.",
+      "say10073": "Selene slid the key to the Old Expansion District through the gap in the door to Solara, who was crying too hard to speak.",
+      "say10046": "The control room where her sister was, lay only two meters away. But now only a slightly deformed door remained, crushed by impact. Floodwater was pouring in relentlessly.",
+      "say10048": "...Solara?",
+      "say10041": "The heavy containers crushed several container-made houses. Structures once stacked like toy blocks collapsed easily toward the lower control-room area.",
+      "say10001": "Two and a half hours have passed since the alarm sounded.",
+      "say10053": "I'm one last key step away from starting the generator. Once that happens, the waterproof gate to the old development district will open.",
+      "say10065": "Solara! Listen to me!!!",
+      "say10058": "Don't go yet, stay here!!",
+      "say10072": "I'm sorry for placing this responsibility on you at a time like this…",
+      "say10061": "She refused to accept the plain truth: there was no longer time for her to reach the generator and turn it on.",
+      "say10017": "U-understood!",
+      "say10018": "The flood has reached Gate 4-02 in District 4. All floodgates are holding.",
+      "say10052": "It's useless, Solara. I've tried every way.",
+      "say10087": "The first time I went up to the surface with you… it was the first time I ever saw the sun.",
+      "say10079": "Sister…",
+      "say10047": "Sis?",
+      "say10011": "All floodgates sealed! We made it in time!",
+      "say10005": "Gate 4-03 needs more welding hands!",
+      "say10009": "Agreed. Hey, don't stand there! Check the isolation barrier anchor points!",
+      "say10035": "She took a deep breath and plunged into the water. She did not know when she would next reach air, but fleeing had never been her intention.",
+      "say10038": "(...is not worth mentioning.)",
+      "say10076": "It always had been.",
+      "say10014": "Hey! W-wait, hold on… there's a vibration…!",
+      "say10031": "No one else was here anymore.",
+      "say10064": "If you want anything from me, come out alive first! Only then will I accept it!!"
+    },
+    "fr": {
+      "say10102": "The sun... is so beautiful.",
+      "say10042": "And the topmost container room had toppled right in front of the control room door.",
+      "say10044": "(Sis... is Sis inside the control room?!)",
+      "say10071": "The people of Arcadia... only you can lead them in my stead now.",
+      "say10075": "The burden her sister carried was too heavy.",
+      "say10025": "Not all areas connected to the old development district lie at the lowest elevation of the residential district. But Solara knew which of the routes ahead Selene would choose.",
+      "say10010": "A report came in over the walkie-talkie from the floodgate team.",
+      "say10094": "A symbol of a merciless future.",
+      "say10078": "She never even had the chance to rest.",
+      "say10054": "If that's all, then I'll go right now…!!!",
+      "say10039": "That should have been true. But Solara misjudged one thing: if chip processors could fail, then the buildings themselves might have already deteriorated.",
+      "say10006": "The New Expansion District needs 2 more rebar handlers!",
+      "say10029": "She did not need to summon courage. She already had enough resolve. She stared at the pitch-black deep pool, intermittently dyed red by flashing dark-red warning lights.",
+      "say10023": "No problem...!!",
+      "say10063": "No, I don't want to hear this! I don't want to hear any of it!!",
+      "say10083": "I'm sorry. I was too busy. I never even got the chance to truly fight for that dream…",
+      "say10051": "But blocking the door was an entire container, not even counting the massive pressure from more than three meters of water.",
+      "say10057": "H-how is that possible, how?! I-I'm going now, I swim fast, Sis just wait for me...!!",
+      "say10027": "(I will... find you, Sis.)",
+      "say10070": "Only three days left... before then, you must find the processor at the suburban institute.",
+      "say10080": "There has only ever been one thing I would place above the people in my heart.",
+      "say10101": "My Sis, where are you going?",
+      "say10013": "The first defensive line in the factory district has still failed. The flood is moving toward your position. Twelve seconds until hitting Watertight Gate 4-02.",
+      "say10019": "We're out of time. We can't let the floodwater stay in the factory district and soak all the equipment.",
+      "say10055": "But… by the time you make it to the generator… I won't be able to hold on anymore.",
+      "say10066": "Tears in her eyes, Solara kept desperately pulling at the doorframe with trembling hands.",
+      "say10004": "Everyone is fighting with everything they have for the slimmest chance of survival.",
+      "say10021": "Hey, you three—no no no, you five! With me! We're heading to Gate 4-02 to open it and let the floodwater out!!",
+      "say10043": "And three meters of standing water had already buried half of that container below the surface.",
+      "say10069": "The rising water level kept swallowing the control room.",
+      "say10050": "Solara practically threw herself at the crack in the door, using all her strength to pry it open.",
+      "say10016": "Everyone fall back behind the barriers!! Get back!!!",
+      "say10084": "Her hands were painfully cold from soaking in water.",
+      "say10022": "Luvia, confirm all intersections here are fully sealed. After we open it, we need to hold for at least one minute!",
+      "say10033": "Only she went deeper.",
+      "say10077": "She had never rested for even a moment.",
+      "say10095": "A cruel future full of uncertainty.",
+      "say10015": "The flood! It's the flood hitting the connecting gate!!",
+      "say10097": "I wish everyone… could see it with their own eyes.",
+      "say10100": "Why, why do we feel so far apart?",
+      "say10049": "Sis?! Sis, can you get out?!! I'll get you out right now!!",
+      "say10020": "Get some people on pipe welding! If the factory floods, we lose long-term production capacity!",
+      "say10090": "Even if it's hidden by rain and fog... the sun is still there.",
+      "say10074": "Leaders can be replaced. But without the people, nothing remains.",
+      "say10081": "And that is you, Solara. My little sister.",
+      "say10034": "But... she would not regret it. Sis had to be ahead.",
+      "say10099": "Even though my hand and my sister's hand were touching each other.",
+      "say10067": "Selene softly placed her hand over Solara’s.",
+      "say10026": "Precisely because the water in the elevated passage had not yet passed the knees, Selene couldn’t possibly have been there.",
+      "say10085": "Little sister... did you know?",
+      "say10096": "Still... passing.",
+      "say10068": "Solara, there is not much time left for Arcadia.",
+      "say10056": "...!!",
+      "say10086": "The last pockets of air were about to be claimed by the flood.",
+      "say10007": "Don't touch the TBM! Wait for my order!",
+      "say10036": "As captain of the maintenance squad, Solara had this map engraved in her mind. Even underwater, she could find the control room.",
+      "say10012": "Calling control center. Preparations almost complete. Mr. Aleksei, what's the situation?!",
+      "say10030": "She moved toward it. Toward deeper water, until it rose over her shoulders.",
+      "say10008": "We need to finish the laying work as fast as possible.",
+      "say10040": "After excessive rainwater surged into this area, the rubble boxes on metal frames at the old development entrance had toppled aside.",
+      "say10062": "Solara, listen carefully. Your most important task now is to reach the surface and find a replacement processor.",
+      "say10091": "Just beyond those clouds.",
+      "say10093": "At an almost frozen pace, it still kept passing.",
+      "say10092": "Time kept passing.",
+      "say10098": "To see the sky I have seen.",
+      "say10024": "The westernmost part of the residential district is about 30 meters from the old development district, with many passages a few meters wide in between.",
+      "say10002": "The flood that had been expected to completely swallow Arcadia by now was held back, thanks to the desperate repair efforts at the front lines.",
+      "say10045": "She surfaced, clung to the upper side of the container, and gasped hard for air before she had the strength to climb on top.",
+      "say10082": "I only wanted you to have a happy family, at least a peaceful life…",
+      "say10037": "Such a simple thing, compared to the suffering Sis had borne…",
+      "say10088": "But it was all covered by clouds. No sun out there. No sun anymore…",
+      "say10089": "How could that be?",
+      "say10060": "The burden her sister carried was too heavy.",
+      "say10032": "Everyone else had fled in the direction she came from.",
+      "say10103": "The world... it really is so dazzling.",
+      "say10028": "She lowered her head slightly and looked toward the downward slope. It, too, eventually led to the waterproof gate control room of the Old Expansion District.",
+      "say10059": "Solara turned back in panic and looked at Selene, who remained as calm as ever.",
+      "say10003": "It was already half past one in the morning. Tonight in Arcadia, countless people were working around the clock—no one could get a wink of sleep.",
+      "say10073": "Selene slid the key to the Old Expansion District through the gap in the door to Solara, who was crying too hard to speak.",
+      "say10046": "The control room where her sister was, lay only two meters away. But now only a slightly deformed door remained, crushed by impact. Floodwater was pouring in relentlessly.",
+      "say10048": "...Solara?",
+      "say10041": "The heavy containers crushed several container-made houses. Structures once stacked like toy blocks collapsed easily toward the lower control-room area.",
+      "say10001": "Two and a half hours have passed since the alarm sounded.",
+      "say10053": "I'm one last key step away from starting the generator. Once that happens, the waterproof gate to the old development district will open.",
+      "say10065": "Solara! Listen to me!!!",
+      "say10058": "Don't go yet, stay here!!",
+      "say10072": "I'm sorry for placing this responsibility on you at a time like this…",
+      "say10061": "She refused to accept the plain truth: there was no longer time for her to reach the generator and turn it on.",
+      "say10017": "U-understood!",
+      "say10018": "The flood has reached Gate 4-02 in District 4. All floodgates are holding.",
+      "say10052": "It's useless, Solara. I've tried every way.",
+      "say10087": "The first time I went up to the surface with you… it was the first time I ever saw the sun.",
+      "say10079": "Sister…",
+      "say10047": "Sis?",
+      "say10011": "All floodgates sealed! We made it in time!",
+      "say10005": "Gate 4-03 needs more welding hands!",
+      "say10009": "Agreed. Hey, don't stand there! Check the isolation barrier anchor points!",
+      "say10035": "She took a deep breath and plunged into the water. She did not know when she would next reach air, but fleeing had never been her intention.",
+      "say10038": "(...is not worth mentioning.)",
+      "say10076": "It always had been.",
+      "say10014": "Hey! W-wait, hold on… there's a vibration…!",
+      "say10031": "No one else was here anymore.",
+      "say10064": "If you want anything from me, come out alive first! Only then will I accept it!!"
+    },
+    "ko": {
+      "say10102": "The sun... is so beautiful.",
+      "say10042": "And the topmost container room had toppled right in front of the control room door.",
+      "say10044": "(Sis... is Sis inside the control room?!)",
+      "say10071": "The people of Arcadia... only you can lead them in my stead now.",
+      "say10075": "The burden her sister carried was too heavy.",
+      "say10025": "Not all areas connected to the old development district lie at the lowest elevation of the residential district. But Solara knew which of the routes ahead Selene would choose.",
+      "say10010": "A report came in over the walkie-talkie from the floodgate team.",
+      "say10094": "A symbol of a merciless future.",
+      "say10078": "She never even had the chance to rest.",
+      "say10054": "If that's all, then I'll go right now…!!!",
+      "say10039": "That should have been true. But Solara misjudged one thing: if chip processors could fail, then the buildings themselves might have already deteriorated.",
+      "say10006": "The New Expansion District needs 2 more rebar handlers!",
+      "say10029": "She did not need to summon courage. She already had enough resolve. She stared at the pitch-black deep pool, intermittently dyed red by flashing dark-red warning lights.",
+      "say10023": "No problem...!!",
+      "say10063": "No, I don't want to hear this! I don't want to hear any of it!!",
+      "say10083": "I'm sorry. I was too busy. I never even got the chance to truly fight for that dream…",
+      "say10051": "But blocking the door was an entire container, not even counting the massive pressure from more than three meters of water.",
+      "say10057": "H-how is that possible, how?! I-I'm going now, I swim fast, Sis just wait for me...!!",
+      "say10027": "(I will... find you, Sis.)",
+      "say10070": "Only three days left... before then, you must find the processor at the suburban institute.",
+      "say10080": "There has only ever been one thing I would place above the people in my heart.",
+      "say10101": "My Sis, where are you going?",
+      "say10013": "The first defensive line in the factory district has still failed. The flood is moving toward your position. Twelve seconds until hitting Watertight Gate 4-02.",
+      "say10019": "We're out of time. We can't let the floodwater stay in the factory district and soak all the equipment.",
+      "say10055": "But… by the time you make it to the generator… I won't be able to hold on anymore.",
+      "say10066": "Tears in her eyes, Solara kept desperately pulling at the doorframe with trembling hands.",
+      "say10004": "Everyone is fighting with everything they have for the slimmest chance of survival.",
+      "say10021": "Hey, you three—no no no, you five! With me! We're heading to Gate 4-02 to open it and let the floodwater out!!",
+      "say10043": "And three meters of standing water had already buried half of that container below the surface.",
+      "say10069": "The rising water level kept swallowing the control room.",
+      "say10050": "Solara practically threw herself at the crack in the door, using all her strength to pry it open.",
+      "say10016": "Everyone fall back behind the barriers!! Get back!!!",
+      "say10084": "Her hands were painfully cold from soaking in water.",
+      "say10022": "Luvia, confirm all intersections here are fully sealed. After we open it, we need to hold for at least one minute!",
+      "say10033": "Only she went deeper.",
+      "say10077": "She had never rested for even a moment.",
+      "say10095": "A cruel future full of uncertainty.",
+      "say10015": "The flood! It's the flood hitting the connecting gate!!",
+      "say10097": "I wish everyone… could see it with their own eyes.",
+      "say10100": "Why, why do we feel so far apart?",
+      "say10049": "Sis?! Sis, can you get out?!! I'll get you out right now!!",
+      "say10020": "Get some people on pipe welding! If the factory floods, we lose long-term production capacity!",
+      "say10090": "Even if it's hidden by rain and fog... the sun is still there.",
+      "say10074": "Leaders can be replaced. But without the people, nothing remains.",
+      "say10081": "And that is you, Solara. My little sister.",
+      "say10034": "But... she would not regret it. Sis had to be ahead.",
+      "say10099": "Even though my hand and my sister's hand were touching each other.",
+      "say10067": "Selene softly placed her hand over Solara’s.",
+      "say10026": "Precisely because the water in the elevated passage had not yet passed the knees, Selene couldn’t possibly have been there.",
+      "say10085": "Little sister... did you know?",
+      "say10096": "Still... passing.",
+      "say10068": "Solara, there is not much time left for Arcadia.",
+      "say10056": "...!!",
+      "say10086": "The last pockets of air were about to be claimed by the flood.",
+      "say10007": "Don't touch the TBM! Wait for my order!",
+      "say10036": "As captain of the maintenance squad, Solara had this map engraved in her mind. Even underwater, she could find the control room.",
+      "say10012": "Calling control center. Preparations almost complete. Mr. Aleksei, what's the situation?!",
+      "say10030": "She moved toward it. Toward deeper water, until it rose over her shoulders.",
+      "say10008": "We need to finish the laying work as fast as possible.",
+      "say10040": "After excessive rainwater surged into this area, the rubble boxes on metal frames at the old development entrance had toppled aside.",
+      "say10062": "Solara, listen carefully. Your most important task now is to reach the surface and find a replacement processor.",
+      "say10091": "Just beyond those clouds.",
+      "say10093": "At an almost frozen pace, it still kept passing.",
+      "say10092": "Time kept passing.",
+      "say10098": "To see the sky I have seen.",
+      "say10024": "The westernmost part of the residential district is about 30 meters from the old development district, with many passages a few meters wide in between.",
+      "say10002": "The flood that had been expected to completely swallow Arcadia by now was held back, thanks to the desperate repair efforts at the front lines.",
+      "say10045": "She surfaced, clung to the upper side of the container, and gasped hard for air before she had the strength to climb on top.",
+      "say10082": "I only wanted you to have a happy family, at least a peaceful life…",
+      "say10037": "Such a simple thing, compared to the suffering Sis had borne…",
+      "say10088": "But it was all covered by clouds. No sun out there. No sun anymore…",
+      "say10089": "How could that be?",
+      "say10060": "The burden her sister carried was too heavy.",
+      "say10032": "Everyone else had fled in the direction she came from.",
+      "say10103": "The world... it really is so dazzling.",
+      "say10028": "She lowered her head slightly and looked toward the downward slope. It, too, eventually led to the waterproof gate control room of the Old Expansion District.",
+      "say10059": "Solara turned back in panic and looked at Selene, who remained as calm as ever.",
+      "say10003": "It was already half past one in the morning. Tonight in Arcadia, countless people were working around the clock—no one could get a wink of sleep.",
+      "say10073": "Selene slid the key to the Old Expansion District through the gap in the door to Solara, who was crying too hard to speak.",
+      "say10046": "The control room where her sister was, lay only two meters away. But now only a slightly deformed door remained, crushed by impact. Floodwater was pouring in relentlessly.",
+      "say10048": "...Solara?",
+      "say10041": "The heavy containers crushed several container-made houses. Structures once stacked like toy blocks collapsed easily toward the lower control-room area.",
+      "say10001": "Two and a half hours have passed since the alarm sounded.",
+      "say10053": "I'm one last key step away from starting the generator. Once that happens, the waterproof gate to the old development district will open.",
+      "say10065": "Solara! Listen to me!!!",
+      "say10058": "Don't go yet, stay here!!",
+      "say10072": "I'm sorry for placing this responsibility on you at a time like this…",
+      "say10061": "She refused to accept the plain truth: there was no longer time for her to reach the generator and turn it on.",
+      "say10017": "U-understood!",
+      "say10018": "The flood has reached Gate 4-02 in District 4. All floodgates are holding.",
+      "say10052": "It's useless, Solara. I've tried every way.",
+      "say10087": "The first time I went up to the surface with you… it was the first time I ever saw the sun.",
+      "say10079": "Sister…",
+      "say10047": "Sis?",
+      "say10011": "All floodgates sealed! We made it in time!",
+      "say10005": "Gate 4-03 needs more welding hands!",
+      "say10009": "Agreed. Hey, don't stand there! Check the isolation barrier anchor points!",
+      "say10035": "She took a deep breath and plunged into the water. She did not know when she would next reach air, but fleeing had never been her intention.",
+      "say10038": "(...is not worth mentioning.)",
+      "say10076": "It always had been.",
+      "say10014": "Hey! W-wait, hold on… there's a vibration…!",
+      "say10031": "No one else was here anymore.",
+      "say10064": "If you want anything from me, come out alive first! Only then will I accept it!!"
+    },
+    "ru": {
+      "say10102": "The sun... is so beautiful.",
+      "say10042": "And the topmost container room had toppled right in front of the control room door.",
+      "say10044": "(Sis... is Sis inside the control room?!)",
+      "say10071": "The people of Arcadia... only you can lead them in my stead now.",
+      "say10075": "The burden her sister carried was too heavy.",
+      "say10025": "Not all areas connected to the old development district lie at the lowest elevation of the residential district. But Solara knew which of the routes ahead Selene would choose.",
+      "say10010": "A report came in over the walkie-talkie from the floodgate team.",
+      "say10094": "A symbol of a merciless future.",
+      "say10078": "She never even had the chance to rest.",
+      "say10054": "If that's all, then I'll go right now…!!!",
+      "say10039": "That should have been true. But Solara misjudged one thing: if chip processors could fail, then the buildings themselves might have already deteriorated.",
+      "say10006": "The New Expansion District needs 2 more rebar handlers!",
+      "say10029": "She did not need to summon courage. She already had enough resolve. She stared at the pitch-black deep pool, intermittently dyed red by flashing dark-red warning lights.",
+      "say10023": "No problem...!!",
+      "say10063": "No, I don't want to hear this! I don't want to hear any of it!!",
+      "say10083": "I'm sorry. I was too busy. I never even got the chance to truly fight for that dream…",
+      "say10051": "But blocking the door was an entire container, not even counting the massive pressure from more than three meters of water.",
+      "say10057": "H-how is that possible, how?! I-I'm going now, I swim fast, Sis just wait for me...!!",
+      "say10027": "(I will... find you, Sis.)",
+      "say10070": "Only three days left... before then, you must find the processor at the suburban institute.",
+      "say10080": "There has only ever been one thing I would place above the people in my heart.",
+      "say10101": "My Sis, where are you going?",
+      "say10013": "The first defensive line in the factory district has still failed. The flood is moving toward your position. Twelve seconds until hitting Watertight Gate 4-02.",
+      "say10019": "We're out of time. We can't let the floodwater stay in the factory district and soak all the equipment.",
+      "say10055": "But… by the time you make it to the generator… I won't be able to hold on anymore.",
+      "say10066": "Tears in her eyes, Solara kept desperately pulling at the doorframe with trembling hands.",
+      "say10004": "Everyone is fighting with everything they have for the slimmest chance of survival.",
+      "say10021": "Hey, you three—no no no, you five! With me! We're heading to Gate 4-02 to open it and let the floodwater out!!",
+      "say10043": "And three meters of standing water had already buried half of that container below the surface.",
+      "say10069": "The rising water level kept swallowing the control room.",
+      "say10050": "Solara practically threw herself at the crack in the door, using all her strength to pry it open.",
+      "say10016": "Everyone fall back behind the barriers!! Get back!!!",
+      "say10084": "Her hands were painfully cold from soaking in water.",
+      "say10022": "Luvia, confirm all intersections here are fully sealed. After we open it, we need to hold for at least one minute!",
+      "say10033": "Only she went deeper.",
+      "say10077": "She had never rested for even a moment.",
+      "say10095": "A cruel future full of uncertainty.",
+      "say10015": "The flood! It's the flood hitting the connecting gate!!",
+      "say10097": "I wish everyone… could see it with their own eyes.",
+      "say10100": "Why, why do we feel so far apart?",
+      "say10049": "Sis?! Sis, can you get out?!! I'll get you out right now!!",
+      "say10020": "Get some people on pipe welding! If the factory floods, we lose long-term production capacity!",
+      "say10090": "Even if it's hidden by rain and fog... the sun is still there.",
+      "say10074": "Leaders can be replaced. But without the people, nothing remains.",
+      "say10081": "And that is you, Solara. My little sister.",
+      "say10034": "But... she would not regret it. Sis had to be ahead.",
+      "say10099": "Even though my hand and my sister's hand were touching each other.",
+      "say10067": "Selene softly placed her hand over Solara’s.",
+      "say10026": "Precisely because the water in the elevated passage had not yet passed the knees, Selene couldn’t possibly have been there.",
+      "say10085": "Little sister... did you know?",
+      "say10096": "Still... passing.",
+      "say10068": "Solara, there is not much time left for Arcadia.",
+      "say10056": "...!!",
+      "say10086": "The last pockets of air were about to be claimed by the flood.",
+      "say10007": "Don't touch the TBM! Wait for my order!",
+      "say10036": "As captain of the maintenance squad, Solara had this map engraved in her mind. Even underwater, she could find the control room.",
+      "say10012": "Calling control center. Preparations almost complete. Mr. Aleksei, what's the situation?!",
+      "say10030": "She moved toward it. Toward deeper water, until it rose over her shoulders.",
+      "say10008": "We need to finish the laying work as fast as possible.",
+      "say10040": "After excessive rainwater surged into this area, the rubble boxes on metal frames at the old development entrance had toppled aside.",
+      "say10062": "Solara, listen carefully. Your most important task now is to reach the surface and find a replacement processor.",
+      "say10091": "Just beyond those clouds.",
+      "say10093": "At an almost frozen pace, it still kept passing.",
+      "say10092": "Time kept passing.",
+      "say10098": "To see the sky I have seen.",
+      "say10024": "The westernmost part of the residential district is about 30 meters from the old development district, with many passages a few meters wide in between.",
+      "say10002": "The flood that had been expected to completely swallow Arcadia by now was held back, thanks to the desperate repair efforts at the front lines.",
+      "say10045": "She surfaced, clung to the upper side of the container, and gasped hard for air before she had the strength to climb on top.",
+      "say10082": "I only wanted you to have a happy family, at least a peaceful life…",
+      "say10037": "Such a simple thing, compared to the suffering Sis had borne…",
+      "say10088": "But it was all covered by clouds. No sun out there. No sun anymore…",
+      "say10089": "How could that be?",
+      "say10060": "The burden her sister carried was too heavy.",
+      "say10032": "Everyone else had fled in the direction she came from.",
+      "say10103": "The world... it really is so dazzling.",
+      "say10028": "She lowered her head slightly and looked toward the downward slope. It, too, eventually led to the waterproof gate control room of the Old Expansion District.",
+      "say10059": "Solara turned back in panic and looked at Selene, who remained as calm as ever.",
+      "say10003": "It was already half past one in the morning. Tonight in Arcadia, countless people were working around the clock—no one could get a wink of sleep.",
+      "say10073": "Selene slid the key to the Old Expansion District through the gap in the door to Solara, who was crying too hard to speak.",
+      "say10046": "The control room where her sister was, lay only two meters away. But now only a slightly deformed door remained, crushed by impact. Floodwater was pouring in relentlessly.",
+      "say10048": "...Solara?",
+      "say10041": "The heavy containers crushed several container-made houses. Structures once stacked like toy blocks collapsed easily toward the lower control-room area.",
+      "say10001": "Two and a half hours have passed since the alarm sounded.",
+      "say10053": "I'm one last key step away from starting the generator. Once that happens, the waterproof gate to the old development district will open.",
+      "say10065": "Solara! Listen to me!!!",
+      "say10058": "Don't go yet, stay here!!",
+      "say10072": "I'm sorry for placing this responsibility on you at a time like this…",
+      "say10061": "She refused to accept the plain truth: there was no longer time for her to reach the generator and turn it on.",
+      "say10017": "U-understood!",
+      "say10018": "The flood has reached Gate 4-02 in District 4. All floodgates are holding.",
+      "say10052": "It's useless, Solara. I've tried every way.",
+      "say10087": "The first time I went up to the surface with you… it was the first time I ever saw the sun.",
+      "say10079": "Sister…",
+      "say10047": "Sis?",
+      "say10011": "All floodgates sealed! We made it in time!",
+      "say10005": "Gate 4-03 needs more welding hands!",
+      "say10009": "Agreed. Hey, don't stand there! Check the isolation barrier anchor points!",
+      "say10035": "She took a deep breath and plunged into the water. She did not know when she would next reach air, but fleeing had never been her intention.",
+      "say10038": "(...is not worth mentioning.)",
+      "say10076": "It always had been.",
+      "say10014": "Hey! W-wait, hold on… there's a vibration…!",
+      "say10031": "No one else was here anymore.",
+      "say10064": "If you want anything from me, come out alive first! Only then will I accept it!!"
+    },
+    "vi": {
+      "say10102": "Mặt trời... thật đẹp đẽ làm sao.",
+      "say10042": "Và khoang chứa container trên cùng đã đổ sập ngay trước cửa phòng điều khiển.",
+      "say10044": "(Chị ơi... chị có trong phòng điều khiển không đó ?!)",
+      "say10071": "Người dân Arcadia... chỉ có em mới có thể lãnh đạo họ thay chị lúc này.",
+      "say10075": "Gánh nặng mà người chị phải gánh chịu quá lớn.",
+      "say10025": "Không phải tất cả các khu vực kết nối với khu phát triển cũ đều nằm ở độ cao thấp nhất của khu dân cư. Nhưng Solara biết Selene sẽ chọn con đường nào phía trước.",
+      "say10010": "Một báo cáo được truyền qua bộ đàm từ đội phụ trách cửa xả lũ.",
+      "say10094": "Biểu tượng của một tương lai tàn khốc.",
+      "say10078": "Chị ấy thậm chí còn không có cơ hội nghỉ ngơi.",
+      "say10054": "Nếu chỉ vậy thôi, thì em sẽ đi ngay đây… !!!",
+      "say10039": "Điều đó lẽ ra phải đúng. Nhưng Solara đã đánh giá sai một điều: nếu bộ xử lý chip có thể hỏng, thì chính các tòa nhà có thể đã xuống cấp rồi.",
+      "say10006": "Khu Mở Rộng Mới cần thêm 2 người bốc xếp thép!",
+      "say10029": "Cô không cần phải lấy hết can đảm. Cô đã có đủ quyết tâm rồi. Cô nhìn chằm chằm vào hồ nước sâu đen kịt, thỉnh thoảng lại nhuộm đỏ bởi những ánh đèn cảnh báo màu đỏ sẫm nhấp nháy.",
+      "say10023": "Đã rõ... !!",
+      "say10063": "Không, em không muốn nghe đâu! Em không muốn nghe bất cứ điều gì cả !!",
+      "say10083": "Chị xin lỗi. Chị quá bận. Chị còn chẳng có lấy cơ hội nào để đấu tranh cho ước mơ ấy…",
+      "say10051": "Nhưng chắn ngang cửa là cả một thùng container khổng lồ, chưa kể đến áp lực cực lớn từ hơn ba mét nước.",
+      "say10057": "Sao có thể chứ, sao lại thế?! E-em đi ngay đây, em bơi nhanh lắm, chị chờ em nha... !!",
+      "say10027": "(Em sẽ... tìm chị, chị ơi.)",
+      "say10070": "Chỉ còn ba ngày nữa thôi... trước lúc đó, em phải tìm được bộ xử lý tại viện ngoại ô.",
+      "say10080": "Từng có một điều mà chị sẽ đặt lên trên hết những người trong trái tim chị.",
+      "say10101": "Chị ơi, chị tính làm gì vậy ?",
+      "say10013": "Tuyến phòng thủ đầu tiên trong khu vực nhà máy vẫn chưa thành công. Lũ lụt đang tiến về vị trí của anh. Chỉ còn mười hai giây nữa là đến Cổng Chống Nước 4-02.",
+      "say10019": "Chúng ta không còn thời gian nữa. Chúng ta không thể để nước lũ đọng lại trong khu vực nhà máy và làm ngập hết thiết bị.",
+      "say10055": "Nhưng… đến lúc em đến được chỗ máy phát điện… thì chị sẽ không thể cầm cự được nữa.",
+      "say10066": "Nước mắt lưng tròng, Solara run rẩy dùng đôi tay níu lấy khung cửa một cách tuyệt vọng.",
+      "say10004": "Mọi người đang chiến đấu bằng tất cả mọi thứ họ có để đổi lấy cơ hội sống sót mong manh.",
+      "say10021": "Đằng ấy, cả ba người - không không, cả năm người luôn đi! Theo tôi! Chúng ta đi đến Cổng 4-02 để mở cửa xả lũ !!",
+      "say10043": "Và mực nước cao ba mét đã nhấn chìm một nửa thùng chứa đó xuống dưới mặt nước.",
+      "say10069": "Mực nước dâng cao liên tục nhấn chìm phòng điều khiển.",
+      "say10050": "Solara gần như lao mình vào khe cửa, dùng hết sức lực để cạy nó ra.",
+      "say10016": "Mọi người lùi lại sau hàng rào!! Lùi lại !!!",
+      "say10084": "Đôi tay chị ấy lạnh cóng vì ngâm trong nước.",
+      "say10022": "Luvia, hãy xác nhận tất cả các giao lộ ở đây đã được phong tỏa hoàn toàn. Sau khi mở lại, chúng ta cần chờ ít nhất một phút !",
+      "say10033": "Chỉ có cô ấy là tiến vào sâu hơn.",
+      "say10077": "Chị ấy chưa từng được nghỉ ngơi dù chỉ một giây một phút.",
+      "say10095": "Một tương lai tàn khốc đầy bất trắc.",
+      "say10015": "Lũ lụt đến! Nước lũ đang tràn vào cửa cống nối liền!!",
+      "say10097": "Chị ước mọi người... có thể được chứng kiến điều ấy.",
+      "say10100": "Tại sao, tại sao lúc này lại xa cách đến thế ?",
+      "say10049": "Chị ơi? Chị có thể đi ra khỏi đây được không?? Em sẽ đưa chị đi ngay !!",
+      "say10020": "Hãy gọi thêm người hàn ống! Nếu nhà máy bị ngập lụt, chúng ta sẽ mất năng lực sản xuất lâu dài!",
+      "say10090": "Ngay cả khi bị che khuất bởi mưa và sương mù... mặt trời vẫn ở đó.",
+      "say10074": "Lãnh đạo có thể thay thế. Nhưng không có mọi người, chẳng còn gì cả.",
+      "say10081": "Chính là em, Solara. Em gái của chị.",
+      "say10034": "Nhưng... cô ấy sẽ không hối hận. Chị ấy phải đi trước.",
+      "say10099": "Mặc dù tay mình và chị mình không thể chạm vào nhau.",
+      "say10067": "Selene nhẹ nhàng đặt tay lên tay Solara.",
+      "say10026": "Chính vì mực nước trong lối đi trên cao chưa ngập đến đầu gối, nên Selene không thể nào có mặt ở đó được.",
+      "say10085": "Em... biết gì không ?",
+      "say10096": "Vẫn cứ... trôi.",
+      "say10068": "Solara, thời gian dành cho Arcadia không còn nhiều.",
+      "say10056": "...!!",
+      "say10086": "Chút không khí cuối cùng sắp bị lũ nhấn chìm.",
+      "say10007": "Đừng động vào máy TBM! Chờ lệnh của tôi !",
+      "say10036": "Là đội trưởng đội bảo trì, Solara thuộc lòng tấm bản đồ này. Ngay cả dưới nước, cô cũng có thể tìm thấy phòng điều khiển.",
+      "say10012": "Gọi đến trung tâm điều khiển. Công tác chuẩn bị gần như hoàn tất. Anh Aleksei, tình hình thế nào rồi?!",
+      "say10030": "Cô tiến về phía đó. Về phía vùng nước sâu hơn, cho đến khi nước dâng lên quá vai cô.",
+      "say10008": "Chúng ta cần hoàn thành công việc lát nền càng nhanh càng tốt.",
+      "say10040": "Sau khi lượng nước mưa lớn tràn vào khu vực này, các thùng phế liệu trên khung kim loại ở lối vào khu nhà cũ đã bị đổ sập.",
+      "say10062": "Solara, em nghe kỹ đây. Nhiệm vụ quan trọng nhất của em bây giờ là lên mặt đất và tìm một bộ xử lý thay thế.",
+      "say10091": "Chỉ là trên những đám mây ấy.",
+      "say10093": "Mọi thứ vẫn lặng lẽ trôi, chậm đến mức gần như bất động.",
+      "say10092": "Thời gian vẫn cứ trôi.",
+      "say10098": "Được chứng kiến một bầu trời mà chị chưa từng thấy.",
+      "say10024": "Phần cực tây của khu dân cư nằm cách khu phát triển cũ khoảng 30 mét, với nhiều lối đi hẹp chỉ vài mét ở giữa.",
+      "say10002": "Trận lụt lẽ ra đã nhấn chìm hoàn toàn Arcadia vào thời điểm này đã được ngăn chặn phần nào, nhờ những nỗ lực sửa chữa khẩn cấp ở tiền tuyến.",
+      "say10045": "Cô ngoi lên mặt nước, bám vào thành trên của thùng chứa và thở hổn hển để lấy sức trước khi trèo lên trên.",
+      "say10082": "Chị chỉ muốn em có một gia đình hạnh phúc, ít nhất là một cuộc sống yên bình…",
+      "say10037": "Một chuyện nhỏ nhặt như vậy, so với những đau khổ mà chị đã phải chịu đựng…",
+      "say10088": "Nhưng lúc đó mây che khuất hết mà chị. Không có mặt trời. Không có mặt trời đâu…",
+      "say10089": "Sao lại thế ?",
+      "say10060": "Gánh nặng mà người chị phải gánh chịu quá lớn.",
+      "say10032": "Mọi người khác đều đã bỏ chạy theo hướng cô ấy vừa đến hết rồi.",
+      "say10103": "Thế giới... thật rực rỡ.",
+      "say10028": "Cô hơi cúi đầu và nhìn về phía con dốc. Con dốc đó cuối cùng cũng dẫn đến phòng điều khiển cổng chống thấm nước của Khu Mở rộng Cũ.",
+      "say10059": "Solara hoảng sợ quay lại nhìn Selene, người vẫn bình tĩnh như thường lệ.",
+      "say10003": "Lúc đó đã là một giờ rưỡi sáng. Đêm nay ở Arcadia, vô số người đang làm việc suốt ngày đêm - không ai có thể chợp mắt được chút nào.",
+      "say10073": "Selene luồn chiếc chìa khóa Khu Mở rộng Cũ qua khe cửa cho Solara, người đang khóc nức nở đến nỗi không nói nên lời.",
+      "say10046": "Phòng điều khiển nơi chị gái cô đang ở đó, chỉ cách có hai mét. Nhưng giờ chỉ còn lại một cánh cửa hơi biến dạng, bị nghiền nát bởi va chạm. Nước lũ đang tràn vào không ngừng.",
+      "say10048": "...Solara ?",
+      "say10041": "Những container nặng nề đã đè bẹp nhiều ngôi nhà làm bằng container. Các công trình từng được xếp chồng lên nhau như những khối đồ chơi đã dễ dàng đổ sập xuống khu vực phòng điều khiển phía dưới.",
+      "say10001": "Đã hai tiếng rưỡi trôi qua kể từ khi chuông báo động vang lên.",
+      "say10053": "Chị chỉ còn một bước quan trọng nữa là có thể khởi động máy phát điện. Khi việc đó hoàn tất, cánh cổng chống thấm nước dẫn vào khu vực xây dựng cũ sẽ mở ra.",
+      "say10065": "Solara! Nghe chị !!!",
+      "say10058": "Đừng đi vội, ở đây đã !!",
+      "say10072": "Chị xin lỗi vì đã đặt trách nhiệm này trên vai em vào thời điểm này…",
+      "say10061": "Cô ấy từ chối chấp nhận sự thật hiển nhiên: không còn thời gian để cô ấy đến chỗ máy phát điện và bật nó lên nữa.",
+      "say10017": "R-Rõ !",
+      "say10018": "Nước lũ đã đến Cửa 4-02 ở Khu 4. Tất cả các cửa xả lũ đều đang hoạt động tốt.",
+      "say10052": "Không được đâu, Solara. Chị đã thử mọi cách rồi.",
+      "say10087": "Lần đầu chị lên mặt đất cùng em... là lần đầu tiên chị được thấy mặt trời.",
+      "say10079": "Chị ơi…",
+      "say10047": "Chị ơi ?",
+      "say10011": "Toàn bộ cửa lũ đã được bịt kín kịp thời! Thành công rồi !",
+      "say10005": "Cổng 4-03 cần thêm thợ hàn !",
+      "say10009": "Được. Ê, đừng có đứng đó! Kiểm tra các điểm neo của rào chắn cách ly đi !",
+      "say10035": "Cô hít một hơi thật sâu rồi lao xuống nước. Cô không biết khi nào mình mới ngoi lên được không khí, nhưng bỏ chạy chưa bao giờ là ý định của cô.",
+      "say10038": "(... chẳng đáng để nhắc đến.)",
+      "say10076": "Nó vẫn luôn là như vậy.",
+      "say10014": "Này! C-chờ chút, đợi đã... có tiếng rung kìa...!",
+      "say10031": "Không còn có ai ở đây nữa.",
+      "say10064": "Nếu chị muốn em làm gì, thì chị phải sống sót ra khỏi đó đã! Thì em mới chấp nhận !!"
+    }
+  },
+  "names": {
+    "zh_Hans": {
+      "lwy": "露薇娅",
+      "npc-aleksei": "阿列克谢",
+      "npc-nameless,sluice-team-member": "水闸工作小组组员",
+      "npc-sergay": "瑟尔盖工头",
+      "pb": "",
+      "selene": "塞勒涅",
+      "solara": "索莱娜",
+      "w": "我"
+    },
+    "zh_Hant": {
+      "lwy": "露薇婭",
+      "npc-aleksei": "阿列克謝",
+      "npc-nameless,sluice-team-member": "水閘工作小組組員",
+      "npc-sergay": "瑟爾蓋工頭",
+      "pb": "",
+      "selene": "塞勒涅",
+      "solara": "索萊娜",
+      "w": "我"
+    },
+    "yue_Hant": {
+      "lwy": "露薇婭",
+      "npc-aleksei": "阿列克謝",
+      "npc-nameless,sluice-team-member": "水閘工作小組組員",
+      "npc-sergay": "瑟爾蓋工頭",
+      "pb": "",
+      "selene": "月蓮",
+      "solara": "陽娜",
+      "w": "我"
+    },
+    "en": {
+      "lwy": "Luvia",
+      "npc-aleksei": "Aleksei",
+      "npc-nameless,sluice-team-member": "Sluice Team Member",
+      "npc-sergay": "Foreman Sergay",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Me"
+    },
+    "ja": {
+      "lwy": "Luvia",
+      "npc-aleksei": "Aleksei",
+      "npc-nameless,sluice-team-member": "Sluice Team Member",
+      "npc-sergay": "Foreman Sergay",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "私"
+    },
+    "es": {
+      "lwy": "Luvia",
+      "npc-aleksei": "Aleksei",
+      "npc-nameless,sluice-team-member": "Sluice Team Member",
+      "npc-sergay": "Foreman Sergay",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Yo"
+    },
+    "fr": {
+      "lwy": "Luvia",
+      "npc-aleksei": "Aleksei",
+      "npc-nameless,sluice-team-member": "Sluice Team Member",
+      "npc-sergay": "Foreman Sergay",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Moi"
+    },
+    "ko": {
+      "lwy": "루비아",
+      "npc-aleksei": "알렉세이",
+      "npc-nameless,sluice-team-member": "수문팀 구성원",
+      "npc-sergay": "세르게이 십장",
+      "pb": "",
+      "selene": "셀레네",
+      "solara": "솔라라",
+      "w": "나"
+    },
+    "ru": {
+      "lwy": "Лювия",
+      "npc-aleksei": "Алексей",
+      "npc-nameless,sluice-team-member": "Член команды шлюза",
+      "npc-sergay": "Бригадир Сергей",
+      "pb": "",
+      "selene": "Селена",
+      "solara": "Солара",
+      "w": "Я"
+    },
+    "vi": {
+      "lwy": "Luvia",
+      "npc-aleksei": "Aleksei",
+      "npc-nameless,sluice-team-member": "Thành viên đội Thủy Lợi",
+      "npc-sergay": "Quản đốc Sergay",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Tôi"
+    }
+  },
+  "commands": [
+    {
+      "cmd": "scene",
+      "arg": "dark_access"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "windstorm"
+    },
+    {
+      "cmd": "chara_settings",
+      "arg": "lwy|luvia-arcadia"
+    },
+    {
+      "cmd": "chara_settings",
+      "arg": "npc-aleksei|npc1"
+    },
+    {
+      "cmd": "chara_settings",
+      "arg": "npc-nameless|npc-female"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy/frown+npc-sergay+npc-nameless"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10001",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10002",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10003",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10004",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-sergay",
+      "id": "10005",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-sergay",
+      "id": "10006",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-sergay",
+      "id": "10007",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10008",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-sergay",
+      "id": "10009",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10010",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,sluice-team-member",
+      "id": "10011",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10012",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-aleksei",
+      "id": "10013",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,sluice-team-member",
+      "id": "10014",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,sluice-team-member",
+      "id": "10015",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10016",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,sluice-team-member",
+      "id": "10017",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-aleksei",
+      "id": "10018",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-sergay",
+      "id": "10019",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-sergay",
+      "id": "10020",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10021",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10022",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10023",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "dark_access"
+    },
+    {
+      "cmd": "chara",
+      "arg": "solara/scare"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10024",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10025",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10026",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10027",
+      "emotion": "scare"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10028",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10029",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10030",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10031",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10032",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10033",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10034",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10035",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10036",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10037",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10038",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10039",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10040",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10041",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10042",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10043",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10044",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10045",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10046",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10047",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "solara/scare+selene/sad"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10048",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10049",
+      "emotion": "cry"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10050",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10051",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10052",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10053",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10054",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10055",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10056",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10057",
+      "emotion": "cry"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10058",
+      "emotion": "angry"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10059",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10060",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10061",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10062",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10063",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10064",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10065",
+      "emotion": "angry"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10066",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10067",
+      "emotion": ""
+    },
+    {
+      "cmd": "bgm",
+      "arg": "When I'm alone"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10068",
+      "emotion": "sad"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10069",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10070",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10071",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10072",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10073",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10074",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10075",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10076",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10077",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10078",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10079",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10080",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10081",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10082",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10083",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10084",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10085",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10086",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10087",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10088",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10089",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10090",
+      "emotion": "laugh"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10091",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10092",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10093",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10094",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10095",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10096",
+      "emotion": ""
+    },
+    {
+      "cmd": "scene",
+      "arg": "selene_sunny"
+    },
+    {
+      "cmd": "chara",
+      "arg": "selene/cry_with_smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10097",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10098",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10099",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10100",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10101",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10102",
+      "emotion": "laugh"
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10103",
+      "emotion": ""
+    }
+  ]
+}

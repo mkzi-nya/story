@@ -31,7 +31,7 @@ export default defineConfig({
             { text: 'TiếngViệt', link: '/milthm/story/vi' },
             ]
           },
-                                                                                                                                                                          {
+                                                                                                                                                                                                                                      {
             text: 'Raingpt',
             collapsible: true,
             collapsed: true,

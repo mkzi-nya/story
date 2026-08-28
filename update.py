@@ -306,6 +306,88 @@ def parse_say_lines(buf, for_player):
             out.append(e)
     return out
 
+# ---------- 角色显示名（多语言） ----------
+# ##else 分支选项的多语言文案（解析时先留占位符，生成时再替换）
+ELSE_SENTINEL = "@@else@@"
+ELSE_LABEL = {
+    "zh_Hans": "其它情况", "zh_Hant": "其他情況", "yue_Hant": "其他情況",
+    "en": "Otherwise", "ja": "その他", "es": "En otro caso",
+    "fr": "Autre cas", "ko": "그 외", "ru": "В остальном", "vi": "Trường hợp khác",
+}
+# speaker 本体 -> localization character.* 键
+CHAR_KEY = {
+    "lwy": "character.milthm.luvia",
+    "solara": "character.milthm.solara",
+    "selene": "character.milthm.selene",
+    "ss": "character.milthm.susan", "ss2": "character.milthm.susan",
+    "rbt": "character.milthm.robert", "honoka": "character.milthm.honoka",
+    "npc-aleksei": "character.milthm.npc-aleksei",
+    "npc-alina": "character.milthm.npc-alina",
+    "npc-sergay": "character.milthm.npc-sergay",
+    "npc-zoya": "character.milthm.npc-zoya",
+    "w": "character.general.me", "me": "character.general.me",
+    "jm": "character.general.resident", "jm1": "character.general.resident",
+    "jm2": "character.general.resident", "jm3": "character.general.resident",
+}
+# 中文兜底名（与 VnPlayer 旧表一致）
+NAME_FALLBACK_ZH = {
+    "lwy": "露薇娅", "solara": "索莱娜", "selene": "塞勒涅",
+    "ss": "苏珊", "ss2": "苏珊", "w": "我",
+    "jm": "居民", "jm1": "居民", "jm2": "居民", "jm3": "居民",
+    "honoka": "浅仪洸花", "rbt": "罗伯特",
+    "npc-aleksei": "阿列克谢", "npc-alina": "阿琳娜",
+    "npc-sergay": "瑟尔盖工头", "npc-zoya": "卓娅",
+}
+NAME_SUB_FALLBACK_ZH = {
+    "selene.sister": "被称为姐姐的人", "solara.solara": "被称为索莱娜的人",
+    "npc-nameless.canteen-aunt": "食堂阿姨", "npc-nameless.control-room-chief": "控制室负责人",
+    "npc-nameless.control-room-chief-not-aleksei": "控制室负责人",
+    "npc-nameless.councilor-a": "议员A", "npc-nameless.councilor-b": "议员B",
+    "npc-nameless.councilor-c": "议员C", "npc-nameless.councilor-d": "议员D",
+    "npc-nameless.doctor": "医生", "npc-nameless.farm-manager": "农场的管理人",
+    "npc-nameless.female": "女性", "npc-nameless.maintenance": "维护工人",
+    "npc-nameless.male": "男性", "npc-nameless.resident": "居民",
+    "npc-nameless.sluice-team-member": "水闸工作小组组员", "npc-nameless.staff": "工作人员",
+    "npc-nameless.worker-carrying-tarpaulin": "正在搬运防水布的工人",
+    "npc-nameless.worker-laboring": "正在干活的工人", "npc-nameless.worker-on-platform": "站台上的工人",
+    "npc-nameless.worker-resting": "正在休息的工人", "npc-nameless.worker-side": "一旁的工人",
+    "npc-nameless.worker-smoothing-tarpaulin": "正在铺平防水布的工人",
+    "npc-nameless.worker-wiped": "擦完汗的工人", "npc-nameless.worker-wiping": "正在擦汗的工人",
+    "npc-nameless.worker-working": "正在工作的工人",
+    "npc-alina.nameless": "正在干活的阿姨", "npc-sergay.nameless": "工头", "npc-zoya.nameless": "正在干活的姐姐",
+}
+
+def resolve_speaker(sp):
+    """speaker -> (base, sub, character.* 键)。返回 base 为 '' 表示旁白/无。"""
+    if not sp:
+        return "", "", ""
+    base_raw, _, sub = sp.partition(",")
+    base = (base_raw.split("/")[0]).strip()
+    key = CHAR_KEY.get(base)
+    if key is None and base.startswith("npc-nameless"):
+        key = "character.general.npc-nameless"
+    return base, sub, key
+
+def speaker_display_name(sp, d, en):
+    """say speaker -> 显示名。优先当前语言 character.*，缺失回退中文，再回退原 key。旁白返回 ''。"""
+    base, sub, key = resolve_speaker(sp)
+    if not base or base == "pb":
+        return ""
+    if key:
+        if sub:
+            alias = f"{key}.alias.{sub}"
+            v = (d.get(alias) or en.get(alias) or "")
+            if v and str(v).strip():
+                return str(v).strip()
+        v = (d.get(key) or en.get(key) or "")
+        if v and str(v).strip():
+            return str(v).strip()
+    if sub:
+        zh_alias = NAME_SUB_FALLBACK_ZH.get(f"{base}.{sub}")
+        if zh_alias:
+            return zh_alias
+    return NAME_FALLBACK_ZH.get(base, base)
+
 def parse_avg_blocks(script_text, for_player=False):
     """
     解析 AVG 剧本为 blocks：
@@ -331,6 +413,15 @@ def parse_avg_blocks(script_text, for_player=False):
         cond.setdefault("labels", {})[nid]=cond_label(cond.get("if_cond"))
         cond.setdefault("branches", {})[nid]=[]
         cond["cur"]=nid
+    def _next_is_if(idx):
+        # 紧跟（跳过空行/注释）的下一段是否又是一条 ##if 条件，用于把相邻条件合并为同一多选项
+        j=idx
+        while j < len(lines):
+            l=lines[j].strip()
+            if not l or l.startswith("//"):
+                j+=1; continue
+            return l.startswith("##if")
+        return False
     while i < len(lines):
         raw=lines[i]; s=raw.strip()
         if not s or s.startswith("//"):
@@ -344,13 +435,17 @@ def parse_avg_blocks(script_text, for_player=False):
                 top["buf"]=[]
                 if top["stage"]=="buf":
                     top["stage"]="choice"
-                top["if_cond"]=s.split(":",1)[1].strip() if ":" in s else ("其它情况" if s.startswith("##else") else "")
+                top["if_cond"]=s.split(":",1)[1].strip() if ":" in s else (ELSE_SENTINEL if s.startswith("##else") else "")
                 _open_cond(top)
                 i+=1; continue
             if s.startswith("##endif"):
                 # 结束条件
                 if top["stage"]=="choice":
                     top["branches"][top["cur"]]=parse_say_lines(top["buf"], for_player)
+                    if _next_is_if(i+1):
+                        # 紧跟又一段条件：合并为同一个多选项，等待下一段 ##if 继续收集分支
+                        top["buf"]=[]
+                        i+=1; continue
                     cond_stack.pop()
                     if text_buf:
                         blocks.append(("text", list(text_buf)))
@@ -365,7 +460,14 @@ def parse_avg_blocks(script_text, for_player=False):
                     if condchoice["order"]:
                         blocks.append(("choice", condchoice))
                 else:
-                    # 单分支条件：回退为普通解析（默认取该分支）
+                    # 单分支条件
+                    if _next_is_if(i+1):
+                        # 其后紧跟又一段条件：作为同一多选项的第一个分支继续合并
+                        top["branches"][top["cur"]]=parse_say_lines(top["buf"], for_player)
+                        top["buf"]=[]
+                        top["stage"]="choice"
+                        i+=1; continue
+                    # 单独单分支：回退为普通解析（默认取该分支）
                     cond_stack.pop()
                     i=top["start"]-1
                 i+=1; continue
@@ -390,6 +492,10 @@ def parse_avg_blocks(script_text, for_player=False):
             if pending is not None and pending.get("cur") is not None:
                 # 真实选项分支内出现条件：普通解析
                 cond_stack.append({"stage":"raw","skip":False})
+            elif top is not None and top["stage"]=="choice":
+                # 与上一段条件合并：在同一个选项组中新增一个分支
+                top["if_cond"]=s.split(":",1)[1].strip() if ":" in s else ""
+                _open_cond(top)
             else:
                 cond_stack.append({
                     "stage":"buf", "buf":[], "start":i+1,
@@ -682,6 +788,49 @@ def extract_vn_assets():
     extract_vn_audio()
     # 立绘透明烘焙
     bake_character_alpha()
+    # 清理运行时用不上的资源（更新后即时瘦身，避免堆积）
+    prune_vn_assets()
+
+# 与播放器实际 try/catch 路径一一对应的候选 stem，避免误删
+def _ref_sets():
+    import zstandard as zstd
+    bgm, bgs, snd, scenes = set(), set(), set(), set()
+    try:
+        for p in TEXTASSET.glob("main_story_*.bytes"):
+            t = zstd.ZstdDecompressor().decompress(p.read_bytes()).decode("utf-8", "replace")
+            for m in re.finditer(r"^##bgm:\s*([^|$\n]+)", t, re.M): bgm.add(m.group(1).strip())
+            for m in re.finditer(r"^##bgs:\s*([^|$\n]+)", t, re.M): bgs.add(m.group(1).strip())
+            for m in re.finditer(r"^##snd(?:\([^)]*\)\s*:)?[:\s(]*([^\s|)$\n]+)", t, re.M): snd.add(m.group(1).strip())
+            for m in re.finditer(r"^##scene:\s*([^|$\n]+)", t, re.M): scenes.add(m.group(1).strip())
+    except Exception as e:
+        print(f"  ! 资源引用扫描失败: {e}")
+    ok = set()
+    for n in bgm: ok |= {f"bgm/{n}", f"bgs/{n}", n}
+    for n in bgs: ok |= {f"bgs/{n}", f"bgm/{n}", n}
+    for n in snd: ok |= {f"snd/{n}", n.split("/")[-1]}
+    return ok, scenes, len(bgm) + len(bgs) + len(snd)
+
+def prune_vn_assets():
+    print("== 清理未引用 VN 资源 ==")
+    ok, scenes, n_refs = _ref_sets()
+    # 立绘：avif 源已烘焙为 webp，运行时不需留
+    rm = 0
+    for f in VN_PUBLIC_CHAR.rglob("*.avif"):
+        f.unlink(); rm += 1
+    # 背景：仅保留被剧本引用的场景
+    for f in VN_PUBLIC_BG.glob("*.avif"):
+        if f.stem not in scenes:
+            f.unlink(); rm += 1
+    # 音频：仅保留播放器候选链会尝试的文件
+    for f in VN_PUBLIC_AUDIO.rglob("*.ogg"):
+        stem = str(f.relative_to(VN_PUBLIC_AUDIO))[:-4]
+        if stem not in ok:
+            f.unlink(); rm += 1
+    # 运行时无引用的目录整体移除
+    for stale in (VN_PUBLIC / "textasset", VN_PUBLIC_CG):
+        if stale.is_dir():
+            shutil.rmtree(stale); rm += 1
+    print(f"  -> 引用 {n_refs} 条音频/场景，清理 {rm} 个文件")
 
 def gen_vn_scripts():
     """为每个 AVG 剧集生成 JSON 供 VnPlayer 使用"""
@@ -702,11 +851,14 @@ def gen_vn_scripts():
         # 收集所有 say/choice id（兼容 dict/sid 两种形式）
         say_ids = set()
         choice_ids = set()
+        speakers = set()
         for kind, *rest in blocks:
             if kind == "text":
                 for item in rest[0]:
                     sid = item["id"] if isinstance(item, dict) else item
                     say_ids.add(sid)
+                    if isinstance(item, dict) and item.get("speaker"):
+                        speakers.add(item["speaker"])
             elif kind == "choice":
                 info = rest[0]
                 for oid in info.get("order", []):
@@ -715,6 +867,8 @@ def gen_vn_scripts():
                     for it in lst:
                         sid = it["id"] if isinstance(it, dict) else it
                         say_ids.add(sid)
+                        if isinstance(it, dict) and it.get("speaker"):
+                            speakers.add(it["speaker"])
             elif kind in ("scene","chara"):
                 continue
         # 构造 dialogues per lang
@@ -740,11 +894,18 @@ def gen_vn_scripts():
                 serial_blocks.append({"type": "text", "says": rest[0]})
             elif kind == "choice":
                 info = rest[0]
+                _labels = info.get("labels", {})
+                labels_by_lang = {}
+                for _lang in LANGS:
+                    _lab = {}
+                    for _o, _l in _labels.items():
+                        _lab[_o] = ELSE_LABEL.get(_lang, "其它情况") if _l == ELSE_SENTINEL else _l
+                    labels_by_lang[_lang] = _lab
                 serial_blocks.append({
                     "type": "choice",
                     "id": info.get("opts", [None])[0] if info.get("opts") else "",
                     "options": info.get("order", []) or info.get("opts", []),
-                    "labels": info.get("labels", {}),
+                    "labels": labels_by_lang,
                     "branches": info.get("branches", {})
                 })
             elif kind in ("scene","chara","chara_settings","emotion","bgm","bgs","se","hide_dialog","volume_bgs"):
@@ -752,8 +913,19 @@ def gen_vn_scripts():
         out = {
             "episode": ep,
             "blocks": serial_blocks,
-            "dialogues": dialogues
+            "dialogues": dialogues,
+            "names": None,
         }
+        # 每语言 角色名表 speaker -> 显示名（VnPlayer 用它替代内置中文表）
+        names = {}
+        all_en = all_langs.get("en", {})
+        for lang in LANGS:
+            dlang = all_langs.get(lang, {})
+            mp = {}
+            for sp in sorted(speakers):
+                mp[sp] = speaker_display_name(sp, dlang, all_en)
+            names[lang] = mp
+        out["names"] = names
         # 同时解析 scene/chara 等指令，生成简化 commands 供播放器
         # 解析原始脚本的 scene/chara 等
         commands = []
@@ -849,6 +1021,28 @@ def gen_story_md():
             if v is None or (isinstance(v,str) and not v.strip()):
                 v=en_data.get(key,"") or cid
             return process_story_text(str(v)).replace("<br />"," ").strip()
+        # 辅助：say 列表 -> 纯文本（- 角色名 + > - 对话 分组）
+        def render_says(items, out_lines):
+            cur_sp=None
+            for it in items:
+                sid=it["id"] if isinstance(it, dict) else it
+                t=say_text(ep, sid)
+                if not t:
+                    continue
+                sp=it.get("speaker","") if isinstance(it, dict) else ""
+                name=speaker_display_name(sp, d, en_data)
+                if name:
+                    if sp != cur_sp:
+                        if out_lines and out_lines[-1] != "":
+                            out_lines.append("")
+                        out_lines.append(f"- {name}")
+                        cur_sp=sp
+                    out_lines.append(f"> - {t}")
+                else:
+                    cur_sp=None
+                    out_lines.append(f"- {t}")
+            if out_lines and out_lines[-1] != "":
+                out_lines.append("")
 
         # --- 主线 ---
         out_lines.append(f"## {T('story.main.title','主线故事')} <a id=\"story\"></a>")
@@ -875,22 +1069,16 @@ def gen_story_md():
             out_lines.append(f"<VnPlayer episode=\"{ep}\" title=\"1.{n}\" />")
             out_lines.append("")
             if script:
-                blocks=parse_avg_blocks(script)
+                blocks=parse_avg_blocks(script, for_player=True)
                 for kind, *rest in blocks:
                     if kind=="text":
-                        sids=rest[0]
-                        for sid in sids:
-                            t=say_text(ep, sid)
-                            if t:
-                                # 保留 <br /> 但作为列表项
-                                out_lines.append(f"- {t}")
-                        out_lines.append("")
+                        render_says(rest[0], out_lines)
                     elif kind=="choice":
                         info=rest[0]
                         opts=info.get("opts") or info.get("order") or []
                         branches=info.get("branches",{})
                         order=info.get("order") or opts
-                        labels=info.get("labels") or {}
+                        labels = {o: (ELSE_LABEL.get(lang, "其它情况") if v == ELSE_SENTINEL else v) for o, v in (info.get("labels") or {}).items()}
                         # 选项文本（条件选择用预设标签，普通选项用 localize）
                         opt_labels=[labels.get(o) or (choice_text(ep, o) or o) for o in order]
                         # 若分支为空则跳过
@@ -910,13 +1098,10 @@ def gen_story_md():
                             sids=branches.get(cid,[])
                             out_lines.append(f"<template #branch-{bi}>")
                             out_lines.append("")
-                            for sid in sids:
-                                t=say_text(ep, sid)
-                                if t:
-                                    out_lines.append(f"- {t}")
-                            if not sids:
+                            if sids:
+                                render_says(sids, out_lines)
+                            else:
                                 out_lines.append(f"<!-- 空分支 {cid} -->")
-                            out_lines.append("")
                             out_lines.append("</template>")
                             out_lines.append("")
                         out_lines.append("</StoryChoice>")
@@ -936,17 +1121,14 @@ def gen_story_md():
         ep="main_story_1_ed_1"
         script=scripts.get(ep,"")
         if script:
-            blocks=parse_avg_blocks(script)
+            blocks=parse_avg_blocks(script, for_player=True)
             for kind, *rest in blocks:
                 if kind=="text":
-                    for sid in rest[0]:
-                        t=say_text(ep,sid)
-                        if t: out_lines.append(f"- {t}")
-                    out_lines.append("")
+                    render_says(rest[0], out_lines)
                 elif kind=="choice":
                     info=rest[0]; opts=info.get("order") or info.get("opts") or []
                     branches=info.get("branches",{})
-                    labels=info.get("labels") or {}
+                    labels = {o: (ELSE_LABEL.get(lang, "其它情况") if v == ELSE_SENTINEL else v) for o, v in (info.get("labels") or {}).items()}
                     opt_labels=[labels.get(o) or (choice_text(ep,o) or o) for o in opts]
                     if opt_labels:
                         import json as _json
@@ -954,20 +1136,11 @@ def gen_story_md():
                         out_lines.append(f"<StoryChoice :options='{opts_json}'>")
                         out_lines.append("")
                         for bi,cid in enumerate(opts):
-                            for sid in branches.get(cid,[]):
-                                t=say_text(ep,sid)
-                                if t:
-                                    # 需在对应分支模板内
-                                    pass
-                            # 简化：直接展开
-                        # 为简化，复用通用渲染：每个分支单独模板
-                        for bi,cid in enumerate(opts):
                             out_lines.append(f"<template #branch-{bi}>")
                             out_lines.append("")
-                            for sid in branches.get(cid,[]):
-                                t=say_text(ep,sid)
-                                if t: out_lines.append(f"- {t}")
-                            out_lines.append("")
+                            sids=branches.get(cid,[])
+                            if sids:
+                                render_says(sids, out_lines)
                             out_lines.append("</template>")
                             out_lines.append("")
                         out_lines.append("</StoryChoice>")
@@ -999,19 +1172,15 @@ def gen_story_md():
             out_lines.append(f"<VnPlayer episode=\"{ep}\" title=\"2.{n}\" />")
             out_lines.append("")
             if script:
-                blocks=parse_avg_blocks(script)
+                blocks=parse_avg_blocks(script, for_player=True)
                 for kind, *rest in blocks:
                     if kind=="text":
-                        for sid in rest[0]:
-                            t=say_text(ep,sid)
-                            if t: out_lines.append(f"- {t}")
-                        if rest[0]:
-                            out_lines.append("")
+                        render_says(rest[0], out_lines)
                     elif kind=="choice":
                         info=rest[0]
                         order=info.get("order") or info.get("opts") or []
                         branches=info.get("branches",{})
-                        labels=info.get("labels") or {}
+                        labels = {o: (ELSE_LABEL.get(lang, "其它情况") if v == ELSE_SENTINEL else v) for o, v in (info.get("labels") or {}).items()}
                         # opts 来自 order
                         opt_labels=[labels.get(o) or (choice_text(ep,o) or o) for o in order]
                         # 过滤空
@@ -1025,12 +1194,10 @@ def gen_story_md():
                             sids=branches.get(cid,[])
                             out_lines.append(f"<template #branch-{bi}>")
                             out_lines.append("")
-                            for sid in sids:
-                                t=say_text(ep,sid)
-                                if t: out_lines.append(f"- {t}")
-                            if not sids:
+                            if sids:
+                                render_says(sids, out_lines)
+                            else:
                                 out_lines.append(f"<!-- 空分支 {cid} -->")
-                            out_lines.append("")
                             out_lines.append("</template>")
                             out_lines.append("")
                         out_lines.append("</StoryChoice>")

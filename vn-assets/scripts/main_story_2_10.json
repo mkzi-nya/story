@@ -1,0 +1,2309 @@
+{
+  "episode": "main_story_2_10",
+  "blocks": [
+    {
+      "type": "scene",
+      "value": "dark_access"
+    },
+    {
+      "type": "bgs",
+      "value": "windstorm"
+    },
+    {
+      "type": "chara_settings",
+      "value": "lwy|luvia-arcadia"
+    },
+    {
+      "type": "chara",
+      "value": "selene/scare"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10001",
+          "speaker": "selene"
+        },
+        {
+          "id": "10002",
+          "speaker": "pb"
+        },
+        {
+          "id": "10003",
+          "speaker": "npc-nameless,male"
+        },
+        {
+          "id": "10004",
+          "speaker": "selene"
+        },
+        {
+          "id": "10005",
+          "speaker": "npc-nameless,male"
+        },
+        {
+          "id": "10006",
+          "speaker": "pb"
+        },
+        {
+          "id": "10007",
+          "speaker": "selene"
+        },
+        {
+          "id": "10008",
+          "speaker": "pb"
+        },
+        {
+          "id": "10009",
+          "speaker": "pb"
+        },
+        {
+          "id": "10010",
+          "speaker": "pb"
+        },
+        {
+          "id": "10011",
+          "speaker": "pb"
+        },
+        {
+          "id": "10012",
+          "speaker": "pb"
+        },
+        {
+          "id": "10013",
+          "speaker": "pb"
+        },
+        {
+          "id": "10014",
+          "speaker": "pb"
+        },
+        {
+          "id": "10015",
+          "speaker": "pb"
+        },
+        {
+          "id": "10016",
+          "speaker": "pb"
+        },
+        {
+          "id": "10017",
+          "speaker": "pb"
+        },
+        {
+          "id": "10018",
+          "speaker": "pb"
+        },
+        {
+          "id": "10019",
+          "speaker": "pb"
+        },
+        {
+          "id": "10020",
+          "speaker": "pb"
+        },
+        {
+          "id": "10021",
+          "speaker": "pb"
+        },
+        {
+          "id": "10022",
+          "speaker": "pb"
+        },
+        {
+          "id": "10023",
+          "speaker": "pb"
+        },
+        {
+          "id": "10024",
+          "speaker": "npc-nameless,female"
+        },
+        {
+          "id": "10025",
+          "speaker": "selene"
+        },
+        {
+          "id": "10026",
+          "speaker": "npc-nameless,female"
+        },
+        {
+          "id": "10027",
+          "speaker": "selene"
+        },
+        {
+          "id": "10028",
+          "speaker": "npc-nameless,female"
+        },
+        {
+          "id": "10029",
+          "speaker": "npc-nameless,female"
+        },
+        {
+          "id": "10030",
+          "speaker": "npc-nameless,female"
+        },
+        {
+          "id": "10031",
+          "speaker": "selene"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10032",
+          "speaker": "pb"
+        },
+        {
+          "id": "10033",
+          "speaker": "pb"
+        },
+        {
+          "id": "10034",
+          "speaker": "pb"
+        },
+        {
+          "id": "10035",
+          "speaker": "pb"
+        },
+        {
+          "id": "10036",
+          "speaker": "pb"
+        },
+        {
+          "id": "10037",
+          "speaker": "pb"
+        },
+        {
+          "id": "10038",
+          "speaker": "selene"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "bgs",
+      "value": "stop"
+    },
+    {
+      "type": "scene",
+      "value": "dark_access"
+    },
+    {
+      "type": "bgs",
+      "value": "rain_inside"
+    },
+    {
+      "type": "chara",
+      "value": "lwy/frown"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10039",
+          "speaker": "pb"
+        },
+        {
+          "id": "10040",
+          "speaker": "pb"
+        },
+        {
+          "id": "10041",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "scene",
+      "value": "maintenance_access_dark"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10042",
+          "speaker": "w"
+        },
+        {
+          "id": "10043",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10044",
+          "speaker": "pb"
+        },
+        {
+          "id": "10045",
+          "speaker": "pb"
+        },
+        {
+          "id": "10046",
+          "speaker": "pb"
+        },
+        {
+          "id": "10047",
+          "speaker": "pb"
+        },
+        {
+          "id": "10048",
+          "speaker": "w"
+        },
+        {
+          "id": "10049",
+          "speaker": "pb"
+        },
+        {
+          "id": "10050",
+          "speaker": "pb"
+        },
+        {
+          "id": "10051",
+          "speaker": "pb"
+        },
+        {
+          "id": "10052",
+          "speaker": "w"
+        },
+        {
+          "id": "10053",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10054",
+          "speaker": "pb"
+        },
+        {
+          "id": "10055",
+          "speaker": "pb"
+        },
+        {
+          "id": "10056",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "scene",
+      "value": "arcadia_street_dark"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10057",
+          "speaker": "pb"
+        },
+        {
+          "id": "10058",
+          "speaker": "pb"
+        },
+        {
+          "id": "10059",
+          "speaker": "solara"
+        },
+        {
+          "id": "10060",
+          "speaker": "w"
+        },
+        {
+          "id": "10061",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10062",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "solara/frown+npc-zoya/default"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10063",
+          "speaker": "solara"
+        },
+        {
+          "id": "10064",
+          "speaker": "npc-zoya"
+        },
+        {
+          "id": "10065",
+          "speaker": "solara"
+        },
+        {
+          "id": "10066",
+          "speaker": "pb"
+        },
+        {
+          "id": "10067",
+          "speaker": "pb"
+        },
+        {
+          "id": "10068",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "lwy/frown+solara/frown"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10069",
+          "speaker": "solara"
+        },
+        {
+          "id": "10070",
+          "speaker": "solara"
+        },
+        {
+          "id": "10071",
+          "speaker": "w"
+        },
+        {
+          "id": "10072",
+          "speaker": "solara"
+        },
+        {
+          "id": "10073",
+          "speaker": "pb"
+        },
+        {
+          "id": "10074",
+          "speaker": "pb"
+        },
+        {
+          "id": "10075",
+          "speaker": "pb"
+        },
+        {
+          "id": "10076",
+          "speaker": "pb"
+        },
+        {
+          "id": "10077",
+          "speaker": "w"
+        },
+        {
+          "id": "10078",
+          "speaker": "solara"
+        },
+        {
+          "id": "10079",
+          "speaker": "pb"
+        },
+        {
+          "id": "10080",
+          "speaker": "solara"
+        },
+        {
+          "id": "10081",
+          "speaker": "solara"
+        },
+        {
+          "id": "10082",
+          "speaker": "pb"
+        },
+        {
+          "id": "10083",
+          "speaker": "pb"
+        },
+        {
+          "id": "10084",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "emotion",
+      "value": "solara|cry"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10085",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "lwy/frown"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10086",
+          "speaker": "pb"
+        },
+        {
+          "id": "10087",
+          "speaker": "pb"
+        },
+        {
+          "id": "10088",
+          "speaker": "pb"
+        },
+        {
+          "id": "10089",
+          "speaker": "w"
+        },
+        {
+          "id": "10090",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10091",
+          "speaker": "w"
+        },
+        {
+          "id": "10092",
+          "speaker": "w"
+        },
+        {
+          "id": "10093",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "lwy/frown+npc-zoya/default"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10094",
+          "speaker": "npc-zoya"
+        },
+        {
+          "id": "10095",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10096",
+          "speaker": "w"
+        },
+        {
+          "id": "10097",
+          "speaker": "pb"
+        },
+        {
+          "id": "10098",
+          "speaker": "pb"
+        }
+      ]
+    }
+  ],
+  "dialogues": {
+    "zh_Hans": {
+      "say10042": "走这里！",
+      "say10044": "通道很快便衔接上一段向下延伸的金属楼梯。走下去，水已经没过腰部，我和露薇娅蹚水从通道中艰难地移动着。",
+      "say10071": "可以！但你……",
+      "say10075": "如果可能的话，我甚至希望与她一起去。",
+      "say10025": "还有人……果然还有人。",
+      "say10010": "但是她不能停下。",
+      "say10094": "露薇娅小妹！！上面过来的水流变急了，你能帮我们一起搬沙袋吗？！",
+      "say10078": "看到前面的大门了吗，敞开的那扇！我们得想办法让尽可能多的洪水往那里去！",
+      "say10054": "她半截身子在水中朝我摇手。",
+      "say10039": "3区到4区的隧道已经只能靠游泳经过，但露薇娅的体能跟不太上。",
+      "say10006": "配电箱因为短路爆散出刺眼的电火花，两道防水大门的其中一道轰然关闭。逃跑的居民惊叫起来，乱作一团。",
+      "say10029": "塞勒涅……大人？您……",
+      "say10023": "我不可以脱身。",
+      "say10063": "2号通道有人受伤！快把他带下去！",
+      "say10083": "好在这里本身就是个地铁站，将这些通道用家具与维修材料临时堵上算得上可行方案。",
+      "say10051": "我根本不知道这么做的意义是什么。原本是要拦住索莱娜，但我们现在反而是和索莱娜一起更接近塞勒涅所在的地点了。",
+      "say10057": "艰难地拧开铁门上的房门后，我和露薇娅跑入已经快是空城的住宅区。",
+      "say10027": "坚持住，我来帮你。",
+      "say10070": "……你能帮我继续指挥大家给洪水改道吗？！",
+      "say10080": "技术人员已经强制开机了一部分排水装置，工业泵也抽得都冒烟了，留给我们的大概还有一个小时的时间！！",
+      "say10013": "这意味着自己必须进到最深处。",
+      "say10019": "就算我溺水而亡，在那之前，我也要救下尽可能多的人。",
+      "say10055": "我们再度换路而行。",
+      "say10066": "此时，住宅区的一大半已经浸泡在水中，但仍有一批人坚持在自己的岗位上。",
+      "say10004": "不！我这里还有其他要做的，你带孩子逃离这里！",
+      "say10021": "因为这才是我证明自己并非一个无能的傀儡执政官的方法。",
+      "say10043": "嗯！",
+      "say10069": "是……你们……",
+      "say10050": "我的喘息声变得愈发粗重。心脏仿佛都要从胸口里跳出来。",
+      "say10016": "前进。",
+      "say10084": "这里交给我，我已经知道该怎么做了。",
+      "say10022": "我需要帮助他们。在他们最需要帮助的时候，我绝不能逃避。",
+      "say10033": "痛苦、受的伤、脖子以下水的冰凉，已经感受不到了。",
+      "say10077": "改到哪里？！",
+      "say10095": "来了！",
+      "say10015": "赌上性命……也要前进。",
+      "say10097": "我与露薇娅立即投入了前线。",
+      "say10049": "通道里回荡着水声。在如此深水中行动艰难万分，短短十几米的路程寸步难行。",
+      "say10020": "因为这才是我的使命。",
+      "say10090": "嗯？为什么会说这个？",
+      "say10074": "但我却开始不愿阻止她了。",
+      "say10081": "我们的人已经砸掉了几面墙，在集水坑撑不住之前只要将这里的路口全都堵死，的确能将洪水给强行引流！",
+      "say10034": "好似能够继续前进的空壳，少女因最后的执念朝前行进。",
+      "say10067": "他们在水中不断地修补各个破口，抽走积水。 ",
+      "say10026": "那边有人吗？！救命，这里！我被困在这里了！！",
+      "say10085": "索莱娜用复杂的眼神草草地看了我一眼，我注意到她的眼中盈满泪水。",
+      "say10096": "喂这位先生，你小心点，那块铁板如果倒下来反而会拦住水流，让洪水倒灌进来！",
+      "say10068": "索莱娜！！",
+      "say10056": "这扇门……拧得动！！",
+      "say10086": "或许，她早就想要去找姐姐了。是这座城市牵制住了她。",
+      "say10007": "你们自己的性命才是最重要的，不要管我！！",
+      "say10036": "多救一个人。",
+      "say10012": "而且……最尽头，通往旧开发区最大的那扇门，需要自己身上的钥匙才能开启。",
+      "say10030": "您怎么……",
+      "say10008": "塞勒涅继续朝着远处涉水。",
+      "say10040": "我沿着墙体找了许久，拧开一扇被阀门封住的铁门。",
+      "say10062": "我们循着声音传来的方向跑去。由于城内此刻只剩水声，远处的说话声显得格外清晰。",
+      "say10091": "她显然早就信任我们两人了，但她却放不下自己根深蒂固的心魔。",
+      "say10093": "……我希望她能找到塞勒涅。",
+      "say10092": "但在姐姐遇到危险的时候，她还是义无反顾地将重要的任务托付给了我们。",
+      "say10098": "索莱娜的身影消失在所有居民都背道而驰的红色警示灯光之中。",
+      "say10024": "救命，我不会游泳！！",
+      "say10002": "一个正在大哭的女孩被塞勒涅拖着举向了干涸的地方。上面不会游泳的成年人一把接过孩子。",
+      "say10045": "这里理应不会被洪水波及，此时4区的情况肯定不容乐观。",
+      "say10082": "确实，现在的情势仍然很危急，还有至少两个街口完全处于通畅无阻的状态。",
+      "say10037": "我的命，不重要。",
+      "say10088": "但她能够将指挥的任务交给我。",
+      "say10089": "这女孩子……很可怜。",
+      "say10060": "你听到了吗？",
+      "say10032": "疲惫，已经感受不到了。",
+      "say10028": "塞勒涅大人！！",
+      "say10059": "5号通道又出现新的破口了！你快去补上！",
+      "say10003": "塞勒涅大人，握紧我的手，我拉你也上来！！",
+      "say10073": "我知道她心中所想。",
+      "say10046": "为什么会把住宅区建立在地势最低的地方？是故意这么规划的，还是说那时的扩建方向别无选择？",
+      "say10048": "快到了……前面是上行的楼梯，太好了。",
+      "say10041": "至于这里是什么维修通道还是员工休息室，我已经顾不上了。",
+      "say10001": "坚持……住！！",
+      "say10053": "这里！！",
+      "say10065": "又一台抽水机烧坏了！再运一台过来！",
+      "say10058": "看来许多人都疏散到开拓区了，我不知为何替塞勒涅松了口气。",
+      "say10072": "你不需要管我要做什么！！",
+      "say10061": "嗯，是索莱娜的声音。",
+      "say10017": "不能放弃。",
+      "say10018": "他们是我所爱的居民。",
+      "say10052": "这扇门……可恶，开不了。露薇娅，刚才还有别的岔路吗？！",
+      "say10087": "因为这里的人们是姐姐珍视的存在。索莱娜没法就居民的处境坐视不管。",
+      "say10079": "我努力张望，辨别出索莱娜所指的大门。走路过去不算远，但如果是要将路口全都堵起来，这可太远了。",
+      "say10047": "说到底，4区这块地方留到最后才建出来，说不定就是因为考虑到了它的地势。",
+      "say10011": "自己有水性，里面有毫无水性的遇难者在面临生死存亡。",
+      "say10005": "前面的水很快就要漫过天花板了，我不能看着你就这么前进！",
+      "say10009": "深水已经淹到她的胸口。体力已经耗尽了。",
+      "say10035": "救下又一人。哪怕是多救一个人也好。",
+      "say10038": "跟我……一起，逃。",
+      "say10076": "所以，在这样的关头……",
+      "say10014": "在那之后，回头的路会被彻底淹没。但如果能在耗尽氧气之前打开那扇门，这里的水位就会下降了。",
+      "say10031": "我，怎么了吗？",
+      "say10064": "好！"
+    },
+    "zh_Hant": {
+      "say10042": "走這裡！",
+      "say10044": "通道很快便銜接上一段向下延伸的金屬樓梯。走下去，水已經沒過腰部，我和露薇婭淌水從通道中艱難地移動著。",
+      "say10071": "可以！但你……",
+      "say10075": "如果可能的話，我甚至希望與她一起去。",
+      "say10025": "還有人……果然還有人。",
+      "say10010": "但是她不能停下。",
+      "say10094": "露薇婭小妹！！上面過來的水流變急了，你能幫我們一起搬沙袋嗎？！",
+      "say10078": "看到前面的大門了嗎，敞開的那扇！我們得想辦法讓儘可能多的洪水往那裡去！",
+      "say10054": "她半截身子在水中朝我搖手。",
+      "say10039": "3區到4區的隧道已經只能靠游泳經過，但露薇婭的體能跟不太上。",
+      "say10006": "配電箱因為短路爆散出刺眼的電火花，兩道防水大門的其中一道轟然關閉。逃跑的居民驚叫起來，亂作一團。",
+      "say10029": "塞勒涅……大人？您……",
+      "say10023": "我不可以脫身。",
+      "say10063": "2號通道有人受傷！快把他帶下去！",
+      "say10083": "好在這裡本身就是個地鐵站，將這些通道用傢俱與維修材料臨時堵上算得上可行方案。",
+      "say10051": "我根本不知道這麼做的意義是什麼。原本是要攔住索萊娜，但我們現在反而是和索萊娜一起更接近塞勒涅所在的地點了。",
+      "say10057": "艱難地擰開鐵門上的房門後，我和露薇婭跑入已經快是空城的住宅區。",
+      "say10027": "堅持住，我來幫你。",
+      "say10070": "……你能幫我繼續指揮大家給洪水改道嗎？！",
+      "say10080": "技術人員已經強制開機了一部分排水裝置，工業泵也抽得都冒煙了，留給我們的大概還有一個小時的時間！！",
+      "say10013": "這意味著自己必須進到最深處。",
+      "say10019": "就算我溺水而亡，在那之前，我也要救下儘可能多的人。",
+      "say10055": "我們再度換路而行。",
+      "say10066": "此時，住宅區的一大半已經浸泡在水中，但仍有一批人堅持在自己的崗位上。",
+      "say10004": "不！我這裡還有其他要做的，你帶孩子逃離這裡！",
+      "say10021": "因為這才是我證明自己並非一個無能的傀儡執政官的方法。",
+      "say10043": "嗯！",
+      "say10069": "是……你們……",
+      "say10050": "我的喘息聲變得愈發粗重。心臟彷彿都要從胸口裡跳出來。",
+      "say10016": "前進。",
+      "say10084": "這裡交給我，我已經知道該怎麼做了。",
+      "say10022": "我需要幫助他們。在他們最需要幫助的時候，我絕不能逃避。",
+      "say10033": "痛苦、受的傷、脖子以下水的冰涼，已經感受不到了。",
+      "say10077": "改到哪裡？！",
+      "say10095": "來了！",
+      "say10015": "賭上性命……也要前進。",
+      "say10097": "我與露薇婭立即投入了前線。",
+      "say10049": "通道里迴盪著水聲。在如此深水中行動艱難萬分，短短十幾米的路程寸步難行。",
+      "say10020": "因為這才是我的使命。",
+      "say10090": "嗯？為什麼會說這個？",
+      "say10074": "但我卻開始不願阻止她了。",
+      "say10081": "我們的人已經砸掉了幾面牆，在集水坑撐不住之前只要將這裡的路口全都堵死，的確能將洪水給強行引流！",
+      "say10034": "好似能夠繼續前進的空殼，少女因最後的執念朝前行進。",
+      "say10067": "他們在水中不斷地修補各個破口，抽走積水。 ",
+      "say10026": "那邊有人嗎？！救命，這裡！我被困在這裡了！！",
+      "say10085": "索萊娜用複雜的眼神草草地看了我一眼，我注意到她的眼中盈滿淚水。",
+      "say10096": "喂這位先生，你小心點，那塊鐵板如果倒下來反而會攔住水流，讓洪水倒灌進來！",
+      "say10068": "索萊娜！！",
+      "say10056": "這扇門……擰得動！！",
+      "say10086": "或許，她早就想要去找姐姐了。是這座城市牽制住了她。",
+      "say10007": "你們自己的性命才是最重要的，不要管我！！",
+      "say10036": "多救一個人。",
+      "say10012": "而且……最盡頭，通往舊開發區最大的那扇門，需要自己身上的鑰匙才能開啟。",
+      "say10030": "您怎麼……",
+      "say10008": "塞勒涅繼續朝著遠處涉水。",
+      "say10040": "我沿著牆體找了許久，擰開一扇被閥門封住的鐵門。",
+      "say10062": "我們循著聲音傳來的方向跑去。由於城內此刻只剩水聲，遠處的說話聲顯得格外清晰。",
+      "say10091": "她顯然早就信任我們兩人了，但她卻放不下自己根深蒂固的心魔。",
+      "say10093": "……我希望她能找到塞勒涅。",
+      "say10092": "但在姐姐遇到危險的時候，她還是義無反顧地將重要的任務託付給了我們。",
+      "say10098": "索萊娜的身影消失在所有居民都背道而馳的紅色警示燈光之中。",
+      "say10024": "救命，我不會游泳！！",
+      "say10002": "一個正在大哭的女孩被塞勒涅拖著舉向了乾涸的地方。上面不會游泳的成年人一把接過孩子。",
+      "say10045": "這裡理應不會被洪水波及，此時4區的情況肯定不容樂觀。",
+      "say10082": "確實，現在的情勢仍然很危急，還有至少兩個街口完全處於通暢無阻的狀態。",
+      "say10037": "我的命，不重要。",
+      "say10088": "但她能夠將指揮的任務交給我。",
+      "say10089": "這女孩子……很可憐。",
+      "say10060": "你聽到了嗎？",
+      "say10032": "疲憊，已經感受不到了。",
+      "say10028": "塞勒涅大人！！",
+      "say10059": "5號通道又出現新的破口了！你快去補上！",
+      "say10003": "塞勒涅大人，握緊我的手，我拉你也上來！！",
+      "say10073": "我知道她心中所想。",
+      "say10046": "為什麼會把住宅區建立在地勢最低的地方？是故意這麼規劃的，還是說那時的擴建方向別無選擇？",
+      "say10048": "快到了……前面是上行的樓梯，太好了。",
+      "say10041": "至於這裡是什麼維修通道還是員工休息室，我已經顧不上了。",
+      "say10001": "堅持……住！！",
+      "say10053": "這裡！！",
+      "say10065": "又一臺抽水機燒壞了！再運一臺過來！",
+      "say10058": "看來許多人都疏散到開拓區了，我不知為何替塞勒涅鬆了口氣。",
+      "say10072": "你不需要管我要做什麼！！",
+      "say10061": "嗯，是索萊娜的聲音。",
+      "say10017": "不能放棄。",
+      "say10018": "他們是我所愛的居民。",
+      "say10052": "這扇門……可惡，開不了。露薇婭，剛才還有別的岔路嗎？！",
+      "say10087": "因為這裡的人們是姐姐珍視的存在。索萊娜沒法就居民的處境坐視不管。",
+      "say10079": "我努力張望，辨別出索萊娜所指的大門。走路過去不算遠，但如果是要將路口全都堵起來，這可太遠了。",
+      "say10047": "說到底，4區這塊地方留到最後才建出來，說不定就是因為考慮到了它的地勢。",
+      "say10011": "自己有水性，裡面有毫無水性的遇難者在面臨生死存亡。",
+      "say10005": "前面的水很快就要漫過天花板了，我不能看著你就這麼前進！",
+      "say10009": "深水已經淹到她的胸口。體力已經耗盡了。",
+      "say10035": "救下又一人。哪怕是多救一個人也好。",
+      "say10038": "跟我……一起，逃。",
+      "say10076": "所以，在這樣的關頭……",
+      "say10014": "在那之後，回頭的路會被徹底淹沒。但如果能在耗盡氧氣之前打開那扇門，這裡的水位就會下降了。",
+      "say10031": "我，怎麼了嗎？",
+      "say10064": "好！"
+    },
+    "yue_Hant": {
+      "say10042": "行呢度！",
+      "say10044": "通道好快就銜接上一段向下延伸嘅金屬樓梯。行落去，水已經浸過腰部，我同露薇婭蹚水喺通道中艱難噉移動住。",
+      "say10071": "可以！但你……",
+      "say10075": "如果可能嘅話，我甚至希望同佢一齊去。",
+      "say10025": "仲有人……果然仲有人。",
+      "say10010": "但係佢唔可以停低。",
+      "say10094": "露薇婭小妹！！上面過嚟嘅水流變急了，你可以幫我哋一齊搬沙包嗎？！",
+      "say10078": "睇到前面嘅大門嗎，敞開嗰扇！我哋要想辦法令盡可能多嘅洪水往嗰度去！",
+      "say10054": "佢半截身喺水中朝我搖手。",
+      "say10039": "3區到4區嘅隧道已經只能靠游水經過，但露薇婭嘅體能跟唔太上。",
+      "say10006": "配電箱因為短路爆散出刺眼嘅電火花，兩道防水大門嘅其中一道轟然關閉。逃跑嘅居民驚叫起嚟，亂作一團。",
+      "say10029": "月蓮……大人？您……",
+      "say10023": "我唔可以脫身。",
+      "say10063": "2號通道有人受傷！快將佢帶落去！",
+      "say10083": "好在呢度本身就係個地鐵站，將呢啲通道用傢俬同維修材料臨時堵上算得上可行方案。",
+      "say10051": "我根本唔知噉做嘅意義係乜。原本係要攔住陽娜，但我哋而家反而係同陽娜一齊更接近月蓮所在嘅地點了。",
+      "say10057": "艱難噉扭開鐵門上嘅門閂之後，我同露薇婭跑入已經快係空城嘅住宅區。",
+      "say10027": "堅持住，我嚟幫你。",
+      "say10070": "……你可以幫我繼續指揮大家畀洪水改道嗎？！",
+      "say10080": "技術人員已經強制開機咗一部分排水裝置，工業泵都抽到冒煙了，留畀我哋嘅大概仲有一個鐘嘅時間！！",
+      "say10013": "呢意味住自己必須去到最深處。",
+      "say10019": "就算我溺水而亡，喺嗰之前，我都要救下盡可能多嘅人。",
+      "say10055": "我哋再度換路而行。",
+      "say10066": "此時，住宅區嘅一大半已經浸喺水中，但仍有一批人堅持喺自己嘅崗位上。",
+      "say10004": "唔！我呢度仲有其他要做嘅，你帶孩子逃離呢度！",
+      "say10021": "因為呢先係我證明自己並非一個無能嘅傀儡執政官嘅方法。",
+      "say10043": "嗯！",
+      "say10069": "係……你哋……",
+      "say10050": "我嘅喘息聲變得越嚟越粗重。心臟好似都要從胸口跳出嚟。",
+      "say10016": "前進。",
+      "say10084": "呢度交畀我，我已經知道應該點做了。",
+      "say10022": "我需要幫助佢哋。喺佢哋最需要幫助嘅時候，我絕唔可以逃避。",
+      "say10033": "痛苦、受嘅傷、頸以下水嘅冰凍，已經感受唔到了。",
+      "say10077": "改到邊度？！",
+      "say10095": "嚟了！",
+      "say10015": "賭上性命……都要前進。",
+      "say10097": "我同露薇婭即刻投入前線。",
+      "say10049": "通道入面迴盪住水聲。喺如此深水中行動艱難萬分，短短十幾米嘅路程寸步難行。",
+      "say10020": "因為呢先係我嘅使命。",
+      "say10090": "嗯？點解會講呢個？",
+      "say10074": "但我卻開始唔願意阻止佢了。",
+      "say10081": "我哋嘅人已經砸掉咗幾面牆，喺集水坑撐唔住之前只要將呢度嘅路口全都堵死，確實可以將洪水強行引流！",
+      "say10034": "好似能夠繼續前進嘅空殼，少女因最後嘅執念朝前行進。",
+      "say10067": "佢哋喺水中不斷修補各個破口，抽走積水。 ",
+      "say10026": "嗰邊有人嗎？！救命，呢度！我被困喺呢度了！！",
+      "say10085": "陽娜用複雜嘅眼神草草望咗我一眼，我注意到佢嘅眼中盈滿淚水。",
+      "say10096": "喂呢位先生，你小心啲，嗰塊鐵板如果倒落嚟反而會攔住水流，令洪水倒灌入嚟！",
+      "say10068": "陽娜！！",
+      "say10056": "呢扇門……扭得動！！",
+      "say10086": "或者，佢早就想去搵姐姐了。係呢座城市牽制住佢。",
+      "say10007": "你哋自己嘅性命先最重要，唔好理我！！",
+      "say10036": "多救一個人。",
+      "say10012": "而且……最盡頭，通往舊開發區最大嗰扇門，需要自己身上嘅鎖匙先可以開啟。",
+      "say10030": "您點解……",
+      "say10008": "月蓮繼續朝住遠處涉水。",
+      "say10040": "我沿住牆體搵咗好耐，扭開一扇被閥門封住嘅鐵門。",
+      "say10062": "我哋循住聲音傳嚟嘅方向跑去。由於城內此刻只剩水聲，遠處嘅講嘢聲顯得格外清晰。",
+      "say10091": "佢顯然早就信任我哋兩個了，但佢卻放唔低自己根深蒂固嘅心魔。",
+      "say10093": "……我希望佢可以搵到月蓮。",
+      "say10092": "但喺姐姐遇到危險嘅時候，佢仲係義無反顧噉將重要嘅任務託付畀我哋。",
+      "say10098": "陽娜嘅身影消失喺所有居民都背道而馳嘅紅色警示燈光之中。",
+      "say10024": "救命，我唔識游水！！",
+      "say10002": "一個正喺大喊嘅女仔被月蓮拖住舉向乾涸嘅地方。上面唔識游水嘅成年人一把接過孩子。",
+      "say10045": "呢度理應唔會被洪水波及，此時4區嘅情況肯定唔容樂觀。",
+      "say10082": "確實，而家嘅情勢仍然好危急，仲有至少兩個街口完全處於暢通無阻嘅狀態。",
+      "say10037": "我嘅命，唔重要。",
+      "say10088": "但佢可以將指揮嘅任務交畀我。",
+      "say10089": "呢個女仔……好可憐。",
+      "say10060": "你聽到嗎？",
+      "say10032": "疲憊，已經感受唔到了。",
+      "say10028": "月蓮大人！！",
+      "say10059": "5號通道又出現新嘅破口了！你快去補上！",
+      "say10003": "月蓮大人，握實我嘅手，我拉你都上嚟！！",
+      "say10073": "我知道佢心中所想。",
+      "say10046": "點解會將住宅區建喺地勢最低嘅地方？係故意噉規劃，定係話嗰時嘅擴建方向別無選擇？",
+      "say10048": "快到了……前面係上行嘅樓梯，太好了。",
+      "say10041": "至於呢度係乜維修通道定係員工休息室，我已經顧唔上了。",
+      "say10001": "堅持……住！！",
+      "say10053": "呢度！！",
+      "say10065": "又一台抽水機燒壞了！再運一台過嚟！",
+      "say10058": "睇嚟好多人都疏散到開拓區了，我唔知點解替月蓮鬆咗口氣。",
+      "say10072": "你唔需要理我要做乜！！",
+      "say10061": "嗯，係陽娜嘅聲音。",
+      "say10017": "唔可以放棄。",
+      "say10018": "佢哋係我所愛嘅居民。",
+      "say10052": "呢扇門……可惡，開唔到。露薇婭，頭先仲有冇其他岔路？！",
+      "say10087": "因為呢度嘅人係姐姐珍視嘅存在。陽娜冇法就居民嘅處境坐視不管。",
+      "say10079": "我努力張望，辨別出陽娜所指嘅大門。行路過去唔算遠，但如果係要將路口全都堵起嚟，呢可太遠了。",
+      "say10047": "講到底，4區呢塊地方留到最後先建出嚟，話唔定就係因為考慮到佢嘅地勢。",
+      "say10011": "自己識水性，入面有完全唔識游水嘅遇難者喺面臨生死存亡。",
+      "say10005": "前面嘅水好快就要漫過天花板了，我唔可以睇住你就噉前進！",
+      "say10009": "深水已經浸到佢胸口。體力已經耗盡了。",
+      "say10035": "救下又一人。就算係多救一個人都好。",
+      "say10038": "跟我……一齊，逃。",
+      "say10076": "所以，喺噉嘅關頭……",
+      "say10014": "喺嗰之後，回頭嘅路會被徹底淹沒。但如果可以喺耗盡氧氣之前打開嗰扇門，呢度嘅水位就會下降。",
+      "say10031": "我，點了嗎？",
+      "say10064": "好！"
+    },
+    "en": {
+      "say10042": "This way!",
+      "say10044": "The passage soon connected to a downward metal staircase. By the time we went down, water was already above our waists, and Luvia and I struggled through the flooded corridor.",
+      "say10071": "Yes! But you…",
+      "say10075": "If possible, I even wanted to go with her.",
+      "say10025": "There's still someone... of course there is.",
+      "say10010": "But she couldn't stop.",
+      "say10094": "Little sis Luvia!! The current from above is getting stronger. Can you help us move sandbags?!",
+      "say10078": "See the gate ahead? The open one! We have to divert as much floodwater as possible through here!",
+      "say10054": "She waved at me with half her body submerged.",
+      "say10039": "The tunnel from District 3 to District 4 could now only be crossed by swimming, but Luvia's stamina couldn't quite keep up.",
+      "say10006": "The electrical box burst with blinding sparks from a short circuit. One of the two waterproof gates slammed shut. Fleeing residents screamed and fell into chaos.",
+      "say10029": "Chairman… Selene? You…",
+      "say10023": "I could not walk away.",
+      "say10063": "Someone's hurt in Passage 2! Get him down here now!",
+      "say10083": "Fortunately this was originally a subway station, so temporarily blocking passages with furniture and maintenance materials was feasible.",
+      "say10051": "I had no idea what the point of this was anymore. We were supposed to stop Solara, but now we were getting closer to Selene's location together with her.",
+      "say10057": "After laboriously twisting open the iron door, Luvia and I ran into a residential district that was nearly a ghost town.",
+      "say10027": "Hold on, I'm coming.",
+      "say10070": "...Can you keep commanding everyone to reroute the flood for me?!",
+      "say10080": "Technicians have force-started part of the drainage devices, and the industrial pumps are smoking. We probably only have about one hour left!!",
+      "say10013": "That meant she had to go all the way in.",
+      "say10019": "Even if I drown, I would save as many people as I could before that happened.",
+      "say10055": "We changed routes again.",
+      "say10066": "By then, over half the residential district was underwater, yet a group of people still held their posts.",
+      "say10004": "No! I still have things to do here. Take the child and get out!",
+      "say10021": "Because that's my way of proving myself not to be a powerless puppet archon.",
+      "say10043": "Okay!",
+      "say10069": "It's… you two…",
+      "say10050": "My breathing grew heavier and heavier. My heart felt like it would burst out of my chest.",
+      "say10016": "Forward.",
+      "say10084": "Leave this to me. I already know what to do.",
+      "say10022": "I have to help them. When they need me most, I absolutely could not run away.",
+      "say10033": "Pain, injuries, the icy water below her neck, she could no longer feel any of it.",
+      "say10077": "Reroute it where?!",
+      "say10095": "Coming!",
+      "say10015": "Even staking her life... she had to move forward.",
+      "say10097": "Luvia and I immediately threw ourselves into the front line.",
+      "say10049": "Water echoed through the passage. Moving in such deep water was incredibly hard. A dozen meters felt impossible.",
+      "say10020": "Because that's my calling.",
+      "say10090": "Hm? Why say that?",
+      "say10074": "But I no longer wanted to stop her.",
+      "say10081": "Our people have already broken down several walls. If we block all the intersections here before the sump pit fails, we really can force the flood to divert!",
+      "say10034": "Like a hollow shell still capable of motion, the young woman pressed on, driven by nothing but her final, unyielding resolve.",
+      "say10067": "They kept patching breaches in the water and pumping out standing floodwater. ",
+      "say10026": "Is someone there?! Help, here! I'm trapped here!!",
+      "say10085": "Solara shot me a brief, complicated look. Her eyes were brimming with tears.",
+      "say10096": "Hey sir, be careful. If that steel plate falls, it'll block flow and force floodwater back in!",
+      "say10068": "Solara!!",
+      "say10056": "This door... it turns!!",
+      "say10086": "Maybe she had wanted to go find her sister long ago. This city was what held her back.",
+      "say10007": "Your own lives come first. Don't worry about me!!",
+      "say10036": "One more person.",
+      "say10012": "And at the very end... the largest gate leading to the Old Expansion District required the key on her body.",
+      "say10030": "How are you…",
+      "say10008": "Selene kept wading toward the distance.",
+      "say10040": "I searched along the wall for a long while and twisted open an iron door sealed by a valve.",
+      "say10062": "We ran toward the sound. With only water noise left in the city, distant voices were unusually clear.",
+      "say10091": "She clearly already trusts both of us, but she still can't let go of the deeply rooted demons in her heart.",
+      "say10093": "...I hope she can find Selene.",
+      "say10092": "Yet when her sister was in danger, she still entrusted us with the key task without hesitation.",
+      "say10098": "Solara's silhouette dissolved into the red warning lights, moving against the tide of every fleeing resident.",
+      "say10024": "Help! I can't swim!!",
+      "say10002": "Selene dragged a crying girl and lifted her toward dry ground. An adult up there who couldn't swim grabbed the child.",
+      "say10045": "This area should be safe from the flood, which meant the situation of District 4 must be grim.",
+      "say10082": "True, the situation was still critical. At least two intersections were still completely open.",
+      "say10037": "My life doesn't matter.",
+      "say10088": "But she could entrust the command role to me.",
+      "say10089": "That girl... she's really pitiful.",
+      "say10060": "Did you hear that?",
+      "say10032": "Fatigue, she could no longer feel.",
+      "say10028": "Chairman Selene!!",
+      "say10059": "Another breach in Passage 5! You, go patch it!",
+      "say10003": "Chairman Selene, grab my hand, I'll pull you up too!!",
+      "say10073": "I knew what she was thinking.",
+      "say10046": "Why build the residential district at the lowest elevation? Was that intentional planning, or were there no other expansion options then?",
+      "say10048": "Almost there... stairs going up ahead, thank goodness.",
+      "say10041": "As for whether this was a maintenance passage or an employee lounge, I had no time to think about it.",
+      "say10001": "Hold... on!!",
+      "say10053": "Here!!",
+      "say10065": "Another pump just burned out! Bring another one over!",
+      "say10058": "It seemed that many people had evacuated to the development district. For some reason, that made me feel relieved for Selene.",
+      "say10072": "You don't need to worry about what I'm going to do!!",
+      "say10061": "Yeah, it's Solara's voice.",
+      "say10017": "She wouldn't give up.",
+      "say10018": "These are the people I love.",
+      "say10052": "This door... damn it, it won't open. Luvia, were there any other forks back there?!",
+      "say10087": "Because the people here were those her sister treasured. Solara couldn't ignore what the residents were facing.",
+      "say10079": "I squinted hard and made out the gate Solara indicated. Walking there wasn't far, but sealing every intersection to force flow there was very far.",
+      "say10047": "In the end, maybe District 4 was built last precisely because of its terrain.",
+      "say10011": "She could swim. But victims inside could not, they were fighting for their lives.",
+      "say10005": "The water will cover the ceiling soon. I can't let you charge ahead like this!",
+      "say10009": "The deep water had reached her chest. Her stamina was exhausted.",
+      "say10035": "Save one more person. Even one more.",
+      "say10038": "Run... with me.",
+      "say10076": "So at a moment like this…",
+      "say10014": "Once that was done, the way back would be completely submerged. But if she could open that gate before her oxygen ran out, the water level here would drop.",
+      "say10031": "Is... something wrong with me?",
+      "say10064": "Got it!"
+    },
+    "ja": {
+      "say10042": "こっちだ！",
+      "say10044": "通路はすぐに、下方へ延びる金属製の階段へとつながった。降りていくと、水はすでに腰の高さにまで達しており、私とLuviaは水をかき分けながら、その通路を難儀して進んでいった。",
+      "say10071": "できる！しかし君は……",
+      "say10075": "もしできることならば、彼女と一緒に行ってやりたいとさえ思っている。",
+      "say10025": "まだ人が……やはり、まだいた。",
+      "say10010": "だが、立ち止まるわけにはいかない。",
+      "say10094": "Luvia小妹！！上の方からの水流が急になってきた。一緒に土嚢を運ぶのを手伝ってくれるか？！",
+      "say10078": "前方のゲートが見えるでしょ、開いてるほうよ！できるだけ多くの洪水をあそこへ向かわせる方法を考えないと！",
+      "say10054": "彼女は半身を水に浸したまま、私に向かって手を振った。",
+      "say10039": "3区から4区へのトンネルは、もはや泳がなければ通れなかったが、Luviaの体力が追いつかない。",
+      "say10006": "配電ボックスがショートし、眩い火花を散らした。二重の防水扉のうち一枚が轟音と共に閉鎖される。逃げ惑う住民たちの悲鳴が上がり、大混乱に陥った。",
+      "say10029": "Selene……様？あなたは……",
+      "say10023": "自分だけ助かるわけにはいかない。",
+      "say10063": "2号通路で怪我人が出た！彼を早く運び出してくれ！",
+      "say10083": "幸いここはもともとが地下鉄の駅だ。これらの通路を家具や補修資材で臨時に塞ぐのは、現実的なプランと呼べる。",
+      "say10051": "こんなことをして何の意味があるのか、私には全くわからなかった。元々はSoreinaを止めるつもりだったが、今はむしろ私たちは彼女と共に、Seleneの居場所へより近づいてしまっている。",
+      "say10057": "鉄扉の取っ手をかろうじてひねり開け、私とLuviaはもはやもぬけの殻に近い住宅区へと駆け込んだ。",
+      "say10027": "頑張って。私が助けるわ。",
+      "say10070": "……あんた、代わりに皆に指示を続けて、洪水の流れを変えさせてくれる？！",
+      "say10080": "技術者が排水装置の一部をすでに強制起動した。工業用ポンプも煙を上げるほどにフル稼働している。私たちに残された時間は、おそらくあと一時間！！",
+      "say10013": "つまり、自分がどうあっても最深部に到達しなければならないのだ。",
+      "say10019": "たとえ私が溺れ死んだとしても、その前に一人でも多くを救わなければ。",
+      "say10055": "私たちは再び進路を変えた。",
+      "say10066": "この時、住宅区の大半はすでに水に浸かっていたが、なおも一団の人々が自らの持ち場を守り続けている。",
+      "say10004": "いいえ！私にはまだやることがある。あなたはこの子を連れて逃げなさい！",
+      "say10021": "それが、自分が無能な傀儡執政官などではないと証明する、唯一の手段なのだから。",
+      "say10043": "うん！",
+      "say10069": "あんた……たちね……",
+      "say10050": "私の息遣いはますます荒くなっていく。心臓が胸から飛び出してしまいそうだ。",
+      "say10016": "進め。",
+      "say10084": "ここは私に任せろ。もうどうすればいいかわかっている。",
+      "say10022": "彼らを助けることが必要だった。彼らが最も助けを必要としている時に、私が逃げ出す決断をしてはならない。",
+      "say10033": "苦しみも、負った傷も、首から下の水の冷たささえも、もはや感じられなかった。",
+      "say10077": "どこへ水の流れを変えるんだ？！",
+      "say10095": "行くよ！",
+      "say10015": "命を賭してでも……前へ進む。",
+      "say10097": "私とLuviaはすぐに前線に飛び込んだ。",
+      "say10049": "通路に水音がこだまする。こんな深みでは行動は極めて難しく、わずか十数メートルの距離がひどく遠い。",
+      "say10020": "それこそが自分の使命なのだ。",
+      "say10090": "ん？どうして急にそんなことを？",
+      "say10074": "だが私は、もはや彼女を止めたくはなくなっていた。",
+      "say10081": "私たちの人員が壁をいくつか打ち壊した。集水ピットが持ちこたえられなくなる前に、ここの交差点をすべて完全に塞ぎさえすれば、確かに洪水の流れを強制的に変えられる！",
+      "say10034": "まるでそれでもまだ進み続ける抜け殻のように、少女は最後の執念で前方へと向かう。",
+      "say10067": "彼らは水の中であちこちの破損口を絶えず修繕し、溜まった水を掻き出している。 ",
+      "say10026": "誰かいませんか？！助けて、ここです！ここに閉じ込められています！！",
+      "say10085": "Soreinaは複雑な眼差しで私をちらりと一瞥した。その目に涙があふれているのに、私は気づいた。",
+      "say10096": "おいそこの旦那、気をつけてくれ。その鉄板、もし倒れたら水の流れを塞いでしまって、逆に洪水が逆流してくる！",
+      "say10068": "Soreina！！",
+      "say10056": "この扉……回せる！！",
+      "say10086": "たぶん、彼女はとっくに姉を探しに行きたかったのだろう。この街が、彼女を引き留めていたのだ。",
+      "say10007": "あなたたちは、自分たちの命が一番大切なんだ。私に構わないで！！",
+      "say10036": "あと一人を救う。",
+      "say10012": "それに……一番奥の、旧開拓区へ通じる最大の扉は、自分の持つ鍵がなければ開かない。",
+      "say10030": "なぜあなたが……",
+      "say10008": "Seleneは遠くへ向けて、さらに水の中を進んだ。",
+      "say10040": "私は壁伝いに長いこと探し、バルブで封じられた鉄の扉をひねり開けた。",
+      "say10062": "私たちは声のした方へ走った。街中が今は水の音だけになったため、遠くの話し声がやけに明瞭に聞こえる。",
+      "say10091": "彼女はとうの昔に、私たち二人を信用していたんだ。だが、彼女は自分の中に深く根を張った心の魔物を、どうしても手放せなかったんだろう。",
+      "say10093": "……Seleneを見つけ出せますように。",
+      "say10092": "だけど、姉が危険に直面しているとなれば、彼女はためらいもなく、大切な任務を私たちに託した。",
+      "say10098": "Soreinaの姿は、避難するすべての住民たちとは逆行する、赤い警告灯の光の中へと消えていった。",
+      "say10024": "助けて、私は泳げないの！！",
+      "say10002": "泣きじゃくる女の子を、Seleneが水のない場所へと引きずり上げた。上で待っていた、泳げない大人たちが子供を受け止める。",
+      "say10045": "ここは本来、洪水の影響を受けないはずの場所だ。とすれば、今頃4区の状況はきっと楽観できるものじゃない。",
+      "say10082": "確かに、今の情勢は依然として極めて切迫しており、少なくとも二つの街路の入口がまったく塞がれずに開いたままだ。",
+      "say10037": "自分の命は、どうでもいい。",
+      "say10088": "しかし彼女は、指揮の任務を私に任せることができた。",
+      "say10089": "この女の子は……不憫だな。",
+      "say10060": "聞こえたか？",
+      "say10032": "疲労は、もはや感じられなかった。",
+      "say10028": "Selene様！！",
+      "say10059": "5号通路にまた新たな破損口ができた！早く塞ぎに行け！",
+      "say10003": "Selene様、私の手をしっかり掴んでください。私が引き上げます！！",
+      "say10073": "彼女の胸の内はわかっている。",
+      "say10046": "なぜ住宅区を、もっとも低い場所に建てたんだ？わざとそう計画したのか、それとも拡張の方角が当時、そこ以外に道がなかったのか？",
+      "say10048": "もうすぐだ……前方に上り階段がある。よかった。",
+      "say10041": "これが修理用の通路か、あるいは従業員用の休憩室かなんて、もう気にしている余裕はなかった。",
+      "say10001": "しっかり……して！！",
+      "say10053": "こっち！！",
+      "say10065": "また一つ、排水ポンプが焼き切れた！もう一台、運んでこい！",
+      "say10058": "どうやら多くの人々が開拓区へ避難したらしい。私はなぜだか、Seleneのためにほっと胸を撫で下ろした。",
+      "say10072": "私が何をしようとしてるかは、放っておいて！！",
+      "say10061": "ああ、Soreinaの声だ。",
+      "say10017": "諦めてはならない。",
+      "say10018": "彼らは、私が愛する住民たちなのだから。",
+      "say10052": "この扉……くそっ、開かない。Luvia、さっき別の脇道はあったか？！",
+      "say10087": "ここの人々は、姉が大切にしている存在だから。Soreinaは住民たちの窮状を見過ごすことなどできなかったのだ。",
+      "say10079": "私は目をこらし、Soreinaが指さすゲートを判別した。歩いていく分にはそう遠くないが、もし道路の交差点を全て塞ぐとなれば、あまりに遠すぎる。",
+      "say10047": "つまるところ、4区のこの場所が最後に作られたということは、ひょっとするとその地形が考慮されたからかもしれない。",
+      "say10011": "自分は泳ぎに長けているが、この先には全く泳ぎを知らず、生死の境に瀕した被災者がいる。",
+      "say10005": "前方はもうすぐ水が天井まで届きそうです。このまま進ませるわけにはいきません！",
+      "say10009": "深みに足を取られ、水はもう胸の高さにまで達している。体力の限界はとうに超えていた。",
+      "say10035": "もう一人、救い出した。たとえ一人でも多く救えたら。",
+      "say10038": "私と……一緒に……逃げて。",
+      "say10076": "だからこそ、こういう瀬戸際では……",
+      "say10014": "その後では、戻ろうにも帰りの道は完全に水没する。だが、酸素が尽きる前にあの扉さえ開けられれば、ここの水位は下がる。",
+      "say10031": "私が、どうかした？",
+      "say10064": "わかった！"
+    },
+    "es": {
+      "say10042": "This way!",
+      "say10044": "The passage soon connected to a downward metal staircase. By the time we went down, water was already above our waists, and Luvia and I struggled through the flooded corridor.",
+      "say10071": "Yes! But you…",
+      "say10075": "If possible, I even wanted to go with her.",
+      "say10025": "There's still someone... of course there is.",
+      "say10010": "But she couldn't stop.",
+      "say10094": "Little sis Luvia!! The current from above is getting stronger. Can you help us move sandbags?!",
+      "say10078": "See the gate ahead? The open one! We have to divert as much floodwater as possible through here!",
+      "say10054": "She waved at me with half her body submerged.",
+      "say10039": "The tunnel from District 3 to District 4 could now only be crossed by swimming, but Luvia's stamina couldn't quite keep up.",
+      "say10006": "The electrical box burst with blinding sparks from a short circuit. One of the two waterproof gates slammed shut. Fleeing residents screamed and fell into chaos.",
+      "say10029": "Chairman… Selene? You…",
+      "say10023": "I could not walk away.",
+      "say10063": "Someone's hurt in Passage 2! Get him down here now!",
+      "say10083": "Fortunately this was originally a subway station, so temporarily blocking passages with furniture and maintenance materials was feasible.",
+      "say10051": "I had no idea what the point of this was anymore. We were supposed to stop Solara, but now we were getting closer to Selene's location together with her.",
+      "say10057": "After laboriously twisting open the iron door, Luvia and I ran into a residential district that was nearly a ghost town.",
+      "say10027": "Hold on, I'm coming.",
+      "say10070": "...Can you keep commanding everyone to reroute the flood for me?!",
+      "say10080": "Technicians have force-started part of the drainage devices, and the industrial pumps are smoking. We probably only have about one hour left!!",
+      "say10013": "That meant she had to go all the way in.",
+      "say10019": "Even if I drown, I would save as many people as I could before that happened.",
+      "say10055": "We changed routes again.",
+      "say10066": "By then, over half the residential district was underwater, yet a group of people still held their posts.",
+      "say10004": "No! I still have things to do here. Take the child and get out!",
+      "say10021": "Because that's my way of proving myself not to be a powerless puppet archon.",
+      "say10043": "Okay!",
+      "say10069": "It's… you two…",
+      "say10050": "My breathing grew heavier and heavier. My heart felt like it would burst out of my chest.",
+      "say10016": "Forward.",
+      "say10084": "Leave this to me. I already know what to do.",
+      "say10022": "I have to help them. When they need me most, I absolutely could not run away.",
+      "say10033": "Pain, injuries, the icy water below her neck, she could no longer feel any of it.",
+      "say10077": "Reroute it where?!",
+      "say10095": "Coming!",
+      "say10015": "Even staking her life... she had to move forward.",
+      "say10097": "Luvia and I immediately threw ourselves into the front line.",
+      "say10049": "Water echoed through the passage. Moving in such deep water was incredibly hard. A dozen meters felt impossible.",
+      "say10020": "Because that's my calling.",
+      "say10090": "Hm? Why say that?",
+      "say10074": "But I no longer wanted to stop her.",
+      "say10081": "Our people have already broken down several walls. If we block all the intersections here before the sump pit fails, we really can force the flood to divert!",
+      "say10034": "Like a hollow shell still capable of motion, the young woman pressed on, driven by nothing but her final, unyielding resolve.",
+      "say10067": "They kept patching breaches in the water and pumping out standing floodwater. ",
+      "say10026": "Is someone there?! Help, here! I'm trapped here!!",
+      "say10085": "Solara shot me a brief, complicated look. Her eyes were brimming with tears.",
+      "say10096": "Hey sir, be careful. If that steel plate falls, it'll block flow and force floodwater back in!",
+      "say10068": "Solara!!",
+      "say10056": "This door... it turns!!",
+      "say10086": "Maybe she had wanted to go find her sister long ago. This city was what held her back.",
+      "say10007": "Your own lives come first. Don't worry about me!!",
+      "say10036": "One more person.",
+      "say10012": "And at the very end... the largest gate leading to the Old Expansion District required the key on her body.",
+      "say10030": "How are you…",
+      "say10008": "Selene kept wading toward the distance.",
+      "say10040": "I searched along the wall for a long while and twisted open an iron door sealed by a valve.",
+      "say10062": "We ran toward the sound. With only water noise left in the city, distant voices were unusually clear.",
+      "say10091": "She clearly already trusts both of us, but she still can't let go of the deeply rooted demons in her heart.",
+      "say10093": "...I hope she can find Selene.",
+      "say10092": "Yet when her sister was in danger, she still entrusted us with the key task without hesitation.",
+      "say10098": "Solara's silhouette dissolved into the red warning lights, moving against the tide of every fleeing resident.",
+      "say10024": "Help! I can't swim!!",
+      "say10002": "Selene dragged a crying girl and lifted her toward dry ground. An adult up there who couldn't swim grabbed the child.",
+      "say10045": "This area should be safe from the flood, which meant the situation of District 4 must be grim.",
+      "say10082": "True, the situation was still critical. At least two intersections were still completely open.",
+      "say10037": "My life doesn't matter.",
+      "say10088": "But she could entrust the command role to me.",
+      "say10089": "That girl... she's really pitiful.",
+      "say10060": "Did you hear that?",
+      "say10032": "Fatigue, she could no longer feel.",
+      "say10028": "Chairman Selene!!",
+      "say10059": "Another breach in Passage 5! You, go patch it!",
+      "say10003": "Chairman Selene, grab my hand, I'll pull you up too!!",
+      "say10073": "I knew what she was thinking.",
+      "say10046": "Why build the residential district at the lowest elevation? Was that intentional planning, or were there no other expansion options then?",
+      "say10048": "Almost there... stairs going up ahead, thank goodness.",
+      "say10041": "As for whether this was a maintenance passage or an employee lounge, I had no time to think about it.",
+      "say10001": "Hold... on!!",
+      "say10053": "Here!!",
+      "say10065": "Another pump just burned out! Bring another one over!",
+      "say10058": "It seemed that many people had evacuated to the development district. For some reason, that made me feel relieved for Selene.",
+      "say10072": "You don't need to worry about what I'm going to do!!",
+      "say10061": "Yeah, it's Solara's voice.",
+      "say10017": "She wouldn't give up.",
+      "say10018": "These are the people I love.",
+      "say10052": "This door... damn it, it won't open. Luvia, were there any other forks back there?!",
+      "say10087": "Because the people here were those her sister treasured. Solara couldn't ignore what the residents were facing.",
+      "say10079": "I squinted hard and made out the gate Solara indicated. Walking there wasn't far, but sealing every intersection to force flow there was very far.",
+      "say10047": "In the end, maybe District 4 was built last precisely because of its terrain.",
+      "say10011": "She could swim. But victims inside could not, they were fighting for their lives.",
+      "say10005": "The water will cover the ceiling soon. I can't let you charge ahead like this!",
+      "say10009": "The deep water had reached her chest. Her stamina was exhausted.",
+      "say10035": "Save one more person. Even one more.",
+      "say10038": "Run... with me.",
+      "say10076": "So at a moment like this…",
+      "say10014": "Once that was done, the way back would be completely submerged. But if she could open that gate before her oxygen ran out, the water level here would drop.",
+      "say10031": "Is... something wrong with me?",
+      "say10064": "Got it!"
+    },
+    "fr": {
+      "say10042": "This way!",
+      "say10044": "The passage soon connected to a downward metal staircase. By the time we went down, water was already above our waists, and Luvia and I struggled through the flooded corridor.",
+      "say10071": "Yes! But you…",
+      "say10075": "If possible, I even wanted to go with her.",
+      "say10025": "There's still someone... of course there is.",
+      "say10010": "But she couldn't stop.",
+      "say10094": "Little sis Luvia!! The current from above is getting stronger. Can you help us move sandbags?!",
+      "say10078": "See the gate ahead? The open one! We have to divert as much floodwater as possible through here!",
+      "say10054": "She waved at me with half her body submerged.",
+      "say10039": "The tunnel from District 3 to District 4 could now only be crossed by swimming, but Luvia's stamina couldn't quite keep up.",
+      "say10006": "The electrical box burst with blinding sparks from a short circuit. One of the two waterproof gates slammed shut. Fleeing residents screamed and fell into chaos.",
+      "say10029": "Chairman… Selene? You…",
+      "say10023": "I could not walk away.",
+      "say10063": "Someone's hurt in Passage 2! Get him down here now!",
+      "say10083": "Fortunately this was originally a subway station, so temporarily blocking passages with furniture and maintenance materials was feasible.",
+      "say10051": "I had no idea what the point of this was anymore. We were supposed to stop Solara, but now we were getting closer to Selene's location together with her.",
+      "say10057": "After laboriously twisting open the iron door, Luvia and I ran into a residential district that was nearly a ghost town.",
+      "say10027": "Hold on, I'm coming.",
+      "say10070": "...Can you keep commanding everyone to reroute the flood for me?!",
+      "say10080": "Technicians have force-started part of the drainage devices, and the industrial pumps are smoking. We probably only have about one hour left!!",
+      "say10013": "That meant she had to go all the way in.",
+      "say10019": "Even if I drown, I would save as many people as I could before that happened.",
+      "say10055": "We changed routes again.",
+      "say10066": "By then, over half the residential district was underwater, yet a group of people still held their posts.",
+      "say10004": "No! I still have things to do here. Take the child and get out!",
+      "say10021": "Because that's my way of proving myself not to be a powerless puppet archon.",
+      "say10043": "Okay!",
+      "say10069": "It's… you two…",
+      "say10050": "My breathing grew heavier and heavier. My heart felt like it would burst out of my chest.",
+      "say10016": "Forward.",
+      "say10084": "Leave this to me. I already know what to do.",
+      "say10022": "I have to help them. When they need me most, I absolutely could not run away.",
+      "say10033": "Pain, injuries, the icy water below her neck, she could no longer feel any of it.",
+      "say10077": "Reroute it where?!",
+      "say10095": "Coming!",
+      "say10015": "Even staking her life... she had to move forward.",
+      "say10097": "Luvia and I immediately threw ourselves into the front line.",
+      "say10049": "Water echoed through the passage. Moving in such deep water was incredibly hard. A dozen meters felt impossible.",
+      "say10020": "Because that's my calling.",
+      "say10090": "Hm? Why say that?",
+      "say10074": "But I no longer wanted to stop her.",
+      "say10081": "Our people have already broken down several walls. If we block all the intersections here before the sump pit fails, we really can force the flood to divert!",
+      "say10034": "Like a hollow shell still capable of motion, the young woman pressed on, driven by nothing but her final, unyielding resolve.",
+      "say10067": "They kept patching breaches in the water and pumping out standing floodwater. ",
+      "say10026": "Is someone there?! Help, here! I'm trapped here!!",
+      "say10085": "Solara shot me a brief, complicated look. Her eyes were brimming with tears.",
+      "say10096": "Hey sir, be careful. If that steel plate falls, it'll block flow and force floodwater back in!",
+      "say10068": "Solara!!",
+      "say10056": "This door... it turns!!",
+      "say10086": "Maybe she had wanted to go find her sister long ago. This city was what held her back.",
+      "say10007": "Your own lives come first. Don't worry about me!!",
+      "say10036": "One more person.",
+      "say10012": "And at the very end... the largest gate leading to the Old Expansion District required the key on her body.",
+      "say10030": "How are you…",
+      "say10008": "Selene kept wading toward the distance.",
+      "say10040": "I searched along the wall for a long while and twisted open an iron door sealed by a valve.",
+      "say10062": "We ran toward the sound. With only water noise left in the city, distant voices were unusually clear.",
+      "say10091": "She clearly already trusts both of us, but she still can't let go of the deeply rooted demons in her heart.",
+      "say10093": "...I hope she can find Selene.",
+      "say10092": "Yet when her sister was in danger, she still entrusted us with the key task without hesitation.",
+      "say10098": "Solara's silhouette dissolved into the red warning lights, moving against the tide of every fleeing resident.",
+      "say10024": "Help! I can't swim!!",
+      "say10002": "Selene dragged a crying girl and lifted her toward dry ground. An adult up there who couldn't swim grabbed the child.",
+      "say10045": "This area should be safe from the flood, which meant the situation of District 4 must be grim.",
+      "say10082": "True, the situation was still critical. At least two intersections were still completely open.",
+      "say10037": "My life doesn't matter.",
+      "say10088": "But she could entrust the command role to me.",
+      "say10089": "That girl... she's really pitiful.",
+      "say10060": "Did you hear that?",
+      "say10032": "Fatigue, she could no longer feel.",
+      "say10028": "Chairman Selene!!",
+      "say10059": "Another breach in Passage 5! You, go patch it!",
+      "say10003": "Chairman Selene, grab my hand, I'll pull you up too!!",
+      "say10073": "I knew what she was thinking.",
+      "say10046": "Why build the residential district at the lowest elevation? Was that intentional planning, or were there no other expansion options then?",
+      "say10048": "Almost there... stairs going up ahead, thank goodness.",
+      "say10041": "As for whether this was a maintenance passage or an employee lounge, I had no time to think about it.",
+      "say10001": "Hold... on!!",
+      "say10053": "Here!!",
+      "say10065": "Another pump just burned out! Bring another one over!",
+      "say10058": "It seemed that many people had evacuated to the development district. For some reason, that made me feel relieved for Selene.",
+      "say10072": "You don't need to worry about what I'm going to do!!",
+      "say10061": "Yeah, it's Solara's voice.",
+      "say10017": "She wouldn't give up.",
+      "say10018": "These are the people I love.",
+      "say10052": "This door... damn it, it won't open. Luvia, were there any other forks back there?!",
+      "say10087": "Because the people here were those her sister treasured. Solara couldn't ignore what the residents were facing.",
+      "say10079": "I squinted hard and made out the gate Solara indicated. Walking there wasn't far, but sealing every intersection to force flow there was very far.",
+      "say10047": "In the end, maybe District 4 was built last precisely because of its terrain.",
+      "say10011": "She could swim. But victims inside could not, they were fighting for their lives.",
+      "say10005": "The water will cover the ceiling soon. I can't let you charge ahead like this!",
+      "say10009": "The deep water had reached her chest. Her stamina was exhausted.",
+      "say10035": "Save one more person. Even one more.",
+      "say10038": "Run... with me.",
+      "say10076": "So at a moment like this…",
+      "say10014": "Once that was done, the way back would be completely submerged. But if she could open that gate before her oxygen ran out, the water level here would drop.",
+      "say10031": "Is... something wrong with me?",
+      "say10064": "Got it!"
+    },
+    "ko": {
+      "say10042": "This way!",
+      "say10044": "The passage soon connected to a downward metal staircase. By the time we went down, water was already above our waists, and Luvia and I struggled through the flooded corridor.",
+      "say10071": "Yes! But you…",
+      "say10075": "If possible, I even wanted to go with her.",
+      "say10025": "There's still someone... of course there is.",
+      "say10010": "But she couldn't stop.",
+      "say10094": "Little sis Luvia!! The current from above is getting stronger. Can you help us move sandbags?!",
+      "say10078": "See the gate ahead? The open one! We have to divert as much floodwater as possible through here!",
+      "say10054": "She waved at me with half her body submerged.",
+      "say10039": "The tunnel from District 3 to District 4 could now only be crossed by swimming, but Luvia's stamina couldn't quite keep up.",
+      "say10006": "The electrical box burst with blinding sparks from a short circuit. One of the two waterproof gates slammed shut. Fleeing residents screamed and fell into chaos.",
+      "say10029": "Chairman… Selene? You…",
+      "say10023": "I could not walk away.",
+      "say10063": "Someone's hurt in Passage 2! Get him down here now!",
+      "say10083": "Fortunately this was originally a subway station, so temporarily blocking passages with furniture and maintenance materials was feasible.",
+      "say10051": "I had no idea what the point of this was anymore. We were supposed to stop Solara, but now we were getting closer to Selene's location together with her.",
+      "say10057": "After laboriously twisting open the iron door, Luvia and I ran into a residential district that was nearly a ghost town.",
+      "say10027": "Hold on, I'm coming.",
+      "say10070": "...Can you keep commanding everyone to reroute the flood for me?!",
+      "say10080": "Technicians have force-started part of the drainage devices, and the industrial pumps are smoking. We probably only have about one hour left!!",
+      "say10013": "That meant she had to go all the way in.",
+      "say10019": "Even if I drown, I would save as many people as I could before that happened.",
+      "say10055": "We changed routes again.",
+      "say10066": "By then, over half the residential district was underwater, yet a group of people still held their posts.",
+      "say10004": "No! I still have things to do here. Take the child and get out!",
+      "say10021": "Because that's my way of proving myself not to be a powerless puppet archon.",
+      "say10043": "Okay!",
+      "say10069": "It's… you two…",
+      "say10050": "My breathing grew heavier and heavier. My heart felt like it would burst out of my chest.",
+      "say10016": "Forward.",
+      "say10084": "Leave this to me. I already know what to do.",
+      "say10022": "I have to help them. When they need me most, I absolutely could not run away.",
+      "say10033": "Pain, injuries, the icy water below her neck, she could no longer feel any of it.",
+      "say10077": "Reroute it where?!",
+      "say10095": "Coming!",
+      "say10015": "Even staking her life... she had to move forward.",
+      "say10097": "Luvia and I immediately threw ourselves into the front line.",
+      "say10049": "Water echoed through the passage. Moving in such deep water was incredibly hard. A dozen meters felt impossible.",
+      "say10020": "Because that's my calling.",
+      "say10090": "Hm? Why say that?",
+      "say10074": "But I no longer wanted to stop her.",
+      "say10081": "Our people have already broken down several walls. If we block all the intersections here before the sump pit fails, we really can force the flood to divert!",
+      "say10034": "Like a hollow shell still capable of motion, the young woman pressed on, driven by nothing but her final, unyielding resolve.",
+      "say10067": "They kept patching breaches in the water and pumping out standing floodwater. ",
+      "say10026": "Is someone there?! Help, here! I'm trapped here!!",
+      "say10085": "Solara shot me a brief, complicated look. Her eyes were brimming with tears.",
+      "say10096": "Hey sir, be careful. If that steel plate falls, it'll block flow and force floodwater back in!",
+      "say10068": "Solara!!",
+      "say10056": "This door... it turns!!",
+      "say10086": "Maybe she had wanted to go find her sister long ago. This city was what held her back.",
+      "say10007": "Your own lives come first. Don't worry about me!!",
+      "say10036": "One more person.",
+      "say10012": "And at the very end... the largest gate leading to the Old Expansion District required the key on her body.",
+      "say10030": "How are you…",
+      "say10008": "Selene kept wading toward the distance.",
+      "say10040": "I searched along the wall for a long while and twisted open an iron door sealed by a valve.",
+      "say10062": "We ran toward the sound. With only water noise left in the city, distant voices were unusually clear.",
+      "say10091": "She clearly already trusts both of us, but she still can't let go of the deeply rooted demons in her heart.",
+      "say10093": "...I hope she can find Selene.",
+      "say10092": "Yet when her sister was in danger, she still entrusted us with the key task without hesitation.",
+      "say10098": "Solara's silhouette dissolved into the red warning lights, moving against the tide of every fleeing resident.",
+      "say10024": "Help! I can't swim!!",
+      "say10002": "Selene dragged a crying girl and lifted her toward dry ground. An adult up there who couldn't swim grabbed the child.",
+      "say10045": "This area should be safe from the flood, which meant the situation of District 4 must be grim.",
+      "say10082": "True, the situation was still critical. At least two intersections were still completely open.",
+      "say10037": "My life doesn't matter.",
+      "say10088": "But she could entrust the command role to me.",
+      "say10089": "That girl... she's really pitiful.",
+      "say10060": "Did you hear that?",
+      "say10032": "Fatigue, she could no longer feel.",
+      "say10028": "Chairman Selene!!",
+      "say10059": "Another breach in Passage 5! You, go patch it!",
+      "say10003": "Chairman Selene, grab my hand, I'll pull you up too!!",
+      "say10073": "I knew what she was thinking.",
+      "say10046": "Why build the residential district at the lowest elevation? Was that intentional planning, or were there no other expansion options then?",
+      "say10048": "Almost there... stairs going up ahead, thank goodness.",
+      "say10041": "As for whether this was a maintenance passage or an employee lounge, I had no time to think about it.",
+      "say10001": "Hold... on!!",
+      "say10053": "Here!!",
+      "say10065": "Another pump just burned out! Bring another one over!",
+      "say10058": "It seemed that many people had evacuated to the development district. For some reason, that made me feel relieved for Selene.",
+      "say10072": "You don't need to worry about what I'm going to do!!",
+      "say10061": "Yeah, it's Solara's voice.",
+      "say10017": "She wouldn't give up.",
+      "say10018": "These are the people I love.",
+      "say10052": "This door... damn it, it won't open. Luvia, were there any other forks back there?!",
+      "say10087": "Because the people here were those her sister treasured. Solara couldn't ignore what the residents were facing.",
+      "say10079": "I squinted hard and made out the gate Solara indicated. Walking there wasn't far, but sealing every intersection to force flow there was very far.",
+      "say10047": "In the end, maybe District 4 was built last precisely because of its terrain.",
+      "say10011": "She could swim. But victims inside could not, they were fighting for their lives.",
+      "say10005": "The water will cover the ceiling soon. I can't let you charge ahead like this!",
+      "say10009": "The deep water had reached her chest. Her stamina was exhausted.",
+      "say10035": "Save one more person. Even one more.",
+      "say10038": "Run... with me.",
+      "say10076": "So at a moment like this…",
+      "say10014": "Once that was done, the way back would be completely submerged. But if she could open that gate before her oxygen ran out, the water level here would drop.",
+      "say10031": "Is... something wrong with me?",
+      "say10064": "Got it!"
+    },
+    "ru": {
+      "say10042": "This way!",
+      "say10044": "The passage soon connected to a downward metal staircase. By the time we went down, water was already above our waists, and Luvia and I struggled through the flooded corridor.",
+      "say10071": "Yes! But you…",
+      "say10075": "If possible, I even wanted to go with her.",
+      "say10025": "There's still someone... of course there is.",
+      "say10010": "But she couldn't stop.",
+      "say10094": "Little sis Luvia!! The current from above is getting stronger. Can you help us move sandbags?!",
+      "say10078": "See the gate ahead? The open one! We have to divert as much floodwater as possible through here!",
+      "say10054": "She waved at me with half her body submerged.",
+      "say10039": "The tunnel from District 3 to District 4 could now only be crossed by swimming, but Luvia's stamina couldn't quite keep up.",
+      "say10006": "The electrical box burst with blinding sparks from a short circuit. One of the two waterproof gates slammed shut. Fleeing residents screamed and fell into chaos.",
+      "say10029": "Chairman… Selene? You…",
+      "say10023": "I could not walk away.",
+      "say10063": "Someone's hurt in Passage 2! Get him down here now!",
+      "say10083": "Fortunately this was originally a subway station, so temporarily blocking passages with furniture and maintenance materials was feasible.",
+      "say10051": "I had no idea what the point of this was anymore. We were supposed to stop Solara, but now we were getting closer to Selene's location together with her.",
+      "say10057": "After laboriously twisting open the iron door, Luvia and I ran into a residential district that was nearly a ghost town.",
+      "say10027": "Hold on, I'm coming.",
+      "say10070": "...Can you keep commanding everyone to reroute the flood for me?!",
+      "say10080": "Technicians have force-started part of the drainage devices, and the industrial pumps are smoking. We probably only have about one hour left!!",
+      "say10013": "That meant she had to go all the way in.",
+      "say10019": "Even if I drown, I would save as many people as I could before that happened.",
+      "say10055": "We changed routes again.",
+      "say10066": "By then, over half the residential district was underwater, yet a group of people still held their posts.",
+      "say10004": "No! I still have things to do here. Take the child and get out!",
+      "say10021": "Because that's my way of proving myself not to be a powerless puppet archon.",
+      "say10043": "Okay!",
+      "say10069": "It's… you two…",
+      "say10050": "My breathing grew heavier and heavier. My heart felt like it would burst out of my chest.",
+      "say10016": "Forward.",
+      "say10084": "Leave this to me. I already know what to do.",
+      "say10022": "I have to help them. When they need me most, I absolutely could not run away.",
+      "say10033": "Pain, injuries, the icy water below her neck, she could no longer feel any of it.",
+      "say10077": "Reroute it where?!",
+      "say10095": "Coming!",
+      "say10015": "Even staking her life... she had to move forward.",
+      "say10097": "Luvia and I immediately threw ourselves into the front line.",
+      "say10049": "Water echoed through the passage. Moving in such deep water was incredibly hard. A dozen meters felt impossible.",
+      "say10020": "Because that's my calling.",
+      "say10090": "Hm? Why say that?",
+      "say10074": "But I no longer wanted to stop her.",
+      "say10081": "Our people have already broken down several walls. If we block all the intersections here before the sump pit fails, we really can force the flood to divert!",
+      "say10034": "Like a hollow shell still capable of motion, the young woman pressed on, driven by nothing but her final, unyielding resolve.",
+      "say10067": "They kept patching breaches in the water and pumping out standing floodwater. ",
+      "say10026": "Is someone there?! Help, here! I'm trapped here!!",
+      "say10085": "Solara shot me a brief, complicated look. Her eyes were brimming with tears.",
+      "say10096": "Hey sir, be careful. If that steel plate falls, it'll block flow and force floodwater back in!",
+      "say10068": "Solara!!",
+      "say10056": "This door... it turns!!",
+      "say10086": "Maybe she had wanted to go find her sister long ago. This city was what held her back.",
+      "say10007": "Your own lives come first. Don't worry about me!!",
+      "say10036": "One more person.",
+      "say10012": "And at the very end... the largest gate leading to the Old Expansion District required the key on her body.",
+      "say10030": "How are you…",
+      "say10008": "Selene kept wading toward the distance.",
+      "say10040": "I searched along the wall for a long while and twisted open an iron door sealed by a valve.",
+      "say10062": "We ran toward the sound. With only water noise left in the city, distant voices were unusually clear.",
+      "say10091": "She clearly already trusts both of us, but she still can't let go of the deeply rooted demons in her heart.",
+      "say10093": "...I hope she can find Selene.",
+      "say10092": "Yet when her sister was in danger, she still entrusted us with the key task without hesitation.",
+      "say10098": "Solara's silhouette dissolved into the red warning lights, moving against the tide of every fleeing resident.",
+      "say10024": "Help! I can't swim!!",
+      "say10002": "Selene dragged a crying girl and lifted her toward dry ground. An adult up there who couldn't swim grabbed the child.",
+      "say10045": "This area should be safe from the flood, which meant the situation of District 4 must be grim.",
+      "say10082": "True, the situation was still critical. At least two intersections were still completely open.",
+      "say10037": "My life doesn't matter.",
+      "say10088": "But she could entrust the command role to me.",
+      "say10089": "That girl... she's really pitiful.",
+      "say10060": "Did you hear that?",
+      "say10032": "Fatigue, she could no longer feel.",
+      "say10028": "Chairman Selene!!",
+      "say10059": "Another breach in Passage 5! You, go patch it!",
+      "say10003": "Chairman Selene, grab my hand, I'll pull you up too!!",
+      "say10073": "I knew what she was thinking.",
+      "say10046": "Why build the residential district at the lowest elevation? Was that intentional planning, or were there no other expansion options then?",
+      "say10048": "Almost there... stairs going up ahead, thank goodness.",
+      "say10041": "As for whether this was a maintenance passage or an employee lounge, I had no time to think about it.",
+      "say10001": "Hold... on!!",
+      "say10053": "Here!!",
+      "say10065": "Another pump just burned out! Bring another one over!",
+      "say10058": "It seemed that many people had evacuated to the development district. For some reason, that made me feel relieved for Selene.",
+      "say10072": "You don't need to worry about what I'm going to do!!",
+      "say10061": "Yeah, it's Solara's voice.",
+      "say10017": "She wouldn't give up.",
+      "say10018": "These are the people I love.",
+      "say10052": "This door... damn it, it won't open. Luvia, were there any other forks back there?!",
+      "say10087": "Because the people here were those her sister treasured. Solara couldn't ignore what the residents were facing.",
+      "say10079": "I squinted hard and made out the gate Solara indicated. Walking there wasn't far, but sealing every intersection to force flow there was very far.",
+      "say10047": "In the end, maybe District 4 was built last precisely because of its terrain.",
+      "say10011": "She could swim. But victims inside could not, they were fighting for their lives.",
+      "say10005": "The water will cover the ceiling soon. I can't let you charge ahead like this!",
+      "say10009": "The deep water had reached her chest. Her stamina was exhausted.",
+      "say10035": "Save one more person. Even one more.",
+      "say10038": "Run... with me.",
+      "say10076": "So at a moment like this…",
+      "say10014": "Once that was done, the way back would be completely submerged. But if she could open that gate before her oxygen ran out, the water level here would drop.",
+      "say10031": "Is... something wrong with me?",
+      "say10064": "Got it!"
+    },
+    "vi": {
+      "say10042": "Lối này !",
+      "say10044": "Lối đi nhanh chóng dẫn đến một cầu thang kim loại đi xuống. Khi chúng tôi xuống đến nơi, nước đã ngập đến ngang eo, và Luvia cùng tôi phải vật lộn để vượt qua hành lang ngập nước.",
+      "say10071": "Được! Nhưng mà cô…",
+      "say10075": "Nếu có thể, tôi thậm chí còn muốn đi cùng cô ấy.",
+      "say10025": "Vẫn còn có người ở đó... tất nhiên là vẫn còn.",
+      "say10010": "Nhưng cô không thể dừng lại.",
+      "say10094": "Gái Luvia ơi!! Dòng điện trên cao đang mạnh dần lên. Giúp chị di chuyển bao cát được không?!",
+      "say10078": "Thấy cái cổng không? Cái cổng đang mở ấy! Chúng ta phải chuyển hướng dòng lũ về đó nhiều nhất có thể !",
+      "say10054": "Cô ấy vẫy tay chào tôi trong khi nửa người đang chìm dưới nước.",
+      "say10039": "Đường hầm từ Khu 3 đến Khu 4 giờ chỉ có thể vượt qua bằng cách bơi, nhưng sức bền của Luvia không thể theo kịp.",
+      "say10006": "Hộp điện phát nổ với những tia lửa điện chói mắt do chập điện. Một trong hai cánh cổng chống thấm nước đóng sầm lại. Cư dân hoảng loạn la hét và rơi vào tình trạng hỗn loạn.",
+      "say10029": "Chủ tịch... Selene? Cô…",
+      "say10023": "Tôi không thể chạy đi.",
+      "say10063": "Có người bị thương ở Lối đi 2! Mau đưa anh ta xuống đây ngay!",
+      "say10083": "May mắn thay, đây vốn là một ga tàu điện ngầm, nên việc tạm thời chặn các lối đi bằng đồ đạc và vật liệu bảo trì là hoàn toàn khả thi.",
+      "say10051": "Tôi chẳng còn hiểu mục đích của việc này là gì nữa. Chúng tôi đáng lẽ phải ngăn chặn Solara, nhưng giờ chúng tôi lại đang cùng cô ta tiến gần hơn đến vị trí của Selene.",
+      "say10057": "Sau khi vất vả vặn mở cánh cửa sắt, Luvia và tôi bước vào một khu dân cư gần như là một thị trấn ma.",
+      "say10027": "Đợi đó, tôi đang đến.",
+      "say10070": "...Anh tiếp tục ra lệnh cho mọi người chuyển hướng dòng lũ được không ?!",
+      "say10080": "Các kỹ thuật viên đã khởi động cưỡng chế một phần hệ thống thoát nước, và các máy bơm công nghiệp đang bốc khói. Có lẽ chúng ta chỉ còn khoảng một giờ nữa thôi !!",
+      "say10013": "Điều đó có nghĩa là cô ấy phải đi vào sâu bên trong.",
+      "say10019": "Ngay cả khi mình chết đuối, mình cũng sẽ cứu nhiều người nhất có thể trước khi điều đó xảy ra.",
+      "say10055": "Chúng tôi lại đổi lộ trình.",
+      "say10066": "Vào thời điểm đó, hơn một nửa khu dân cư đã bị ngập nước, nhưng một nhóm người vẫn giữ vững vị trí của mình.",
+      "say10004": "Không! Tôi vẫn còn việc phải làm ở đây. Đưa đứa trẻ đi và ra ngoài ngay!",
+      "say10021": "Vì đó là cách tôi chứng minh mình không phải là một con bù nhìn bất lực.",
+      "say10043": "Tới đây !",
+      "say10069": "Hai... hai người…",
+      "say10050": "Hơi thở của tôi ngày càng nặng nhọc. Tim tôi như muốn vỡ tung ra khỏi lồng ngực.",
+      "say10016": "Tiến lên.",
+      "say10084": "Để đó cho tôi. Tôi biết phải làm gì rồi.",
+      "say10022": "Tôi phải giúp họ. Khi họ cần tôi nhất, tôi tuyệt đối sẽ không chạy đi.",
+      "say10033": "Đau đớn, vết thương, nước lạnh buốt dưới cổ, cô không còn cảm nhận được gì nữa.",
+      "say10077": "Chuyển hướng đi đâu ?",
+      "say10095": "Em đây !",
+      "say10015": "Dù phải đánh đổi cả mạng sống... cô ấy vẫn phải tiến về phía trước.",
+      "say10097": "Luvia và tôi lập tức lao vào tuyến đầu.",
+      "say10049": "Tiếng nước vang vọng khắp lối đi. Di chuyển trong vùng nước sâu như vậy vô cùng khó khăn. Mười hai mét dường như là điều không thể.",
+      "say10020": "Vì đó là sứ mệnh của tôi.",
+      "say10090": "Hử? Sao cậu nói vậy ?",
+      "say10074": "Nhưng tôi không còn muốn ngăn cản cô ấy nữa.",
+      "say10081": "Người dân của chúng ta đã phá sập được vài bức tường rồi. Nếu chúng ta chặn tất cả các giao lộ ở đây trước khi hố thu nước bị vỡ, chúng ta thực sự có thể buộc dòng lũ phải chuyển hướng!",
+      "say10034": "Giống như một cái vỏ rỗng vẫn còn khả năng chuyển động, người con gái trẻ ấy tiếp tục tiến về phía trước, quyết tâm đến cùng, không thể lay chuyển.",
+      "say10067": "Họ liên tục vá những chỗ vỡ trên đường ống dẫn nước và bơm nước lũ ra ngoài. ",
+      "say10026": "Có ai không?! Cứu với, ở đây! Tôi bị kẹt ở đây !!",
+      "say10085": "Solara liếc nhìn tôi một cái, đầy sự phức tạp. Đôi mắt cô ấy ngấn lệ.",
+      "say10096": "Anh kia, hãy cẩn thận. Nếu tấm thép đó rơi xuống, nó sẽ chặn dòng chảy và đẩy nước lũ tràn ngược trở lại!",
+      "say10068": "Solara !!",
+      "say10056": "Cánh cửa này... xoay được kìa !!",
+      "say10086": "Có lẽ cô ấy đã muốn đi tìm chị gái mình từ lâu rồi. Chính thành phố này đã níu giữ cô ấy lại.",
+      "say10007": "Mạng sống của mọi người là ưu tiên hàng đầu. Đừng lo lắng cho tôi!!",
+      "say10036": "Một người nữa.",
+      "say10012": "Và cuối cùng... cánh cổng lớn nhất dẫn đến Khu Mở rộng Cũ cần chiếc chìa khóa trên người cô ấy.",
+      "say10030": "Làm sao cô…",
+      "say10008": "Selene tiếp tục lội nước về phía xa.",
+      "say10040": "Tôi tìm kiếm dọc theo bức tường một lúc lâu và vặn mở một cánh cửa sắt được khóa bằng van.",
+      "say10062": "Chúng tôi chạy về phía phát ra âm thanh. Trong thành phố chỉ còn tiếng nước chảy, nên những giọng nói từ xa nghe rõ ràng một cách bất thường.",
+      "say10091": "Rõ ràng là em ấy đã tin tưởng cả hai bọn mình, nhưng vẫn không thể buông bỏ những ám ảnh sâu sắc trong lòng.",
+      "say10093": "...Hi vọng em ấy sẽ tìm được Selene.",
+      "say10092": "Thế nhưng, khi chị gái em ấy gặp nguy hiểm, em ý vẫn tin tưởng giao phó nhiệm vụ quan trọng đó cho chúng mình không chút do dự nào.",
+      "say10098": "Bóng dáng của Solara tan vào ánh đèn cảnh báo đỏ, di chuyển ngược dòng người dân đang tháo chạy.",
+      "say10024": "Cứu! Tôi không biết bơi !!",
+      "say10002": "Selene kéo một bé gái đang khóc và bế lên chỗ đất khô. Một người lớn ở trên đó, không biết bơi, đã túm lấy đứa trẻ.",
+      "say10045": "Khu vực này lẽ ra phải an toàn khỏi lũ lụt, điều đó có nghĩa là tình hình ở Khu 4 hẳn rất tồi tệ.",
+      "say10082": "Đúng vậy, tình hình vẫn rất nguy cấp. Ít nhất hai giao lộ vẫn hoàn toàn thông thoáng.",
+      "say10037": "Mạng sống của tôi không quan trọng.",
+      "say10088": "Nhưng cô ấy có thể tin tưởng giao vai trò chỉ huy cho tôi.",
+      "say10089": "Em ý... thật đáng thương.",
+      "say10060": "Cậu nghe thấy gì không ?",
+      "say10032": "Cô không còn cảm thấy mệt mỏi.",
+      "say10028": "Chủ tịch Selene !!",
+      "say10059": "Lại có thêm một lỗ hổng nữa ở Lối đi 5! Anh, vá nó đi!",
+      "say10003": "Chủ tịch Selene, nắm lấy tay tôi, tôi sẽ kéo cô lên cùng!!",
+      "say10073": "Tôi biết cô ấy đang nghĩ gì.",
+      "say10046": "Tại sao lại xây dựng khu dân cư ở độ cao thấp nhất? Đó có phải là kế hoạch có chủ đích, hay khi đó không còn lựa chọn mở rộng nào khác ?",
+      "say10048": "Sắp đến rồi... phía trước có cầu thang, may quá.",
+      "say10041": "Còn về việc đây là hành lang bảo trì hay phòng nghỉ của nhân viên, tôi còn chẳng có lấy thời gian mà nghĩ.",
+      "say10001": "Bắt... lấy !!",
+      "say10053": "Đây !!",
+      "say10065": "Lại thêm một cái máy bơm nữa bị hỏng! Mang cái khác đến đây!",
+      "say10058": "Dường như nhiều người đã sơ tán đến khu vực phát triển. Vì lý do nào đó, khiến tôi cảm thấy nhẹ nhõm thay Selene.",
+      "say10072": "Anh không cần phải lo tôi định làm cái gì đâu !!",
+      "say10061": "Có, đó là giọng chị Solara.",
+      "say10017": "Không bỏ cuộc.",
+      "say10018": "Họ là những con người tôi yêu quý.",
+      "say10052": "Cái cửa này... chết tiệt, nó không mở được. Luvia, đằng sau có thấy cái dĩa nào không?!",
+      "say10087": "Vì những người ở đây là những người mà chị gái cô ấy yêu quý. Solara không thể làm ngơ trước những khó khăn mà cư dân nơi đây đang phải đối mặt.",
+      "say10079": "Tôi nheo mắt thật kỹ và nhận ra cánh cổng mà Solara đã chỉ. Đi bộ đến đó không xa, nhưng việc phong tỏa mọi giao lộ để buộc dòng lũ lụt đi về hướng đó thì lại rất xa.",
+      "say10047": "Cuối cùng, có lẽ Khu 4 được xây dựng sau cùng chính là do địa hình của nó.",
+      "say10011": "Cô biết bơi. Nhưng các nạn nhân trong đó thì không, họ đang chiến đấu để giành giật sự sống.",
+      "say10005": "Nước sẽ sớm ngập trần nhà thôi. Tôi không thể để cô cứ thế xông lên được!",
+      "say10009": "Nước sâu đã ngập đến ngực cô. Sức lực của cô đã cạn kiệt.",
+      "say10035": "Cứu một người nữa. Thêm một người nữa thôi.",
+      "say10038": "Mau... chạy với tôi.",
+      "say10076": "Vậy nên vào một thời điểm như thế này…",
+      "say10014": "Một khi việc đó hoàn tất, con đường trở về sẽ bị ngập hoàn toàn. Nhưng nếu cô ấy có thể mở cánh cổng đó trước khi hết oxy, mực nước ở đây sẽ giảm xuống.",
+      "say10031": "Có... vấn đề gì à ?",
+      "say10064": "Đã rõ !"
+    }
+  },
+  "names": {
+    "zh_Hans": {
+      "lwy": "露薇娅",
+      "npc-nameless,female": "女性",
+      "npc-nameless,male": "男性",
+      "npc-zoya": "卓娅",
+      "pb": "",
+      "selene": "塞勒涅",
+      "solara": "索莱娜",
+      "w": "我"
+    },
+    "zh_Hant": {
+      "lwy": "露薇婭",
+      "npc-nameless,female": "女性",
+      "npc-nameless,male": "男性",
+      "npc-zoya": "卓婭",
+      "pb": "",
+      "selene": "塞勒涅",
+      "solara": "索萊娜",
+      "w": "我"
+    },
+    "yue_Hant": {
+      "lwy": "露薇婭",
+      "npc-nameless,female": "女性",
+      "npc-nameless,male": "男性",
+      "npc-zoya": "卓婭",
+      "pb": "",
+      "selene": "月蓮",
+      "solara": "陽娜",
+      "w": "我"
+    },
+    "en": {
+      "lwy": "Luvia",
+      "npc-nameless,female": "Female",
+      "npc-nameless,male": "Male",
+      "npc-zoya": "Zoya",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Me"
+    },
+    "ja": {
+      "lwy": "Luvia",
+      "npc-nameless,female": "Female",
+      "npc-nameless,male": "Male",
+      "npc-zoya": "Zoya",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "私"
+    },
+    "es": {
+      "lwy": "Luvia",
+      "npc-nameless,female": "Female",
+      "npc-nameless,male": "Male",
+      "npc-zoya": "Zoya",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Yo"
+    },
+    "fr": {
+      "lwy": "Luvia",
+      "npc-nameless,female": "Female",
+      "npc-nameless,male": "Male",
+      "npc-zoya": "Zoya",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Moi"
+    },
+    "ko": {
+      "lwy": "루비아",
+      "npc-nameless,female": "여성",
+      "npc-nameless,male": "남성",
+      "npc-zoya": "조야",
+      "pb": "",
+      "selene": "셀레네",
+      "solara": "솔라라",
+      "w": "나"
+    },
+    "ru": {
+      "lwy": "Лювия",
+      "npc-nameless,female": "Женский",
+      "npc-nameless,male": "Мужской",
+      "npc-zoya": "Зоя",
+      "pb": "",
+      "selene": "Селена",
+      "solara": "Солара",
+      "w": "Я"
+    },
+    "vi": {
+      "lwy": "Luvia",
+      "npc-nameless,female": "Nữ",
+      "npc-nameless,male": "Nam",
+      "npc-zoya": "Zoya",
+      "pb": "",
+      "selene": "Selene",
+      "solara": "Solara",
+      "w": "Tôi"
+    }
+  },
+  "commands": [
+    {
+      "cmd": "scene",
+      "arg": "dark_access"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "windstorm"
+    },
+    {
+      "cmd": "chara_settings",
+      "arg": "lwy|luvia-arcadia"
+    },
+    {
+      "cmd": "chara",
+      "arg": "selene/scare"
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10001",
+      "emotion": "scare"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10002",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,male",
+      "id": "10003",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10004",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,male",
+      "id": "10005",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10006",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10007",
+      "emotion": "angry"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10008",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10009",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10010",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10011",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10012",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10013",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10014",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10015",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10016",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10017",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10018",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10019",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10020",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10021",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10022",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10023",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,female",
+      "id": "10024",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10025",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,female",
+      "id": "10026",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10027",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,female",
+      "id": "10028",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,female",
+      "id": "10029",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-nameless,female",
+      "id": "10030",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10031",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10032",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10033",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10034",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10035",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10036",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10037",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "selene",
+      "id": "10038",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "dark_access"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "rain_inside"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy/frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10039",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10040",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10041",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "maintenance_access_dark"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10042",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10043",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10044",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10045",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10046",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10047",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10048",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10049",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10050",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10051",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10052",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10053",
+      "emotion": "frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10054",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10055",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10056",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "arcadia_street_dark"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10057",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10058",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10059",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10060",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10061",
+      "emotion": "frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10062",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "solara/frown+npc-zoya/default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10063",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-zoya",
+      "id": "10064",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10065",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10066",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10067",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10068",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy/frown+solara/frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10069",
+      "emotion": "default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10070",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10071",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10072",
+      "emotion": "frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10073",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10074",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10075",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10076",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10077",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10078",
+      "emotion": "angry"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10079",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10080",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "solara",
+      "id": "10081",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10082",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10083",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10084",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10085",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy/frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10086",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10087",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10088",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10089",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10090",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10091",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10092",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10093",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy/frown+npc-zoya/default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "npc-zoya",
+      "id": "10094",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10095",
+      "emotion": "frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10096",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10097",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10098",
+      "emotion": ""
+    }
+  ]
+}

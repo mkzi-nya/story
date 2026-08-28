@@ -1,0 +1,1655 @@
+{
+  "episode": "main_story_1_2",
+  "blocks": [
+    {
+      "type": "scene",
+      "value": "utility"
+    },
+    {
+      "type": "chara",
+      "value": "lwy"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "-1",
+          "speaker": "pb"
+        },
+        {
+          "id": "-2",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "bgm",
+      "value": "regular"
+    },
+    {
+      "type": "bgs",
+      "value": "rain_inside"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "-3",
+          "speaker": "lwy"
+        },
+        {
+          "id": "-4",
+          "speaker": "w"
+        },
+        {
+          "id": "1",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "1001",
+      "options": [
+        "1001",
+        "1002"
+      ],
+      "labels": {
+        "zh_Hans": {},
+        "zh_Hant": {},
+        "yue_Hant": {},
+        "en": {},
+        "ja": {},
+        "es": {},
+        "fr": {},
+        "ko": {},
+        "ru": {},
+        "vi": {}
+      },
+      "branches": {
+        "1001": [
+          {
+            "id": "2",
+            "speaker": "w"
+          },
+          {
+            "id": "3",
+            "speaker": "lwy"
+          },
+          {
+            "id": "4",
+            "speaker": "w"
+          }
+        ],
+        "1002": [
+          {
+            "id": "5",
+            "speaker": "w"
+          },
+          {
+            "id": "6",
+            "speaker": "lwy"
+          },
+          {
+            "id": "7",
+            "speaker": "w"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "8",
+          "speaker": "pb"
+        },
+        {
+          "id": "9",
+          "speaker": "w"
+        },
+        {
+          "id": "10",
+          "speaker": "lwy"
+        },
+        {
+          "id": "11",
+          "speaker": "w"
+        },
+        {
+          "id": "12",
+          "speaker": "pb"
+        },
+        {
+          "id": "13",
+          "speaker": "lwy"
+        },
+        {
+          "id": "14",
+          "speaker": "pb"
+        },
+        {
+          "id": "15",
+          "speaker": "lwy"
+        },
+        {
+          "id": "16",
+          "speaker": "w"
+        },
+        {
+          "id": "17",
+          "speaker": "w"
+        },
+        {
+          "id": "18",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "19",
+          "speaker": "pb"
+        },
+        {
+          "id": "20",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|default"
+    },
+    {
+      "type": "scene",
+      "value": "staircase"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "21",
+          "speaker": "pb"
+        },
+        {
+          "id": "22",
+          "speaker": "w"
+        },
+        {
+          "id": "23",
+          "speaker": "lwy"
+        },
+        {
+          "id": "24",
+          "speaker": "w"
+        },
+        {
+          "id": "25",
+          "speaker": "pb"
+        },
+        {
+          "id": "26",
+          "speaker": "w"
+        },
+        {
+          "id": "27",
+          "speaker": "lwy"
+        },
+        {
+          "id": "28",
+          "speaker": "w"
+        },
+        {
+          "id": "29",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "30",
+          "speaker": "pb"
+        },
+        {
+          "id": "31",
+          "speaker": "w"
+        },
+        {
+          "id": "32",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "scene",
+      "value": "living_space"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "33",
+          "speaker": "pb"
+        },
+        {
+          "id": "34",
+          "speaker": "pb"
+        },
+        {
+          "id": "35",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "bgm",
+      "value": "stop"
+    },
+    {
+      "type": "bgs",
+      "value": "depress"
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|scare"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "36",
+          "speaker": "jm"
+        },
+        {
+          "id": "37",
+          "speaker": "jm"
+        },
+        {
+          "id": "38",
+          "speaker": "jm"
+        },
+        {
+          "id": "39",
+          "speaker": "jm"
+        },
+        {
+          "id": "40",
+          "speaker": "jm"
+        },
+        {
+          "id": "41",
+          "speaker": "jm"
+        },
+        {
+          "id": "42",
+          "speaker": "jm"
+        },
+        {
+          "id": "43",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "bgs",
+      "value": "rain_inside"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "44",
+          "speaker": "lwy"
+        },
+        {
+          "id": "45",
+          "speaker": "pb"
+        },
+        {
+          "id": "46",
+          "speaker": "w"
+        },
+        {
+          "id": "47",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "2001",
+      "options": [
+        "2001"
+      ],
+      "labels": {
+        "zh_Hans": {},
+        "zh_Hant": {},
+        "yue_Hant": {},
+        "en": {},
+        "ja": {},
+        "es": {},
+        "fr": {},
+        "ko": {},
+        "ru": {},
+        "vi": {}
+      },
+      "branches": {
+        "2001": [
+          {
+            "id": "48",
+            "speaker": "w"
+          }
+        ]
+      }
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "bgs",
+      "value": "stop"
+    },
+    {
+      "type": "scene",
+      "value": "ward"
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|default"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "49",
+          "speaker": "pb"
+        },
+        {
+          "id": "50",
+          "speaker": "w"
+        },
+        {
+          "id": "51",
+          "speaker": "pb"
+        },
+        {
+          "id": "52",
+          "speaker": "pb"
+        },
+        {
+          "id": "53",
+          "speaker": "lwy"
+        },
+        {
+          "id": "54",
+          "speaker": "pb"
+        },
+        {
+          "id": "55",
+          "speaker": "pb"
+        },
+        {
+          "id": "56",
+          "speaker": "w"
+        },
+        {
+          "id": "57",
+          "speaker": "w"
+        },
+        {
+          "id": "58",
+          "speaker": "w"
+        },
+        {
+          "id": "59",
+          "speaker": "lwy"
+        }
+      ]
+    }
+  ],
+  "dialogues": {
+    "zh_Hans": {
+      "say58": "就是因为这样……那些美好的景象都消失了，都被这场雨冲走了……我们只能活在屋檐下，就像被圈养一样。",
+      "say43": "（嘈杂、混乱，居民们都在为了生活用尽一切办法。即便如此，我们能做到的，也不过是在这样的环境中多活几天。）",
+      "say4": "就是某一天发生了好事……大家就会聚在一起吃好吃的。",
+      "say2": "没办法，这里没什么东西能吃，好吃的东西只有节日和庆典上才有，而且不吃饭就会饿死。",
+      "say35": "（安全灯和嘎斯灯被摆在各处，空气中飘荡着一股硫化物的臭味。）",
+      "say41": "我听最近供电房那里好像有奇怪的声音……是不是闹鬼了？",
+      "say31": "一定要记得，一定不能把兜帽摘下来。",
+      "say1": "蘑菇，又是蘑菇。",
+      "say38": "是不是你以次充好，我告诉你，这楼坏了谁也别想跑！",
+      "say24": "……",
+      "say34": "（高楼中的各个房间内堆满了打满补丁的帐篷、用木板铁棍制成的简易床铺，有的甚至就直接用厚厚的纸张来当作床垫和枕头。）",
+      "say33": "（从楼梯间出来，再绕过几道用沙袋和各种废弃家具堆积起来的防水防潮障碍，才进到我和其他人平常居住的地方。）",
+      "say7": "是嘛，这里的人差不多见到蘑菇就反胃了已经……",
+      "say-2": "（我站在隔间门口，按着固定节奏敲了敲门，这是我和她约定好的，要是没有按这个节奏敲门，就在房间里藏起来。）",
+      "say51": "（走进眼前的房间，里面摆着一张床，床上躺着一个人，她的边上摆满了各种仪器，它们通过电极片与软管连接到她的身上。）",
+      "say13": "……",
+      "say23": "我想出去。我想看照片里的世界，不想住在小屋子。",
+      "say42": "怎么可能，有人在偷电还差不多。",
+      "say14": "（她的眼睛好像稍微瞪大了些，或许是其中的景象吸引住了她吧。）",
+      "say28": "我答应你。",
+      "say36": "喂，昨天的暴风是不是又把挡雨板弄坏了啊，我看地板有渗水啊。",
+      "say48": "……我带你去一个地方。",
+      "say52": "（床上的人正是苏珊。）",
+      "say8": "（我把用纸张包好的烤蘑菇放在了台子上，目光发现我先前给她带来的书全都没有翻阅过的痕迹。）",
+      "say3": "节日庆典是什么？",
+      "say32": "嗯。",
+      "say-3": "你来了。",
+      "say40": "鸡那边倒是还能下蛋……但是营养也不太够啊……好多都是软壳蛋。",
+      "say44": "……",
+      "say54": "（我从怀里取出一张揉皱了的纸，交给了她。）",
+      "say45": "（从手上传来被紧紧握住的感觉，我这时才发现她正抓着我的手。）",
+      "say57": "于是，就成了这样。这就是被雨淋到的人的下场，永远也无法醒来，只能依靠边上的这台机器维持生命。",
+      "say55": "（里面是一幅画，画中的景象是床上的女人正抱着刚诞生的婴儿。）",
+      "say12": "（少女接过了我递给她的东西，那是一张照片，照片已经开始泛黄掉色，但其中的景色还是依然靓丽。）",
+      "say11": "……也是，那给你这个。",
+      "say18": "嗯……！",
+      "say20": "（今天，我也打算像往常那样带着图画和食物去找她。）",
+      "say59": "她的梦好美……",
+      "say39": "最近蘑菇的收成不太够啊……这样下去，猪可就没饲料吃了……",
+      "say-4": "嗯，我给你带了刚烤好的蘑菇，上面撒了点胡椒，味道应该还可以。还有一本故事书。",
+      "say50": "就是这里。",
+      "say10": "嗯。",
+      "say16": "……是一些世界各地的景色，不过……它们现在都没了，只留在这种照片里了。",
+      "say27": "你会带我出去吗？",
+      "say49": "（我拉着她离开了居民区，向下一层，一直走到一个房间深处，这里格外的安静，就连不断的雨声都几乎难以听见，只有两人的脚步声在这里回荡。）",
+      "say26": "你先回去等一下，我给你找一件外套遮一下，你这么到处走一定会被发现的。",
+      "say25": "（也是，任谁都不愿意成天被关在一个只有几平米的空间里吧……只要不被人发现……问题应该不大……）",
+      "say29": "好。",
+      "say37": "怎么可能，我上周才换了新的上去。",
+      "say-1": "（从那之后，过去了一段时间，我每天都会给她带去食物和一些书，她好像也渐渐开始适应这样的生活了。）",
+      "say56": "她叫苏珊，前段时间刚生下一个婴儿，本来或许能变成幸福的一家三口。然而……丈夫走了，孩子也被带走了。",
+      "say19": "（从那之后，我便经常给她带去各种图画和相册，她真的很喜欢看那些景色，也是，谁不喜欢呢，不存在的过去的美好时光。）",
+      "say53": "她怎么了？",
+      "say21": "（刚走到楼梯间，却看到这个少女正迷茫地站在那里。）",
+      "say22": "喂……你，你在干吗！？",
+      "say6": "烤蘑菇，很好吃。",
+      "say46": "怎么了？",
+      "say30": "（不得已，我“借了”一件修理工的披风，厚实的深色布料能牢牢实实地遮住她的面庞和身体，这样应该就没问题了。）",
+      "say47": "<shake intensity=\"3\">这和……<pause duration=\"1\"/>照片里的……不一样……</shake>",
+      "say9": "你看不懂书上的内容吗？",
+      "say17": "你要是感兴趣的话，我之后再给你带一些类似的，别的地方的照片？",
+      "say5": "要是可以的话，我也想给你带点别的食物……",
+      "say15": "好美，这是什么？",
+      "choice2001": "跟我来",
+      "choice1001": "这是没办法的事",
+      "choice1002": "我也想带别的食物"
+    },
+    "zh_Hant": {
+      "say58": "就是因為這樣……那些美好的景象都消失了，都被這場雨沖走了……我們只能活在屋簷下，就像被圈養一樣。",
+      "say43": "（吵雜、混亂，居民們都在為了生活用盡一切辦法。即便如此，我們能做到的，也不過是在這樣的環境中多活幾天。）",
+      "say4": "就是某一天發生了好事……大家就會聚在一起吃好吃的。",
+      "say2": "沒辦法，這裡沒什麼東西能吃，好吃的東西只有節日和慶典上才有，而且不吃飯就會餓死。",
+      "say35": "（安全燈和嘎斯燈被擺在各處，空氣中飄盪著一股疏化物的臭味。）",
+      "say41": "我聽最近供電房那裡好像有奇怪的聲音……是不是鬧鬼了？",
+      "say31": "一定要記得，一定不能把兜帽摘下來。",
+      "say1": "蘑菇。又是蘑菇。",
+      "say38": "是不是你以次充好，我告訴你，這樓壞了誰也別想跑！",
+      "say24": "……",
+      "say34": "（高樓中的各個房間內堆滿了打滿補丁的帳篷、用木板鐵棍製成的檢疫床鋪，有的甚至就直接用厚厚的紙張來當作床墊和枕頭。）",
+      "say33": "（從樓梯間出來，再繞過幾道用沙袋和各種廢棄傢俱堆積起來的防水防潮障礙，才進到我和其他人平常居住的地方。）",
+      "say7": "是嘛。這裡的人差不多見到蘑菇就反胃了已經……",
+      "say-2": "（我站在隔間門口，按著固定節奏敲了敲門，這是我和她約定好的，要是沒有按這個節奏敲門，就在房間裡藏起來。）",
+      "say51": "（走進眼前的房間，裡面擺著一張床，床上躺著一個人，他的邊上擺滿了各種儀器，它們通過電極片與軟管連接到她的身上。）",
+      "say13": "……",
+      "say23": "我想出去。我想看照片裡的世界，不想住在小屋子。",
+      "say42": "怎麼可能，有人在偷電還差不多。",
+      "say14": "（她的眼睛好像稍微瞪大了些，或許是其中的景象吸引住了她吧。）",
+      "say28": "我答應你。",
+      "say36": "喂，昨天的暴風是不是又把擋雨板弄壞了啊，我看地板有滲水啊。",
+      "say48": "……我帶你去一個地方。",
+      "say52": "（床上的人正是蘇珊。）",
+      "say8": "（我把用紙張包好的烤蘑菇放在了台子上，目光發現我先前給她帶來的書全部沒有翻閱過的痕跡。）",
+      "say3": "節日慶典是什麼？",
+      "say32": "嗯。",
+      "say-3": "你來了。",
+      "say40": "雞那邊倒是還能下蛋……但是營養也不太夠啊……好多都是軟殼蛋。",
+      "say44": "……",
+      "say54": "（我從懷裡取出一張揉皺了的紙，交給了他。）",
+      "say45": "（從手上傳來被緊緊握住的感覺，我這時才發現她正抓著我的手。）",
+      "say57": "於是，就成了這樣。這就是被雨淋到的人的下場，永遠也無法醒來，只能依靠邊上的這台機器維持生命。",
+      "say55": "（裡面是一幅畫，畫中的景象是床上的女人正抱著剛誕生的嬰兒。）",
+      "say12": "（少女接過了我遞給她的東西，那是一張照片，照片已經開始泛黃掉色，但其中的景色還是依然靚麗。）",
+      "say11": "……也是，那給你這個。",
+      "say18": "嗯……！",
+      "say20": "（今天，我也打算像往常那樣帶著圖畫和食物去找他。）",
+      "say59": "她的夢好美……",
+      "say39": "最近蘑菇的收成不太夠啊……這樣下去，豬可就沒飼料吃了……",
+      "say-4": "嗯，我給你帶了剛烤好的蘑菇，上面撒了點胡椒，味道應該還可以。還有一本故事書。",
+      "say50": "就是這裡。",
+      "say10": "嗯。",
+      "say16": "……都是一些世界各地的景色，只不過……它們現在都沒了，只留在這種照片裡了。",
+      "say27": "你會帶我出去嗎？",
+      "say49": "（我拉著他離開了居民區，向下一層，一直走到一個房間深處，這裡格外的安靜，就連不斷的雨聲都幾乎難以聽見，只有兩人的腳步聲在這裡迴盪。）",
+      "say26": "你先回去等一下，我給你找一件外套遮一下，你這麼到處走一定會被發現的。",
+      "say25": "（也是，任誰都不願意成天被關在一個只有幾平米的空間裡吧……只要不被人發現……問題應該不大……）",
+      "say29": "好。",
+      "say37": "怎麼可能，我上週才換了新的上去。",
+      "say-1": "（從那之後，過去了一段時間，我每天都會給他帶去食物和一些書，她好像也漸漸開始適應這樣的生活了。）",
+      "say56": "她叫蘇珊。前段時間剛生下一個嬰兒，本來或許能變成幸福的一家三口。然而……丈夫走了，孩子也被帶走了。",
+      "say19": "（從那之後。我便經常給他帶去各種圖畫和相冊，她真的很喜歡看那些景色，也是，誰不喜歡呢，不存在的過去的美好時光。）",
+      "say53": "她怎麼了？",
+      "say21": "（剛走到樓梯間，卻看到這個少女正迷茫地站在那裡。）",
+      "say22": "喂……你。你在幹嘛！？",
+      "say6": "烤蘑菇，很好吃。",
+      "say46": "怎麼了？",
+      "say30": "（不得已。我“借了”一件修理工的披風，厚實的深色布料能牢牢實實地遮住她的面龐和身體，這樣應該就沒問題了。）",
+      "say47": "<shake intensity=\"3\">這和……<pause duration=\"1\"/>照片裡的……不一樣……</shake>",
+      "say9": "你看不懂書上的內容嗎？",
+      "say17": "你要是感興趣的話，我之後再給你帶一些類似的，別的地方的照片？",
+      "say5": "要是可以的話，我也想給你帶點別的食物……",
+      "say15": "好美，這是什麼？",
+      "choice2001": "跟我來",
+      "choice1001": "這是沒辦法的事",
+      "choice1002": "我也想帶別的食物"
+    },
+    "yue_Hant": {
+      "say58": "就係因為咁⋯⋯嗰啲靚嘅風景全部都消失咗，一齊都被呢場雨沖走晒⋯⋯我哋只可以活喺屋簷下，就好似被圈養一樣。",
+      "say43": "（嘈雜、混亂，居民都係為咗生活用盡一切辦法。就算係咁，我哋可以做到嘅，都不過係喺噉嘅環境入邊多生存幾日。）",
+      "say4": "就係如果有一日發生咗啲好嘢⋯⋯大家就會聚埋一齊食餐勁嘅。",
+      "say2": "冇計，呢度冇乜嘢得食。好食啲嘢净得節日同慶典先有，兼且唔食飯就會被餓死。",
+      "say35": "（安全燈同電石燈隨處可見，空氣中飄蕩住一股硫化物嘅臭味。）",
+      "say41": "我聽最近供電房嗰度好似有啲怪聲⋯⋯有鬼？",
+      "say31": "一定要記得，一定唔可以除帽。",
+      "say1": "蘑菇，又係蘑菇。",
+      "say38": "係唔係你以次充好，我話你知，呢棟樓壞咗冇人走得甩！",
+      "say24": "……",
+      "say34": "（高樓中嘅各個房間內堆滿打晒補丁嘅帳篷、用木板鐵棍製成嘅簡易床鋪，有嘅甚至就直接用紙皮嚟做床墊同枕頭。）",
+      "say33": "（從樓梯間出嚟，再奏過幾個用沙袋同各種廢棄家具堆嘅防水防潮障礙，先至嚟到我同其他人平時住嘅地方。）",
+      "say7": "係？呢度啲人食蘑菇已經食到想嘔喇……",
+      "say-2": "（我站在隔间门口，按着固定节奏敲门，这是我和她约定好的，要是没有按这个节奏敲门，就在房间里匿埋。）",
+      "say51": "（走入眼前嘅房間，入面擺住一張床，床上瞓住一個人，佢嘅隔離擺咗各種儀器，佢哋通過電極片同軟管連接到佢身上。）",
+      "say13": "…",
+      "say23": "想出去。想睇下相入面嗰啲世界，唔想住喺呢度，窄。",
+      "say42": "邊有可能，有人「撻」電仲差唔多。",
+      "say14": "（佢對眼好似稍微邁大咗啲，可能係入面嘅景色吸引咗佢啩。）",
+      "say28": "應承你。",
+      "say36": "喂，尋日嘅暴風係咪又將擋雨整壞咗啊，我睇地板有滲水。",
+      "say48": "⋯⋯我帶你去個地方。",
+      "say52": "（床上嘅人正正就係蘇珊。）",
+      "say8": "（我將用紙包好嘅燒蘑菇放到檯面上，目光發現我之前帶嚟畀佢嘅書全部都冇翻過嘅痕跡。）",
+      "say3": "乜係節日慶典？",
+      "say32": "嗯。",
+      "say-3": "你嚟喇。",
+      "say40": "雞嗰邊倒係仲可以生蛋⋯⋯但係好似營養都唔係好夠⋯⋯生出嚟好多都係軟殼蛋。",
+      "say44": "……",
+      "say54": "（我喺口袋入面拎出一張皺咗嘅紙，交畀佢。）",
+      "say45": "（從手上傳來被緊緊握住嘅感覺，我呢個時候先發覺佢正捉住我隻手。）",
+      "say57": "於是，就變成咗噉樣。呢個就係被雨淋到嘅人嘅下場，永遠都醒唔返。只能依靠隔籬呢部機器維持生命。",
+      "say55": "（入面係一幅畫，畫中嘅景象係床上嘅女人正抱住啱啱誕生嘅 BB 。）",
+      "say12": "（少女接過咗我遞畀佢嘅嘢，係一張相，相已經開始甩色，但其中嘅景色依然靚麗。）",
+      "say11": "⋯⋯OK，噉畀呢個畀你。",
+      "say18": "好…！",
+      "say20": "（今日，我都打算好似平時噉帶住圖畫同食物去搵佢。）",
+      "say59": "佢嘅夢好靚⋯⋯",
+      "say39": "最近蘑菇嘅收成唔係太好啊⋯⋯噉樣落去，豬都冇嘢食喇⋯⋯",
+      "say-4": "嗯，我畀你帶咗啱啱燒好嘅蘑菇，上面加咗啲胡椒，味道應該還 OK。同埋一本故事書。",
+      "say50": "就係呢度。",
+      "say10": "嗯。",
+      "say16": "……都是一啲世界各地嘅風景，只不過，而家都冇曬，凈得剩反相。",
+      "say27": "你會帶我出去嗎？",
+      "say49": "（我拉佢離開居民區，向下一層，一直走到一個房間深處，呢度特別嘅安靜，就連冇停過嘅雨嘅聲音都幾乎聽唔到，只有兩人嘅腳步聲喺呢度迴盪。)",
+      "say26": "你先返去等下，我畀你搵件外套笠一下，你噉樣四圍走一定會畀人發現。",
+      "say25": "（啱，任何人都唔鍾意成日被關喺一個只有幾平方米嘅房間入面⋯⋯只要唔被人睇到⋯⋯問題應該唔大⋯⋯）",
+      "say29": "好。",
+      "say37": "邊有可能，我上禮拜先換咗新嘅上去。",
+      "say-1": "（之後，過咗一段時間，我日日都會帶食物同一啲書畀佢，佢好似都慢慢開始適應呢種生活。）",
+      "say56": "她叫苏珊，早排刚生下一个 BB，本来或许能变成幸福的一家三口。不过……老公走了，个蘇虾也被带走了。",
+      "say19": "（之後，我成日帶各種圖畫同相冊畀佢，佢真係好鍾意睇嗰啲風景，係，邊個唔鍾意呢，過去嘅美好時光。）",
+      "say53": "佢發生咗咩事？",
+      "say21": "（啱啱行到樓梯間，就見到呢個少女好似一碌木噉企喺度。）",
+      "say22": "喂⋯⋯你，你喺度做乜嘢！？",
+      "say6": "燒蘑菇，好食。",
+      "say46": "點呀？",
+      "say30": "（不得已，我 “ 借咗 ” 一件修理工嘅披風，厚實嘅深色布料可以實實淨淨遮住佢嘅面同身體，噉樣應該就冇問題喇。）",
+      "say47": "<shake intensity=\"3\">同……<pause duration=\"1\"/>相入邊⋯⋯唔一樣⋯⋯</shake>",
+      "say9": "你睇唔明書上嘅內容乜？",
+      "say17": "如果你鍾意嘅話，我之後再畀啲類似嘅，其他地方嘅相你？",
+      "say5": "如果得嘅話，我都想畀啲其他嘢你食⋯⋯",
+      "say15": "好靚，乜嘢嚟嘅？",
+      "choice2001": "跟我嚟",
+      "choice1001": "冇計",
+      "choice1002": "我都想帶其他食物"
+    },
+    "en": {
+      "say58": "That's why those good-looking scenes are gone. The rain washed them away… we're like livestock, living under roofs.",
+      "say43": "(The place is chaotic and crowded with noise. Everyone is struggling to survive. Even so, all we can do is eke out a few more days in this environment.)",
+      "say4": "It's when something good happens, and everyone gathers to eat nice food.",
+      "say2": "I know, but there's not much else to eat around here. Good food only comes out during festivals and celebrations. It's this or starve.",
+      "say35": "(Safety lights and gas lamps are scattered around. The air smells of sulfur.)",
+      "say41": "I heard weird noises from the power room recently… could it be haunted?",
+      "say31": "Remember, you must keep the hood on. Promise me.",
+      "say1": "Mushrooms. Again.",
+      "say38": "Did you cut any corners or cheat us? Listen, if this building collapses, you will <i>not</i> easily get away with it!",
+      "say24": "……",
+      "say34": "(The rooms in the high-rise are filled with patched—up tents, makeshift beds of wooden planks and metal bars, and some people just sleep on thick cardboard sheets.)",
+      "say33": "(We leave the staircase, passing through makeshift barriers of sandbags and discarded furniture, and enter the area where I and the others live.)",
+      "say7": "Really? People around here are sick of them by now…",
+      "say-2": "(I stand at the door of the small room and knock in a specific rhythm. This is our agreed signal—if it isn't this knock, she should hide inside.)",
+      "say51": "(We enter a room with a bed. Someone lies on it, surrounded by various machines connected to them through electrodes and tubes.)",
+      "say13": "…",
+      "say23": "Out. I want to go out, to see the world in those photos. I don't want to stay in this crappy room anymore.",
+      "say42": "More like someone's stealing our electricity.",
+      "say14": "(Her eyes widen slightly, as if drawn in by the scene.)",
+      "say28": "I promise.",
+      "say36": "Hey, did the storm yesterday mess up the rain cover again? The floor's getting wet.",
+      "say48": "… Come on, let me show you something.",
+      "say52": "(It's Susan.)",
+      "say8": "(I place the wrapped mushrooms on the table and notice the books I brought her before remain untouched.)",
+      "say3": "‘Festival’?",
+      "say32": "Okay.",
+      "say-3": "You're here.",
+      "say40": "The chickens are still laying eggs, but they're not that full of nutrition though. Lots of them have soft shells.",
+      "say44": "…",
+      "say54": "(I take out a crumpled piece of paper and hand it to her.)",
+      "say45": "(I feel a tight grip on my hand and realize she is holding onto me.)",
+      "say57": "Now, she's like this. This is what happens when people get caught in the rain. They never wake up and have to rely on these machines to stay alive.",
+      "say55": "(It's a picture of the woman on the bed holding a newborn baby.)",
+      "say12": "(She takes the photo I hand her. It's yellowing and fading, but the scenery is still beautiful.)",
+      "say11": "I see… here, take this.",
+      "say18": "Yes…!",
+      "say20": "(Today, I plan to bring her more pictures and food, as usual.)",
+      "say59": "Her dream is…… <i>beautiful</i>…",
+      "say39": "Mushroom harvest's been poor lately… if this keeps up, the pigs won't have feed…",
+      "say-4": "Well, I brought you some freshly baked mushrooms. It's sprinkled with pepper and should taste alright. And here's a storybook.",
+      "say50": "It's in here.",
+      "say10": "No.",
+      "say16": "These are pictures of places from around the world. But they… don't exist anymore. Only these photos remain.",
+      "say27": "Will you take me outside?",
+      "say49": "(I lead her away from the crowded area, down a level, and into a quiet room. Here, the sound of rain is almost nonexistent, and only our footsteps echo.)",
+      "say26": "Wait here. I'll get you a coat to cover up. You’ll get caught if you walk around like this.",
+      "say25": "(Right. No one would want to be cooped up in a tiny space forever. She wants out. And it should be okay as long as no one finds her here…)",
+      "say29": "Thank you.",
+      "say37": "How’s that possible? I’d just changed a new one last week.",
+      "say-1": "(Time has flown fast since then. Every day I bring her food and some books, and the girl seems to be slowly getting used to this life.)",
+      "say56": "Her name is Susan. She had a baby recently. It could have been a happy family, but her husband left, and her baby was taken away.",
+      "say19": "(Since then, I often bring her pictures and albums. She really loves looking at them. After all, who wouldn't be fascinated by the beautiful, lost past?)",
+      "say53": "What happened to her?",
+      "say21": "(As I reach the staircase, I see her standing there, looking lost.)",
+      "say22": "Hey there, what… what are you doing!?",
+      "say6": "Baked mushrooms are fine.",
+      "say46": "What's wrong?",
+      "say30": "(I have to \"borrow\" a repairman's cloak, its thick dark fabric enough to hide her face and body.)",
+      "say47": "<shake intensity=\"3\">This… <pause duration=\"1\"/>it's not like the photos…</shake>",
+      "say9": "You… can’t understand the contents?",
+      "say17": "If you like, I can bring you more photos from other places?",
+      "say5": "If possible, I wish I could bring you something different…",
+      "say15": "It's so pretty. What is this?",
+      "choice2001": "This way",
+      "choice1001": "It’s all we have",
+      "choice1002": "I wish I could bring something else"
+    },
+    "ja": {
+      "say58": "だから……あの美しい光景は全て消えてしまった。この雨によって全てが流されてしまったんだ……私たちは屋根の下で生きるしかない。まるで飼い慣らされたように。",
+      "say43": "「騒がしく、混乱した状況の中、住民たちは生きるためにあらゆる手段を尽くしていた。それでも、私たちができることは、この環境で数日長く生き延びることだけだった。」",
+      "say4": "何か良いことが起こった日…みんなが集まって美味しいものを食べるんだ。",
+      "say2": "しかたないじゃん、ここには食べられるものが何もないんだ。おいしいものは祝日とお祭りの時しか出ない。食べ物がなきゃ餓死してしまう。",
+      "say35": "「安全灯やガスランプがあちこちに置かれ、空気には硫化物の臭いが漂っていた。」",
+      "say41": "さっき発電所の近くで変な音がしてんだけど…おばけでもいるのかな?",
+      "say31": "忘れるなよ。絶対に帽子を脱いじゃいけないぞ。",
+      "say1": "キノコ、またキノコなのね。",
+      "say38": "お前、安物を使ったんじゃねえのか。このビルが壊れりゃみんな逃げ場もねえぞ！",
+      "say24": "…",
+      "say34": "「高層ビルの各部屋には、ぼろぼろの天幕や板と棒で作った簡易ベッド、厚紙を敷き詰めただけのベッドが並んでいた。」",
+      "say33": "「階段を下り、砂袋や家具の残骸を積んだ防水・防湿障壁をくぐり抜けると、私たちが普段住んでいる場所に入った。」",
+      "say7": "そうか、ここの人たちはキノコを見るだけでうんざりしているのに…",
+      "say-2": "「私は隔間のドアの前に立ち、決められたリズムでノックした。これは彼女との約束で、このリズムでノックしなければ、部屋の中に隠れることになっていた。」",
+      "say51": "「目の前の部屋に入ると、中にはベッドが一つあり、その上に一人の女性が横たわっていた。彼女の周りには様々な機器が置かれており、それらは電極とチューブを通して彼女の体に接続されていた。」",
+      "say13": "…",
+      "say23": "外に出たい。写真の世界を見たい。この小部屋に閉じ込められるのは嫌だ。",
+      "say42": "ありえねえって、電気を盗んでる奴がいるんだろ。",
+      "say14": "「彼女の目が少し大きくなったようだ。おそらく、その景色に引き込まれたのだろう。」",
+      "say28": "約束する。",
+      "say36": "おい、昨日の嵐で防水シートが破れたのか?床が濡れてるぜ。",
+      "say48": "…ある場所に連れて行くよ。",
+      "say52": "「ベッドの上の女性は、スーザンだった。」",
+      "say8": "「包みからキノコを取り出し、テーブルに置いた。目をやると以前持ってきた本には、一度も開いた形跡がなかった。」",
+      "say3": "祝日とお祭りって何?",
+      "say32": "うん。",
+      "say-3": "来たね。",
+      "say40": "鶏はまだ卵を産むけど…栄養が足りないのか…ほとんどが柔らかい殻の卵だ。",
+      "say44": "…",
+      "say54": "「懐からしわくちゃの紙を取り出し、彼女に手渡した。」",
+      "say45": "「手がしっかりと握られている感触が伝わってきた。彼女が私の手を握っているのに気付いた。」",
+      "say57": "だから、こんな風になってしまった。これが雨に濡れた人の末路なんだ。永遠に目を覚ますことができず、ただこの機械に頼って生き続けるしかない。",
+      "say55": "「それは一枚の絵で、絵にはベッドにいる女性が生まれたばかりの赤ちゃんを抱いている光景が描かれていた。」",
+      "say12": "「少女は私から渡されたものを受け取った。それは黄ばんで色あせた写真だったが、その景色の美しさはそのままだった。」",
+      "say11": "…そうか、じゃあこれをあげる。",
+      "say18": "うん…!",
+      "say20": "「今日も、いつも通り絵と食べ物を持って彼女に会いに行こうとしている。」",
+      "say59": "彼女の夢はとても美しい…",
+      "say39": "最近キノコの収穫が足りない…このままだと豚の飼料がなくなる…",
+      "say-4": "うん、焼きたてのキノコを持ってきたよ。上に少し胡椒を振ったから、まあ、まずまずかな。あと、一冊の物語の本も。",
+      "say50": "ここだよ。",
+      "say10": "うん。",
+      "say16": "…世界中の景色の写真なんだけど…今はもうその景色は無くなってしまって、写真に残っているだけなんだ。",
+      "say27": "連れて行ってくれるの？",
+      "say49": "「私は彼女の手を引いて住宅街を抜け、下の階に降りていった。そして、ある部屋の奥深くまで進んだ。そこは特に静かで、絶え間なく降り続く雨の音もほとんど聞こえず、ただ二人の足音だけが響いていた。」",
+      "say26": "まず戻って待ってて、上着を見つけて隠れるようにするから。そんなにウロウロしてたら見つかるよ。",
+      "say25": "「確かに、誰だって数平米の狭い部屋に閉じ込められていたくはあるまい…でも、見つからなければ問題ないだろう…」",
+      "say29": "うん。",
+      "say37": "ばかな、先週新しいのを取り付けたばかりだ。",
+      "say-1": "(そしてしばらくして、私は毎日彼女に食べ物と本を持ってきた。彼女もこの生活に少しずつ馴染んでいったようだ。)",
+      "say56": "彼女の名前はスーザン だ。少し前に赤ちゃんを産んだばかりで、本来なら幸せな三人家族になれるはずだった。だけど……夫は去り、子供も連れ去られた。",
+      "say19": "「それ以来、私は彼女に絵や写真集をよく持っていった。彼女はほんとにその景色を見るのが大好きだ。まあ、誰だって過去の素晴らしい光景を見るのが好きだろう。」",
+      "say53": "彼女はどうしたの？",
+      "say21": "「階段の踊り場に着くと、彼女がそこにぽつんと立っているのが見えた。」",
+      "say22": "おい…何してるんだ!?",
+      "say6": "焼きキノコ、おいしいよ。",
+      "say46": "どうしたの?",
+      "say30": "『やむを得ず修理作業員の黒い作業着を「借りた」。厚手の布なので、顔や体を完全に隠せるはずだ。』",
+      "say47": "<shake intensity=\"3\">これと…<pause duration=\"1\"/>写真の中の…違う…</shake>",
+      "say9": "本の内容が読めないの?",
+      "say17": "もし興味があったら、また別の場所の写真を持ってくるよ?",
+      "say5": "できれば、他の食べ物も持ってきたいけど…",
+      "say15": "きれい、これは何?",
+      "choice2001": "付いてきて",
+      "choice1001": "仕方のないことだ",
+      "choice1002": "私も他の食べ物を持ってきたい"
+    },
+    "es": {
+      "say58": "Por eso esas escenas tan bonitas han desaparecido. La lluvia se las llevó… somos como ganado, viviendo bajo techo.",
+      "say43": "(El lugar es caótico y está abarrotado de ruido. Todo el mundo lucha por sobrevivir. Aun así, lo único que podemos hacer es sobrevivir unos días más en este ambiente)",
+      "say4": "Es cuando sucede algo bueno y todo el mundo se reúne para comer buena comida.",
+      "say2": "Lo sé, pero no hay mucho más que comer por aquí. La buena comida sólo sale durante los festivales y las celebraciones. Es esto o morir de hambre.",
+      "say35": "(Hay luces de seguridad y lámparas de gas esparcidas por los alrededores. El aire tiene un olor a azufre)",
+      "say41": "Hace poco oí ruidos extraños en la sala de máquinas… ¿podría estar embrujada?",
+      "say31": "Recuerda, debes llevar la capucha puesta. Prométemelo.",
+      "say1": "Champiñones. Otra vez.",
+      "say38": "¿Hiciste algún recorte o nos engañaste? Escucha, si este edificio se derrumba, ¡<i>no</i> podrás salirte con la tuya!",
+      "say24": "..…",
+      "say34": "(Las habitaciones del rascacielos están llenas de tiendas de campaña remendadas, camas improvisadas de tablones de madera y barras metálicas. Algunas personas simplemente duermen sobre gruesas sábanas de cartón)",
+      "say33": "(Salimos de la escalera, atravesando barreras improvisadas de sacos de arena y muebles desechados, y entramos en la zona donde vivimos los demás y yo)",
+      "say7": "¿De veras? La gente de por aquí está cansada de eso por el momento…",
+      "say-2": "(Me sitúo en la puerta de la pequeña habitación y llamo a un ritmo determinado. Esta es nuestra señal acordada: si no es este golpe, ella debe esconderse dentro)",
+      "say51": "(Entramos en una habitación con una cama. Alguien yace en ella, rodeado de varias máquinas conectadas a él mediante electrodos y tubos)",
+      "say13": "…",
+      "say23": "Quiero salir, ver el mundo en esas fotos. No quiero seguir en esta habitación infecta.",
+      "say42": "Más bien alguien nos está robando la electricidad.",
+      "say14": "(Sus ojos se abren ligeramente, como atraídos por la escena)",
+      "say28": "Lo prometo.",
+      "say36": "Oye, ¿la tormenta de ayer volvió a estropear la cubierta para la lluvia? El suelo se está mojando.",
+      "say48": "… Ven, deja que te muestre algo.",
+      "say52": "(Es Susan)",
+      "say8": "(Coloco los champiñones envueltos sobre la mesa y observo que los libros que le llevé antes siguen intactos)",
+      "say3": "¿«Festival»?",
+      "say32": "Está bien.",
+      "say-3": "Estás aquí.",
+      "say40": "Las gallinas siguen poniendo huevos, pero no son tan nutritivos. Muchos tienen la cáscara blanda.",
+      "say44": "…",
+      "say54": "(Saco un papel arrugado y se lo entrego)",
+      "say45": "(Siento un fuerte apretón en la mano y me doy cuenta de que me está agarrando)",
+      "say57": "Ahora, está así. Esto es lo que pasa cuando la gente queda atrapada en la lluvia. Nunca se despiertan y tienen que depender de estas máquinas para mantenerse con vida.",
+      "say55": "(Es una foto de la mujer en la cama sosteniendo a un recién nacido)",
+      "say12": "(Coge la foto que le paso. Está amarillenta y descolorida, pero el paisaje sigue siendo hermoso)",
+      "say11": "Ya veo… ten, toma esto.",
+      "say18": "¡Sí…!",
+      "say20": "(Hoy pienso llevarle más fotos y comida, como de costumbre)",
+      "say59": "Su sueño es… <i>hermosol</i>…",
+      "say39": "La cosecha de champiñones ha sido pobre últimamente… si esto sigue así, los cerdos no tendrán alimento…",
+      "say-4": "Bueno, te he traído champiñones recién horneados. Está espolvoreado con pimienta y debería saber bien. Y aquí tienes un libro de cuentos.",
+      "say50": "Está aquí dentro.",
+      "say10": "Nope.",
+      "say16": "Son fotos de lugares de todo el mundo. Pero… ya no existen. Sólo quedan estas fotos.",
+      "say27": "¿Me llevarás fuera?",
+      "say49": "(La alejo de la zona concurrida, bajo un nivel y la guío hasta una habitación tranquila. En esta habitación el sonido de la lluvia es casi inexistente y solo resuenan nuestros pasos)",
+      "say26": "Espera aquí. Te traeré un abrigo para resguardarte. Te atraparán si caminas así.",
+      "say25": "(Correcto. Nadie querría estar encerrado en un espacio diminuto para siempre. Ella quiere salir. Y no debería tener ningún problema mientras nadie la encuentre aquí…)",
+      "say29": "Gracias.",
+      "say37": "¿Cómo es posible? Si aún me encargué de cambiarla la semana pasada.",
+      "say-1": "(El tiempo ha volado rápido desde entonces. Todos los días le llevo comida y algunos libros, y parece que la niña se va acostumbrando poco a poco a esta vida)",
+      "say56": "Su nombre es Susan. Hace poco dio a luz a un bebé. Podría haber sido una familia feliz, no obstante, su marido la abandonó y se llevaron a su bebé.",
+      "say19": "(Desde entonces, le llevo a menudo fotos y álbumes. Le encanta verlas. Al fin y al cabo, ¿a quién no le fascina el bello pasado perdido?)",
+      "say53": "¿Qué le ha pasado?",
+      "say21": "(Al llegar a la escalera, la veo de pie, con la mirada perdida)",
+      "say22": "Oye, ¿qué…? ¿¡Qué estás haciendo!?",
+      "say6": "Los champiñones al horno están bien.",
+      "say46": "¿Qué pasa?",
+      "say30": "(Tengo que «tomar prestada» una capa de reparador, su gruesa tela oscura es suficiente para ocultar su cara y su cuerpo)",
+      "say47": "<shake intensity=\"3\">Esto… <pause duration=\"1\"/>no es como las fotos…</shake>",
+      "say9": "Tú… ¿no puedes entender los contenidos?",
+      "say17": "Si lo prefieres, ¿podría traerte más fotos de otros lugares?",
+      "say5": "Si fuera posible, me gustaría haberte traído algo diferente…",
+      "say15": "Es tan bonito. ¿Qué es esto?",
+      "choice2001": "Por aquí",
+      "choice1001": "Es todo lo que tenemos",
+      "choice1002": "Ojalá pudiera haber traído alguna otra cosa"
+    },
+    "fr": {
+      "say58": "Voilà pourquoi ces belles scènes ont disparu. La pluie les a emportées… nous sommes comme du bétail, vivant sous des toits.",
+      "say43": "(L'endroit est chaotique et bondé de bruit. Tout le monde lutte pour survivre. Malgré tout, tout ce que nous pouvons faire, c'est survivre quelques jours de plus dans cet environnement.)",
+      "say4": "C'est quand quelque chose de bien se produit et que tout le monde se rassemble pour manger de la bonne nourriture.",
+      "say2": "Je sais, mais il n'y a pas grand chose d'autre à manger ici. La bonne nourriture n'est servie que pendant les festivals et les célébrations. C'est ça ou mourir de faim.",
+      "say35": "(Des lumières de sécurité et des lampes à gaz sont dispersées un peu partout. L'air sent le soufre.)",
+      "say41": "J'ai entendu des bruits étranges provenant de la salle d'alimentation récemment… pourrait-elle être hantée ?",
+      "say31": "N'oublie pas, tu dois garder la capuche. Promets-le-moi.",
+      "say1": "Des champignons. Encore.",
+      "say38": "As-tu coupé des coins ou nous as trompés ? Écoute, si ce bâtiment s'effondre, tu <i>ne</i> t'en tireras <i>pas</i> facilement !",
+      "say24": "……",
+      "say34": "(Les chambres du gratte-ciel sont remplies de tentes rafistolées, de lits de fortune faits de planches de bois et de barres de métal, et certaines personnes dorment simplement sur d'épais draps en carton.)",
+      "say33": "(Nous quittons l'escalier, traversons des barrières de fortune faites de sacs de sable et de meubles abandonnés, et entrons dans la zone où moi et les autres vivons.)",
+      "say7": "Vraiment ? Les gens d'ici en ont marre maintenant…",
+      "say-2": "(Je me tiens à la porte de la petite pièce et je frappe à un rythme précis. C'est notre signal convenu : si ce n'est pas ce coup, elle devrait se cacher à l'intérieur.)",
+      "say51": "(Nous entrons dans une pièce avec un lit. Quelqu'un est allongé dessus, entouré de diverses machines reliées à elles par des électrodes et des tubes.)",
+      "say13": "…",
+      "say23": "Sortir. Je veux sortir, voir le monde à travers ces photos. Je ne veux plus rester dans cette chambre minable.",
+      "say42": "Plutôt comme si quelqu'un volait notre électricité.",
+      "say14": "(Ses yeux s'écarquillent légèrement, comme attirés par la scène.)",
+      "say28": "Je te le promets.",
+      "say36": "Hé, la tempête d'hier a-t-elle encore abîmé la protection contre la pluie ? Le sol est mouillé.",
+      "say48": "… Allez, laisse-moi te montrer quelque chose.",
+      "say52": "(C'est Susan.)",
+      "say8": "(Je pose les champignons emballés sur la table et remarque que les livres que je lui ai apportés auparavant restent intacts.)",
+      "say3": "'Festival' ?",
+      "say32": "D'accord.",
+      "say-3": "Tu es ici.",
+      "say40": "Les poules pondent encore des œufs, mais ils ne sont pas très nutritifs. Beaucoup d'entre eux ont une coquille molle.",
+      "say44": "…",
+      "say54": "(Je sors un morceau de papier froissé et le lui tends.)",
+      "say45": "(Je sens une prise serrée sur ma main et je réalise qu'elle me tient.)",
+      "say57": "Maintenant, c'est comme ça. C'est ce qui arrive quand les gens sont pris sous la pluie. Ils ne se réveillent jamais et doivent compter sur ces machines pour rester en vie.",
+      "say55": "(C'est une photo de la femme sur le lit tenant un nouveau-né.)",
+      "say12": "(Elle prend la photo que je lui tends. Elle jaunit et s'estompe, mais le paysage est toujours aussi beau.)",
+      "say11": "Je vois… tiens, prends ça.",
+      "say18": "Oui… !",
+      "say20": "(Aujourd'hui, je prévois de lui apporter plus de photos et de nourriture, comme d'habitude.)",
+      "say59": "Son rêve est… <i>magnifique</i>…",
+      "say39": "La récolte de champignons a été mauvaise ces derniers temps… si cela continue, les cochons n'auront plus de nourriture…",
+      "say-4": "Eh bien, je t'ai apportée des champignons fraîchement cuits. Ils sont saupoudrés de poivre et devraient avoir un goût délicieux. Et voici un livre d'histoire.",
+      "say50": "C'est ici.",
+      "say10": "Non.",
+      "say16": "Ce sont des photos de lieux du monde entier. Mais ils… n’existent plus. Seules ces photos subsistent.",
+      "say27": "Est-ce que tu m'emmènes dehors ?",
+      "say49": "(Je l'emmène loin de la zone bondée, en bas d'un niveau, et dans une pièce calme. Ici, le bruit de la pluie est presque inexistant, et seuls nos pas résonnent.)",
+      "say26": "Attends ici. Je vais te chercher un manteau pour te couvrir. Tu vas te faire prendre si tu te promènes comme ça.",
+      "say25": "(C'est vrai. Personne ne voudrait être enfermé dans un espace minuscule pour toujours. Elle veut sortir. Et ça devrait aller tant que personne ne la trouve ici…)",
+      "say29": "Merci.",
+      "say37": "Comment est-ce possible ? Je venais d’en changer une nouvelle la semaine dernière.",
+      "say-1": "(Le temps a passé vite depuis. Chaque jour, je lui apporte de la nourriture et quelques livres, et la fille semble s'habituer petit à petit à cette vie.)",
+      "say56": "Elle s'appelle Susan. Elle a eu un bébé récemment. La famille aurait pu être heureuse, mais son mari est parti et son bébé lui a été enlevé.",
+      "say19": "(Depuis lors, je lui apporte souvent des photos et des albums. Elle adore les regarder. Après tout, qui ne serait pas fasciné par le beau passé perdu ?)",
+      "say53": "Que lui est-il arrivé ?",
+      "say21": "(Alors que j'atteins l'escalier, je la vois debout là, l'air perdue.)",
+      "say22": "Hé là, qu’est-ce que… qu’est-ce que tu fais !?",
+      "say6": "Les champignons cuits au four sont pas mals.",
+      "say46": "Qu'est-ce qui ne va pas ?",
+      "say30": "(Je dois « emprunter » une cape de réparateur, son tissu sombre et épais suffit à cacher son visage et son corps.)",
+      "say47": "<shake intensity=\"3\">Ce… <pause duration=\"1\"/>ce n'est pas comme sur les photos…</shake>",
+      "say9": "Tu… ne comprends pas le contenu ?",
+      "say17": "Si tu veux, je peux t'apporter plus de photos d'autres endroits ?",
+      "say5": "Si possible, j’aimerais pouvoir t'apporter quelque chose de différent…",
+      "say15": "C'est si joli. Qu'est-ce que c'est ?",
+      "choice2001": "Par ici",
+      "choice1001": "C'est tout ce que nous avons",
+      "choice1002": "J'aimerais pouvoir apporter autre chose"
+    },
+    "ko": {
+      "say58": "그래서 좋았던 그런 모습이 사라진 거지. 비가 그 사람들을 씻겨냈어. 마치 지붕 아래 사는 가축 같아.",
+      "say43": "(이곳은 혼란스럽고 소음으로 붐비고 있었다. 모두가 살기 위해서 안간힘을 쓰고 있다. 그럼에도 우리가 할 수 있는 일은 이 환경에서 며칠만 버티는 것 뿐이다.)",
+      "say4": "좋은 일이 생겼을 때 모두 모여서 좋은 음식을 먹는 날이야.",
+      "say2": "나도 알지만, 이 주변엔 먹을 만한게 별로 없어. 그나마 좋은 음식이라곤 축제나 행사 때만 나오는걸. 이거 아니면 굶어 죽을 것 같아.",
+      "say35": "(주변에 안전등과 가스등이 흩어져 있다. 공기에서 유황 냄새가 났다.)",
+      "say41": "최근에 전기실에서 이상한 소리가 들렸는데… 혹시 유령인가?",
+      "say31": "후드를 계속 입고 다녀야 한다는 점을 기억해야 해. 나랑 약속하자.",
+      "say1": "또 버섯이네.",
+      "say38": "모퉁이를 자르거나 저희를 속인거에요? 잘들어요, 이 건물이 무너지면 쉽게 빠져나오지 <i>못 해요</i>!",
+      "say24": "……",
+      "say34": "(고층 건물의 방은 수선한 텐트, 나무 판자와 금속 막대로 만든 임시 침대로 가득 차 있고, 몇몇 사람들은 두꺼운 판자 시트 위에서 잠을 잔다.)",
+      "say33": "(우리는 계단을 떠나 모래주머니와 버려진 가구로 만든 임시 가벽을 통해 나랑 다른 사람들이 사는 지역으로 들어갔다.)",
+      "say7": "정말? 지금쯤이면 주변 사람들도 지쳤을텐데…",
+      "say-2": "(칸막이 공간 문 앞에 서서 정해진 리듬으로 문으로 두드렸다. 이건 그녀와 약속한 암호다. 이렇게 두드리지 않으면 그녀는 방에 숨어야 한다.)",
+      "say51": "(침대가 있는 방에 들어갔다. 그 위에 누군가 누워 있었고, 전선과 튜브를 통해 연결된 다양한 기계들로 둘러싸여 있었다.)",
+      "say13": "…",
+      "say23": "나가볼래. 밖으로 나가서 그 사진 속 세상을 보고 싶어. 더 이상 이 형편없는 방에 머물고 싶지 않아.",
+      "say42": "누가 우리 전기를 훔치는 것 같아.",
+      "say14": "(그녀의 눈빛이 그 장면에 이끌린 듯 살짝 커졌다.)",
+      "say28": "약속할게.",
+      "say36": "저기, 어제 폭풍 때문에 비 덮개가 또 망가졌나요? 바닥이 젖어 있어요.",
+      "say48": "… 일로 와 봐, 보여줄 게 있어.",
+      "say52": "(수잔 이모다.)",
+      "say8": "(포장된 버섯을 테이블 위에 올려 놓았는데, 전에 그녀에게 준 책들이 그대로 남아 있는 걸 발견했다.)",
+      "say3": "'축제'?",
+      "say32": "응.",
+      "say-3": "어서 와.",
+      "say40": "닭은 여전히 알을 낳고 있지만 영양이 풍부하지는 않아요. 대부분은 부드러운 껍질을 가지고 있어요.",
+      "say44": "…",
+      "say54": "(구겨진 종이 한 장을 꺼내 그녀에게 건네줬다.)",
+      "say45": "(누가 내 손을 꽉 쥐는 것을 느꼈는데, 알고보니 그녀가 나를 붙잡고 있었다.)",
+      "say57": "지금은, 이런 상태야. 사람들이 비를 맞으면 이렇게 돼. 계속 깨어나지도 않는데, 살리고 싶다면 이 기계에 의존할 수밖에 없어.",
+      "say55": "(침대에 누워 갓 태어난 아기를 안고 있는 여성의 사진이다.)",
+      "say12": "(그녀는 내가 건넨 사진을 받았다. 누렇게 변하고 빛이 흐리지만, 풍경은 여전히 아름다웠다.)",
+      "say11": "알겠어… 여기 이거 가져가.",
+      "say18": "응…!",
+      "say20": "(오늘도 평소처럼 사진과 음식을 더 가져다 줄 예정이다.)",
+      "say59": "그녀의 꿈은… <i>아름다워</i>…",
+      "say39": "최근 버섯 수확량이 좋지 않아서… 계속 이러면 돼지들이 먹이를 못 먹게 될 텐데…",
+      "say-4": "음, 갓 구운 버섯을 가져왔어. 후추 뿌려놔서 맛있을 거야. 그리고 여기 동화책도 줄게.",
+      "say50": "여기로 와봐.",
+      "say10": "아니.",
+      "say16": "이건 옛날 세계의 사진이야. 그치만 그것들은… 더 이상 존재하지 않아. 이 사진들만 남았어.",
+      "say27": "날 밖으로 데려다 줄거야?",
+      "say49": "(난 그녀를 혼잡한 곳에서 아래 층으로 내려가 조용한 방으로 데려갔다. 이곳에서는 빗소리가 거의 들리지 않고 우리의 발소리만 울렸다.)",
+      "say26": "여기서 기다려. 덮을 코트를 갖다 줄게. 이렇게 돌아다니면 붙잡힐 거야.",
+      "say25": "(그렇다. 좁은 공간에 영원히 갇혀 있고 싶은 사람은 없을 것이다. 그녀는 나가고 싶어했다. 그녀가 다른 사람에게 보이지만 않으면 괜찮을 것이다…)",
+      "say29": "고마워.",
+      "say37": "아니 그게 무슨 소리에요? 지난주에 새로 하나 바꿨는걸요.",
+      "say-1": "(그 이후로 시간은 빠르게 흘렀다. 매일 그녀에게 음식과 책을 전해줬고, 소녀는 이 생활에 점점 익숙해지는 것 같았다. 자연스럽게 말도 놓기로 했다.)",
+      "say56": "이 분의 이름은 수잔이야. 최근에 아기를 낳았어. 행복한 가정이었을지 모르지만 남편은 떠나고, 아기도 뺏겼어.",
+      "say19": "(그 이후로 난 가끔씩 그녀에게 사진과 앨범을 가져다줬다. 그녀는 그걸 보는 걸 정말 좋아했다. 애초에, 아름답지만 사라져버린 과거에 매료되지 않을 사람이 어디 있을까?)",
+      "say53": "무슨 일이 있는거에요?",
+      "say21": "(계단에 다다랐을 때 그녀가 길을 잃은 듯한 표정으로 저쪽에 서 있는 것을 보았다.)",
+      "say22": "야, 뭐… 뭐 하는 거야!?",
+      "say6": "구운 버섯이라도 괜찮아.",
+      "say46": "왜 그래?",
+      "say30": "(수리공의 망토를 '빌려야' 하는데, 그 망토는 얼굴과 몸을 가릴 만큼 두껍고 어두운 천으로 만들어졌기에 괜찮을 것이다.)",
+      "say47": "<shake intensity=\"3\">이건… <pause duration=\"1\"/>사진과 다르잖아…</shake>",
+      "say9": "너… 혹시 책 내용이 이해가 안되는거야?",
+      "say17": "원하면, 다른 곳에서 찍은 사진을 더 가져다 줄까?",
+      "say5": "가능하다면, 다른것을 가져다 주고 싶어…",
+      "say15": "정말 예쁘다. 이게 뭐야?",
+      "choice2001": "여기로 가기",
+      "choice1001": "그건 해결 할 방법이 없다",
+      "choice1002": "다른 것들도 가져왔으면 좋겠다"
+    },
+    "ru": {
+      "say58": "Вот почему эти красивые места исчезли. Дождь смыл их… Мы, как скот, живем под крышами.",
+      "say43": "(Это место хаотичное и переполнены шумом. Все стараются выжить. Но даже в этом случае все, что мы можем сделать, - это протянуть еще несколько дней в таких условиях.)",
+      "say4": "Это..когда произошло что-то хорошее и все собираются, чтобы поесть вкусной еды.",
+      "say2": "Я знаю, но больше здесь есть нечего. Хорошая еда появляется только во время фестивалей и праздников. Либо ешь, либо голодай.",
+      "say35": "(Вокруг разбросаны фонари и газовые лампы. Воздух пахнет серой.)",
+      "say41": "Я недавно слышал странные звуки из генераторной…может там приведение?",
+      "say31": "Помни, не снимай капюшон, обещай мне.",
+      "say1": "Грибы. Снова.",
+      "say38": "Ты обрезал углы или ты пытаешься обмануть нас? Слышь, если это здание разрушится, тебе будет ой как <i>не</i> сладко!",
+      "say24": "……",
+      "say34": "(Комнаты в многоэтажке заполнены заплатанными палатками, импровизированными кроватями из деревянных досок и металлических прутьев, а некоторые люди просто спят на толстых картонных простынях.)",
+      "say33": "(Мы покидаем лестничную клетку, проходя через импровизированные барьеры из мешков с песком и выброшенной мебели, и попадаем в район, где живу я и остальные).",
+      "say7": "Правда? Люди здесь уже устали от них",
+      "say-2": "(Я стою у двери маленькой комнаты и стучу в определенном ритме. Это наш согласованный сигнал - если стук не такой, то она должна спрятаться).",
+      "say51": "(Мы вошли в комнату с кроватью. Кто-то лежит на ней, окруженные различными аппаратами, подключенными к ним через электроды и трубки).",
+      "say13": "…",
+      "say23": "Я ухожу. Я хочу уйти отсюда, увидеть мир как на этих фотографиях. Я не хочу больше оставаться в этой жуткой комнатушке.",
+      "say42": "больше похоже на то, что кто-то ворует наше электричество.",
+      "say14": "(Ее глаза слегка расширились, словно были привлечены.)",
+      "say28": "Я обещаю.",
+      "say36": "Хей, вчерашний шторм снова испортил дождевую защиту? Пол опять становится мокрым.",
+      "say48": "… Давай, дай мне кое-что показать",
+      "say52": "(Это Сьюзен)",
+      "say8": "(Я кладу завернутые грибы на стол и замечаю, что книги, которые я принес ей раньше, остались нетронутыми).",
+      "say3": "'фестиваль'?",
+      "say32": "Хорошо.",
+      "say-3": "Ты тут.",
+      "say40": "Курицы все еще откладывают яйца, но не все из них питательные. Большинство яйц имеют мягкую оболочку.",
+      "say44": "…",
+      "say54": "(Я достаю скомканный листок бумаги и протягиваю ей).",
+      "say45": "(Я чувствую крепкий хват моей руки и понял, что она прижимается ко мне",
+      "say57": "Теперь она..вот такая. Вот что происходит с людьми, когда они попадают под дождь. Они никогда не просыпаются и приходится полагаться на эти аппараты.",
+      "say55": "(Это фотография с женщиной на кровати, которая держит новорождённого ребёнка.",
+      "say12": "(Она берет фотографию, которую я ей протягиваю. Она пожелтела и выцвела, но пейзаж по-прежнему прекрасен).",
+      "say11": "Понял…вот, возьми.",
+      "say18": "Конечно…!",
+      "say20": "(Сегодня, я планирую принести еще фотографий и еду, как обычно.)",
+      "say59": "Её сон……. <i>прекрасен</i>…",
+      "say39": "Грибной урожай в последнее время становится все хуже и хуже… если так дальше и будет, то у свиней не будет корма…",
+      "say-4": "Ну, Я принес свежевыпеченные грибы. Они посыпаны перцем и вкус должен быть нормальным. И вот сборник с разными историями.",
+      "say50": "Это здесь.",
+      "say10": "Нет.",
+      "say16": "Эти фотографии с местами из разных уголков мира. Но их…больше нет. Остались только фотографии с ними.",
+      "say27": "Ты меня отведёшь наружу?",
+      "say49": "(Я веду ее прочь от людного места, спускаюсь на один уровень и попадаю в тихую комнату. Здесь шум дождя почти не слышен, и только наши шаги отдаются эхом).",
+      "say26": "Подожди меня здесь. Я возьму свою пальто, чтобы прикрыться. Тебя поймают, если ты будешь ходить в таком виде.",
+      "say25": "(Верно. Никто не захочет вечно сидеть в крошечном пространстве. Она хочет выбраться. И всё будет хорошо, если никто не найдет её здесь…",
+      "say29": "Спасибо.",
+      "say37": "Каким образом? Я менял его неделю назад.",
+      "say-1": "(С тех пор время пролетело быстро. Каждый день я приношу ей еду и книги, и, кажется, девушка постепенно привыкает к этой жизни).",
+      "say56": "Её зовут Сьюзен. Она недавно родила ребенка. У нее могла быть счастливая семья, но…её муж ушел и забрал с собой ребенка",
+      "say19": "(С тех пор, Я чаще стал приносить фотографии и альбомы. Ей очень нравилось смотреть на них. В конце концов, кого не очаровывает прекрасное, утраченное прошлое?)",
+      "say53": "Что с ней произошло?",
+      "say21": "(Дойдя до лестницы, я вижу, что она стоит там с потерянным видом.)",
+      "say22": "Привет, что… что ты тут делаешь!?",
+      "say6": "Запеченные грибы тоже подойдут.",
+      "say46": "Что-то не так?",
+      "say30": "(Мне приходится \"одолжить\" плащ у слесаря, его плотной темной ткани достаточно, чтобы скрыть лицо и тело).",
+      "say47": "<shake intensity=\"3\">Это место…<pause duration=\"1\"/>не похоже как на тех фотографиях…</shake>",
+      "say9": "Ты…не можешь понять содержание?",
+      "say17": "Если нравится, то я могу принести больше фотографий из других мест",
+      "say5": "Если была бы возможность, я бы мог принести вам что-нибудь другое…",
+      "say15": "Очень красиво. Что это?",
+      "choice2001": "Сюда",
+      "choice1001": "Это все, что у нас есть.",
+      "choice1002": "Думаю я смогу принести что-то другое"
+    },
+    "vi": {
+      "say58": "Đó là lý do tại sao những cảnh đẹp đều biến mất. Cơn mưa đã cuốn trôi chúng đi… chúng ta sống dưới mái nhà, như bị giam cầm.",
+      "say43": "(Nơi đây thật hỗn loạn và đông đúc với những tiếng ồn. Mọi người chật vật để sinh tồn. Dù vậy, tất cả những gì chúng ta có thể làm là cố gắng sống sót thêm vài ngày nữa trong môi trường này.)",
+      "say4": "Đó là lúc mà có chuyện tốt đẹp xảy ra, và mọi người sẽ quây quần lại để ăn những món ăn ngon.",
+      "say2": "Tớ biết, nhưng quanh đây chẳng có mấy đồ ăn nào khác cả. Những món ăn ngon chỉ có ở lễ hội và lễ kỉ niệm. Chỉ có ăn món này hoặc là chết đói.",
+      "say35": "(Những chiếc đèn an toàn và mùi ga đèn rải rác quanh đây. Không khí có mùi của lưu huỳnh.)",
+      "say41": "Gần đây tôi nghe thấy có tiếng động lạ phát ra từ phòng điện thường xuyên… có lẽ bị ma ám rồi ?",
+      "say31": "Nhớ nhé, cậu phải luôn đội mũ trùm đầu lại. Hứa với tớ đi.",
+      "say1": "Nấm. Lại là nó.",
+      "say38": "Ông có cắt góc nào hoặc đang lừa chúng tôi không? Nghe này, nếu tòa nhà này mà sụp đổ, ông sẽ <i>không</i> dễ dàng để tránh khỏi nó đâu !",
+      "say24": "……",
+      "say34": "(Các căn phòng trong tòa nhà chứa đầy những chiếc lều vá, những chiếc giường làm tạm những bằng ván gỗ và những thanh kim loại, và một số người chỉ ngủ trên những tấm bìa dày cứng.)",
+      "say33": "Chúng tôi rời khỏi chỗ cầu thang, vượt qua những hàng rào dựng tạm bợ bằng bao cát và những đồ đạc bỏ đi, rồi bước vào khu vực nơi tôi và những người khác sinh sống.)",
+      "say7": "Thật vậy sao ? Mọi người quanh đây còn đang phát ngán với chúng nè…",
+      "say-2": "(Tôi đứng trước cánh cửa căn phòng nhỏ và gõ cửa theo nhịp điệu cụ thể. Đây là dấu hiệu mà chúng tôi đã thống nhất - nếu không phải tiếng gõ này, cô phải trốn trong đấy.)",
+      "say51": "(Chúng tôi bước vào trong căn phòng với một chiếc giường. Có ai đang nằm trên đó, bao quanh bởi nhiều chiếc máy móc khác nhau kết nối với họ thông qua các điện cực và ống dẫn.)",
+      "say13": "…",
+      "say23": "Ra ngoài. Tớ muốn ra ngoài, để ngắm nhìn thế giới trong những bức ảnh đấy. Tớ không muốn ở lại căn phòng tồi tàn này nữa.",
+      "say42": "Đúng hơn là có ai đấy đang trộm nguồn điện của chúng ta.",
+      "say14": "(Đôi mắt của cô dường như mở to hơn chút, như thể đã bị thu hút bởi cảnh tượng đó.)",
+      "say28": "Tớ hứa.",
+      "say36": "Này, cơn bão hôm qua lại làm hỏng tấm chắn mưa nữa hả? Nền nhà đang bị ướt kìa.",
+      "say48": "… Nhanh nào, để tớ cho cậu xem thứ này.",
+      "say52": "(Là Susan.)",
+      "say8": "(Tôi đặt những chiếc nấm được gói lại lên bàn và để ý thấy những quyển sách tôi mang cho cô ấy trước đó vẫn còn nguyên đấy.)",
+      "say3": "'Lễ hội' ?",
+      "say32": "Ừm.",
+      "say-3": "Bạn đây rồi.",
+      "say40": "Những con gà vẫn đẻ trứng, nhưng không có đủ dinh dưỡng. Rất nhiều quả có vỏ mềm.",
+      "say44": "…",
+      "say54": "(Tôi lấy ra một mảnh giấy nhàu nát và đưa cho cô ấy.)",
+      "say45": "Tôi cảm thấy tay mình bỗng bị nắm chặt và nhận ra cô ấy đang nắm tay tôi.)",
+      "say57": "Bây giờ, cô ấy thành ra như thế này. Đây là những gì xảy ra nếu con người bị dính mưa. Họ không bao giờ tỉnh lại và phải dựa vào những cỗ máy này để duy trì sự sống.",
+      "say55": "(Đó là bức ảnh một người phụ nữ trên giường đang ôm một đứa trẻ mới chào đời.)",
+      "say12": "(Cô ấy cầm lấy ảnh tôi đưa cho. Nó đã bị ố vàng và mờ đi, nhưng khung cảm trong đó vẫn rất đẹp đẽ.)",
+      "say11": "À rồi… đây, cậu cầm lấy cái này đi.",
+      "say18": "Được… !",
+      "say20": "(Hôm nay, Tôi dự định mang cho cô gái nhiều ảnh và thức ăn, như thường lệ.)",
+      "say59": "Giấc mơ của cô…… <i>đẹp quá</i>…",
+      "say39": "Gần đây nấm thu hoạch được rất ít… nếu cứ tiếp tục như thế này, đàn lợn cũng chẳng có gì để cho ăn…",
+      "say-4": "Ưm, Tớ mang cho cậu một ít nấm mới nướng. Được rắc lên một chút hạt tiêu và có lẽ mùi vị sẽ ổn thôi. Còn đây là một quyển truyện.",
+      "say50": "Đây rồi.",
+      "say10": "Không.",
+      "say16": "Đó là những bức ảnh về các địa điểm trên khắp thế giới. Nhưng chúng… không còn tồn tại nữa. Chỉ còn lại những tấm hình này.",
+      "say27": "Cậu sẽ đưa tớ ra ngoài chứ ?",
+      "say49": "(Tôi dẫn cô gái ra khỏi đám đông, đi xuống một tầng, và vào trong một căn phòng yên tĩnh. Ở đây, tiếng mưa gần như không có, và chỉ còn tiếng bước chân vang lên của chúng tôi.)",
+      "say26": "Đợi ở đây đi. Tớ sẽ lấy cho cậu một cái áo khoác để che lại. Cậu sẽ bị phát hiện nếu đi loanh quanh như thế này.",
+      "say25": "(Phải rồi. Chẳng có ai muốn bị nhốt lại mãi trong không gian bé nhỏ. Cô ấy muốn ra ngoài. Và sẽ ổn thôi nếu không có ai đó tìm thấy cô ở đây…)",
+      "say29": "Cảm ơn.",
+      "say37": "Làm sao mà có thể được? Tôi chỉ vừa mới thay tấm mới tuần trước mà.",
+      "say-1": "(Thời gian trôi qua rất nhanh kể từ lúc đó. Mỗi ngày tôi mang cho cô ấy đồ ăn và một vài cuốn sách, và cô gái có vẻ đang dần thích nghi được với cuộc sống này.)",
+      "say56": "Tên cô ấy là Susan. Gần đây cô ấy có một đứa con. Lẽ ra đó có thể là một gia đình hạnh phúc, nhưng chồng cô bỏ đi, và đứa con của cô đã bị bắt đi.",
+      "say19": "(Kể từ đó, Tôi thường mang cho cô ấy nhiều bức ảnh và album. Cô rất thích ngắm nhìn chúng. Suy cho cùng, ai lại không bị mê hoặc bởi những thứ đẹp đẽ, mà đã mất trong quá khứ ?)",
+      "say53": "Có chuyện gì đã xảy ra với cô ấy ?",
+      "say21": "(Ngay khi tôi đến chỗ cầu thang, thấy cô đang đứng đó, trông có vẻ lạc lõng.)",
+      "say22": "Ơ kìa, Cậu… Cậu đang làm gì thế !?",
+      "say6": "Nấm nướng cũng ngon mà.",
+      "say46": "Sao vậy ?",
+      "say30": "(Tôi phải \"mượn\" một chiếc áo choàng của thợ sửa chữa, lớp vải dày tối màu đủ để che đi gương mặt và cơ thể của cô.)",
+      "say47": "<shake intensity=\"3\">Ở đây… <pause duration=\"1\"/>không giống như trong bức ảnh…</shake>",
+      "say9": "Cậu… không thể hiểu được những gì trong đó sao ?",
+      "say17": "Nếu cậu thấy thích, tớ có thể cho cậu xem thêm nhiều bức ảnh hơn về các nơi khác nhé ?",
+      "say5": "Nếu có thể, ước gì tớ mang được cho cậu món gì đó khác…",
+      "say15": "Đẹp quá. Đây là gì thế ?",
+      "choice2001": "Theo tớ",
+      "choice1001": "Đó là những gì chúng ta có",
+      "choice1002": "Ước gì tớ có thể mang được món gì khác"
+    }
+  },
+  "names": {
+    "zh_Hans": {
+      "jm": "居民",
+      "lwy": "露薇娅",
+      "pb": "",
+      "w": "我"
+    },
+    "zh_Hant": {
+      "jm": "居民",
+      "lwy": "露薇婭",
+      "pb": "",
+      "w": "我"
+    },
+    "yue_Hant": {
+      "jm": "居民",
+      "lwy": "露薇婭",
+      "pb": "",
+      "w": "我"
+    },
+    "en": {
+      "jm": "Resident",
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Me"
+    },
+    "ja": {
+      "jm": "Resident",
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "私"
+    },
+    "es": {
+      "jm": "Residente",
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Yo"
+    },
+    "fr": {
+      "jm": "Résident",
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Moi"
+    },
+    "ko": {
+      "jm": "거주자",
+      "lwy": "루비아",
+      "pb": "",
+      "w": "나"
+    },
+    "ru": {
+      "jm": "Житель",
+      "lwy": "Лювия",
+      "pb": "",
+      "w": "Я"
+    },
+    "vi": {
+      "jm": "Người dân",
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Tôi"
+    }
+  },
+  "commands": [
+    {
+      "cmd": "scene",
+      "arg": "utility"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "-1",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "-2",
+      "emotion": ""
+    },
+    {
+      "cmd": "bgm",
+      "arg": "regular"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "rain_inside"
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "-3",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "-4",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "1",
+      "emotion": "lovely_angry"
+    },
+    {
+      "cmd": "question",
+      "id": "1000"
+    },
+    {
+      "cmd": "option",
+      "id": "1001"
+    },
+    {
+      "cmd": "option",
+      "id": "1002"
+    },
+    {
+      "cmd": "choice_start",
+      "id": "1001"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "2",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "3",
+      "emotion": "default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "4",
+      "emotion": ""
+    },
+    {
+      "cmd": "choice_end"
+    },
+    {
+      "cmd": "choice_start",
+      "id": "1002"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "5",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "6",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "7",
+      "emotion": ""
+    },
+    {
+      "cmd": "choice_end"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "8",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "9",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "10",
+      "emotion": "default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "11",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "12",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "13",
+      "emotion": "surprise"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "14",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "15",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "16",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "17",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "18",
+      "emotion": "laugh"
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "19",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "20",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "staircase"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "21",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "22",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "23",
+      "emotion": "sad"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "24",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "25",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "26",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "27",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "28",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "29",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "30",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "31",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "32",
+      "emotion": ""
+    },
+    {
+      "cmd": "scene",
+      "arg": "living_space"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "33",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "34",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "35",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "depress"
+    },
+    {
+      "cmd": "say",
+      "speaker": "jm",
+      "id": "36",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "jm",
+      "id": "37",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "jm",
+      "id": "38",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "jm",
+      "id": "39",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "jm",
+      "id": "40",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "jm",
+      "id": "41",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "jm",
+      "id": "42",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "43",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "rain_inside"
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "44",
+      "emotion": "scare"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "45",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "46",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "47",
+      "emotion": ""
+    },
+    {
+      "cmd": "question",
+      "id": "2000"
+    },
+    {
+      "cmd": "option",
+      "id": "2001"
+    },
+    {
+      "cmd": "choice_start",
+      "id": "2001"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "48",
+      "emotion": ""
+    },
+    {
+      "cmd": "choice_end"
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "ward"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "49",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "50",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "51",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "52",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "53",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "54",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "55",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "56",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "57",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "58",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "59",
+      "emotion": "surprise"
+    }
+  ]
+}

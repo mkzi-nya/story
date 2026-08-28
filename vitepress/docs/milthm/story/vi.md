@@ -46,36 +46,80 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 - …
 - …
-- Tại sao bạn lại khóc vậy ?
+
+- Luvia
+> - Tại sao bạn lại khóc vậy ?
+
 - (Đứng trước mặt tôi, cô gái nhìn với vẻ mặt vô tri.)
-- Ể ?
-- Bạn đang khóc kìa. Tại sao vậy ?
+
+- Tôi
+> - Ể ?
+
+- Luvia
+> - Bạn đang khóc kìa. Tại sao vậy ?
+
 - (Tôi không hề nhận ra có một hơi ấm mờ nhạt trên gò má tôi cho đến khi cô ấy nhắc tôi. Cứ tưởng nước mắt tôi bị che đi do cơn mưa.)
-- Tớ… Tớ không biết.
+
+- Tôi
+> - Tớ… Tớ không biết.
+
 - (Ngắm nhìn cô gái. Tôi chưa bao giờ thấy cô ấy quanh đây trước kia. Trang phục trông như là đến từ một thế giới khác.)
-- Cơn mưa. Mưa to quá.
+
+- Luvia
+> - Cơn mưa. Mưa to quá.
 - (Với lời nhắc nhở của cô, cơn mưa mà tôi không để ý bỗng chốc ầm bên tai. Cái lạnh của nước mưa thấm vào quần áo đột nhiên khiến tôi không chịu được.)
 - (Mặc dù tôi có rất nhiều câu hỏi, chúng tôi cần phải vào trong nhà. Cảnh tượng này không thể để cho người khác nhìn thấy được.)
-- Đúng thế, trời đang mưa to. Hãy đi tìm nơi trú mưa trước đã.
-- Tại sao chúng ta cần phải trú mưa ?
-- Cứ đi vào trong trước đi. Không thể để bất kì ai thấy chúng ta trong bộ dạng này được.
-- Được thôi.
+
+- Tôi
+> - Đúng thế, trời đang mưa to. Hãy đi tìm nơi trú mưa trước đã.
+
+- Luvia
+> - Tại sao chúng ta cần phải trú mưa ?
+
+- Tôi
+> - Cứ đi vào trong trước đi. Không thể để bất kì ai thấy chúng ta trong bộ dạng này được.
+
+- Luvia
+> - Được thôi.
+
 - (Cô gái ấy theo tôi vào trong chỗ cầu thang. Cánh cửa sắt nặng nề đóng chặn cơn mưa bên ngoài, làm cho mọi thứ vừa xảy ra cứ như là giấc mơ. Nhưng bộ quần áo ướt đẫm nhắc nhở rằng vừa rồi là thật.)
 - (Tôi nhanh chóng giải thích vì sao mọi người cần phải tránh khỏi cơn mưa. Trong khi đang trò chuyện, tôi nhận ra quần áo của cô không hề bị ướt tí nào.)
-- Mọi người đều sợ hãi vì họ sẽ bị bất tỉnh nếu bị dính nước mưa ?
-- Đúng vậy, và cậu trông có vẻ không bị sao cả. Mọi người có thể coi cậu như là người ngoài hành tinh hoặc… sự nguy hiểm.
-- Cậu cũng có thể đứng dưới mưa kìa.
-- Tớ… Tớ cũng không biết tại sao…
+
+- Luvia
+> - Mọi người đều sợ hãi vì họ sẽ bị bất tỉnh nếu bị dính nước mưa ?
+
+- Tôi
+> - Đúng vậy, và cậu trông có vẻ không bị sao cả. Mọi người có thể coi cậu như là người ngoài hành tinh hoặc… sự nguy hiểm.
+
+- Luvia
+> - Cậu cũng có thể đứng dưới mưa kìa.
+
+- Tôi
+> - Tớ… Tớ cũng không biết tại sao…
 - (Tôi chỉ nhớ về giấc mơ, và khi tỉnh lại, tôi đã đứng sẵn dưới mưa.)
 - (Hơi ấm từ cơ thể tôi làm cho quần áo sắp khô rồi. Mặc dù tôi muốn quay trở lại với mọi người, chỉ là không thể cứ để mặc cô gái một mình được.)
-- Cậu có… nơi nào để ở không ?
-- Không.
-- Đương nhiên rồi… Cậu có tên không ?
-- Không.
-- Được rồi… Trước tiên tìm cho cậu một nơi để ở đã. Rồi cậu sẽ có tên một ngày nào đó thôi.
-- Cậu có thể ở đây từ bây giờ. Tớ sẽ kiểm tra cậu thường xuyên. Và nhớ rằng: <i>Đừng</i> có nói chuyện với bất kì ai.
+
+- Tôi
+> - Cậu có… nơi nào để ở không ?
+
+- Luvia
+> - Không.
+
+- Tôi
+> - Đương nhiên rồi… Cậu có tên không ?
+
+- Luvia
+> - Không.
+
+- Tôi
+> - Được rồi… Trước tiên tìm cho cậu một nơi để ở đã. Rồi cậu sẽ có tên một ngày nào đó thôi.
+
+- Tôi
+> - Cậu có thể ở đây từ bây giờ. Tớ sẽ kiểm tra cậu thường xuyên. Và nhớ rằng: <i>Đừng</i> có nói chuyện với bất kì ai.
 - (Căn phòng kho nhỏ trong chỗ cầu thang, bị bỏ hoang đã lâu, một nơi hoàn hảo để giấu ai đó. Hầu như không có ai đến đây, chứ đừng nói đến việc kiểm tra bên trong.)
-- Được thôi.
+
+- Luvia
+> - Được thôi.
 - (Cô gái bí ẩn cứ như là đến từ thế giới khác qua vẻ ngây thơ ấy. Liệu cô có thật sự thích nghi được với cuộc sống nơi đây… ?)
 - (Có lẽ bây giờ… Tôi nên thực hiện từng bước một để xem mọi chuyện sẽ diễn ra như thế nào)
 
@@ -87,92 +131,161 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 - (Thời gian trôi qua rất nhanh kể từ lúc đó. Mỗi ngày tôi mang cho cô ấy đồ ăn và một vài cuốn sách, và cô gái có vẻ đang dần thích nghi được với cuộc sống này.)
 - (Tôi đứng trước cánh cửa căn phòng nhỏ và gõ cửa theo nhịp điệu cụ thể. Đây là dấu hiệu mà chúng tôi đã thống nhất - nếu không phải tiếng gõ này, cô phải trốn trong đấy.)
-- Bạn đây rồi.
-- Ưm, Tớ mang cho cậu một ít nấm mới nướng. Được rắc lên một chút hạt tiêu và có lẽ mùi vị sẽ ổn thôi. Còn đây là một quyển truyện.
-- Nấm. Lại là nó.
+
+- Luvia
+> - Bạn đây rồi.
+
+- Tôi
+> - Ưm, Tớ mang cho cậu một ít nấm mới nướng. Được rắc lên một chút hạt tiêu và có lẽ mùi vị sẽ ổn thôi. Còn đây là một quyển truyện.
+
+- Luvia
+> - Nấm. Lại là nó.
 
 <StoryChoice :options='["Đó là những gì chúng ta có", "Ước gì tớ có thể mang được món gì khác"]'>
 
 <template #branch-0>
 
-- Tớ biết, nhưng quanh đây chẳng có mấy đồ ăn nào khác cả. Những món ăn ngon chỉ có ở lễ hội và lễ kỉ niệm. Chỉ có ăn món này hoặc là chết đói.
-- 'Lễ hội' ?
-- Đó là lúc mà có chuyện tốt đẹp xảy ra, và mọi người sẽ quây quần lại để ăn những món ăn ngon.
+- Tôi
+> - Tớ biết, nhưng quanh đây chẳng có mấy đồ ăn nào khác cả. Những món ăn ngon chỉ có ở lễ hội và lễ kỉ niệm. Chỉ có ăn món này hoặc là chết đói.
+
+- Luvia
+> - 'Lễ hội' ?
+
+- Tôi
+> - Đó là lúc mà có chuyện tốt đẹp xảy ra, và mọi người sẽ quây quần lại để ăn những món ăn ngon.
 
 </template>
 
 <template #branch-1>
 
-- Nếu có thể, ước gì tớ mang được cho cậu món gì đó khác…
-- Nấm nướng cũng ngon mà.
-- Thật vậy sao ? Mọi người quanh đây còn đang phát ngán với chúng nè…
+- Tôi
+> - Nếu có thể, ước gì tớ mang được cho cậu món gì đó khác…
+
+- Luvia
+> - Nấm nướng cũng ngon mà.
+
+- Tôi
+> - Thật vậy sao ? Mọi người quanh đây còn đang phát ngán với chúng nè…
 
 </template>
 
 </StoryChoice>
 
 - (Tôi đặt những chiếc nấm được gói lại lên bàn và để ý thấy những quyển sách tôi mang cho cô ấy trước đó vẫn còn nguyên đấy.)
-- Cậu… không thể hiểu được những gì trong đó sao ?
-- Không.
-- À rồi… đây, cậu cầm lấy cái này đi.
+
+- Tôi
+> - Cậu… không thể hiểu được những gì trong đó sao ?
+
+- Luvia
+> - Không.
+
+- Tôi
+> - À rồi… đây, cậu cầm lấy cái này đi.
 - (Cô ấy cầm lấy ảnh tôi đưa cho. Nó đã bị ố vàng và mờ đi, nhưng khung cảm trong đó vẫn rất đẹp đẽ.)
-- …
+
+- Luvia
+> - …
 - (Đôi mắt của cô dường như mở to hơn chút, như thể đã bị thu hút bởi cảnh tượng đó.)
-- Đẹp quá. Đây là gì thế ?
-- Đó là những bức ảnh về các địa điểm trên khắp thế giới. Nhưng chúng… không còn tồn tại nữa. Chỉ còn lại những tấm hình này.
-- Nếu cậu thấy thích, tớ có thể cho cậu xem thêm nhiều bức ảnh hơn về các nơi khác nhé ?
-- Được… !
+
+- Luvia
+> - Đẹp quá. Đây là gì thế ?
+
+- Tôi
+> - Đó là những bức ảnh về các địa điểm trên khắp thế giới. Nhưng chúng… không còn tồn tại nữa. Chỉ còn lại những tấm hình này.
+> - Nếu cậu thấy thích, tớ có thể cho cậu xem thêm nhiều bức ảnh hơn về các nơi khác nhé ?
+
+- Luvia
+> - Được… !
+
 - (Kể từ đó, Tôi thường mang cho cô ấy nhiều bức ảnh và album. Cô rất thích ngắm nhìn chúng. Suy cho cùng, ai lại không bị mê hoặc bởi những thứ đẹp đẽ, mà đã mất trong quá khứ ?)
 - (Hôm nay, Tôi dự định mang cho cô gái nhiều ảnh và thức ăn, như thường lệ.)
+
 - (Ngay khi tôi đến chỗ cầu thang, thấy cô đang đứng đó, trông có vẻ lạc lõng.)
-- Ơ kìa, Cậu… Cậu đang làm gì thế !?
-- Ra ngoài. Tớ muốn ra ngoài, để ngắm nhìn thế giới trong những bức ảnh đấy. Tớ không muốn ở lại căn phòng tồi tàn này nữa.
-- ……
+
+- Tôi
+> - Ơ kìa, Cậu… Cậu đang làm gì thế !?
+
+- Luvia
+> - Ra ngoài. Tớ muốn ra ngoài, để ngắm nhìn thế giới trong những bức ảnh đấy. Tớ không muốn ở lại căn phòng tồi tàn này nữa.
+
+- Tôi
+> - ……
 - (Phải rồi. Chẳng có ai muốn bị nhốt lại mãi trong không gian bé nhỏ. Cô ấy muốn ra ngoài. Và sẽ ổn thôi nếu không có ai đó tìm thấy cô ở đây…)
-- Đợi ở đây đi. Tớ sẽ lấy cho cậu một cái áo khoác để che lại. Cậu sẽ bị phát hiện nếu đi loanh quanh như thế này.
-- Cậu sẽ đưa tớ ra ngoài chứ ?
-- Tớ hứa.
-- Cảm ơn.
+
+- Tôi
+> - Đợi ở đây đi. Tớ sẽ lấy cho cậu một cái áo khoác để che lại. Cậu sẽ bị phát hiện nếu đi loanh quanh như thế này.
+
+- Luvia
+> - Cậu sẽ đưa tớ ra ngoài chứ ?
+
+- Tôi
+> - Tớ hứa.
+
+- Luvia
+> - Cảm ơn.
+
 - (Tôi phải "mượn" một chiếc áo choàng của thợ sửa chữa, lớp vải dày tối màu đủ để che đi gương mặt và cơ thể của cô.)
-- Nhớ nhé, cậu phải luôn đội mũ trùm đầu lại. Hứa với tớ đi.
-- Ừm.
+
+- Tôi
+> - Nhớ nhé, cậu phải luôn đội mũ trùm đầu lại. Hứa với tớ đi.
+
+- Luvia
+> - Ừm.
+
 - Chúng tôi rời khỏi chỗ cầu thang, vượt qua những hàng rào dựng tạm bợ bằng bao cát và những đồ đạc bỏ đi, rồi bước vào khu vực nơi tôi và những người khác sinh sống.)
 - (Các căn phòng trong tòa nhà chứa đầy những chiếc lều vá, những chiếc giường làm tạm những bằng ván gỗ và những thanh kim loại, và một số người chỉ ngủ trên những tấm bìa dày cứng.)
 - (Những chiếc đèn an toàn và mùi ga đèn rải rác quanh đây. Không khí có mùi của lưu huỳnh.)
-- Này, cơn bão hôm qua lại làm hỏng tấm chắn mưa nữa hả? Nền nhà đang bị ướt kìa.
-- Làm sao mà có thể được? Tôi chỉ vừa mới thay tấm mới tuần trước mà.
-- Ông có cắt góc nào hoặc đang lừa chúng tôi không? Nghe này, nếu tòa nhà này mà sụp đổ, ông sẽ <i>không</i> dễ dàng để tránh khỏi nó đâu !
-- Gần đây nấm thu hoạch được rất ít… nếu cứ tiếp tục như thế này, đàn lợn cũng chẳng có gì để cho ăn…
-- Những con gà vẫn đẻ trứng, nhưng không có đủ dinh dưỡng. Rất nhiều quả có vỏ mềm.
-- Gần đây tôi nghe thấy có tiếng động lạ phát ra từ phòng điện thường xuyên… có lẽ bị ma ám rồi ?
-- Đúng hơn là có ai đấy đang trộm nguồn điện của chúng ta.
+
+- Người dân
+> - Này, cơn bão hôm qua lại làm hỏng tấm chắn mưa nữa hả? Nền nhà đang bị ướt kìa.
+> - Làm sao mà có thể được? Tôi chỉ vừa mới thay tấm mới tuần trước mà.
+> - Ông có cắt góc nào hoặc đang lừa chúng tôi không? Nghe này, nếu tòa nhà này mà sụp đổ, ông sẽ <i>không</i> dễ dàng để tránh khỏi nó đâu !
+> - Gần đây nấm thu hoạch được rất ít… nếu cứ tiếp tục như thế này, đàn lợn cũng chẳng có gì để cho ăn…
+> - Những con gà vẫn đẻ trứng, nhưng không có đủ dinh dưỡng. Rất nhiều quả có vỏ mềm.
+> - Gần đây tôi nghe thấy có tiếng động lạ phát ra từ phòng điện thường xuyên… có lẽ bị ma ám rồi ?
+> - Đúng hơn là có ai đấy đang trộm nguồn điện của chúng ta.
 - (Nơi đây thật hỗn loạn và đông đúc với những tiếng ồn. Mọi người chật vật để sinh tồn. Dù vậy, tất cả những gì chúng ta có thể làm là cố gắng sống sót thêm vài ngày nữa trong môi trường này.)
-- …
+
+- Luvia
+> - …
 - Tôi cảm thấy tay mình bỗng bị nắm chặt và nhận ra cô ấy đang nắm tay tôi.)
-- Sao vậy ?
-- <shake intensity="3">Ở đây… <pause duration="1"/>không giống như trong bức ảnh…</shake>
+
+- Tôi
+> - Sao vậy ?
+
+- Luvia
+> - <shake intensity="3">Ở đây… <pause duration="1"/>không giống như trong bức ảnh…</shake>
 
 <StoryChoice :options='["Theo tớ"]'>
 
 <template #branch-0>
 
-- … Nhanh nào, để tớ cho cậu xem thứ này.
+- Tôi
+> - … Nhanh nào, để tớ cho cậu xem thứ này.
 
 </template>
 
 </StoryChoice>
 
 - (Tôi dẫn cô gái ra khỏi đám đông, đi xuống một tầng, và vào trong một căn phòng yên tĩnh. Ở đây, tiếng mưa gần như không có, và chỉ còn tiếng bước chân vang lên của chúng tôi.)
-- Đây rồi.
+
+- Tôi
+> - Đây rồi.
 - (Chúng tôi bước vào trong căn phòng với một chiếc giường. Có ai đang nằm trên đó, bao quanh bởi nhiều chiếc máy móc khác nhau kết nối với họ thông qua các điện cực và ống dẫn.)
 - (Là Susan.)
-- Có chuyện gì đã xảy ra với cô ấy ?
+
+- Luvia
+> - Có chuyện gì đã xảy ra với cô ấy ?
 - (Tôi lấy ra một mảnh giấy nhàu nát và đưa cho cô ấy.)
 - (Đó là bức ảnh một người phụ nữ trên giường đang ôm một đứa trẻ mới chào đời.)
-- Tên cô ấy là Susan. Gần đây cô ấy có một đứa con. Lẽ ra đó có thể là một gia đình hạnh phúc, nhưng chồng cô bỏ đi, và đứa con của cô đã bị bắt đi.
-- Bây giờ, cô ấy thành ra như thế này. Đây là những gì xảy ra nếu con người bị dính mưa. Họ không bao giờ tỉnh lại và phải dựa vào những cỗ máy này để duy trì sự sống.
-- Đó là lý do tại sao những cảnh đẹp đều biến mất. Cơn mưa đã cuốn trôi chúng đi… chúng ta sống dưới mái nhà, như bị giam cầm.
-- Giấc mơ của cô…… <i>đẹp quá</i>…
+
+- Tôi
+> - Tên cô ấy là Susan. Gần đây cô ấy có một đứa con. Lẽ ra đó có thể là một gia đình hạnh phúc, nhưng chồng cô bỏ đi, và đứa con của cô đã bị bắt đi.
+> - Bây giờ, cô ấy thành ra như thế này. Đây là những gì xảy ra nếu con người bị dính mưa. Họ không bao giờ tỉnh lại và phải dựa vào những cỗ máy này để duy trì sự sống.
+> - Đó là lý do tại sao những cảnh đẹp đều biến mất. Cơn mưa đã cuốn trôi chúng đi… chúng ta sống dưới mái nhà, như bị giam cầm.
+
+- Luvia
+> - Giấc mơ của cô…… <i>đẹp quá</i>…
 
 ---
 
@@ -182,42 +295,80 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 - (Kế từ lần cuối chúng tôi đi ra ngoài, cô ấy thường đi lang thang một mình.)
 - (Thật nhẹ nhõm vì tôi đã bảo cô ấy không được nói chuyện với ai, nhưng tôi vẫn lo lắng về khả năng cô ấy bị lộ.)
-- Nhưng… cô ấy nhìn được giấc mơ của người khác… những bí ẩn về cô cứ chồng chất lên.
+
+- Tôi
+> - Nhưng… cô ấy nhìn được giấc mơ của người khác… những bí ẩn về cô cứ chồng chất lên.
+
 - (Khi tôi đang trầm ngâm, một bóng người nhỏ bé đội mũ trùm đầu xuất hiện trước mặt tôi.)
-- Cậu đang làm gì ở đây thế ?
-- Susan… đang gặp nguy hiểm.
-- Ý cậu là sao ?
-- Tớ nghe được người dân nói chuyện ở chỗ cầu thang. Họ bàn nhau việc tắt máy giúp duy trì sự sống của Susan.
-- Hả ? Họ sao mà có thể làm được việc đó !?
-- Họ bảo không hề đáng để lãng phí tài nguyên vào người nào đó mà mãi không chịu dậy.
-- Dù vậy, nhưng họ không thể… như thế là <i>giết người</i>
-- Mình không hiểu tại sao, nhưng mình muốn cứu Susan.
+
+- Tôi
+> - Cậu đang làm gì ở đây thế ?
+
+- Luvia
+> - Susan… đang gặp nguy hiểm.
+
+- Tôi
+> - Ý cậu là sao ?
+
+- Luvia
+> - Tớ nghe được người dân nói chuyện ở chỗ cầu thang. Họ bàn nhau việc tắt máy giúp duy trì sự sống của Susan.
+
+- Tôi
+> - Hả ? Họ sao mà có thể làm được việc đó !?
+
+- Luvia
+> - Họ bảo không hề đáng để lãng phí tài nguyên vào người nào đó mà mãi không chịu dậy.
+
+- Tôi
+> - Dù vậy, nhưng họ không thể… như thế là <i>giết người</i>
+
+- Luvia
+> - Mình không hiểu tại sao, nhưng mình muốn cứu Susan.
 
 <StoryChoice :options='["Cậu đúng là một người tốt", "Họ không có quyền gì cả"]'>
 
 <template #branch-0>
 
-- Vì cậu là một người tốt.
-- Tớ biết.
+- Tôi
+> - Vì cậu là một người tốt.
+
+- Luvia
+> - Tớ biết.
 
 </template>
 
 <template #branch-1>
 
-- Không ai có thể quyết định ai sống và ai chết.
+- Tôi
+> - Không ai có thể quyết định ai sống và ai chết.
 
 </template>
 
 </StoryChoice>
 
-- Nhưng… làm sao chúng ta cứu cô ấy được? Không thể cứ thuyết phục họ là không được…
-- Nếu Susan mà tỉnh lại, cô ấy sẽ an toàn, đúng chứ ?
-- … Hả?! Nhưng… làm thế nào?
-- Nếu cô có thể nói là muốn thức dậy ở trong giấc mơ, cô ấy sẽ tỉnh lại.
-- Hả… Chỉ có vậy thôi sao? Nhưng nói thì dễ hơn làm. Chúng ta không thể cứ <i>làm</i> cho ai đó nói là họ muốn dậy được.
-- Chúng ta sẽ vào trong giấc mơ của cô ấy.
-- Cậu… có thể làm được sao ?
-- Đúng thế.
+- Tôi
+> - Nhưng… làm sao chúng ta cứu cô ấy được? Không thể cứ thuyết phục họ là không được…
+
+- Luvia
+> - Nếu Susan mà tỉnh lại, cô ấy sẽ an toàn, đúng chứ ?
+
+- Tôi
+> - … Hả?! Nhưng… làm thế nào?
+
+- Luvia
+> - Nếu cô có thể nói là muốn thức dậy ở trong giấc mơ, cô ấy sẽ tỉnh lại.
+
+- Tôi
+> - Hả… Chỉ có vậy thôi sao? Nhưng nói thì dễ hơn làm. Chúng ta không thể cứ <i>làm</i> cho ai đó nói là họ muốn dậy được.
+
+- Luvia
+> - Chúng ta sẽ vào trong giấc mơ của cô ấy.
+
+- Tôi
+> - Cậu… có thể làm được sao ?
+
+- Luvia
+> - Đúng thế.
 
 ---
 
@@ -227,29 +378,52 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 - (Máy duy trì sự sống vẫn chạy đều đặn.)
 - (Susan nằm yên bình trên giường bệnh; chúng ta không thể để họ quyết định sự sống của cô ấy.)
-- Ánh mắt cậu nhìn trông thật đáng sợ.
-- … Thật sao ?
-- Ưm, như những người đánh nhau trong bức ảnh tớ thấy.
-- Xin lỗi… vừa rồi tớ chỉ đang nghĩ ngợi, chúng ta phải đánh thức Susan.
-- Ừm.
-- Vậy, để tớ kiểm tra một lần nữa… Chỉ cần nắm tay cậu, và rồi chúng ta sẽ vào giấc mơ của cô ấy ?
-- Đúng vậy, và cậu chỉ cần để tớ lo phần còn lại.
-- Đúng là một năng lực tiện ghê…
+
+- Luvia
+> - Ánh mắt cậu nhìn trông thật đáng sợ.
+
+- Tôi
+> - … Thật sao ?
+
+- Luvia
+> - Ưm, như những người đánh nhau trong bức ảnh tớ thấy.
+
+- Tôi
+> - Xin lỗi… vừa rồi tớ chỉ đang nghĩ ngợi, chúng ta phải đánh thức Susan.
+
+- Luvia
+> - Ừm.
+
+- Tôi
+> - Vậy, để tớ kiểm tra một lần nữa… Chỉ cần nắm tay cậu, và rồi chúng ta sẽ vào giấc mơ của cô ấy ?
+
+- Luvia
+> - Đúng vậy, và cậu chỉ cần để tớ lo phần còn lại.
+
+- Tôi
+> - Đúng là một năng lực tiện ghê…
 - (Thật không thể tin nổi… bước vào giấc mơ của ai đó và các thư các thứ.)
-- Nhưng… Tớ không biết sẽ xảy ra chuyện gì trong thế giới của những giấc mơ.
-- Nếu chúng ta bị thương ở đó, cũng có thể ảnh hưởng đến cả cơ thể ở thực tại.
-- Cậu sẵn sàng chưa ?
-- Sẽ ổn thôi. Nếu tớ không tỉnh dậy trong cơn mưa vì lý do kì lạ nào đó, tớ sẽ giống như Susan, thậm chí thiết bị duy trì sự sống của tớ sẽ bị tắt.
-- Vì tớ đã được cho cơ hội thứ hai trong đời, nên tớ phải làm cho nó trở nên thật ý nghĩa.
+
+- Luvia
+> - Nhưng… Tớ không biết sẽ xảy ra chuyện gì trong thế giới của những giấc mơ.
+> - Nếu chúng ta bị thương ở đó, cũng có thể ảnh hưởng đến cả cơ thể ở thực tại.
+> - Cậu sẵn sàng chưa ?
+
+- Tôi
+> - Sẽ ổn thôi. Nếu tớ không tỉnh dậy trong cơn mưa vì lý do kì lạ nào đó, tớ sẽ giống như Susan, thậm chí thiết bị duy trì sự sống của tớ sẽ bị tắt.
+> - Vì tớ đã được cho cơ hội thứ hai trong đời, nên tớ phải làm cho nó trở nên thật ý nghĩa.
 - (Cô ấy nhìn vào mắt tôi, đôi mắt trong veo ấy dường như nhìn xuyên thấu tôi.)
-- Cậu có vẻ đã sẵn sàng.
-- Nắm lấy tay tớ.
+
+- Luvia
+> - Cậu có vẻ đã sẵn sàng.
+> - Nắm lấy tay tớ.
 
 <StoryChoice :options='["Được thôi"]'>
 
 <template #branch-0>
 
-- Rồi.
+- Tôi
+> - Rồi.
 
 </template>
 
@@ -264,66 +438,134 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 <VnPlayer episode="main_story_1_5" title="1.5" />
 
-- Ư…
+- Tôi
+> - Ư…
 - (Mắt tôi bỗng tối sầm lại, như thể có thứ gì đó vô tình nhắm mắt tôi lại.)
 - (Mùi thơm ngọt ngào xộc thẳng vào mũi tôi, hấp dẫn hơn cả nấm nướng và nước luộc thịt.)
-- Đây là đâu đây… ?
+
+- Tôi
+> - Đây là đâu đây… ?
+
 - (Tôi từ từ mở mắt và ngay lập tức bị ấn tượng bởi cảnh tượng trông thấy.)
+
 - (Đó là một căn phòng gọn gàng, với nội thất được sắp xếp như phòng khách. Không gian sáng hơn cả bất kì chiếc đèn khẩn cấp nào…)
 - (Ánh nắng chiếu qua cửa sổ.)
 - (Tôi không thể nhìn được có gì ở bên ngoài)
 - (Không có tiếng mưa…)
 - (Liệu tôi… có đang ở thế giới của những <i>giấc mơ ?</i>)
-- Và đó là giấc mơ của Susan.
-- Nó gần giống như những gì tớ được thấy qua những bức ảnh. Thật là đẹp quá…
-- Đúng… Nó hoàn toàn khác xa với thế giới thực mà chúng ta đang sống.
-- Ồ, chúng ta có khách sao ?
+
+- Luvia
+> - Và đó là giấc mơ của Susan.
+> - Nó gần giống như những gì tớ được thấy qua những bức ảnh. Thật là đẹp quá…
+
+- Tôi
+> - Đúng… Nó hoàn toàn khác xa với thế giới thực mà chúng ta đang sống.
+
+- Susan
+> - Ồ, chúng ta có khách sao ?
+
 - (Susan bước ra khỏi phòng, quần áo sạch sẽ. Trên khuôn mặt cô ấy tỏ ra rất thoải mái và hài lòng.)
 - (Nhưng thực tế, cô đáng ra là đang nằm trên giường, kết nối với máy duy trì sự sống…)
 - (Ra đây là cách cô ấy nhìn chính mình trong giấc mơ ư ?)
-- Su… <i>Dì Susan.</i>
-- À, thì ra là cháu. Người mà hay đứng trong góc phòng.
-- Hả… Góc nào…
-- Hmm… dì cũng không nhớ nữa. Vậy, còn cô gái trẻ bên cạnh cháu là ai ?
-- Ùm… Cô ấy… là bạn của cháu.
-- Ồ, vậy tên cháu là gì, cô bé ?
-- Cháu không có tên.
-- Không có tên sao? Được rồi… Dì cứ gọi cháu là cô bé nhé.
-- Được ạ.
-- Robert, chúng ta có khách đến chơi nhà này! Ra đây và gặp họ đi nào!
+
+- Tôi
+> - Su… <i>Dì Susan.</i>
+
+- Susan
+> - À, thì ra là cháu. Người mà hay đứng trong góc phòng.
+> - Hả… Góc nào…
+> - Hmm… dì cũng không nhớ nữa. Vậy, còn cô gái trẻ bên cạnh cháu là ai ?
+
+- Tôi
+> - Ùm… Cô ấy… là bạn của cháu.
+
+- Susan
+> - Ồ, vậy tên cháu là gì, cô bé ?
+
+- Luvia
+> - Cháu không có tên.
+
+- Susan
+> - Không có tên sao? Được rồi… Dì cứ gọi cháu là cô bé nhé.
+
+- Luvia
+> - Được ạ.
+
+- Susan
+> - Robert, chúng ta có khách đến chơi nhà này! Ra đây và gặp họ đi nào!
+
 - (Một người đàn ông khác bước ra từ căn phòng, tất nhiên là chồng của Susan rồi.)
-- Ồ, xin chào. Xin lỗi vì chú không ra sớm để chào các cháu.
+
+- Robert
+> - Ồ, xin chào. Xin lỗi vì chú không ra sớm để chào các cháu.
 - (Anh ấy đáng nhẽ ra phải ở trên mặt đất…)
 - (Đi làm việc ở một số công trình xây dựng…)
-- Chào…
-- À phải rồi, bánh quy sắp xong rồi đó. Tại sao cháu không ngồi xuống đây và dì sẽ đi kiểm tra chúng.
+
+- Tôi
+> - Chào…
+
+- Susan
+> - À phải rồi, bánh quy sắp xong rồi đó. Tại sao cháu không ngồi xuống đây và dì sẽ đi kiểm tra chúng.
+
 - (Susan quay người và đi vào phòng bếp, nơi mà thế giới thực cô ấy chỉ có thể nấu ăn bằng ngọn lửa và một cái nồi, nhưng ở đây, cô có nguyên cái lò nướng.)
-- Cô ấy <i>yêu thích</i> nướng bánh quy lắm, và chúng ngon tuyệt vời! Cháu nên thử một ít nếu cháu thích.
-- Chúng cháu… chúng cháu cũng thích ạ.
-- Thoải mái đi, hãy cứ tự nhiên như ở nhà, trong khi chú phải quay lại làm thiết kế; bận cực kì.
-- Bọn cháu hiểu rồi.
+
+- Robert
+> - Cô ấy <i>yêu thích</i> nướng bánh quy lắm, và chúng ngon tuyệt vời! Cháu nên thử một ít nếu cháu thích.
+
+- Tôi
+> - Chúng cháu… chúng cháu cũng thích ạ.
+
+- Robert
+> - Thoải mái đi, hãy cứ tự nhiên như ở nhà, trong khi chú phải quay lại làm thiết kế; bận cực kì.
+
+- Tôi
+> - Bọn cháu hiểu rồi.
+
 - (Sau khi Robert rời đi, Tôi đến gần cánh cửa, muốn xem khung cảnh bên ngoài ngôi nhà.)
 - (Nhưng khi tôi vặn tay nắm cửa, tôi nhận ra không thể mở được, như thể cánh cửa chỉ là một bức tường.)
-- Không mở được…
-- Ngôi nhà là giấc mơ của Susan rồi.
-- Nên sẽ không có thế giới nào bên ngoài cánh cửa…
-- Bánh quy nướng xong rồi! Lại đây và thử xem!
+
+- Tôi
+> - Không mở được…
+
+- Luvia
+> - Ngôi nhà là giấc mơ của Susan rồi.
+
+- Tôi
+> - Nên sẽ không có thế giới nào bên ngoài cánh cửa…
+
+- Susan
+> - Bánh quy nướng xong rồi! Lại đây và thử xem!
 - (Susan đeo đôi găng tay dành cho lò nướng, và trên khay nướng là những chiếc bánh quy mới được sắp xếp gọn gàng, bề mặt được nạm vàng.)
-- Vâng, cháu cảm ơn ạ.
+
+- Tôi
+> - Vâng, cháu cảm ơn ạ.
 - (Tôi lấy một cái và đưa một cái khác cho cô gái, rồi cắn một miếng.)
-- Nó… ngon tuyệt vời !
-- Thật ngọt ngào…
+
+- Tôi
+> - Nó… ngon tuyệt vời !
+
+- Luvia
+> - Thật ngọt ngào…
 - (Chưa bao giờ tôi được nếm thứ gì thơm ngọt, giòn tan đến thế. Vị đắng nhẹ của socola hòa quyền với bị ngọt của bánh quy, sưởi ấm cả thể xác lẫn tâm hồn.)
-- Hehehe, cứ lấy thêm nếu cháu muốn. Nhìn người khác tận hưởng đồ ăn nhẹ cô làm đã là phần thưởng lớn nhất với cô rồi.
+
+- Susan
+> - Hehehe, cứ lấy thêm nếu cháu muốn. Nhìn người khác tận hưởng đồ ăn nhẹ cô làm đã là phần thưởng lớn nhất với cô rồi.
 - (Trước khi tôi kịp hành động, cô gái bên cạnh tôi đã háo hức cầm lên một cái khác ăn, cứ như là trẻ con vậy.)
+
 - (Đến cuối cùng, chúng tôi đã qua đêm trong phòng khách theo lời mời nồng nhiệt của Robert và Susan.)
 - (Và ngoài ra, không còn nơi nào khác để đi.)
-- Trông giống như khung cảnh ở thế giới thực vào buổi đêm.
-- Và không có mưa…
-- Đúng là một nơi thật hạnh phúc…
-- Nhưng… chúng ta cần phải đánh thức cô ấy dậy. Đó chỉ là giấc mơ. Không phải thực tế…
-- Thế ngày mai chúng ta sẽ thuyết phục cô ấy tỉnh dậy.
-- Phải rồi, nếu không thì cô ấy sẽ…
+
+- Tôi
+> - Trông giống như khung cảnh ở thế giới thực vào buổi đêm.
+> - Và không có mưa…
+> - Đúng là một nơi thật hạnh phúc…
+> - Nhưng… chúng ta cần phải đánh thức cô ấy dậy. Đó chỉ là giấc mơ. Không phải thực tế…
+
+- Luvia
+> - Thế ngày mai chúng ta sẽ thuyết phục cô ấy tỉnh dậy.
+
+- Tôi
+> - Phải rồi, nếu không thì cô ấy sẽ…
 
 ---
 
@@ -334,94 +576,177 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 - (Susan đang làm bữa trưa. Trông giống như là nồi súp.)
 - (Mùi hương có gì đó rất quen thuộc, giống như mùi nấm và thịt với gia vị.)
 - (Tôi gọi Susan ra phòng khách.)
-- Dì Susan ơi, cháu có chuyện cần nói.
-- Gì thế cháu? Cô bé đang đói hả? Bữa trưa sẽ xong ngay trong 1 phút.
-- Không—không, không phải là như vậy… Ừm để—để cháu nói thẳng luôn với cô. Nghe cháu, thế giới cô đang ở bây giờ, chúng chỉ là <i>giấc mơ</i>, không phải thực tế.
-- Cháu đang nói gì vậy ? Cái gì giấc mơ, cái gì thực tế cơ?
-- Trong thế giới thực, dì đang nằm trên giường bệnh viện, có thể nguy hiểm đến tính mạng bất cứ lúc nào.
-- Và dì chỉ cần thức dậy…
-- KHÔNG.
-- Hả… ?
-- Dì thích cuộc sống ở đây. Dì không muốn mọi thứ bị thay đổi.
-- Giả sử tất cả những điều vừa rồi là giấc mơ, thì sao nào ?
-- Ở đây thật hạnh phúc, đúng chứ !
-- Dì có thể ăn bánh quy mới nướng, uống nước súp nóng, ngon.
-- Và có một người chồng yêu thương ở bên.
-- Nếu thực tế tuyệt vời như vậy, thế sao dì lại ở đây từ đầu !?
-- Nhưng…
-- Dì không muốn rời đi, kể cả đây chỉ là giấc mơ !
-- Và nếu dì qua đời, thà đi từ hạnh phúc ngắn ngủi đến cái chết còn hơn là sống trong đau khổ lâu dài đến cuối đời, đúng không ?
-- …
+
+- Tôi
+> - Dì Susan ơi, cháu có chuyện cần nói.
+
+- Susan
+> - Gì thế cháu? Cô bé đang đói hả? Bữa trưa sẽ xong ngay trong 1 phút.
+
+- Tôi
+> - Không—không, không phải là như vậy… Ừm để—để cháu nói thẳng luôn với cô. Nghe cháu, thế giới cô đang ở bây giờ, chúng chỉ là <i>giấc mơ</i>, không phải thực tế.
+
+- Susan
+> - Cháu đang nói gì vậy ? Cái gì giấc mơ, cái gì thực tế cơ?
+
+- Tôi
+> - Trong thế giới thực, dì đang nằm trên giường bệnh viện, có thể nguy hiểm đến tính mạng bất cứ lúc nào.
+> - Và dì chỉ cần thức dậy…
+
+- Susan
+> - KHÔNG.
+
+- Tôi
+> - Hả… ?
+
+- Susan
+> - Dì thích cuộc sống ở đây. Dì không muốn mọi thứ bị thay đổi.
+> - Giả sử tất cả những điều vừa rồi là giấc mơ, thì sao nào ?
+> - Ở đây thật hạnh phúc, đúng chứ !
+> - Dì có thể ăn bánh quy mới nướng, uống nước súp nóng, ngon.
+> - Và có một người chồng yêu thương ở bên.
+> - Nếu thực tế tuyệt vời như vậy, thế sao dì lại ở đây từ đầu !?
+
+- Tôi
+> - Nhưng…
+
+- Susan
+> - Dì không muốn rời đi, kể cả đây chỉ là giấc mơ !
+> - Và nếu dì qua đời, thà đi từ hạnh phúc ngắn ngủi đến cái chết còn hơn là sống trong đau khổ lâu dài đến cuối đời, đúng không ?
+
+- Tôi
+> - …
 - (Yên lặng.)
-- Dì xin lỗi… nồi súp… sắp sôi rồi, dì phải đi kiểm tra đã.
+
+- Susan
+> - Dì xin lỗi… nồi súp… sắp sôi rồi, dì phải đi kiểm tra đã.
+
 - (Cô đi vào phòng bếp.)
-- Tớ cảm thấy như cô ấy đang buồn.
-- Có lẽ do tớ vừa rồi thẳng thắn quá…
-- Là vậy sao ?
-- Thật tàn nhẫn khi để họ thức dậy sau giấc mơ hạnh phúc…
-- Tuy nhiên… giấc mơ có thể rất đẹp, nhưng đây chỉ là ảo ảnh thoáng qua nhằm làm tê liệt chính mình.
+
+- Luvia
+> - Tớ cảm thấy như cô ấy đang buồn.
+
+- Tôi
+> - Có lẽ do tớ vừa rồi thẳng thắn quá…
+
+- Luvia
+> - Là vậy sao ?
+
+- Tôi
+> - Thật tàn nhẫn khi để họ thức dậy sau giấc mơ hạnh phúc…
+> - Tuy nhiên… giấc mơ có thể rất đẹp, nhưng đây chỉ là ảo ảnh thoáng qua nhằm làm tê liệt chính mình.
 - (Cô gái đưa cho tôi tờ giấy bị nhàu nát với hình vẽ nguệch ngoạc về Susan và con của dì.)
-- Dì Susan trong bức vẽ trông rất vui vẻ.
-- …
-- Tớ mượn được không? Tớ đi nói lại với dì ấy lần nữa.
+
+- Luvia
+> - Dì Susan trong bức vẽ trông rất vui vẻ.
+
+- Tôi
+> - …
+> - Tớ mượn được không? Tớ đi nói lại với dì ấy lần nữa.
+
 - (Tôi cầm lấy bức ảnh và đi vào phòng bếp. Susan đang đứng trước lò bếp, trầm ngâm suy nghĩ.)
-- Dì Susan… dì có nhớ cái này không ?
-- …hả ?
+
+- Tôi
+> - Dì Susan… dì có nhớ cái này không ?
+
+- Susan
+> - …hả ?
 - (Khuôn mặt dì trông mệt mỏi, đôi mắt có hơi đỏ.)
 - (Tôi đưa cho dì ấy bức vẽ, dì cầm lấy nó, và nhìn vào hình vẽ nguệch ngoạc một thời gian dài, trầm ngâm.)
-- …
-- …
-- Oaa…a…oaaa…
+
+- Susan
+> - …
+> - …
+> - Oaa…a…oaaa…
 - (Nước mắt chảy xuống trên khuôn mặt, tiếng khóc đầy đau buồn xuyên qua trái tim tôi.)
 - （……）
-- Giấc mơ… a…
-- Tôi đúng là một người mẹ vô trách nhiệm… Tôi thực sự đã <i>bỏ rơi</i> con mình…
+
+- Susan
+> - Giấc mơ… a…
+> - Tôi đúng là một người mẹ vô trách nhiệm… Tôi thực sự đã <i>bỏ rơi</i> con mình…
 
 <StoryChoice :options='["*Yên lặng*", "Không có gì đáng xấu hổ khi trốn tránh"]'>
 
 <template #branch-0>
 
-- Dì Susan…
+- Tôi
+> - Dì Susan…
 
 </template>
 
 <template #branch-1>
 
-- Không có gì đáng xấu hổ khi trốn tránh đối mặt với áp lực.
-- Kể cả không xấu hổ, nhưng vẫn là sai.
+- Tôi
+> - Không có gì đáng xấu hổ khi trốn tránh đối mặt với áp lực.
+
+- Susan
+> - Kể cả không xấu hổ, nhưng vẫn là sai.
 
 </template>
 
 </StoryChoice>
 
-- Kể từ khi dì nhìn thấy hai cháu hôm qua, dì đã tự hỏi suốt liệu đã từng gặp cháu trước đây và ở đâu.
-- Rồi chợt nhận ra, dì bắt đầu nhớ lại nhiều thứ, nhiều thứ ở thế giới thực…
-- Dì nghĩ dì ghét đứa con của dì. Dì nghĩ… nếu dì chưa từng bao giờ có anh ấy, thì những chuyện này sẽ không bao giờ xảy ra…
-- Dì đã từng rất sợ, về thế giới mưa đó. Dì không… dì không muốn rời khỏi nơi đây. Mọi thứ thật hoàn hảo…
-- Nhưng chỉ là giấc mơ…
+- Susan
+> - Kể từ khi dì nhìn thấy hai cháu hôm qua, dì đã tự hỏi suốt liệu đã từng gặp cháu trước đây và ở đâu.
+> - Rồi chợt nhận ra, dì bắt đầu nhớ lại nhiều thứ, nhiều thứ ở thế giới thực…
+> - Dì nghĩ dì ghét đứa con của dì. Dì nghĩ… nếu dì chưa từng bao giờ có anh ấy, thì những chuyện này sẽ không bao giờ xảy ra…
+> - Dì đã từng rất sợ, về thế giới mưa đó. Dì không… dì không muốn rời khỏi nơi đây. Mọi thứ thật hoàn hảo…
+
+- Tôi
+> - Nhưng chỉ là giấc mơ…
+
 - (Susan nhẹ nhàng vuốt ve đứa bé trong tranh, một nụ cười giống như trong bức vẻ hiện lên trên gương mặt cô.)
-- Dì sẽ quay trở lại.
-- Dì biết là bây giờ. Dì… Dì không hề ghét chú ấy, dì chỉ… đổ lỗi cho chú, vì tất cả mọi thứ.
-- Coi anh ta như là nguyên nhân của mọi nỗi đau của dì…
-- Dì chỉ không đủ can đảm để chấp nhận mọi chuyện đã xảy ra…
-- Cháu xin lấy làm tiếc…
-- Bây giờ dì muốn quay trở lại.
-- Dì muốn chờ đợi đến khi đứa bé lớn lên. Có khi một ngày nào đứa bé ấy sẽ quay lại với dì. Và khi chuyện này xảy ra, dì sẽ chào mừng đứa bé quay trở lại.
-- Mặc dù không có bánh quy mới nướng, nhưng dì vẫn sẽ làm món gì đó ngon cho đứa trẻ.
-- Chắc chắn dì sẽ làm được mà.
-- Liệu dì… có thể nói chào tạm biệt chồng dì được không? Dì biết anh ấy không phải là thật nhưng…
-- Dì thật là một người dịu dàng, dì biết mà, đúng không ?
+
+- Susan
+> - Dì sẽ quay trở lại.
+> - Dì biết là bây giờ. Dì… Dì không hề ghét chú ấy, dì chỉ… đổ lỗi cho chú, vì tất cả mọi thứ.
+> - Coi anh ta như là nguyên nhân của mọi nỗi đau của dì…
+> - Dì chỉ không đủ can đảm để chấp nhận mọi chuyện đã xảy ra…
+> - Cháu xin lấy làm tiếc…
+> - Bây giờ dì muốn quay trở lại.
+
+- Susan
+> - Dì muốn chờ đợi đến khi đứa bé lớn lên. Có khi một ngày nào đứa bé ấy sẽ quay lại với dì. Và khi chuyện này xảy ra, dì sẽ chào mừng đứa bé quay trở lại.
+> - Mặc dù không có bánh quy mới nướng, nhưng dì vẫn sẽ làm món gì đó ngon cho đứa trẻ.
+
+- Tôi
+> - Chắc chắn dì sẽ làm được mà.
+
+- Susan
+> - Liệu dì… có thể nói chào tạm biệt chồng dì được không? Dì biết anh ấy không phải là thật nhưng…
+
+- Tôi
+> - Dì thật là một người dịu dàng, dì biết mà, đúng không ?
+
 - (Tôi chờ đợi với cô gái ở phòng khách để Susan quay lại sau khi chào tạm biệt.)
-- Cô ấy trông thật là hạnh phúc. Thậm chí quyết tâm. Tớ có thể nhìn thấy qua đôi mắt đó.
-- Nhưng cậu nên biết là, sẽ không có tí bánh quy nào khi chúng ta tỉnh lại.
-- Cô ấy quan trọng hơn.
-- Phải rồi.
-- Dì sẵn sàng rồi.
-- Cảm ơn cháu.
-- Không có gì cần phải cảm ơn bọn cháu đâu, thật sự đấy.
-- Bọn cháu chỉ muốn giúp thôi.
-- Đừng nói thế. Cháu đã cho dì lòng can đảm.
+
+- Luvia
+> - Cô ấy trông thật là hạnh phúc. Thậm chí quyết tâm. Tớ có thể nhìn thấy qua đôi mắt đó.
+
+- Tôi
+> - Nhưng cậu nên biết là, sẽ không có tí bánh quy nào khi chúng ta tỉnh lại.
+
+- Luvia
+> - Cô ấy quan trọng hơn.
+
+- Tôi
+> - Phải rồi.
+
+- Susan
+> - Dì sẵn sàng rồi.
+> - Cảm ơn cháu.
+
+- Tôi
+> - Không có gì cần phải cảm ơn bọn cháu đâu, thật sự đấy.
+
+- Luvia
+> - Bọn cháu chỉ muốn giúp thôi.
+
+- Susan
+> - Đừng nói thế. Cháu đã cho dì lòng can đảm.
+
 - (Dì ấy dừng lại và bước ra khỏi cửa.)
+
 - (Nhẹ nhàng xoay tay cầm, cô đẩy cửa mở ra, để một ánh sáng trắng dịu nhẹ lọt vào. Đầu tiên bao bọc Susan, rồi tôi và cô gái ấy, tỏa ra hơi ấm xung quanh cho đến cuối cùng bao chùm cả 3 chúng tôi.)
 
 ---
@@ -433,113 +758,245 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 - (Tiếng mưa như trút nước lại vang lên.)
 - (Càng lúc càng thấy khó chịu thật.)
 - (Tiếng bíp nhịp nhàng từ máy hỗ trợ sự sống…)
-- Chúng ta… quay lại rồi sao… ?
-- Chào buổi sáng, các cháu.
-- Sáng vui vẻ ạ.
-- Nghe tiếng mưa khó chịu này thực sự bây giờ làm dì cảm thấy dễ chịu hơn chút.
-- Mừng quay trở lại, dì Susan.
-- … Dì đã bị bất tỉnh bao lâu rồi ?
-- Khoảng một tháng rồi hoặc lâu hơn.
-- Đúng lâu thật…
+
+- Tôi
+> - Chúng ta… quay lại rồi sao… ?
+
+- Susan
+> - Chào buổi sáng, các cháu.
+
+- Luvia
+> - Sáng vui vẻ ạ.
+
+- Susan
+> - Nghe tiếng mưa khó chịu này thực sự bây giờ làm dì cảm thấy dễ chịu hơn chút.
+
+- Tôi
+> - Mừng quay trở lại, dì Susan.
+
+- Susan
+> - … Dì đã bị bất tỉnh bao lâu rồi ?
+
+- Tôi
+> - Khoảng một tháng rồi hoặc lâu hơn.
+
+- Susan
+> - Đúng lâu thật…
 - (Khuôn mặt cô không còn vẻ khỏe mạnh như trong mơ. Phụ thuộc vào máy quá lâu đã khiến cô trở nên yếu đuối, nhưng đôi mắt cô vẫn tỏ ra mạnh mẽ.)
-- Giúp dì dậy với. Dì cần quay lại và kiểm tra lều của dì.
-- Có cháu đây. Dì cứ bình tĩnh.
-- Su-Susan!? Cô... cô tỉnh lại rồi !
+
+- Susan
+> - Giúp dì dậy với. Dì cần quay lại và kiểm tra lều của dì.
+
+- Tôi
+> - Có cháu đây. Dì cứ bình tĩnh.
+
+- Người dân
+> - Su-Susan!? Cô... cô tỉnh lại rồi !
 - (Trước khi kịp trả lời, anh ấy đã chạy đi, và chẳng bao lâu mọi người đều biết Susan đã thức dậy.)
+
 - (Người dân quây quanh chúng tôi rất nhanh.)
-- Susan thật sự đã tỉnh lại !
-- Liệu đây có phải là một phép màu ?
-- Có lẽ ảnh hưởng của cơn mưa không kéo dài mãi mãi… ?
-- Ơn trời… Susan cuối cùng cũng tỉnh dậy…
-- Có phải hai cháu đánh thức Susan dậy ?
-- Cháu làm thế nào vậy! ?
-- Chúng ta cần phải chúc mừng Susan đã quay trở lại.
-- Đúng đúng, hãy cùng ăn mừng nào !
-- Có vẻ mọi thứ đã diễn ra tốt đẹp.
-- … Phải.
-- Ngươi… hai người… chắc chắn là ác quỷ ! !
+
+- Người dân
+> - Susan thật sự đã tỉnh lại !
+
+- Người dân
+> - Liệu đây có phải là một phép màu ?
+
+- Người dân
+> - Có lẽ ảnh hưởng của cơn mưa không kéo dài mãi mãi… ?
+
+- Người dân
+> - Ơn trời… Susan cuối cùng cũng tỉnh dậy…
+
+- Người dân
+> - Có phải hai cháu đánh thức Susan dậy ?
+
+- Người dân
+> - Cháu làm thế nào vậy! ?
+
+- Người dân
+> - Chúng ta cần phải chúc mừng Susan đã quay trở lại.
+
+- Người dân
+> - Đúng đúng, hãy cùng ăn mừng nào !
+
+- Tôi
+> - Có vẻ mọi thứ đã diễn ra tốt đẹp.
+
+- Luvia
+> - … Phải.
+
+- Người dân
+> - Ngươi… hai người… chắc chắn là ác quỷ ! !
 - (Một giọng nói xé ngang đám đông, khiến mọi người im lặng.)
 - (Mọi ánh mắt đổ dồn về hướng phát ra tiếng nói đó.)
-- Ác quỷ! Ngươi-ngươi sẽ không thể cứ thể gọi mọi người dậy! Ngươi chắc hẳn phải lập ra khế ước với ác quỷ để gọi cô ấy dậy !
-- Hả gì… ?
-- Họ không phải ác quỷ hoặc người xấu !
-- Thế cô sẽ chứng minh như thế nào ?
-- Nhìn vào cô ta đi! Không ai trong chúng ta từng nhìn thấy ả ta trước đây! Chắc chắn là được các quỷ dữ gửi lên!
+
+- Người dân
+> - Ác quỷ! Ngươi-ngươi sẽ không thể cứ thể gọi mọi người dậy! Ngươi chắc hẳn phải lập ra khế ước với ác quỷ để gọi cô ấy dậy !
+
+- Tôi
+> - Hả gì… ?
+
+- Susan
+> - Họ không phải ác quỷ hoặc người xấu !
+
+- Người dân
+> - Thế cô sẽ chứng minh như thế nào ?
+
+- Người dân
+> - Nhìn vào cô ta đi! Không ai trong chúng ta từng nhìn thấy ả ta trước đây! Chắc chắn là được các quỷ dữ gửi lên!
 - (Tôi đứng ra bảo vệ cô gái.)
-- Cô ấy không phải !
-- Thế nói cho chúng tôi xem cô ta là ai !
-- … <i>Chậc…</i> Cháu không biết.
+
+- Tôi
+> - Cô ấy không phải !
+
+- Người dân
+> - Thế nói cho chúng tôi xem cô ta là ai !
+
+- Tôi
+> - … <i>Chậc…</i> Cháu không biết.
 - (Tôi không thể nói về cô gái đó và cơn mưa, hoặc cách tôi tỉnh lại trong mưa.)
-- Ngươi không biết? Rất là đáng nghi, đúng chứ !?
-- Susan, cô đã lập thỏa thuận gì với chúng? Kể chúng tôi nghe!
-- Chúng tôi không hề có thỏa thuận gì. Họ chỉ… cứu tôi.
-- Đéo tin! Làm sao mà bất kì ai có thể tỉnh lại sau ảnh hưởng do mưa như vậy được ?
-- Quá chuẩn… không có ai khác đã từng tỉnh lại trước kia…
-- Thế sao ngươi không cứu bố tôi? Chắc chắn là do khế ước với quỷ dữ!
-- Các ngươi giải thích bản thân đi!
-- Đó có phải do trả giá bằng mạng sống của người khác để cứu họ ?
+
+- Người dân
+> - Ngươi không biết? Rất là đáng nghi, đúng chứ !?
+
+- Người dân
+> - Susan, cô đã lập thỏa thuận gì với chúng? Kể chúng tôi nghe!
+
+- Susan
+> - Chúng tôi không hề có thỏa thuận gì. Họ chỉ… cứu tôi.
+
+- Người dân
+> - Đéo tin! Làm sao mà bất kì ai có thể tỉnh lại sau ảnh hưởng do mưa như vậy được ?
+
+- Người dân
+> - Quá chuẩn… không có ai khác đã từng tỉnh lại trước kia…
+> - Thế sao ngươi không cứu bố tôi? Chắc chắn là do khế ước với quỷ dữ!
+> - Các ngươi giải thích bản thân đi!
+> - Đó có phải do trả giá bằng mạng sống của người khác để cứu họ ?
+
 - (Người dân bắt đầu tin vào những lời buộc tội…)
 - (Nếu tôi nói cho họ biết sự thật, họ chắc chắn sẽ tin rằng cô ấy là một con quỷ thực sự. Tệ thật, tôi nên làm gì bây giờ…?)
-- Trói chặt chúng lại !
-- Đúng… Phải rồi, trói hết lại !
-- Tránh xa khỏi chúng tôi đi, lũ quái đản !
+
+- Người dân
+> - Trói chặt chúng lại !
+> - Đúng… Phải rồi, trói hết lại !
+> - Tránh xa khỏi chúng tôi đi, lũ quái đản !
 - (…)
+
 - (Chúng tôi bị tách ra vào trong các căn phòng khác nhau, mỗi phòng đều có canh gác, không thể nhìn thấy nhau.)
-- Tôi không biết là ở đây lại có nhiều phòng trống đến vậy. Phòng cách ly độc lập, một sự xa xỉ mà trước đây chúng tôi không có được.
+
+- Tôi
+> - Tôi không biết là ở đây lại có nhiều phòng trống đến vậy. Phòng cách ly độc lập, một sự xa xỉ mà trước đây chúng tôi không có được.
 - (Susan và cô gái ấy đang làm gì nhỉ? Liệu họ có ổn không?)
 - (Chết thiệt… chúng tôi chỉ vừa mới cứu Susan…)
 - (…Nhưng nếu chúng tôi chưa từng cứu dì ấy, chắc chuyện này sẽ không bao giờ xảy ra chứ nhỉ…?)
 - (<i>Đùng !</i>)
 - (Tiếng ầm phát ra từ bên ngoài cửa.)
+
 - (Cánh cửa mở ra, và bước vào là Susan và dì ấy.)
-- Làm… làm sao dì thoát được ra vậy… ?!
-- Họ tưởng họ có thể nhốt gì vào một căn phòng ngẫu nhiên nào đó. Không có cửa đâu.
+
+- Tôi
+> - Làm… làm sao dì thoát được ra vậy… ?!
+
+- Susan
+> - Họ tưởng họ có thể nhốt gì vào một căn phòng ngẫu nhiên nào đó. Không có cửa đâu.
 - (Tôi liếc nhìn người nằm trên sàn bên ngoài và cây gậy sắt trong tay Susan.)
-- Chỉ là dì cho hắn ngủ chút thôi mà.
-- Tuy là vẫn còn rất lo lắng, Nhưng đây là lần đầu tiên dì làm chuyện này…
-- Cô ấy rất giỏi. Cô đã đưa tớ ra ngoài.
-- Haha, thực ra thì, cháu đã gần như kiệt sức để đi…
-- Cháu chỉ vừa tỉnh lại. Này là quá khả năng với cháu rồi…
-- Không có thời gian để nghỉ đâu. Dì sẽ tóm tắt ngắn gọn.
-- Hai cháu đang ở trong tình huống rất nguy hiểm. Cháu cần phải chạy thoát. Ở đây chỉ có chết thôi.
-- … Chúng ta có thể đi đâu được ?
-- Lên trên mặt đất.
-- Các tầng gần mặt đất được đặt đầy những chiếc bẫy và trạm kiểm soát. Chúng ta không thể vượt qua nếu không có quyền.
-- Sử dụng những chỗ cầu thang bị bỏ hoang để lên trên mặt đất, sau đó đi qua bức tường bên ngoài. Chắc sẽ tìm được lối ra thôi.
-- Một hy vọng mong manh còn hơn là ở lại đây.
-- Dì không đi với chúng cháu sao ?
-- …Dì quá yếu để đi tiếp. Chỉ tổ làm chúng cháu chậm lại.
-- Có thể dì không thực hiện được lời hứa đã hứa lúc trước.
-- Nhưng dì muốn chồng của dì và đứa bé ấy biết họ đã có một người vợ và một người mẹ là một người phụ nữ đã từng dũng cảm thế nào.
-- Dì Susan…
-- Cầm lấy lá thư này. Nếu gặp chồng của dì, hãy đưa cho chú.
+
+- Susan
+> - Chỉ là dì cho hắn ngủ chút thôi mà.
+> - Tuy là vẫn còn rất lo lắng, Nhưng đây là lần đầu tiên dì làm chuyện này…
+
+- Luvia
+> - Cô ấy rất giỏi. Cô đã đưa tớ ra ngoài.
+
+- Susan
+> - Haha, thực ra thì, cháu đã gần như kiệt sức để đi…
+
+- Tôi
+> - Cháu chỉ vừa tỉnh lại. Này là quá khả năng với cháu rồi…
+
+- Susan
+> - Không có thời gian để nghỉ đâu. Dì sẽ tóm tắt ngắn gọn.
+> - Hai cháu đang ở trong tình huống rất nguy hiểm. Cháu cần phải chạy thoát. Ở đây chỉ có chết thôi.
+
+- Tôi
+> - … Chúng ta có thể đi đâu được ?
+
+- Susan
+> - Lên trên mặt đất.
+
+- Tôi
+> - Các tầng gần mặt đất được đặt đầy những chiếc bẫy và trạm kiểm soát. Chúng ta không thể vượt qua nếu không có quyền.
+
+- Susan
+> - Sử dụng những chỗ cầu thang bị bỏ hoang để lên trên mặt đất, sau đó đi qua bức tường bên ngoài. Chắc sẽ tìm được lối ra thôi.
+> - Một hy vọng mong manh còn hơn là ở lại đây.
+
+- Tôi
+> - Dì không đi với chúng cháu sao ?
+
+- Susan
+> - …Dì quá yếu để đi tiếp. Chỉ tổ làm chúng cháu chậm lại.
+> - Có thể dì không thực hiện được lời hứa đã hứa lúc trước.
+> - Nhưng dì muốn chồng của dì và đứa bé ấy biết họ đã có một người vợ và một người mẹ là một người phụ nữ đã từng dũng cảm thế nào.
+
+- Tôi
+> - Dì Susan…
+
+- Susan
+> - Cầm lấy lá thư này. Nếu gặp chồng của dì, hãy đưa cho chú.
 - (Tôi kiên quyết nhận lấy lá thư.)
-- …cháu sẽ đưa. Cảm ơn dì.
-- Susan, cô đang khóc kìa.
-- Hehe… Còn gì đáng sợ hơn khi khóc đến mức không còn giọt nước mắt nào để khóc.
-- Cháu không có tên, đúng chứ? Cô bé?
-- Không.
-- Dì từng nghĩ nếu có một đứa con gái, dì sẽ đặt tên là Luvia.
-- Dì có thể gọi cháu như vậy không ?
-- … Được ạ.
-- Luvia… Đó là một cái tên rất hay.
-- Cảm ơn… cảm ơn cả hai cháu. Giờ thì đi ngay đi! Nếu họ quay lại, mọi thứ sẽ kết thúc. Để dì giữ chân họ lại! ĐI ĐI!
+
+- Tôi
+> - …cháu sẽ đưa. Cảm ơn dì.
+
+- Luvia
+> - Susan, cô đang khóc kìa.
+
+- Susan
+> - Hehe… Còn gì đáng sợ hơn khi khóc đến mức không còn giọt nước mắt nào để khóc.
+> - Cháu không có tên, đúng chứ? Cô bé?
+
+- Luvia
+> - Không.
+
+- Susan
+> - Dì từng nghĩ nếu có một đứa con gái, dì sẽ đặt tên là Luvia.
+> - Dì có thể gọi cháu như vậy không ?
+
+- Luvia
+> - … Được ạ.
+
+- Tôi
+> - Luvia… Đó là một cái tên rất hay.
+
+- Susan
+> - Cảm ơn… cảm ơn cả hai cháu. Giờ thì đi ngay đi! Nếu họ quay lại, mọi thứ sẽ kết thúc. Để dì giữ chân họ lại! ĐI ĐI!
 
 <StoryChoice :options='["Đi thôi"]'>
 
 <template #branch-0>
 
-- Đi thôi, <i>Luvia</i>.
+- Tôi
+> - Đi thôi, <i>Luvia</i>.
 
 </template>
 
 </StoryChoice>
 
 - (Tôi gật đầu với Susan. Nước cô mắt đẫm lệ, nhưng cô vẫn nở nụ cười. Có thể đây là lần cuối chúng tôi gặp nhau.)
-- Tạm biệt dì, Susan.
+
+- Luvia
+> - Tạm biệt dì, Susan.
+
 - (Susan nhìn chúng tôi rời đi, dựa vào khung cửa, nước mắt rơi đẫm lệ.)
-- Dì xin lỗi… Dì có thể không bao giờ gặp cháu được nữa.
-- Dì ước chúng ta có thể là một gia đình trong thế giới không có mưa…
+
+- Susan
+> - Dì xin lỗi… Dì có thể không bao giờ gặp cháu được nữa.
+
+- Susan
+> - Dì ước chúng ta có thể là một gia đình trong thế giới không có mưa…
 
 ---
 
@@ -548,61 +1005,105 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 <VnPlayer episode="main_story_1_ed_1" title="尾声" />
 
 - Vị máu trào lên trong cổ họng. Quần áo tôi ướt đẫm mồ hôi.
+
 - Tiếng bước chân cứ mãi vang vọng trong cầu thang.
 - Dù đôi chân tôi cảm thấy nặng trĩu đến mức không nhấc nổi, và tầm nhìn mờ đi vì thiếu không khí, tôi vẫn nắm chặt tay cô gái đi theo sau.
+
 - Hai mốt… hai mươi… mười chín…
 - Đầu óc tôi rối bời. Không thể tỉnh táo suy nghĩ được nữa.
+
 - Mười tám… mười bảy… mười sáu…
 - Con số giảm dần, từng bậc từng bậc một, nỗi bất an càng cuộn chặt lấy tôi.
 - Chúng tôi không biết điều gì đang chờ đợi phía trước.<br /><br />Nhưng tôi biết, dù là gì đi nữa, đó chính là tự do.
 - Dù vậy tôi cũng chẳng chắc liệu "tự do" đó có phải là thứ chúng tôi cần hay không.
 - Vì sao chúng ta phải tiếp tục? Tại sao chúng ta cứ đếm ngược?<br /><br />Bởi vì những gì đã đánh mất, mãi mãi chẳng thể lấy lại.
-- Tớ… Tớ không thể… đi tiếp được nữa…
+
+- Luvia
+> - Tớ… Tớ không thể… đi tiếp được nữa…
 - Tôi quay lại và nhìn cô gái phía sau.<br /><br />Gương mặt cô đỏ ửng, hơi thở gấp gáp, mồ hôi đọng trên trán.
 - Tôi chần chừ trong giây lát. Rồi không còn tiếng bước chân nào phía sau nữa.
-- Thật sự chúng ta cần nghỉ chân.
+
+- Tôi
+> - Thật sự chúng ta cần nghỉ chân.
 - Chúng tôi ngồi xuống bậc thềm, chỉ một chút thôi.<br /><br />Bên ngoài, mưa vẫn rơi.
-- Thật sự chúng ta… để dì Susan ở lại như vậy sao ?
-- …
-- Tại sao họ lại làm thế… ?
-- …
-- Sao cậu không trả lời tớ ?
+
+- Luvia
+> - Thật sự chúng ta… để dì Susan ở lại như vậy sao ?
+
+- Tôi
+> - …
+
+- Luvia
+> - Tại sao họ lại làm thế… ?
+
+- Tôi
+> - …
+
+- Luvia
+> - Sao cậu không trả lời tớ ?
 - Vì ngay cả bản thân tôi cũng chẳng tin vào câu trả lời mình sẽ đưa ra. Tôi không muốn tin rằng mọi người đã chấp nhận duy trì sống trong <b>tình cảnh hiện tại</b>.
-- Họ đã chấp nhận rằng tương lai sẽ không thể thay đổi. Bất cứ ai từ bỏ hi vọng sẽ bắt đầu coi như hi vọng là một lời nguyền.
-- Trong mắt họ… cố gắng làm mọi thứ tốt hơn cũng chẳng khác nào vô nghĩa.<br /><br />Họ sẵn sàng làm mọi thứ để giữ nguyên <b>tình cảnh này</b> y như cũ.
-- Bởi vì những gì họ có thể thấy và chạm vào được <b>thì</b> họ mới tin. Còn tất cả những thứ khác, mọi thứ bất định... chỉ giống như mưa mà thôi.
-- Và chính vì như thế… họ… Tớ vẫn chưa hiểu…
+
+- Tôi
+> - Họ đã chấp nhận rằng tương lai sẽ không thể thay đổi. Bất cứ ai từ bỏ hi vọng sẽ bắt đầu coi như hi vọng là một lời nguyền.
+> - Trong mắt họ… cố gắng làm mọi thứ tốt hơn cũng chẳng khác nào vô nghĩa.<br /><br />Họ sẵn sàng làm mọi thứ để giữ nguyên <b>tình cảnh này</b> y như cũ.
+> - Bởi vì những gì họ có thể thấy và chạm vào được <b>thì</b> họ mới tin. Còn tất cả những thứ khác, mọi thứ bất định... chỉ giống như mưa mà thôi.
+
+- Luvia
+> - Và chính vì như thế… họ… Tớ vẫn chưa hiểu…
 - Cô ấy lẩm bẩm một lúc lâu.<br /><br />Sự im lặng của tôi không có nghĩa là phớt lờ sự thật. Chỉ là tôi không thể làm gì.
 - Trong lịch sử, con người đã làm nhiều điều to lớn để bảo vệ thế giới của họ.
 - Nếu họ không thể ngăn được cơn mưa, họ sẽ xóa bỏ tất cả những gì liên quan tới nó.
-- Cậu có nhớ cái tên mà dì Susan đã đặt cho cậu không ?
+
+- Tôi
+> - Cậu có nhớ cái tên mà dì Susan đã đặt cho cậu không ?
 - Cô ấy ngẩng đầu lên, ánh mắt lặng lẽ không cử động.
-- … <i>Luvia</i>.
-- Cậu có thích không ?
-- Tớ… Tớ có.
+
+- Luvia
+> - … <i>Luvia</i>.
+
+- Tôi
+> - Cậu có thích không ?
+
+- Luvia
+> - Tớ… Tớ có.
 - Tôi nhìn xuống bức thư vẫn bị vò trong tay mình. Bức thư được bọc một lớp nhựa, nhăn nhúm vì tôi đã nắm chặt quá lâu. Nhưng vẫn còn ở đây.
-- Luvia, tớ chắc chắn Susan muốn chúng ta sống. Dì ấy đã giao cho chúng ta một nhiệm vụ.
+
+- Tôi
+> - Luvia, tớ chắc chắn Susan muốn chúng ta sống. Dì ấy đã giao cho chúng ta một nhiệm vụ.
 - Tôi đứng dậy và đưa tay ra cho cô ấy.
-- Hãy kiên trì thêm chút nữa. Chúng ta sẽ cùng nhau nhìn thấy thế giới ngoài kia thực sự như thế nào.
+
+- Tôi
+> - Hãy kiên trì thêm chút nữa. Chúng ta sẽ cùng nhau nhìn thấy thế giới ngoài kia thực sự như thế nào.
 - Không vì lý do nào cả.
 - Chỉ để tới được nơi duy nhất không bị chi phối bởi <b>tình cảnh hiện tại</b>. Nơi duy nhất còn giữ lại sự bất định.
-- … Ưm.
+
+- Luvia
+> - … Ưm.
 - Luvia nắm lấy tay tôi.
+
 - Mười… chín… tám
 - Tôi đã có thể nhìn thấy thành phố ngập nước bên ngoài cửa sổ cầu thang.<br /><br />Những bức tưởng vỡ nát chìm dưới dòng nước. Cơn mưa đã cuốn trôi mọi thứ.
+
 - Sáu… năm…
+
 - Cuối cùng, một cánh cổng bị khóa chặn lại con đường phía trước.<br /><br />Dải băng vàng-đen cảnh báo kéo căng trên đó. Biển báo ghi: CẤM LẠI GẦN.
 - Tôi đưa tay ra. Nhưng chỉ cần chạm vào, nó khiến ngón tay tôi giật lên như bị tĩnh điện.
 - Chết tiệt! Chúng ta đến <i>gần lắm rồi</i>.
 - Susan ắt hẳn phải biết chuyện này. Thế thì dì ấy muốn nói gì với chúng ta ?
-- Nơi này… đã bị niêm phong rồi sao ?
-- Ừm. Đúng vậy.
+
+- Luvia
+> - Nơi này… đã bị niêm phong rồi sao ?
+
+- Tôi
+> - Ừm. Đúng vậy.
 - Dĩ nhiên là nó bị niêm phong rồi. Chúng ta phải tìm lối ra khác.
 - Tôi dẫn Luvia trở lại tầng trên.
 - Chúng tôi tìm kiếm trong cầu thang cho đến khi phát hiện ra một lối thoát mà trước đó không hề nhận ra — một lối thoát khác ra bên ngoài.
 - Cửa thoát hiểm ở ngay phía trước. Có lẽ vì nó dẫn thẳng ra mưa, nên vẫn chưa bị niêm phong.
+
 - Tôi dễ dàng đẩy cửa ra.<br /><br />Cơn gió lạnh ào vào, mang theo một ánh sáng yếu ớt. Những giọt mưa đập vào mặt tôi như những cái kim châm.
 - Và rồi, chúng tôi thấy: thế giới như trước kia.
+
 - Một nơi mà chúng tôi chưa từng đặt chân đến, ngay trước mắt.
 - Xám xịt. Mọi thứ đều xám xịt. Thành phố từng vươn cao trên chúng tôi giờ đây cảm giác như quá gần, gần như không thật.
 - Mưa đã cuốn trôi mọi dấu vết của những gì đã từng tồn tại. Không còn chút sự sống nào.
@@ -610,18 +1111,25 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 - Đây là tất cả những gì thế giới cũ bỏ lại. Bị quên lãng và bị nhấn chìm.
 - Luvia bước vào vũng nước, bước chân cô tạo nên những đường gợn sóng trên mặt nước.
 - Cô ấy tiếp tục bước đi, cảm nhận sức nặng của nước mưa thấm đẫm người cô.
-- Có phải chúng ta… đến muộn rồi không ?
+
+- Luvia
+> - Có phải chúng ta… đến muộn rồi không ?
 - Đó là câu hỏi mà chẳng ai còn sống sẽ dám thốt ra. Đơn giản và buồn bã.
 - Cơn mưa hòa với cơn gió. Sương mù che khuất hình bóng cô gái, tựa như một giấc mơ.
 - Chân tôi tự động bước đi. Tôi muốn níu giữ một cái gì đó. Một cái gì đó quan trọng. Mặc dù tôi không biết đó là gì.
 - Vì… tôi vẫn chẳng hiểu gì về thế giới này.
-- Luvia.
+
+- Tôi
+> - Luvia.
 - Tôi lại nhẹ nhàng nắm lấy cổ tay cô ấy. Cô gái không lên tiếng. Cô ấy nhìn lên bầu trời, nơi chỉ có mưa.
-- Chưa muộn đâu. Vẫn còn rất nhiều thứ chúng ta chưa thấy.
-- Cho đến lúc đó… Tớ nghĩ chúng mình chỉ cần tiếp tục bước đi.
+
+- Tôi
+> - Chưa muộn đâu. Vẫn còn rất nhiều thứ chúng ta chưa thấy.
+> - Cho đến lúc đó… Tớ nghĩ chúng mình chỉ cần tiếp tục bước đi.
 - Sau tất cả, trong một thế giới chẳng còn lấy hi vọng, chúng ta không còn gì để mất nữa.
 - Chúng tôi không bước đi để cứu ai. Cũng không phải để thay đổi thế giới tàn khốc này.
 - Nhưng chúng tôi vẫn tiếp tục bước đi.
+
 - Và số phận vẫn còn đó, chờ đợi viết lại bằng chính đôi tay của <i>chúng ta</i>.
 
 ---
@@ -646,21 +1154,39 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 - Bên ngoài trời mưa rơi thật lạnh buốt, nhưng cơn lạnh ấy giúp chúng tôi tỉnh táo.
 - Kể từ khi bước ra ngoài, tôi thường cảm thấy đau đầu. Cảnh tượng trước mắt không mấy xa lạ, nhưng đã bao lâu rồi kể từ khi rời khỏi tòa nhà ấy? Chẳng biết nữa.
+
 - Còn Luvia thì…
-- Vẫn còn lơ mơ sao ?
-- …
+
+- Tôi
+> - Vẫn còn lơ mơ sao ?
+
+- Luvia
+> - …
 - Cậu ấy cứ ngước lên những tòa nhà đổ nát phù đầy rêu trước mặt. Không... sao cứ cảm giác cậu ý không nhìn đống đó đâu.
 - Cậu ấy đang nhìn gì nhỉ ?
-- Cậu đang nhìn cái gì thế ?
-- Chỗ đó... Trông chúng như những con chim trắng.
-- Chim ? Ngay lúc này sao, ở một nơi như này sao, làm sao mà có thể có chim được ?
+
+- Tôi
+> - Cậu đang nhìn cái gì thế ?
+
+- Luvia
+> - Chỗ đó... Trông chúng như những con chim trắng.
+
+- Tôi
+> - Chim ? Ngay lúc này sao, ở một nơi như này sao, làm sao mà có thể có chim được ?
+
 - Những hạt mưa rơi lưa thưa ngày càng nhiều hơn. Mưa càng lúc nặng hạt. Thậm chí còn chưa đến mùa mưa, nhưng kiểu mưa rào như này sẽ làm thấm đẫm bất kì chiếc ô hoặc áo mưa nào.
 - Đó là lý do vì sao họ không thể di chuyển được dù đang có đồ bảo hộ.
 - Chúng tôi thì may mắn đấy, nhưng không thể không tránh khỏi việc lê bước về phía trước với bộ quần áo ướt sũng.
-- Không ổn rồi. Theo tớ vào trong trước đã.
-- A…
+
+- Tôi
+> - Không ổn rồi. Theo tớ vào trong trước đã.
+
+- Luvia
+> - A…
+
 - Cậu ấy vội vã chạy theo tôi vào một tòa nhà rộng rãi.
 - Thời điểm chúng tôi rời khỏi tòa nhà không hề tốt chút nào (Thực tế không cho chúng tôi bất kì lựa chọn nào). Màn đêm che giấu cho chúng tôi trốn thoát, mà cũng không ai đuổi theo đâu.
+
 - Tôi đưa Luvia đến một cửa hàng tiện lợi, nơi bạn có thể mua sắm thoải mái. Mưa không thể ru ngủ chúng tôi, nhưng chẳng ai muốn đứng giữa cơn mưa như trút nước cả.
 - Nhìn vào mấy kệ thực phẩm gần như trống rỗng rồi lục lọi xung quanh, đúng như tôi nghĩ, mọi thứ đã hết hạn từ lâu rồi…
 - Rất lâu rồi... Con người trước đây họ sống như nào nhỉ ?
@@ -670,46 +1196,83 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Có mỗi lá.
 - Sự thật là: tôi không hề biết về thế giới bên ngoài, nhưng mà thành phố này, hầu hết các loài động vật có thể thụ phấn cho cây trồng đã tuyệt chủng.
 - Cơn mưa không chỉ ảnh hưởng đến chúng tôi hay con người.
+
 - Ngay lúc ấy, tôi nghe thấy tiếng sột soạt bên tai, khác hẳn tiếng mưa bên ngoài.
+
 - Tôi hoang mang, lần theo tiếng âm thanh thấy Luvia đang mở một gói bim bim, lấy những miếng thức ăn đã vón cục bỏ thẳng vào miệng chính cậu ấy.
 - Tôi ôm đầu vội vàng chạy về phía cậu ta.
-- Khoan, Tớ biết cậu đói, nhưng kìm nén lại đi đã.
-- Ỏa ?
+
+- Tôi
+> - Khoan, Tớ biết cậu đói, nhưng kìm nén lại đi đã.
+
+- Luvia
+> - Ỏa ?
+
 - Cậu ấy miễn cưỡng đặt gói bim bim quay trở lại kệ. Cũng may cậu ấy đã nghe tôi.
-- Bọn mình còn không biết đồ ăn để đấy bao lâu rồi. Ăn nó sẽ rất nguy hiểm. Một trong số đó... rõ ràng, đã hỏng rồi.
+
+- Tôi
+> - Bọn mình còn không biết đồ ăn để đấy bao lâu rồi. Ăn nó sẽ rất nguy hiểm. Một trong số đó... rõ ràng, đã hỏng rồi.
 - Luvia đã chọn một gói bim bim khoai tây đã bị biến thành khoai tây ghiền. Ngay cả như vậy đó là món ăn ít bị hư hại nhất ở đây.
 - Thực phẩm đóng gói hết hạn chỉ là chuyện nhỏ. Hầu hết bim bim ở đây đã bị hỏng, thậm chí là "thức ăn" mới đã mọc trên đó…
-- Luvia, đó là những cây nấm.
+
+- Tôi
+> - Luvia, đó là những cây nấm.
 - Luvia nghiêng người lại gần, nhìn chằm chằm vào những chiếc nắp nhỏ màu vàng pha trắng nhạt, như thể được ngụy trang trên bề mặt bao bì giấy.
-- Cậu nói đúng, đó là nấm.
-- Có lẽ chúng ta có thể dùng đống bao bì đó trồng nấm.
-- Màu sắc... trông như rất nhiều chiếc bánh quy trong giấc mơ của Dì Susan. Không biết vị có giống như bánh quy không nhỉ ?
+
+- Luvia
+> - Cậu nói đúng, đó là nấm.
+
+- Tôi
+> - Có lẽ chúng ta có thể dùng đống bao bì đó trồng nấm.
+
+- Luvia
+> - Màu sắc... trông như rất nhiều chiếc bánh quy trong giấc mơ của Dì Susan. Không biết vị có giống như bánh quy không nhỉ ?
 - Cảnh tượng trong giấc mơ của Susan hiện lên trước mắt tôi. Tôi lắc đầu và chỉ thấy đống tàn tích. Một lỗ thủng trên trần nhà, nơi nước mưa đọng lại thành vũng như một thác nước nhỏ.
 - Vũng nước đã ngập qua mắt cá chân tôi. Và… nếu có ánh sáng, nó có lẽ còn trong vắt. Bị nước trong vắt nuốt chửng là cảnh ngộ tuyệt vọng nhất, bởi vì những dòng nước ấy sẽ không còn tự rút đi.
 - Dù sao thì... một lần nữa tôi ngăn Luvia đến mấy cây nấm nhỏ bé ấy.
-- Tốt hơn hết là không đụng vào chúng. Tớ không biết nó có độc hay không.
+
+- Tôi
+> - Tốt hơn hết là không đụng vào chúng. Tớ không biết nó có độc hay không.
 - Tôi buộc phải nói rõ ràng, vì Luvia có thể nghĩ mấy lời nói đùa của tôi là nghiêm túc.
 - Chúng tôi im lặng một lúc. Thực tế, cho đến khi màn đêm buông xuống, chúng tôi càng lúc nói càng ít đi.
 - Cửa hàng tiện lợi có nhiều mặt hàng hơn hẳn số với ngoài phố, nhưng chỉ còn một vài món đồ quen thuộc. Chúng tôi nhanh chóng xem xong mọi thứ, và giờ chỉ đứng trong làn nước, lặng lẽ ngắm mưa rơi bên ngoài.
-- Tình hình có lẽ sẽ không khả quan hơn trong thời gian ngắn tới.
-- …
-- Lần đầu cậu ra ngoài sao ?
-- ...Ưm. Tớ thấy hơi lo…
-- Tớ cũng chẳng khác gì. Rời khỏi tòa nhà vì chuyện này cũng là lần đầu của tớ.
-- Đây là khu vực chúng mình chưa từng đặt chân đến, nên phải thật cẩn thận. Mỗi một vũng nước có thể là một hố sâu không đáy, và vẫn có thể còn dây điện đang hoạt động ở đâu đó…
+
+- Tôi
+> - Tình hình có lẽ sẽ không khả quan hơn trong thời gian ngắn tới.
+
+- Luvia
+> - …
+
+- Tôi
+> - Lần đầu cậu ra ngoài sao ?
+
+- Luvia
+> - ...Ưm. Tớ thấy hơi lo…
+
+- Tôi
+> - Tớ cũng chẳng khác gì. Rời khỏi tòa nhà vì chuyện này cũng là lần đầu của tớ.
+> - Đây là khu vực chúng mình chưa từng đặt chân đến, nên phải thật cẩn thận. Mỗi một vũng nước có thể là một hố sâu không đáy, và vẫn có thể còn dây điện đang hoạt động ở đâu đó…
 - Tôi giải thích mọi thứ thật cẩn thận vì có một ý tưởng nảy ra trong đầu.
 - Giống như tia sáng lóe lên.
 - Nhất định không chỉ tòa nhà ấy mới có người sống sót. Nếu những khu nhà dân cư có thể giữ lại tàn tích văn minh hơn trăm năm, thì khả năng bách hóa ươm mầm sự sống mới hiển nhiên lớn hơn.
-- Luvia, đi theo lối phía sau này. Tớ biết chúng ta nên đi đâu rồi.
+
+- Tôi
+> - Luvia, đi theo lối phía sau này. Tớ biết chúng ta nên đi đâu rồi.
+
 - Không phải để tìm đến một chỗ trú ẩn nhỏ khác. Chúng ta không thể xác định liệu những người ở đó có ngu dốt hơn những cư dân trong tòa nhà hay không.
 - Dù thế nào đi nữa, chúng ta từ cơn mưa bước tới, không hề khoác lấy một chiếc áo mưa. Rốt cuộc chúng ta có phải là những con quỷ nhắm mắt hay không……? Ngay cả bản thân tôi cũng không thể đưa ra câu trả lời chính xác.
 - Khi chúng tôi bước đến phòng chứa đồ của cửa hàng tiện lợi, tôi buông tay Luvia ra.
 - Chả tìm thấy gì, nên tôi quay người lại.
+
 - Đôi mắt xanh tinh khiết như pha lê của cậu ý ánh lên sự khó hiểu khi nhìn tôi. Chỉ sau vài giây, cậu ấy khẽ nắm lấy tay tôi.
+
 - Thật lạnh lẽo.
 - Nhưng cũng thật mềm mại, không như những bàn tay thô ráp của tôi và những cư dân khác dùng để sinh tồn.
 - Luvia chưa từng làm những công việc nặng nhọc này trước đây. Điều này nghĩa là sao đây... ?
-- Bám chặt vào tớ. Nếu cậu cảm thấy trượt chân hoặc sắp muốn ngã, đừng bào giờ buông tay dù xảy ra chuyện gì.
+
+- Tôi
+> - Bám chặt vào tớ. Nếu cậu cảm thấy trượt chân hoặc sắp muốn ngã, đừng bào giờ buông tay dù xảy ra chuyện gì.
+
 - Cậu ý không nói gì, nhưng bàn tay đã ôm chặt lấy tôi.
 - Tiếng mưa át đi mọi âm thanh khác.
 - Và trong phạm vi 1km, ngoài tiếng mưa ra thì chỉ có duy nhất tiếng tôi và cậu ấy leo trèo qua những tàn tích.
@@ -725,27 +1288,46 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Dòng nước chảy trên mặt khiến cho tầm nhìn của tôi bị mờ đi, cơ thể ngày càng nặng nề hơn sau chuyến đi gian khổ này, còn mệt hơn cả parkour.
 - Có lẽ cũng là vì tôi phải kéo theo Luvia đang kiệt quệ leo trèo qua từng bức tường và cửa sổ. Sức lực của cậy ấy còn chẳng bằng một nửa của tôi.
 - Cho đến khi tôi giẫm phải một tảng đá trơn ướt, loạng choạng suýt nữa thì ngã, thì tôi mới nghĩ đến lúc nghỉ ngơi một lát.
-- C-cậu có sao không ?
+
+- Luvia
+> - C-cậu có sao không ?
 - Tôi đã buông tay Luvia ra trước khi cảm thấy mình sắp bị ngã. Cậu ấy đằng sau tôi, nhìn với vẻ mặt lo lắng.
 - Tại vì tôi đã dặn cô ấy không được tự ý đi một mình, ngay cả khi ở yên tại chỗ.
+
 - Tôi quay lại nắm tay cậu lần nữa. Chúng tôi cùng trèo vào tòa nhà chung cư này qua lối thoát hiểm tầng hai. Sàn và trần nhà ở đây khá tốt, ổn định để dừng chân một lúc.
-- Xây một nơi trú ẩn mới ở đây nhé? Chỉ có hai chúng ta ở thôi.
-- Ở đây có lẽ còn chẳng có máy phát điện nào dùng được... và kiếm thức ăn cũng rất khó nữa.
-- Đúng vậy. Thế thì chúng ta còn phải đi tìm một nơi ổn áp hơn nữa.
+
+- Tôi
+> - Xây một nơi trú ẩn mới ở đây nhé? Chỉ có hai chúng ta ở thôi.
+
+- Luvia
+> - Ở đây có lẽ còn chẳng có máy phát điện nào dùng được... và kiếm thức ăn cũng rất khó nữa.
+
+- Tôi
+> - Đúng vậy. Thế thì chúng ta còn phải đi tìm một nơi ổn áp hơn nữa.
 - Hầu như chẳng ai nghỉ ngơi dọc đường. Ngay cả khi chẳng có ai đuổi theo, chúng tôi vẫn phải tìm nơi ở tiếp theo trong khi vẫn còn sức lực và thân nhiệt. Cơn đói có thể tạm chưa kể đến, nhưng thân nhiệt giảm mới là dấu hiệu cảnh báo nguy hiểm hơn.
 - Nơi này chắn gió và mưa, nhưng lại không thể nhóm lửa. Trong lúc đi qua các tòa nhà, tôi nhặt được một chiếc đèn pin, ba cái bật lửa, và hai hộp băng gạc. Tôi không nhặt rìu hoặc cưa vì quá nặng.
 - Nhìn kĩ, tôi thấy Luvia bằng cách thần kì nào đó đang cầm một cuốn cẩm nang nhỏ về các loài hoa phổ biến trong tay.
-- Một cuốn cẩm nang về cây ?
-- Tớ thấy tò mò, nên đã lấy nó luôn.
-- Cảm giác chúng ta càng lúc càng thấy nặng hơn, làm tớ cứ tưởng là bị ma đè vậy.
+
+- Tôi
+> - Một cuốn cẩm nang về cây ?
+
+- Luvia
+> - Tớ thấy tò mò, nên đã lấy nó luôn.
+
+- Tôi
+> - Cảm giác chúng ta càng lúc càng thấy nặng hơn, làm tớ cứ tưởng là bị ma đè vậy.
 - Chúng tôi cứ tranh thủ lụm đồ khi đang đi…
 - Mà nghĩ lại, chúng tôi đã đi ngang qua nhà sách nào không...? Chẳng nhớ nữa, có khi trong kí ức tự loại bỏ những thứ không cần thiết rồi.
+
 - Tôi lấy ra những chiếc bật lửa thử từng cái một, toàn bộ đều không lên. Nhìn kĩ, thì mới thấy nhiên liệu đã khô hoàn toàn từ lâu rồi. Có đem ra hai mươi chiếc như vậy cũng vô dụng cả.
 - Khi Luvia thấy tôi loay hoay với đèn pin, cậu ấy đi tìm xung quanh xem có nước đọng không. Rồi cậu ý bước vào phòng ngủ, ngồi xuống tấm ga trải giường mục nát, và bắt đầu gỡ lớp bọc nhựa từ cuốn cẩm nang đó.
 - Chiếc đèn pin thì chẳng có pin. Quá cay cú, tôi nhét hết đống đèn pin ấy vào túi, cầm miếng băng gạc, rồi đi tìm Luvia. Cậu ấy thì đã bắt đầu đọc phần giới thiệu rồi.
+
 - Tôi muốn gọi cậu ta đi, nhưng liếc mắt thấy đôi chân run rẩy từ cậu ấy. Chẳng biết là do lạnh hay là do gắng sức quá mức, thế nên tôi quay trở lại phòng khách.
+
 - Để nhìn ra ngoài, tôi đẩy mạnh cửa sổ đang lung lay ra khỏi khung.
 - Khung cửa rơi xuống tạo ra tiếng động lớn, tôi nhìn ra màn mưa rơi tầm tã bên ngoài đường phố.
+
 - "Đường phố"... không hẳn. Những chiếc xe bỏ hoang, một phần đổ nát từ những tòa nhà, và cây cối mọc tùm lum tà la đã khiến cho những con đường cũ chẳng thể nhận ra.
 - Khi nước ngập đến bắp chân, di chuyển bên ngoài tòa nhà không hề dễ hơn di chuyển trong tòa nhà chút nào. Thậm chí còn có thể nguy hiểm đến tính mạng.
 - Không biết là nhóm của Robert, cái nhóm mà đã bỏ lại Susan để rời đi cùng nhóm nghiên cứu, đã thoát ra bằng cách nào nhỉ, bằng thuyền chăng ?
@@ -754,204 +1336,407 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Nhưng giờ đây, những công trình lớn có thể che chắn con người khỏi gió và mưa lại im bặt.
 - Tuy nhiên, vẫn có một tin tốt là: Tôi tìm thấy một tòa nhà trông rất giống một cửa hàng bách hóa.
 - Ngay trước mắt chúng tôi luôn kìa.
+
 - Sau một thời gian ngắn nghỉ ngơi, bên ngoài trời đã tối om. Nhờ cơn mưa nhẹ, chúng tôi rời khỏi tòa chung cư đổ nát.
 - Dù đã biết là vậy, nhưng thật sự bóng tối ở cả hai đầu con phố vẫn khiến tôi không khỏi thở dài.
-- Sao cậu bỗng thở dài thế ?
-- Không có ánh sáng nghĩa là không có người sống.
-- Dù sao thì, chúng ta cũng đã đi được đến tận đây... cậu đã vất vả nhiều rồi.
-- Không, tớ vẫn đi được mà.
+
+- Luvia
+> - Sao cậu bỗng thở dài thế ?
+
+- Tôi
+> - Không có ánh sáng nghĩa là không có người sống.
+> - Dù sao thì, chúng ta cũng đã đi được đến tận đây... cậu đã vất vả nhiều rồi.
+
+- Luvia
+> - Không, tớ vẫn đi được mà.
 - Bắp chân cậu ấy có vẻ bị trầy xước cùng những vết cắt nông. Mặc váy, nên đôi chân cậu ấy không được bảo vệ. Nhìn những vết thương mà lòng chua xót, nhưng vẫn quyết không nhắc đến.
 - Ngước lên nhìn, tấm biển quảng cáo đằng xa đã mờ dần. Khung thép đỡ có lẽ sẽ gãy hoàn toàn trong vài năm nữa. Một khi xảy ra, nó sẽ gây ra một vụ sụp đổ khổng lồ.
 - Liệu chúng ta có được nghe âm thanh đó không ?
 - Trung tâm thương mại có diện tích rộng hơn nhiều so với tòa nhà dân cư, nhưng để giữ ấm vào mùa đông ở đây sẽ khó khăn hơn nhiều.
 - Tôi không biết tòa nhà nơi đây từng chứa bao nhiêu người tị nạn. Dù trước đây huy hoàng cỡ nào, thì giờ cũng chỉ là đống hoang tàn.
-- Có lẽ sẽ có đồ ăn bên trong đó.
-- Tớ từng thấy biển quảng cáo này trong album ảnh... đây là đâu vậy ?
-- Trung tâm thương mại. Nơi đây họ từng bán mọi thứ. Có thể có rất nhiều thứ mới mẻ mà chúng ta chưa từng thấy.
-- Thế... đó là những thứ gì? Cậu cho tớ đi xem được không ?
-- Đó chính xác là những gì tớ định làm. Nhưng bên trong cửa hàng bách hóa có máy phát điện, và tớ không chắc là nó còn hoạt động hay không.
-- Mà nếu nó còn hoạt động, chạm vào nước sẽ giật tung người. Nên bám chặt vào tớ đi, rồi hãy thật cẩn thận vào, nhé ?
-- Ừm... Tớ nhớ rồi.
+
+- Tôi
+> - Có lẽ sẽ có đồ ăn bên trong đó.
+
+- Luvia
+> - Tớ từng thấy biển quảng cáo này trong album ảnh... đây là đâu vậy ?
+
+- Tôi
+> - Trung tâm thương mại. Nơi đây họ từng bán mọi thứ. Có thể có rất nhiều thứ mới mẻ mà chúng ta chưa từng thấy.
+
+- Luvia
+> - Thế... đó là những thứ gì? Cậu cho tớ đi xem được không ?
+
+- Tôi
+> - Đó chính xác là những gì tớ định làm. Nhưng bên trong cửa hàng bách hóa có máy phát điện, và tớ không chắc là nó còn hoạt động hay không.
+> - Mà nếu nó còn hoạt động, chạm vào nước sẽ giật tung người. Nên bám chặt vào tớ đi, rồi hãy thật cẩn thận vào, nhé ?
+
+- Luvia
+> - Ừm... Tớ nhớ rồi.
 - Ít nhất là lúc này, vẻ mặt Luvia hiện lên sự phấn khích hiếm thấy. Cậu ấy chưa bao giờ kìm nén được sự tò mò của bản thân, đặc biệt là nơi có thể lưu giữ vô số dấu tích lịch sử.
 - Những cây cầu hỏng hóc cùng đống đổ nát tạo thành con đường dẫn đến trung tâm thương mại. Nhưng nước ở đây có vẻ sâu hơn so với trên đường. Chắc hẳn chúng tôi đã đến một khu vực thấp hơn so với thành phố.
-- Lối vào chính đã bị chặn lại.
-- Hể? Tớ tưởng nó đã bị sụp đổ…
-- Nhìn khung cửa ra vào, có vẻ còn khá nguyên vẹn. Không thể sụp đổ đến mức bịt kín lối vào như vậy được.
+
+- Tôi
+> - Lối vào chính đã bị chặn lại.
+
+- Luvia
+> - Hể? Tớ tưởng nó đã bị sụp đổ…
+
+- Tôi
+> - Nhìn khung cửa ra vào, có vẻ còn khá nguyên vẹn. Không thể sụp đổ đến mức bịt kín lối vào như vậy được.
 - Ánh mắt tôi lướt qua đống đổ nát ở lối vào chính, rồi dừng lại ở chỗ tường ngoài bị vỡ gần đó. Cao khoảng ba mét.
-- Chúng ta có thể vào bằng lối này nè.
-- Chúng mình có thể leo lên được bằng cách bám vào bức tường gồ ghề bên cạnh. Không có nước chảy ra, nên bên trong hẳn phải có không gian.
-- Cao cỡ vậy sao ?
-- Cậu muốn thử không? Để tớ đẩy cậu lên.
-- Ưm…
-- …
-- Vậy tớ sẽ thử. Tớ nghĩ là tớ sẽ làm được.
+
+- Tôi
+> - Chúng ta có thể vào bằng lối này nè.
+> - Chúng mình có thể leo lên được bằng cách bám vào bức tường gồ ghề bên cạnh. Không có nước chảy ra, nên bên trong hẳn phải có không gian.
+
+- Luvia
+> - Cao cỡ vậy sao ?
+
+- Tôi
+> - Cậu muốn thử không? Để tớ đẩy cậu lên.
+
+- Luvia
+> - Ưm…
+> - …
+> - Vậy tớ sẽ thử. Tớ nghĩ là tớ sẽ làm được.
 - Tôi đã nghĩ nếu thất bại, có lẽ bức tường sẽ bị thủng nhiều chỗ hơn.
 - Nhưng vì không thấy có dấu hiệu nào khác nguy hiểm và cậu ấy đã nói vậy, nên tôi cũng có thể tận dụng cơ hội này xem xem sức mạnh phần thân trên của cậu ta ra sao.
 - Tôi nhấc chân lên để kiểm tra độ vững rồi cẩn thận di chuyển dọc theo các phần nhô ra trên bức bên ngoài trung tâm thương mại.
 - Bề mặt bức tường làm bằng chất liệu cực kì nhẵn. Tôi phải dùng hết sức lực để thăng bằng và nhích từng bước về phía trước.
+
 - Luvia đi theo sau tôi, nhưng lại dẫm vào khoảng không và ngã thẳng xuống nước.
-- Này... trơn quá.
-- Ở yên dưới đó đi. Để tớ xem có thể leo lên trước rồi kéo cậu lên được không.
-- Cẩn thận nhé... có nhiều mảnh kính trên đó lắm.
-- Tôi không thể nhìn thấy từ đây. Chính xác là ở đâu nhỉ ?
-- Dịch sang trái một chút, khoảng hai lòng bàn tay so với khúc lõm đó mà tay trái cậu đang bám vào…
-- Tớ sẽ cố tránh. Cảm ơn cậu đã chỉ.
+
+- Luvia
+> - Này... trơn quá.
+
+- Tôi
+> - Ở yên dưới đó đi. Để tớ xem có thể leo lên trước rồi kéo cậu lên được không.
+
+- Luvia
+> - Cẩn thận nhé... có nhiều mảnh kính trên đó lắm.
+
+- Tôi
+> - Tôi không thể nhìn thấy từ đây. Chính xác là ở đâu nhỉ ?
+
+- Luvia
+> - Dịch sang trái một chút, khoảng hai lòng bàn tay so với khúc lõm đó mà tay trái cậu đang bám vào…
+
+- Tôi
+> - Tớ sẽ cố tránh. Cảm ơn cậu đã chỉ.
 - Ngay cả khi dùng gạc, cũng chẳng ai muốn làm lòng bàn tay bị thương vào lúc như này cả.
 - Chỉ có điều... chân trái tôi đột nhiên không thể bám trụ được nữa.
-- Cậu có sao không đó ?
-- Để tớ xem có khoảng trống nào dưới đó không.
+
+- Luvia
+> - Cậu có sao không đó ?
+
+- Tôi
+> - Để tớ xem có khoảng trống nào dưới đó không.
 - Tôi nghe thấy tiếng nước chảy rì rào sau lưng.
-- Chỗ đó, cái gờ chỗ cậu đang đứng bị khuyết một đoạn ở ngay phía sau, dài cỡ một cánh tay.
-- Giờ chúng ta làm gì đây…
+
+- Luvia
+> - Chỗ đó, cái gờ chỗ cậu đang đứng bị khuyết một đoạn ở ngay phía sau, dài cỡ một cánh tay.
+
+- Tôi
+> - Giờ chúng ta làm gì đây…
 - Ban đầu tôi định nhảy xuống, nhưng lỗ hổng trên tường chỉ cách đó chừng hai thân người. Gần đến thế cơ chứ, nhưng tôi sẽ phải né cái khe hở ở bên dưới và những mảnh kính vỡ ở bên trên.
 - Tôi nhoài người ra xa hết mức có thể, cố rướn tay trong tuyệt vọng để chạm tới mép tường, nhưng lại thất bại thảm hại.
-- Tớ nghĩ... khoảng cách đấy cậu có thể nhảy được.
+
+- Luvia
+> - Tớ nghĩ... khoảng cách đấy cậu có thể nhảy được.
 - Từ góc độ này tôi chỉ có thể thấy gần đúng vị trí khe hở. Sau khi Luvia bảo tôi, nên tôi quyết định thử.
+
 - Tôi lấy đà thật mạnh để nhảy trèo lên trên. Cho dù không bám vào được, thì tệ nhất cũng chỉ là ngã xuống dưới nước.
+
 - Rất may, tay tôi bám được vào điểm tựa. Tôi dùng sức nâng mình lên chỗ bị thủng và leo vào trong tòa nhà theo rãnh mà tôi bám được.
 - Nhìn lên, tôi nhận ra đây không phải là khu trung tâm thương mại công cộng, nhưng đống đổ nát trên bề mặt đã đánh dấu con đường đến một khu vực rộng lớn hơn.
 - Tôi quay lại nhìn Luvia. Thấy tôi làm được, cậu ấy lập tức bước vào bên trong bức tường, háo hức muốn thử lại lần nữa.
-- Đừng gắng quá. Tớ lo cậu sẽ bị thương ở tay. Để tớ kéo cậu lên.
-- Ok.
+
+- Tôi
+> - Đừng gắng quá. Tớ lo cậu sẽ bị thương ở tay. Để tớ kéo cậu lên.
+
+- Luvia
+> - Ok.
+
 - Cậu ấy ra hiệu, rồi nhảy ngã té xuống nước tạo ra tiếng động lớn.
+
 - Không chỉ một lần.
-- A…
-- ! Cậu ổn không đó ?
+
+- Luvia
+> - A…
+
+- Tôi
+> - ! Cậu ổn không đó ?
 - Cậu ấy gắng gượng dậy từ mặt nước.
-- Tớ vừa giẫm phải một viên gạch dưới nước…
-- Cậu có bị thương không ?!
-- Tớ nghĩ... ổn cả thôi. Chỉ đau cùi chỏ chút, ko có gì đâu.
+
+- Luvia
+> - Tớ vừa giẫm phải một viên gạch dưới nước…
+
+- Tôi
+> - Cậu có bị thương không ?!
+
+- Luvia
+> - Tớ nghĩ... ổn cả thôi. Chỉ đau cùi chỏ chút, ko có gì đâu.
 - Tôi tự vỗ đầu mình. Cậu ấy không đáng để bị đau đến vậy.
-- Cậu đứng ngay bên dưới tớ đi, để tớ kéo cậu lên, chỉ cậu lên sao cho. Nếu cậu không trèo lên ngay được, thì thử bước lên những rãnh tường này trước.
+
+- Tôi
+> - Cậu đứng ngay bên dưới tớ đi, để tớ kéo cậu lên, chỉ cậu lên sao cho. Nếu cậu không trèo lên ngay được, thì thử bước lên những rãnh tường này trước.
 - Cơn mưa ào ào trút xuống chúng tôi, vừa dịu đi lại bùng lên dữ dội.
 - Luvia nắm lấy cánh tay tôi, rồi chúng tôi leo lên bằng cả sức lực.
-- Thêm chút nữa... xíu nữa thôi…
-- Cậu cẩn thận kìa.
-- Tớ đang cố…
+
+- Luvia
+> - Thêm chút nữa... xíu nữa thôi…
+
+- Tôi
+> - Cậu cẩn thận kìa.
+
+- Luvia
+> - Tớ đang cố…
+
 - Luvia bước từng bước lên rãnh. Ngay khi tôi chuẩn bị kéo cậu ấy lên, thì cậu ta bị trượt chân rồi rơi xuống.
-- Bám chắc !!
+
+- Tôi
+> - Bám chắc !!
 - Tôi tì các ngón chân vào tường và bám chặt lấy cậu ấy bằng tất cả sức lực.
 - Tôi biết mình sẽ bị rách cơ nếu cứ kéo cậu ấy như này, nhưng không thể để cậu ý bị thương lần nữa.
+
 - Cú kéo mạnh khiến Luvia leo lên, và rồi ngón chân tôi vô tình chạm vào làm viên gạch ở góc tường rơi ra. Chúng tôi bị mất thăng bằng, cả hai rơi ngã xuống sàn ngay chỗ bức tường vỡ.
-- Đau quá... Không nghĩ là đầu tớ cũng sẽ bị va đập…
-- ... Cảm ơn cậu.
+
+- Tôi
+> - Đau quá... Không nghĩ là đầu tớ cũng sẽ bị va đập…
+
+- Luvia
+> - ... Cảm ơn cậu.
 - Bởi vì tôi đã đưa một tay ra đỡ giữa mặt của Luvia và mặt sàn.
 - Việc đó để lại một vết xước rỉ máu trên mu bàn tay tôi. Nhưng miễn sao lòng bàn tay không bị thương thì ổn cả.
 - Và... ngay cả khi cậu ta ngã ập xuống tay tôi đi chăng nữa, thì cậu ấy cũng thật sự quá nhẹ.
 - Ý tôi không phải là cậu ý nhẹ như ma hay gì. Chỉ là... cậu ấy hẳn rất yếu, thậm chí còn chẳng thấy nặng mấy cơ mà.
-- Cậu có sao không? Có muốn thử đứng dậy đi lại một chút xem sao không?
+
+- Tôi
+> - Cậu có sao không? Có muốn thử đứng dậy đi lại một chút xem sao không?
 - Cậu ý đứng dậy còn nhanh hơn cả tôi.
-- Lần này để tớ đỡ cậu dậy.
+
+- Luvia
+> - Lần này để tớ đỡ cậu dậy.
 - Khi cậu ấy nắm lấy tay tôi, tôi cố ý giấu vết thương ở mu bàn tay.
 - Đây có lẽ là lối đi vận chuyển hàng hóa. Cả hai đầu đều không thông trực tiếp với khu vực công cộng của trung tâm thương mại. May mắn là ở đây chỉ đọng một lớp nước mỏng, nên chúng ta không cần lo về những chỗ sụt lún bị che khuất. Một đầu của hành lang là cầu thang bộ ngập nước, rác rưởi trôi lềnh bềnh cạnh một chiếc thang kim loại đổ gục, cùng một vật trông như hộp dụng cụ chìm nghỉm bên dưới.
-- Mình đi lối bên kia nhé.
-- Nơi này và tòa nhà này... rất giống nhau.
-- Đó là bởi vì chúng đều ở cùng thời đại mà.
-- …Có lẽ cảnh này chính là hình dáng mà tòa nhà đó sẽ có trong tương lai.
-- Mọi người... cũng sẽ vậy…
-- Nhưng quanh đây còn chẳng có lấy xíu âm thanh từ con người kể từ lúc chúng ta đến. Có khi còn chẳng có ai sống ở đây ấy.
+
+- Tôi
+> - Mình đi lối bên kia nhé.
+
+- Luvia
+> - Nơi này và tòa nhà này... rất giống nhau.
+
+- Tôi
+> - Đó là bởi vì chúng đều ở cùng thời đại mà.
+> - …Có lẽ cảnh này chính là hình dáng mà tòa nhà đó sẽ có trong tương lai.
+
+- Luvia
+> - Mọi người... cũng sẽ vậy…
+
+- Tôi
+> - Nhưng quanh đây còn chẳng có lấy xíu âm thanh từ con người kể từ lúc chúng ta đến. Có khi còn chẳng có ai sống ở đây ấy.
 - Dù trước đây trung tâm này từng nhộn nhịp ra sao, thì nay chỉ còn là đống hoang tàn, khắp nơi.
 - Chúng tôi đi theo con đường khác dẫn lên tầng hai trung tâm, quanh đây sáng sủa hơn hẳn.
 - Nhưng không phải do ánh sáng nhân tạo. Trần nhà kính vòm của trung tâm thương mại đã bị vỡ tan, chỉ còn lại khung. Nếu trời không mưa tầm tã, ánh trăng chắc chắn sẽ chiếu xuống từ đó.
 - Chúng tôi không cần ánh trắng ấy, chẳng giúp được ai ở thế giới này đâu.
 - Ánh sáng mờ lúc này đủ để tôi nhìn thấy hàng hóa và phế liệu xây dựng trôi nổi bên dưới.
 - Nước mưa tràn vào từ mọi phía qua các khe hở ẩn khuất, đổ vào khu vực rộng lớn của tầng một. Những lon rỗng và những tấm ván mục nát trôi nổi lềnh bềnh.
-- Trong đây... sao khác bức ảnh quá.
-- Trong mấy tấm ảnh, khu trung tâm thương mại sáng lắm mà. Màu sắc rực rỡ, và có đủ loại thứ khắp mọi nơi…
-- Có lẽ trung tâm này đã từng có mọi thứ. Nhưng so sánh như vậy, hiện tại còn hoang vắng hơn nhiều.
+
+- Luvia
+> - Trong đây... sao khác bức ảnh quá.
+> - Trong mấy tấm ảnh, khu trung tâm thương mại sáng lắm mà. Màu sắc rực rỡ, và có đủ loại thứ khắp mọi nơi…
+
+- Tôi
+> - Có lẽ trung tâm này đã từng có mọi thứ. Nhưng so sánh như vậy, hiện tại còn hoang vắng hơn nhiều.
 - Luvia và tôi trò chuyện trong khi đang đi ở khu tầng hai.
 - Nước mưa chảy qua các khe hở trên tầng thượng xuống lòng chảo sâu bên dưới. Vậy... dấu vết của hoạt động con người gần đây ở đâu ?
 - Tôi vẫn không tìm được dấu hiệu nào của nền văn minh ở đây sau cơn mưa.
-- Nếu không có dấu hiệu nào của con người từng hoạt động nơi đây, tớ nghĩ sẽ có hai khả năng.
-- Ý cậu là... ?
-- Thứ nhất, nơi đây sụp đổ rất nhanh sau cơn mưa. Bởi vì-
+
+- Tôi
+> - Nếu không có dấu hiệu nào của con người từng hoạt động nơi đây, tớ nghĩ sẽ có hai khả năng.
+
+- Luvia
+> - Ý cậu là... ?
+
+- Tôi
+> - Thứ nhất, nơi đây sụp đổ rất nhanh sau cơn mưa. Bởi vì-
 - Tôi chỉ tay về phía khoảng trống to lớn phía trên.
-- Vậy là tất cả những người đang trốn trong trung tâm…
-- Thứ hai, trật tự từng tồn tại ở đây, nhưng nó đã sụp đổ nhanh chóng. Quá nhiều năm đã trôi qua, và không còn dấu vết nào nữa.
-- Sao có thể như vậy được? Ở đây có nhiều đồ dùng hơn cả trong tòa nhà, thậm chí còn có rất nhiều thiết bị gia dụng…
-- Ngay cả với những máy phát điện lớn. Vậy cuối cùng điều gì đã xảy ra với người dân ở đây?
-- Nấm đen đã mọc bên trong máy giặt…
-- Có lẽ trong số chúng sẽ ăn được.
-- Ơ mà... đống nấm đen đó? Đen nhưng mà vẫn phát sáng…
-- ...Hả? Phát sáng á? Thế thì tốt nhất đừng động vào.
+
+- Luvia
+> - Vậy là tất cả những người đang trốn trong trung tâm…
+
+- Tôi
+> - Thứ hai, trật tự từng tồn tại ở đây, nhưng nó đã sụp đổ nhanh chóng. Quá nhiều năm đã trôi qua, và không còn dấu vết nào nữa.
+
+- Luvia
+> - Sao có thể như vậy được? Ở đây có nhiều đồ dùng hơn cả trong tòa nhà, thậm chí còn có rất nhiều thiết bị gia dụng…
+
+- Tôi
+> - Ngay cả với những máy phát điện lớn. Vậy cuối cùng điều gì đã xảy ra với người dân ở đây?
+
+- Luvia
+> - Nấm đen đã mọc bên trong máy giặt…
+
+- Tôi
+> - Có lẽ trong số chúng sẽ ăn được.
+
+- Luvia
+> - Ơ mà... đống nấm đen đó? Đen nhưng mà vẫn phát sáng…
+
+- Tôi
+> - ...Hả? Phát sáng á? Thế thì tốt nhất đừng động vào.
 - Chúng tôi đi đến cầu thang chính rộng lớn và bước xuống cho đến khi chỉ còn một bậc nữa là xuống nước. Tôi nhặt một lon kim loại tròn nổi đến chân mình.
 - Hình ảnh trên đó đã phai mờ từ lâu, nhưng khi xoay nó trong tay, tôi vẫn thấy một từ trên đó.
 - Thịt.
 - Chả cần biết có gì khác. Chỉ cần thấy chữ đó, vậy là ngon rồi.
-- Luvia, đây không phải nấm đâu.
-- C-có ăn được không ?
-- Không phải cái lon, mà là bên trong nó.
+
+- Tôi
+> - Luvia, đây không phải nấm đâu.
+
+- Luvia
+> - C-có ăn được không ?
+
+- Tôi
+> - Không phải cái lon, mà là bên trong nó.
 - Tôi cố gắng kéo cái lon nắp ra, nhưng quá cũ nên cái lẫy gãy rời kêu "tách" một phát.
 - Bất lực vc, tôi tìm thấy một chiếc tua vít gần đó và cạy nắp ra.
 - Bên trong, những miếng thịt màu nâu sẫm ngấm dầu tỏa ra một mùi thơm hấp dẫn.
-- Thật luôn kìa... thịt chính hiệu luôn.
+
+- Tôi
+> - Thật luôn kìa... thịt chính hiệu luôn.
 - Một nguyên liệu quý giá nên chúng tôi chỉ được lấy một phần nhỏ để cho vào súp nấm trong các dịp lễ hội, giờ đây lại nằm im lìm trong một chiếc lon kim loại, trôi nổi trên mặt nước, chưa ai lụm.
-- Cái mùi này... nồng ghê. Có chắc ăn được không đấy ?
-- Cậu thử xem. Bình thường cậu có muốn cũng không có đâu.
+
+- Luvia
+> - Cái mùi này... nồng ghê. Có chắc ăn được không đấy ?
+
+- Tôi
+> - Cậu thử xem. Bình thường cậu có muốn cũng không có đâu.
 - Sau khi nghe tôi nói, Luvia dứt khoát lấy một miếng, cau mày, cho vào mồm.
 - Chẳng mấy chốc, vầng trán nhăn nhó của cô ấy giãn ra.
-- Nó... ngon quá đi mất! Không như những gì chúng ta từng ăn trước đó…
+
+- Luvia
+> - Nó... ngon quá đi mất! Không như những gì chúng ta từng ăn trước đó…
 - Tôi cũng không nhịn được, vứt cây tua vít trong tay ra, rửa tay cho hết bùn lấm bằng nước mưa, rồi cho một miếng vào mồm.
-- ...! Ôi miếng thịt…
+
+- Tôi
+> - ...! Ôi miếng thịt…
 - Khác với thịt khô thông thường, loại này mềm tan trong miệng, có mùi thơm dầu đậm đà và gia vị hoàn toàn lạ lẫm.
-- Con người thời xưa chắc là ăn cái này mỗi ngày luôn ấy…
-- Họ hẳn phải rất tài giỏi mới có thể bảo quản được những thứ như thế này. Và ngay cả sau ngần ấy thời gian, nó vẫn ngon đến thế…
-- Ừ... Thật đáng tiếc là họ vẫn không thể làm gì được với cơn mưa bên ngoài.
+
+- Tôi
+> - Con người thời xưa chắc là ăn cái này mỗi ngày luôn ấy…
+
+- Luvia
+> - Họ hẳn phải rất tài giỏi mới có thể bảo quản được những thứ như thế này. Và ngay cả sau ngần ấy thời gian, nó vẫn ngon đến thế…
+
+- Tôi
+> - Ừ... Thật đáng tiếc là họ vẫn không thể làm gì được với cơn mưa bên ngoài.
 - Tôi từ từ ngẩng đầu nhìn lên bầu trời đang tối dần. Những đám mây dày đặc che kín ánh trăng.
 - Nhưng lúc này tôi vẫn thấy vui. Đúng như dự đoán, trung tâm thương mại có đầy đủ những vật dụng cần thiết, và chúng tôi có được chúng rất dễ dàng.
 - Hiện tại, việc ở lại đây đồng nghĩa với việc không gặp phải vấn đề cấp bách về thức ăn hoặc chỗ ở.
 - Chỉ là... mùa mưa sắp đến rồi. Và cái lạnh mùa đông sẽ giết chết chúng ta.
 - Trước lúc đó, tôi cần xem xem nên đi đâu tiếp.
 - Luvia và tôi ngấu nghiến hết đồ hộp một cách nhanh chóng. Dù biết vẫn còn nhiều đồ hộp khác, chúng tôi vẫn liếm sạch từng chút dầu mỡ trên tay.
-- Chúng mình hãy ở lại đây đêm nay trước đã. Tìm một phòng làm việc ở tầng trên đi.
-- Bên ngoài thế giới rộng lớn, cảm giác vô tận. Bên trong tòa nhà, chỉ có một phòng dụng cụ bé nhỏ.
-- Dù bên ngoài có rất nhiều nơi khác hẳn trong ảnh…
-- Cơ mà tớ nghĩ tớ hiểu rồi. Chính vì thế giới không giống như trong ảnh nên điều đó càng khiến tớ thấy thu hút hơn.
-- Bởi vì... mỗi một bước đi có thể mở ra một thứ gì đó mới.
-- Có lẽ việc tớ còn sống ở đây cũng có ý nghĩa riêng. Tớ có thể biết cả thế giới cũ và thế giới hiện tại.
-- Sự kết thúc của thế giới này... cuối cùng, chỉ có hai chúng ta chứng kiến điều đó…
-- Tớ cũng thấy vui lắm, Luvia à. Chúng ta cùng nhau chạy thoát, và cuộc sống phía trước là điều mà bọn họ sẽ không bao giờ có được.
-- Tuy nhiên... giờ đã có hai trường hợp ngoại lệ như chúng mình, tớ tự hỏi liệu còn có những trường hợp khác tương tự như vậy nữa không.
-- Nếu vậy, chúng ta phải đi tìm họ.
-- Bởi vì... người đó cũng như chúng mình, mọi người xung quanh không thể nào hiểu được.
+
+- Tôi
+> - Chúng mình hãy ở lại đây đêm nay trước đã. Tìm một phòng làm việc ở tầng trên đi.
+
+- Luvia
+> - Bên ngoài thế giới rộng lớn, cảm giác vô tận. Bên trong tòa nhà, chỉ có một phòng dụng cụ bé nhỏ.
+> - Dù bên ngoài có rất nhiều nơi khác hẳn trong ảnh…
+> - Cơ mà tớ nghĩ tớ hiểu rồi. Chính vì thế giới không giống như trong ảnh nên điều đó càng khiến tớ thấy thu hút hơn.
+> - Bởi vì... mỗi một bước đi có thể mở ra một thứ gì đó mới.
+> - Có lẽ việc tớ còn sống ở đây cũng có ý nghĩa riêng. Tớ có thể biết cả thế giới cũ và thế giới hiện tại.
+> - Sự kết thúc của thế giới này... cuối cùng, chỉ có hai chúng ta chứng kiến điều đó…
+
+- Tôi
+> - Tớ cũng thấy vui lắm, Luvia à. Chúng ta cùng nhau chạy thoát, và cuộc sống phía trước là điều mà bọn họ sẽ không bao giờ có được.
+> - Tuy nhiên... giờ đã có hai trường hợp ngoại lệ như chúng mình, tớ tự hỏi liệu còn có những trường hợp khác tương tự như vậy nữa không.
+
+- Luvia
+> - Nếu vậy, chúng ta phải đi tìm họ.
+> - Bởi vì... người đó cũng như chúng mình, mọi người xung quanh không thể nào hiểu được.
+
 - Đêm đó, Luvia cùng tôi nằm ngủ quay lưng vào nhau.
 - Trong giấc mơ, tôi lại gặp chính bản thân lần nữa.
+
 - Một ngày mới, ánh nắng chói chang, những chú chim hót líu lo, những bông hoa tranh nhau đua nở-
+
 - Cứ như vậy. Thêm nữa, khi tôi mở mắt ra, không hiểu sao tôi lại lăn vào gầm cửa sổ bị rò rỉ và ướt sũng hết cả người.
-- Cậu dậy rồi sao ?
-- Ưm... tớ dậy đi tắm nước lạnh ?
-- Tớ vừa đi dạo quanh khu vực gần đó một chút.
+
+- Luvia
+> - Cậu dậy rồi sao ?
+
+- Tôi
+> - Ưm... tớ dậy đi tắm nước lạnh ?
+
+- Luvia
+> - Tớ vừa đi dạo quanh khu vực gần đó một chút.
 - Quả thật vậy. Khi tôi mở mắt ra, Luvia đang đứng không xa tôi mấy, cầm cuốn cẩm nang về các loài hoa và bình tĩnh quan sát tôi.
 - Cậu ấy đã quan sát mình như vậy bao lâu rồi...? Từ lúc tỉnh dậy, hay là trước đó nữa…
 - Liếc từ đôi mắt to của cô ấy sang góc phòng. Có một tháp lon xếp thành hình tam giác, chồng lên như những khối đồ chơi, còn ai vào đây nữa.
-- Cậu... đi ra ngoài ?
-- Tớ muốn biết liệu có dấu vết nào cho thấy có ai khác từng sống ở đây hay không.
-- Ừm... nhưng tớ chỉ tìm được thêm nhiều lon đồ hộp nữa.
+
+- Tôi
+> - Cậu... đi ra ngoài ?
+
+- Luvia
+> - Tớ muốn biết liệu có dấu vết nào cho thấy có ai khác từng sống ở đây hay không.
+> - Ừm... nhưng tớ chỉ tìm được thêm nhiều lon đồ hộp nữa.
 - Cậu ấy tự mình đi mà không hề bảo tôi…
 - Nhưng kết quả mang lại cũng ổn, nên tôi không nên trách cô ấy vì đã đi một mình.
-- Cậu có bị đau đâu không ?
-- Tớ không sao. Mấy vết thương trên chân tớ đã đóng vảy rồi.
+
+- Tôi
+> - Cậu có bị đau đâu không ?
+
+- Luvia
+> - Tớ không sao. Mấy vết thương trên chân tớ đã đóng vảy rồi.
 - Cậu ấy cứ nhìn chằm chằm vào mặt tôi.
-- Không thấy có dấu vết nào đâu... đúng không.
-- Ờm, máy phát điện hỏng rồi.
+
+- Tôi
+> - Không thấy có dấu vết nào đâu... đúng không.
+
+- Luvia
+> - Ờm, máy phát điện hỏng rồi.
 - Tôi biết mà.
 - Nhưng cậu ý lại tìm thấy một máy phát điện...? Cậu ấy đã tự mình đi sâu vào khu vực hẻo lánh đến mức nào vậy?
-- Ưm…
-- Hử ?
-- Có cái túi dính trên mặt cậu kìa.
-- A, tớ thấy rồi.
+
+- Luvia
+> - Ưm…
+
+- Tôi
+> - Hử ?
+
+- Luvia
+> - Có cái túi dính trên mặt cậu kìa.
+
+- Tôi
+> - A, tớ thấy rồi.
 - Thảo nào cậu ấy cứ nhìn chằm chằm vào mặt tôi. Tôi đưa tay hướng cô ấy chỉ và gỡ chiếc túi nhựa bị mắc kẹt ở đó ra.
-- Hôm qua tớ chỉ ăn thịt mà quên mất. Đây là sự trả thù.
-- Chúng cũng thật đáng thương, bị bỏ rơi ở đây để thối rữa dần dần. Chúng vốn dĩ được định sẵn để ăn thịt.
-- Ai mà biết được bao nhiêu thứ đã bị bỏ hoang hoàn toàn sau cơn mưa... không thể dám chắc được, nhiều thứ đã biến mất rồi.
+
+- Tôi
+> - Hôm qua tớ chỉ ăn thịt mà quên mất. Đây là sự trả thù.
+
+- Luvia
+> - Chúng cũng thật đáng thương, bị bỏ rơi ở đây để thối rữa dần dần. Chúng vốn dĩ được định sẵn để ăn thịt.
+
+- Tôi
+> - Ai mà biết được bao nhiêu thứ đã bị bỏ hoang hoàn toàn sau cơn mưa... không thể dám chắc được, nhiều thứ đã biến mất rồi.
+
 - Tôi vắt nước từ gấu áo trong khi đứng quan sát bên ngoài. Với cơn mưa không ngớt, ít nhất thì đường phố vẫn còn nhìn thấy được.
 - Nhiều phương tiện nằm ngổn ngang trong nước, chỉ một nửa lộ ra ngoài. Những đống rác thải nhựa nhỏ chất đống gần đống đổ nát ở phía xa.
 - Phóng tầm mắt nhìn ra, ngoài một số ít cây cối và hoa cỏ mọc um tùm hỗn loạn, không còn bất kỳ vật chất hữu cơ nào chưa bị phân hủy.
-- Cậu nghỉ ngơi thế nào rồi ?
-- Tớ thấy ổn…
-- Hôm nay chúng mình sẽ lấy địa điểm này làm căn cứ và tìm kiếm ở con phố kế bên.
+
+- Tôi
+> - Cậu nghỉ ngơi thế nào rồi ?
+
+- Luvia
+> - Tớ thấy ổn…
+
+- Tôi
+> - Hôm nay chúng mình sẽ lấy địa điểm này làm căn cứ và tìm kiếm ở con phố kế bên.
 - Con phố không biết tên phía bên kia khu trung tâm.
 - Tôi đã kiểm tra kỹ lưỡng tối qua. Cả hai đầu con phố mà chúng tôi đã đi qua đều không có đèn, có nghĩa là việc tiến triển thêm ở đó có lẽ sẽ không mang lại kết quả gì.
+
 - Sau khi cùng nhau ăn hết một hộp cá tuyết, no căng bụng và tràn đầy năng lượng, Luvia và tôi bắt đầu tìm kiếm những con phố gần đó.
 - Luvia thỉnh thoảng dừng lại để quan sát các tòa nhà xung quanh. Có lẽ cậu ấy đang tìm xem có nơi nào giống như trong những bức ảnh mà cậu ý nhớ.
 - Các tòa nhà trung tâm thành phố ngày càng san sát nhau hơn. Khu vực ấy được xây dựng ở nơi thấp hơn, vùng nước đọng ngày càng sâu đến nỗi chúng tôi phải đi trên nóc xe ô tô.
@@ -962,65 +1747,125 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Trước đây họ từng buôn bán hàng hóa với người ngoài, vì vậy theo logic thì trong vòng mười kilomet chắc chắn phải có những nơi trú ẩn khác.
 - Nếu chúng ta tìm thấy dù chỉ một nơi khá hơn tòa nhà này, thì có thể đánh giá mức độ hỗ trợ đáng tin cậy mà chúng ta có thể nhận được trong hành trình này.
 - Sau một hồi chả biết đã được bao lâu, khi bầu trời chuyển từ màu xám sáng sang màu tối hơn, tôi mới nhận ra là bỏ lỡ bữa trưa mất rồi.
-- Chúng mình đã vào hầu hết các tòa nhà lân cận rồi. Chẳng có tìm được gì ngon nghẻ cả.
-- Lẽ nào chúng ta là những người cuối cùng còn lại trong khu vực này sao...?
-- Có thể lắm, nhưng tớ không chắc.
+
+- Tôi
+> - Chúng mình đã vào hầu hết các tòa nhà lân cận rồi. Chẳng có tìm được gì ngon nghẻ cả.
+
+- Luvia
+> - Lẽ nào chúng ta là những người cuối cùng còn lại trong khu vực này sao...?
+
+- Tôi
+> - Có thể lắm, nhưng tớ không chắc.
 - Mưa phùn lất phất kèm gió lạnh. Dưới mái nhà đồ sộ của một thư viện đối diện tòa thị chính, Luvia cùng tôi ngồi dưới mưa, cùng nhau ăn thịt hộp.
-- Chúng ta đã đi khá xa rồi mà, tớ không hiểu, nhóm của Robert phải để lại vài dấu vết chứ nhỉ.
-- Nay vẻ mặt cậu có vẻ nghiêm trọng hơn hôm qua…
-- Vậy hả? Xin lỗi cậu, tớ không để ý... có lẽ do nay tớ căng thẳng quá.
-- Nếu cậu thấy mệt, vậy chúng mình ở lại đây hai đêm để ổn định lại tinh thần đi.
-- Tớ sợ cậu sẽ bị thương mất.
+
+- Tôi
+> - Chúng ta đã đi khá xa rồi mà, tớ không hiểu, nhóm của Robert phải để lại vài dấu vết chứ nhỉ.
+
+- Luvia
+> - Nay vẻ mặt cậu có vẻ nghiêm trọng hơn hôm qua…
+
+- Tôi
+> - Vậy hả? Xin lỗi cậu, tớ không để ý... có lẽ do nay tớ căng thẳng quá.
+
+- Luvia
+> - Nếu cậu thấy mệt, vậy chúng mình ở lại đây hai đêm để ổn định lại tinh thần đi.
+> - Tớ sợ cậu sẽ bị thương mất.
 - Mắt tôi dừng lại nhìn những cây nấm phát sáng trong một góc tối bên dưới mép mái nhà bị sập.
-- Nấm kìa…
-- Ưm, và ở... một chỗ nào đó tối om.
-- À cậu còn nhớ không? Cái tấm ảnh cậu từng đưa tớ, có một bức chụp cách đây không lâu.
-- Ừm, có vài tấm được chụp gần đây.
-- Trong bức ảnh... mà có một cái hộp rất dài chứa nhiều người bên trong ấy.
-- Một nơi tối tối trông chẳng giống bên trong tòa nhà.
-- Không ở trong tòa nhà... còn tối hơn cả trong nhà ?
+
+- Luvia
+> - Nấm kìa…
+> - Ưm, và ở... một chỗ nào đó tối om.
+> - À cậu còn nhớ không? Cái tấm ảnh cậu từng đưa tớ, có một bức chụp cách đây không lâu.
+
+- Tôi
+> - Ừm, có vài tấm được chụp gần đây.
+
+- Luvia
+> - Trong bức ảnh... mà có một cái hộp rất dài chứa nhiều người bên trong ấy.
+> - Một nơi tối tối trông chẳng giống bên trong tòa nhà.
+
+- Tôi
+> - Không ở trong tòa nhà... còn tối hơn cả trong nhà ?
 - Ánh mắt tôi lại hướng về những cây nấm phát sáng kia.
-- Hiểu rồi. Từ giờ trở đi, chúng mình sẽ chú ý đến bất kỳ lối đi nào dẫn xuống phía dưới chân mình.
-- Dẫn xuống... phía dưới chân? Ý cậu là dưới lòng đất hả ?
-- Chuẩn rồi. Khu này mực nước ngày càng sâu, nên tớ không bỏ qua khả năng này được. Một nơi mà có thể hoàn toàn tránh mưa đang nằm dưới lòng đất.
+
+- Tôi
+> - Hiểu rồi. Từ giờ trở đi, chúng mình sẽ chú ý đến bất kỳ lối đi nào dẫn xuống phía dưới chân mình.
+
+- Luvia
+> - Dẫn xuống... phía dưới chân? Ý cậu là dưới lòng đất hả ?
+
+- Tôi
+> - Chuẩn rồi. Khu này mực nước ngày càng sâu, nên tớ không bỏ qua khả năng này được. Một nơi mà có thể hoàn toàn tránh mưa đang nằm dưới lòng đất.
 - Tôi bỗng hiểu ra rồi nhìn xung quanh những tòa nhà cao tầng đổ nát.
 - Khu trung tâm thành phố từng có một tàu điện ngầm rộng rãi. Có thể bên dưới đó có một khu vực rất rộng tương đối an toàn khi trời mưa.
 - Không may là, ba lối vào khu vực tàu điện ngầm tìm được đều sập hoàn toàn. Chả hiểu sao, nhưng mà nó còn bị sập kinh hơn cả mất tòa nhà gần đó.
 - Bên cạnh đó, chúng tôi tìm thấy một cái giếng được đặt trên một bậc thềm cao trông như khu vực bãi đỗ xe, ngay phía trên mực nước.
-- Có khi nào là do có ai đang giấu nguyên một nơi ngầm dưới đó chăng ?
-- Tớ cũng nghĩ vậy.
-- Chúng ta đồng ý nhanh vậy, thế thì là vậy rồi.
+
+- Tôi
+> - Có khi nào là do có ai đang giấu nguyên một nơi ngầm dưới đó chăng ?
+
+- Luvia
+> - Tớ cũng nghĩ vậy.
+
+- Tôi
+> - Chúng ta đồng ý nhanh vậy, thế thì là vậy rồi.
 - Vậy nên chúng tôi không đi theo con đường thông thường nữa, vì cái giếng vừa được tìm thấy đó.
 - Trung tâm thành phố? Một bãi đậu xe ven đường với một cái giếng thẳng đứng, để làm gì?
 - Luvia và tôi lội nước lại gần cái giếng. Mặc dù được thiết kế như một bãi đậu xe ngoài trời, nhưng có một tấm bạt che mưa trên đó.
-- Nhìn thế nào thì, tớ thấy cũng kì lạ ghê.
+
+- Tôi
+> - Nhìn thế nào thì, tớ thấy cũng kì lạ ghê.
 - Chúng tôi đi đến giếng và nhìn vào bên trong, thấy một cái thang trên thành giếng.
-- Luvia, đêm nay chúng mình không quay lại trung tâm thương mại đâu.
-- Tớ sẵn sàng rồi.
-- Tớ cũng vậy, cậu chờ trên này nhé. Để tớ xem có an toàn không, rồi cậu trèo xuống. Nha ?
-- Tớ sẽ đợi cậu.
+
+- Tôi
+> - Luvia, đêm nay chúng mình không quay lại trung tâm thương mại đâu.
+
+- Luvia
+> - Tớ sẵn sàng rồi.
+
+- Tôi
+> - Tớ cũng vậy, cậu chờ trên này nhé. Để tớ xem có an toàn không, rồi cậu trèo xuống. Nha ?
+
+- Luvia
+> - Tớ sẽ đợi cậu.
+
 - Tôi quan sát lại xung quanh một lần nữa, chắc chắn không có ai ở gần đó, đưa lá thư tôi giữ trong túi cho Luvia, rồi quay người và trèo xuống giếng.
 - Không khí nồng nặc mùi ẩm mốc. Dù tôi tiếp tục đi xuống nhưng vẫn không thể nhìn thấy đáy; chỉ có khoảng trống sáng phía trên cứ thế thu hẹp dần.
 - Có lẽ việc để Luvia ở trên đó một mình thực sự là một ý kiến tồi. Tôi hét tên Luvia lên trên.
 - Một lúc sau, cậu ấy trả lời.
-- Tớ chưa xuống đến đáy đây, nhưng sớm thôi! Tớ sẽ không thể gọi cậu đâu !
+
+- Tôi
+> - Tớ chưa xuống đến đáy đây, nhưng sớm thôi! Tớ sẽ không thể gọi cậu đâu !
 - Luvia trả lời lần nữa. Ánh sáng trên đầu gần che khuất. Tôi biết Luvia cũng đã trèo vào trong giếng rồi.
 - Cảm thấy có hơi tội lỗi. Chỉ là, tôi để Luvia cầm lá thưa của Susan, cậu ấy còn đang cầm cuốn cẩm nang về hoa, khiến cho việc leo thang của cậu ý khó khăn hơn tôi nhiều.
 - Tôi không biết đã leo xuống được bao lâu rồi, cũng may là khoảng cách của Luvia đã gần tôi.
-- Tay tớ... mỏi quá đi mất.
-- Bề mặt cầu thang càng xuống sâu thì càng khô, và không khí bên dưới cũng bớt ẩm ướt hơn. Chắc chắn là có người sống ở dưới đó.
+
+- Luvia
+> - Tay tớ... mỏi quá đi mất.
+
+- Tôi
+> - Bề mặt cầu thang càng xuống sâu thì càng khô, và không khí bên dưới cũng bớt ẩm ướt hơn. Chắc chắn là có người sống ở dưới đó.
 - Tôi không để ý xem thang có bị gián đoạn giữa chừng hay không, nhưng khi ánh sáng từ trên cao gần như không còn chiếu tới được nữa, ánh sáng lại chiếu xuống từ phía dưới.
 - Sau một quãng đường dài không xác định, tôi đã đặt chân lên mặt đất vững chắc.
 - Gần như không có nước đọng luôn, khiến tôi cảm thấy lạ lẫm.
 - Nền khô, tường khô, trần khô. Cảm giác nó lạ lắm.
+
 - Luvia xuống tới nơi sau hơn hai mươi giây. Tôi đỡ lấy cậu ấy, rồi cậu ý loạng choạng, vịn vào tường để giữ thăng bằng.
-- Mệt... quá…
-- Có ánh sáng đằng trước kìa, là ánh sáng điện đó.
-- Mọi người thật sự... sống ở đây.
+
+- Luvia
+> - Mệt... quá…
+
+- Tôi
+> - Có ánh sáng đằng trước kìa, là ánh sáng điện đó.
+
+- Luvia
+> - Mọi người thật sự... sống ở đây.
 - Nói "Mọi người sống ở đây" không hẳn chính xác. Nơi này trông giống như một hành lang bảo trì, với các đường ống và hộp kim loại nằm rải rác khắp các bức tường.
 - Nhưng chỉ riêng điều đó thôi đã chứng minh nơi này sử dụng công nghệ công nghiệp. Mọi chuyện không hề đơn giản vậy.
-- Tớ không biết họ có thù địch với chúng ta hay không, vì chúng mình mới chỉ vác xác xuống được đây.
-- Di chuyển cẩn thận nha, cố gắng đi gần tớ khoảng mười mét. Nếu có ai xuất hiện, đừng lại gần.
+
+- Tôi
+> - Tớ không biết họ có thù địch với chúng ta hay không, vì chúng mình mới chỉ vác xác xuống được đây.
+> - Di chuyển cẩn thận nha, cố gắng đi gần tớ khoảng mười mét. Nếu có ai xuất hiện, đừng lại gần.
 - Luvia gật đầu và thận trọng nấp vào góc hành lang trước.
 - Tôi nhìn về phía ánh sáng huỳnh quang ở phía xa và cuối cùng cũng bước một bước về phía trước.
 
@@ -1030,7 +1875,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 <VnPlayer episode="main_story_2_3" title="2.3" />
 
-- Đứng lại bọn kia! Chúng mày là ai ?!
+- Solara
+> - Đứng lại bọn kia! Chúng mày là ai ?!
 - Một luồng ánh sáng chói lóa bất ngờ xuất hiện từ phía sau góc hành lang.
 - Tôi nhìn về phía ánh sáng. Tôi nghe thấy hai tiếng bước chân.
 
@@ -1038,50 +1884,111 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 <template #branch-0>
 
-- Nói! Bọn mày là ai, và đến từ đâu ?! Nếu không bọn mày sẽ bị ném ra khỏi đây!
+- Solara
+> - Nói! Bọn mày là ai, và đến từ đâu ?! Nếu không bọn mày sẽ bị ném ra khỏi đây!
 - Trước khi tôi kịp phản ứng, luồng ánh sáng đó đã chiếu thẳng vào tôi và Luvia.
-- Chúng tôi chỉ đang đi lang thang bên ngoài, cố gắng tìm chỗ trú mưa. Chúng tôi vào đây một cách tình cờ!
-- Vô tình ư? Ngươi thậm chí còn không có đồ chống mưa, mà lại gọi đó là vô tình sao?! Lần trước bọn xâm nhập từ Pingchenbu cũng nói y như vậy!
-- Ping cái gì bu cơ.. ?
-- Chị ơi, họ có gì đó đáng ngờ lắm. Em nghĩ họ chắc chắn là gián điệp…
-- Chúng tôi không phải gián điệp. Chúng tôi là những người tị nạn từ một tòa nhà ở khu trên.
-- Solara, chúng ta đâu cần hung hăng như vậy. Nhìn họ xem, trông rất cần chúng ta giúp đỡ đấy ?
-- Nhưng! Chị…
+
+- Tôi
+> - Chúng tôi chỉ đang đi lang thang bên ngoài, cố gắng tìm chỗ trú mưa. Chúng tôi vào đây một cách tình cờ!
+
+- Solara
+> - Vô tình ư? Ngươi thậm chí còn không có đồ chống mưa, mà lại gọi đó là vô tình sao?! Lần trước bọn xâm nhập từ Pingchenbu cũng nói y như vậy!
+
+- Tôi
+> - Ping cái gì bu cơ.. ?
+
+- Solara
+> - Chị ơi, họ có gì đó đáng ngờ lắm. Em nghĩ họ chắc chắn là gián điệp…
+
+- Tôi
+> - Chúng tôi không phải gián điệp. Chúng tôi là những người tị nạn từ một tòa nhà ở khu trên.
+
+- Selene
+> - Solara, chúng ta đâu cần hung hăng như vậy. Nhìn họ xem, trông rất cần chúng ta giúp đỡ đấy ?
+
+- Người có tên là Solara
+> - Nhưng! Chị…
 - Đến lúc tôi hiểu chuyện gì đang xảy ra, thì một người cao hơn đã bắt chuyện với người vừa mới quát tháo chúng tôi.
-- Em quên mình hứa như nào rồi hả? Thấy người cần giúp thì không được làm ngơ.
-- Họ có thể là gián điệp, nhưng mà trước đấy, họ cũng từng là những người sống sót như chúng ta.
-- Nhưng mà hội đồng sẽ…
-- Solara không thực sự sợ bị đổ lỗi, đúng không? Không sao, chị sẽ chịu trách nhiệm.
-- ...Ờ, rồi, rồi. Em nghe chị.
+
+- Người được gọi là chị gái
+> - Em quên mình hứa như nào rồi hả? Thấy người cần giúp thì không được làm ngơ.
+> - Họ có thể là gián điệp, nhưng mà trước đấy, họ cũng từng là những người sống sót như chúng ta.
+
+- Người có tên là Solara
+> - Nhưng mà hội đồng sẽ…
+
+- Người được gọi là chị gái
+> - Solara không thực sự sợ bị đổ lỗi, đúng không? Không sao, chị sẽ chịu trách nhiệm.
+
+- Người có tên là Solara
+> - ...Ờ, rồi, rồi. Em nghe chị.
 - Ánh sáng chói lóa dịu dần, và cuối cùng tôi cũng có thể nhìn rõ hình dáng của họ.
-- Xin lỗi, chúng tôi hơi thất lễ rồi.
-- Vậy tôi xin phép giới thiệu bản thân. Tôi là Selene, một trong những quản trị viên ở đây.
-- Còn người trông có vẻ dữ dằn này là em gái tôi, Solara.
-- …
+
+- Người được gọi là chị gái
+> - Xin lỗi, chúng tôi hơi thất lễ rồi.
+
+- Selene
+> - Vậy tôi xin phép giới thiệu bản thân. Tôi là Selene, một trong những quản trị viên ở đây.
+> - Còn người trông có vẻ dữ dằn này là em gái tôi, Solara.
+
+- Solara
+> - …
 - Solara cứ cảnh giác nhìn chằm chằm vào tôi, sao không phải là Luvia mà lại là tôi? Vì Luvia nhìn trông ít đáng sợ hơn chăng ?
-- Chúng mình cuối cùng cũng tìm thấy người khác rồi !
+
+- Luvia
+> - Chúng mình cuối cùng cũng tìm thấy người khác rồi !
 - Luvia hào hứng chạy đến chỗ Solara và quan sát với vẻ tò mò.
-- ...? Ê, ngươi đang làm cái gì thế hả ?!
-- Ta cảnh báo ngươi, ta có thể gọi bảo vệ ngay và luôn đấy…
+
+- Solara
+> - ...? Ê, ngươi đang làm cái gì thế hả ?!
+> - Ta cảnh báo ngươi, ta có thể gọi bảo vệ ngay và luôn đấy…
 - Luvia sau đó tiến đến chỗ Selene và cũng quan sát cô ấy một cách kỹ lưỡng.
-- Chính xác thì ngươi đang làm trò gì thế hả... có cái gì mà nhìn ở đó? Chưa thấy có người đang sống bao giờ hay sao ?
-- Trời, sao thế ?
-- Quần áo của bạn... khác chúng tôi quá.
-- Dĩ nhiên chúng tôi khác với những kẻ thô lỗ... người ngoài như các ngươi rồi. Quá rõ ràng còn gì nữa ?
-- Nếu bạn muốn ở nơi trú ẩn này, bạn có thể mặc quần áo giống chúng tôi đó.
-- Ở sao? Vậy là các bạn sống ở khu vực dưới lòng đất…
-- Ưm. Đúng vậy, và cả những người khác nữa.
+
+- Solara
+> - Chính xác thì ngươi đang làm trò gì thế hả... có cái gì mà nhìn ở đó? Chưa thấy có người đang sống bao giờ hay sao ?
+
+- Selene
+> - Trời, sao thế ?
+
+- Luvia
+> - Quần áo của bạn... khác chúng tôi quá.
+
+- Solara
+> - Dĩ nhiên chúng tôi khác với những kẻ thô lỗ... người ngoài như các ngươi rồi. Quá rõ ràng còn gì nữa ?
+
+- Selene
+> - Nếu bạn muốn ở nơi trú ẩn này, bạn có thể mặc quần áo giống chúng tôi đó.
+
+- Luvia
+> - Ở sao? Vậy là các bạn sống ở khu vực dưới lòng đất…
+
+- Selene
+> - Ưm. Đúng vậy, và cả những người khác nữa.
 - Selene chỉ vào một tấm biển kim loại nhỏ, không mấy nổi bật bên cạnh cô. Trên đó có viết vài dòng chữ.
 - "Arcadia".
-- Nơi đây là một xã hội lý tưởng nằm sâu dưới lòng thành phố, một xã hội thứ hai luôn vận hành không ngừng.
-- Xã hội…
+
+- Selene
+> - Nơi đây là một xã hội lý tưởng nằm sâu dưới lòng thành phố, một xã hội thứ hai luôn vận hành không ngừng.
+
+- Luvia
+> - Xã hội…
 - Cái từ đó không chỉ Luvia thấy lạ, ngay cả tôi cũng thế.
-- Ra vậy... thế thì, có nghĩa là bạn cũng có thể cho chúng mình sống ở đây hả ?
-- Đương nhiên rồi.
-- Tuy nhiên, sẽ tốt hơn nếu bạn đi cùng chúng tôi để hoàn tất các thủ tục nhập cảnh.
-- Arcadia...? Hình như tôi từng thấy từ này đâu đó. Gia đình mọi người có ở đây qua bao thế hệ không ?
-- Đúng thế, nơi này chính là nhà ở cho bao thế hệ chúng tôi rồi.
-- Thậm chí còn có cả một cái tên tử tế nữa…
+
+- Luvia
+> - Ra vậy... thế thì, có nghĩa là bạn cũng có thể cho chúng mình sống ở đây hả ?
+
+- Selene
+> - Đương nhiên rồi.
+> - Tuy nhiên, sẽ tốt hơn nếu bạn đi cùng chúng tôi để hoàn tất các thủ tục nhập cảnh.
+
+- Tôi
+> - Arcadia...? Hình như tôi từng thấy từ này đâu đó. Gia đình mọi người có ở đây qua bao thế hệ không ?
+
+- Selene
+> - Đúng thế, nơi này chính là nhà ở cho bao thế hệ chúng tôi rồi.
+
+- Tôi
+> - Thậm chí còn có cả một cái tên tử tế nữa…
 - Tòa nhà tôi từng sinh sống còn chẳng bao giờ có tên, mọi người chỉ gọi là "tòa nhà".
 - Trên đường đi, Selene hỏi tại sao chúng tôi không ngủ thiếp đi dù bị dính mưa.
 - Chúng tôi không thể đưa ra câu trả lời chắc chắn, nhưng qua biểu cảm của cô ấy, rõ ràng là cô ấy đã rút ra được điều gì đó đáng chú ý từ lời giải thích ngắn gọn của chúng tôi.
@@ -1098,61 +2005,121 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Bản năng đầu tiên của tôi là muốn xem ai ở phía bên kia. Chúng tôi đã thám hiểm rất lâu mà không gặp một người sống nào.
 - Nhưng tôi biết họ có thể nguy hiểm giống như những người trong tòa nhà, vì vậy tôi lập tức ra hiệu phía sau cho Luvia trốn đi.
 - Tôi hy vọng cậu ấy đã nhìn thấy tôi ra hiệu.
-- Có ai ở đây này. Mày là ai ?!
+
+- Solara
+> - Có ai ở đây này. Mày là ai ?!
 - Trước khi tôi kịp phản ứng, tia sáng đó đã chiếu thẳng vào tôi. Tôi không thể mở mắt vì ánh sáng chói lóa và theo bản năng đưa tay lên che mắt.
-- Tôi... bình tĩnh và nghe đã! Tôi chỉ đang đi lang thang bên ngoài, cố gắng tìm chỗ trú mưa. Tôi không biết nơi này là gì.
+
+- Tôi
+> - Tôi... bình tĩnh và nghe đã! Tôi chỉ đang đi lang thang bên ngoài, cố gắng tìm chỗ trú mưa. Tôi không biết nơi này là gì.
 - Phía bên kia... chỉ có một người thôi sao? Có gì đó không ổn.
-- Vô tình ấy hả? Ngươi thậm chí còn không có đồ chống mưa, mà lại gọi đó là vô tình sao?! Lần trước bọn xâm nhập từ Pingchenbu cũng nói y như vậy!
-- Ping cái gì bu cơ ?
-- Ngươi vẫn còn ướt sũng. Đừng nói là mình không vừa từ trên mặt nước xuống đây đấy ?!
-- Có những trường hợp đặc biệt... Trước đó tôi thực sự đã rơi vào trạng thái ngủ sâu, nhưng sau đó đã thoát được khỏi đó.
-- Thoát được khỏi đó?! Ý ngươi là gì ?
+
+- Solara
+> - Vô tình ấy hả? Ngươi thậm chí còn không có đồ chống mưa, mà lại gọi đó là vô tình sao?! Lần trước bọn xâm nhập từ Pingchenbu cũng nói y như vậy!
+
+- Tôi
+> - Ping cái gì bu cơ ?
+
+- Solara
+> - Ngươi vẫn còn ướt sũng. Đừng nói là mình không vừa từ trên mặt nước xuống đây đấy ?!
+
+- Tôi
+> - Có những trường hợp đặc biệt... Trước đó tôi thực sự đã rơi vào trạng thái ngủ sâu, nhưng sau đó đã thoát được khỏi đó.
+
+- Solara
+> - Thoát được khỏi đó?! Ý ngươi là gì ?
 - Dáng người nhỏ nhắn chậm rãi tiến lại gần tôi. Khi ánh sáng chiếu xuống cánh tay tôi, cuối cùng tôi cũng nhìn thấy được khuôn mặt cô ấy.
-- Phát hiện kẻ đột nhập nghi là gián điệp. Hết.
+
+- Solara
+> - Phát hiện kẻ đột nhập nghi là gián điệp. Hết.
 - Cô ấy cầm bộ đàm lên và nói điều đó với tôi.
-- Đừng có gán ghép danh tính của tôi như vậy được không ?!
-- Nghe này, tôi thật sự miễn nhiễm với cơn mưa. Không có thắc mắc gì việc tại sao tôi làm được vậy sao ?
-- ...Đúng là ta có thắc mắc thật, nhưng không phải chuyện để nói lúc này. Đi theo tôi mau.
-- Không phải là không muốn đâu, nhưng mà…
+
+- Tôi
+> - Đừng có gán ghép danh tính của tôi như vậy được không ?!
+> - Nghe này, tôi thật sự miễn nhiễm với cơn mưa. Không có thắc mắc gì việc tại sao tôi làm được vậy sao ?
+
+- Solara
+> - ...Đúng là ta có thắc mắc thật, nhưng không phải chuyện để nói lúc này. Đi theo tôi mau.
+
+- Tôi
+> - Không phải là không muốn đâu, nhưng mà…
 - Tôi không có đi một mình, Luvia đang ở ngay phía sau tôi.
 - Tôi không biết phải giải thích điều này với cậu ấy như thế nào.
-- Nhưng tôi cũng không chắc về danh tính của cô. Thành thật mà nói: Tôi cũng không tin tưởng cô xíu nào.
-- Trong số những người xuất hiện trong hành lang bảo trì của Arcadia, ai mà không nhận ra tôi chứ, Solara? Ngươi đang trêu ta đấy à?
-- Nếu muốn nhẹ nhàng tình cảm thì đi với tôi để hoàn thành thủ tục rồi xem xem ngươi là ai nữa chứ ?
-- Nếu không, tôi không thể đảm bảo sẽ đối xử một cách nhẹ nhàng tình cảm đâu.
+
+- Tôi
+> - Nhưng tôi cũng không chắc về danh tính của cô. Thành thật mà nói: Tôi cũng không tin tưởng cô xíu nào.
+
+- Solara
+> - Trong số những người xuất hiện trong hành lang bảo trì của Arcadia, ai mà không nhận ra tôi chứ, Solara? Ngươi đang trêu ta đấy à?
+> - Nếu muốn nhẹ nhàng tình cảm thì đi với tôi để hoàn thành thủ tục rồi xem xem ngươi là ai nữa chứ ?
+> - Nếu không, tôi không thể đảm bảo sẽ đối xử một cách nhẹ nhàng tình cảm đâu.
 - Tôi nghĩ sớm muộn gì mình cũng cần phải hiểu về nơi này, nên tôi đã đồng ý.
 - Solara rút ra một khẩu súng mà tôi hoàn toàn không biết cách sử dụng, chĩa vào tôi và dẫn tôi về phía cuối đường hầm bảo trì.
 - Nhưng khoan đã, trước đó tôi chắc chắn đã nghe thấy hai tiếng bước chân, vậy tại sao chỉ có Solara xuất hiện...?
 - ...Ôi thôi xong. Cảm giác không ổn.
-- Hừm... {player.name} cứ thế bị dẫn đi.…
-- Hử? Nghe thú vị ghê. Bạn có khả năng đánh thức mọi người khỏi giấc mơ, đúng chứ ?
-- ...?!!
+
+- Luvia
+> - Hừm... {player.name} cứ thế bị dẫn đi.…
+
+- Selene
+> - Hử? Nghe thú vị ghê. Bạn có khả năng đánh thức mọi người khỏi giấc mơ, đúng chứ ?
+
+- Luvia
+> - ...?!!
 - Luvia không hề ngờ rằng có người lại bất ngờ xuất hiện từ bóng tối phía sau lưng mình.
 - Nếu đối phương có ý đồ xấu, có lẽ cậu ấy đã bị đánh bất tỉnh rồi. {player.name} đã cảnh báo cô ấy phải đề phòng khả năng đó.
-- Đừng sợ, tôi là một trong những quản trị viên ở đây.
-- Tôi tin rằng cả hai người đều không đến đây với ý định phá hoại bất cứ thứ gì. Chẳng phải điều đó đã quá rõ ràng rồi sao ?
-- Vậy... có nghĩa là bạn cũng quen cô gái vừa nãy sao ?
-- Cách bạn nói... hừm, thú vị ghê. Làm tôi càng thấy tò mò hơn rồi đấy.
-- Đó là em gái tôi, Solara. Giờ các bạn đã bước vào nhà của chúng tôi, "Arcadia".
-- Arcadia…
-- Nơi đây là một xã hội lý tưởng nằm sâu dưới lòng thành phố, một xã hội thứ hai luôn vận hành không ngừng.
-- Xã hội…
+
+- Selene
+> - Đừng sợ, tôi là một trong những quản trị viên ở đây.
+> - Tôi tin rằng cả hai người đều không đến đây với ý định phá hoại bất cứ thứ gì. Chẳng phải điều đó đã quá rõ ràng rồi sao ?
+
+- Luvia
+> - Vậy... có nghĩa là bạn cũng quen cô gái vừa nãy sao ?
+
+- Selene
+> - Cách bạn nói... hừm, thú vị ghê. Làm tôi càng thấy tò mò hơn rồi đấy.
+> - Đó là em gái tôi, Solara. Giờ các bạn đã bước vào nhà của chúng tôi, "Arcadia".
+
+- Luvia
+> - Arcadia…
+
+- Selene
+> - Nơi đây là một xã hội lý tưởng nằm sâu dưới lòng thành phố, một xã hội thứ hai luôn vận hành không ngừng.
+
+- Luvia
+> - Xã hội…
 - Từ đó quá xa lạ với Luvia.
-- Tôi hiểu rồi... vậy có nghĩa là các bạn cũng sẽ cho chúng tôi sống ở đây chứ?
-- Đương nhiên rồi.
-- Tuy nhiên, sẽ tốt hơn nếu bạn đi cùng chúng tôi để hoàn tất các thủ tục nhập cảnh.
-- Trước đó thì... xin được giới thiệu bản thân lần nữa. Tôi là một trong những quản trị viên ở đây, Selene.
-- Liệu tôi có thể biết tên bạn được không ?
-- …
-- Luvia.
-- Không phải là tên khai sinh đâu, đúng không? Trước đó bạn có dùng tên nào khác không?
-- Xin lỗi nhé, haha... chúng tôi cần ghi rõ tên cũ của bạn để làm thủ tục giấy tờ. Tất cả là để bảo vệ thành phố.
-- Nhưng sao Selene lại biết mình có…
-- Do bạn mới "nghĩ" một lúc đấy.
-- ...Tại mình chưa được gọi bằng cái tên đó lâu lắm rồi.
-- Mình không có tên nào khác... Mình không nhớ được gì cả.
+
+- Luvia
+> - Tôi hiểu rồi... vậy có nghĩa là các bạn cũng sẽ cho chúng tôi sống ở đây chứ?
+
+- Selene
+> - Đương nhiên rồi.
+> - Tuy nhiên, sẽ tốt hơn nếu bạn đi cùng chúng tôi để hoàn tất các thủ tục nhập cảnh.
+> - Trước đó thì... xin được giới thiệu bản thân lần nữa. Tôi là một trong những quản trị viên ở đây, Selene.
+> - Liệu tôi có thể biết tên bạn được không ?
+
+- Luvia
+> - …
+> - Luvia.
+
+- Selene
+> - Không phải là tên khai sinh đâu, đúng không? Trước đó bạn có dùng tên nào khác không?
+> - Xin lỗi nhé, haha... chúng tôi cần ghi rõ tên cũ của bạn để làm thủ tục giấy tờ. Tất cả là để bảo vệ thành phố.
+
+- Luvia
+> - Nhưng sao Selene lại biết mình có…
+
+- Selene
+> - Do bạn mới "nghĩ" một lúc đấy.
+
+- Luvia
+> - ...Tại mình chưa được gọi bằng cái tên đó lâu lắm rồi.
+> - Mình không có tên nào khác... Mình không nhớ được gì cả.
 - Selene không hỏi thêm. Cô chỉ mỉm cười và gật đầu.
-- Đi theo tôi. Chúng ta vẫn có thể gặp lại Solara.
+
+- Selene
+> - Đi theo tôi. Chúng ta vẫn có thể gặp lại Solara.
 - Luvia và Selene, người đang đi cùng cô ấy, đã chặn tôi giữa đường rồi cuối cùng đã minh oan cho tôi khỏi cái mác "gián điệp bị nghi ngờ".
 - Tuy nhiên, việc phát hiện ra người mang Luvia đến lại là một trong những quan chức quản lý của thành phố này đã khiến tôi vô cùng sợ hãi.
 - Sau đó, Luvia và tôi đã hoàn tất các thủ tục nhập cảnh một cách hợp lệ.
@@ -1162,53 +2129,112 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 </StoryChoice>
 
 - Tôi nghe nói ở đây chỗ ở được phân bổ sẵn, và họ thậm chí còn bố trí cho chúng tôi các phòng riêng biệt.
-- Hai người chắc hẳn đã mệt rồi. Solara và tôi sẽ đưa hai người về nhà.
-- ...Ôi trời, đứa bé đó chạy đi đâu rồi?
+
+- Selene
+> - Hai người chắc hẳn đã mệt rồi. Solara và tôi sẽ đưa hai người về nhà.
+> - ...Ôi trời, đứa bé đó chạy đi đâu rồi?
 - Sau khi Selene dẫn đường một lúc, chúng tôi gặp Solara trên đường, lúc đó cô ấy đang la hét với những công nhân đường ống bên vệ đường.
-- Này! Nối đường ống thoát nước nhà bếp vào nguồn nước sạch, các ngươi muốn khiến mọi người ải chỉa hay gì ?!
-- Nhìn cái gì mà nhìn? Mặt tôi có bản thiết kế hay sao? Lắp đặt van chống chảy ngược ngay !
-- Solara, lại giúp chị đưa hai cư dân mới này lên phòng của họ đi.
+
+- Solara
+> - Này! Nối đường ống thoát nước nhà bếp vào nguồn nước sạch, các ngươi muốn khiến mọi người ải chỉa hay gì ?!
+> - Nhìn cái gì mà nhìn? Mặt tôi có bản thiết kế hay sao? Lắp đặt van chống chảy ngược ngay !
+
+- Selene
+> - Solara, lại giúp chị đưa hai cư dân mới này lên phòng của họ đi.
 - Solara liếc nhìn tôi, rồi nhìn Luvia phía sau tôi, và miễn cưỡng đi theo chúng tôi.
 - Chỉ sau vài bước, cô ta quay lại và giận dữ mắng mỏ những công nhân đường ống thêm vài lần nữa.
-- May mà tôi đã kịp kiểm tra. Nếu không thì đến bệnh viện cũng hết cứu ca này !
+
+- Solara
+> - May mà tôi đã kịp kiểm tra. Nếu không thì đến bệnh viện cũng hết cứu ca này !
 - Thay vì là một đô thị lớn, nơi này mang lại cảm giác giống như một hệ sinh thái sống động với tầm nhìn hạn chế, nhưng lại khiến bạn có cảm giác rằng toàn bộ diện tích của nó vô cùng rộng lớn.
 - Tôi và Luvia đi theo sau hai chị em, trong khi Luvia cứ nhìn xung quanh với vẻ tò mò.
 - Ngay cả đường hầm ngầm rộng nhất cũng chỉ đủ chỗ cho tám người đứng cạnh nhau. Những đoạn hẹp hơn thì giống như một mê cung. Tôi không nhớ nổi chúng tôi đã đi qua bao nhiêu khúc cua và thang.
-- Đây còn chưa phải là khu vực đô thị chính đâu nha.
-- Thật luôn... ?
+
+- Selene
+> - Đây còn chưa phải là khu vực đô thị chính đâu nha.
+
+- Tôi
+> - Thật luôn... ?
 - Các lối đi chật kín đường ống và cửa, dần dần chúng tôi bắt đầu thấy nhiều người hơn.
-- Chủ tịch Selene, lại ở gần lối vào hang động nữa à? Sếp Solara cũng đi cùng bà đấy.
-- Hả? Đúng vậy. Hiện tại chúng tôi không có việc gì khẩn cấp cần giải quyết.
-- Mấy nhỏ đằng sau chủ tịch là ai vậy? Ha ha ha, hình như tôi còn chưa từng thấy họ trước đó.
-- Tôi quên giới thiệu họ. Hai người này mới bắt đầu giúp tôi với tư cách là trợ lý. Họ giúp rất nhiều trong việc chuyển phát tài liệu.
-- Hợp lý ha. Sếp Solara mấy nay bận bịu lắm, nên giờ chẳng có ai chăm sóc chủ tịch.
-- ...Chị tao đéo cần chăm sóc, được chưa ?!
-- Ê, hai người kia, nhớ chăm sóc tốt cho Chủ tịch Selene đấy nhé.
-- À... ờ, Ok.
-- Hiểu rồi.
-- Ủa mà, trông hai người đó nhìn thiếu sức sống thế nhỉ. Có chắc họ ổn không đấy ?
-- Mấy ông cứ tin vào khả năng nhận định mọi người của tôi đi.
-- Được rồi! Đi đứng cẩn thận nha !
+
+- Công nhân bảo trì
+> - Chủ tịch Selene, lại ở gần lối vào hang động nữa à? Sếp Solara cũng đi cùng bà đấy.
+
+- Selene
+> - Hả? Đúng vậy. Hiện tại chúng tôi không có việc gì khẩn cấp cần giải quyết.
+
+- Công nhân bảo trì
+> - Mấy nhỏ đằng sau chủ tịch là ai vậy? Ha ha ha, hình như tôi còn chưa từng thấy họ trước đó.
+
+- Selene
+> - Tôi quên giới thiệu họ. Hai người này mới bắt đầu giúp tôi với tư cách là trợ lý. Họ giúp rất nhiều trong việc chuyển phát tài liệu.
+
+- Công nhân bảo trì
+> - Hợp lý ha. Sếp Solara mấy nay bận bịu lắm, nên giờ chẳng có ai chăm sóc chủ tịch.
+
+- Solara
+> - ...Chị tao đéo cần chăm sóc, được chưa ?!
+
+- Công nhân bảo trì
+> - Ê, hai người kia, nhớ chăm sóc tốt cho Chủ tịch Selene đấy nhé.
+
+- Tôi
+> - À... ờ, Ok.
+
+- Luvia
+> - Hiểu rồi.
+
+- Công nhân bảo trì
+> - Ủa mà, trông hai người đó nhìn thiếu sức sống thế nhỉ. Có chắc họ ổn không đấy ?
+
+- Selene
+> - Mấy ông cứ tin vào khả năng nhận định mọi người của tôi đi.
+
+- Công nhân bảo trì
+> - Được rồi! Đi đứng cẩn thận nha !
+
 - Solara nhìn chúng tôi.
-- Vậy, chính xác thì từ khi nào chúng tôi được thăng chức lên làm thư kí của chị đó vậy ?
-- Dù sao chị tôi đã nói vậy, thì đúng là như thế rồi đó. Từ giờ trở đi, hãy trả lời như vậy khi bất kể ai hỏi. Hiểu chưa?
-- Đã rõ lệnh.
-- Nhưng thư ký là gì vậy ?
-- Bưng trà với nước, bóp vai, lau bàn ghế.
-- Solara, nghề đó đâu có như thế.
-- Hai người vừa bò từ trên mặt đất xuống mà có thể đảm đương được nhiệm vụ lớn lao nào hả chị ?
+
+- Tôi
+> - Vậy, chính xác thì từ khi nào chúng tôi được thăng chức lên làm thư kí của chị đó vậy ?
+
+- Solara
+> - Dù sao chị tôi đã nói vậy, thì đúng là như thế rồi đó. Từ giờ trở đi, hãy trả lời như vậy khi bất kể ai hỏi. Hiểu chưa?
+
+- Tôi
+> - Đã rõ lệnh.
+
+- Luvia
+> - Nhưng thư ký là gì vậy ?
+
+- Solara
+> - Bưng trà với nước, bóp vai, lau bàn ghế.
+
+- Selene
+> - Solara, nghề đó đâu có như thế.
+
+- Solara
+> - Hai người vừa bò từ trên mặt đất xuống mà có thể đảm đương được nhiệm vụ lớn lao nào hả chị ?
 - Nói xong, Solara nhanh chóng đuổi kịp Selene.
 - Mọi người ở đây dường như tin tưởng Selene sâu sắc. Không ai nghi ngờ lời giải thích của cô ấy về danh tính của chúng tôi.
 - Vậy nên khi Selene nói cô ấy là "quản trị viên" ở đây... thì đó là sự thật. Và có cảm giác như cô ấy đã vô tình bỏ qua một chức danh quan trọng hơn nhiều.
 - Tóm lại, cô ấy có thể cho chúng tôi qua cửa kiểm soát nhập cảnh dễ dàng. Vị thế của cô ta chắc chắn không phải là người bình thường.
+
 - Chúng tôi theo Selene và Solara một quãng đường dài, cho đến khi chân bắt đầu mỏi nhừ.
-- Chúng ta sắp tới rồi đó.
+
+- Selene
+> - Chúng ta sắp tới rồi đó.
 - Tôi rất muốn tăng tốc cho lẹ, nhưng đến được đây đã là cả một hành trình dài. Chân tôi gần như muốn liệt.
 - Càng lúc càng có nhiều người vây quanh chúng tôi. Ai cũng biết hai chị em và không ngoại lệ, đều kính trọng họ.
-- Đến rồi, hai người. Chào mừng đến với thiên đường ngầm, Thành phố Arcadia.
+
+- Selene
+> - Đến rồi, hai người. Chào mừng đến với thiên đường ngầm, Thành phố Arcadia.
 - Tôi nuốt nước bọt và bước ra khỏi đường hầm.
+
 - Ánh sáng mờ ảo trong không gian chiếu sáng rõ ràng nhờ một số đèn chiếu quy mô lớn, và một khung cảnh thành phố nhộn nhịp hiện ra trước mắt tôi.
-- ...Đấy, nhìn cho kỹ vào nhé. Đây là thành phố lý tưởng, là nơi trú ẩn mà mọi người hằng mơ ước.
+
+- Solara
+> - ...Đấy, nhìn cho kỹ vào nhé. Đây là thành phố lý tưởng, là nơi trú ẩn mà mọi người hằng mơ ước.
 - Nơi đây quả thực xứng đáng với tên gọi của nó. Dưới lòng đất, đã hình thành... một xã hội loài người mới.
 
 ---
@@ -1219,135 +2245,243 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 - Khi tôi mở mắt, thấy bản thân đang nằm trên chiếc giường, trong chính phòng của mình. Cảm nhận được sự mềm mại của chiếc gối áp vào ngực thật êm làm sao - chắc tư thế mình ngủ hẳn rất tệ.
 - Mặc dù hồi còn ở trong tòa nhà, chúng tôi dùng những thứ như tấm nhựa làm đệm, nhưng đây là lần đầu tiên tôi được nằm ngủ trên một chiếc giường thực sự.
-- ...Mềm mại quá đi... Làm mình muốn đánh tiếp một giấc quá…
+
+- Tôi
+> - ...Mềm mại quá đi... Làm mình muốn đánh tiếp một giấc quá…
 - Trước đó, tôi và Luvia được sắp xếp ở hai phòng riêng biệt để nghỉ ngơi một lúc. Tôi nghĩ mình chưa nên ngủ, nhưng... khi mở mắt ra lần nữa, đã trôi qua hàng giờ đồng hồ rồi rồi.
 - Tôi vỗ nhẹ mặt rồi bật dậy khỏi giường.
-- Thành phố này rộng lớn đến mức rất có thể Robert đã từng đi qua đây.
+
+- Tôi
+> - Thành phố này rộng lớn đến mức rất có thể Robert đã từng đi qua đây.
 - Đúng vậy, việc quan trọng mình cần làm là đó đó.
 - Thành phố vận hành trơn tru và đáng tin cậy. Ngay cả khi anh ta chỉ ở lại vài ngày trước khi rời đi, anh ấy cũng có thể đã bỏ lại đứa con của Susan ở Arcadia.
-- Có lẽ, mình sẽ hỏi Selene và Solara khi có cơ hội vậy.
+
+- Tôi
+> - Có lẽ, mình sẽ hỏi Selene và Solara khi có cơ hội vậy.
 - Tôi miễn cưỡng lê mình ra khỏi giường, hất góc chăn đang vướng trên sàn trở lại lên nệm, rồi loạng choạng bước đến cửa và đẩy mở ra.
-- Á——! I——!!
-- Sao ngươi lại ra khỏi phòng thế?! Giật hết cả mình!
-- ...Tôi bị nhốt ở nhà hay sao, mà không được ra ngoài ?
-- 11 GIỜ ĐÊM RỒI ĐẤY !!
-- À à... Chắc do vẫn còn nửa tỉnh nửa mơ.
-- Mà trong tay có cái gì vậy ?
-- Quần áo cho hai người, dĩ nhiên rồi. Mấy người phải thật trân trọng nó đấy - những bộ quần áo này được làm ra từ những nguyên liệu mà mọi người rất khó để làm ra.
-- Nãy bạn ngươi đi lang thang trong chiếc váy to đùng, làm mọi người nhìn chằm chằm. Ngay cả tôi cũng thấy xấu hổ thay cô ta luôn ấy.
+
+- Solara
+> - Á——! I——!!
+> - Sao ngươi lại ra khỏi phòng thế?! Giật hết cả mình!
+
+- Tôi
+> - ...Tôi bị nhốt ở nhà hay sao, mà không được ra ngoài ?
+
+- Solara
+> - 11 GIỜ ĐÊM RỒI ĐẤY !!
+
+- Tôi
+> - À à... Chắc do vẫn còn nửa tỉnh nửa mơ.
+> - Mà trong tay có cái gì vậy ?
+
+- Solara
+> - Quần áo cho hai người, dĩ nhiên rồi. Mấy người phải thật trân trọng nó đấy - những bộ quần áo này được làm ra từ những nguyên liệu mà mọi người rất khó để làm ra.
+> - Nãy bạn ngươi đi lang thang trong chiếc váy to đùng, làm mọi người nhìn chằm chằm. Ngay cả tôi cũng thấy xấu hổ thay cô ta luôn ấy.
 - Solara dúi quần áo vào tay tôi, rồi đi đến gõ cửa nhà Luvia.
-- Hử ?
-- Đây, quần áo. Mặc vào.
-- Quần áo...? Mình nên mặc... như nào ?
-- Ủa?! Quần áo mà cũng không tự mặc được à?! Tôi biết đã gọi ngươi là kẻ man rợ, nhưng có nhất thiết phải hành xử như vậy không ?!
-- Để ta giúp ngươi! Vào trong ngay!
-- ...Còn ngươi, nhìn cái gì? Đừng bảo là cũng không biết mặc đấy nhé ?
-- Đương nhiên là biết.
-- Tốt.
+
+- Luvia
+> - Hử ?
+
+- Solara
+> - Đây, quần áo. Mặc vào.
+
+- Luvia
+> - Quần áo...? Mình nên mặc... như nào ?
+
+- Solara
+> - Ủa?! Quần áo mà cũng không tự mặc được à?! Tôi biết đã gọi ngươi là kẻ man rợ, nhưng có nhất thiết phải hành xử như vậy không ?!
+> - Để ta giúp ngươi! Vào trong ngay!
+
+- Solara
+> - ...Còn ngươi, nhìn cái gì? Đừng bảo là cũng không biết mặc đấy nhé ?
+
+- Tôi
+> - Đương nhiên là biết.
+
+- Solara
+> - Tốt.
+
 - Solara giận dữ bước tới, đóng sầm cửa ngay trước mặt tôi...Thật luôn à? Mình vừa định ra ngoài mà.
 - Có vẻ như việc hỏi Solara về Robert hiện tại là vô ích.
-- ...Mà, "kẻ man rợ"? Tên gì nghe kì lạ thế nhỉ ?
+
+- Tôi
+> - ...Mà, "kẻ man rợ"? Tên gì nghe kì lạ thế nhỉ ?
 - Nghe vậy, tôi quay về, thay quần áo, rồi mới ra ngoài.
-- Sao bộ quần áo này mặc êm thế nhỉ... đào đâu ra nguyên liệu tuyệt vời thế này ?
-- Nơi mình biết và thế giới những người ở đaay đang sống... hoàn toàn khác biệt…
-- Thậm chí họ còn cho cả giày. Mới toanh, không tì vết. Đã quớ.
+
+- Tôi
+> - Sao bộ quần áo này mặc êm thế nhỉ... đào đâu ra nguyên liệu tuyệt vời thế này ?
+> - Nơi mình biết và thế giới những người ở đaay đang sống... hoàn toàn khác biệt…
+> - Thậm chí họ còn cho cả giày. Mới toanh, không tì vết. Đã quớ.
 - Tôi đứng trên nền gạch, nhìn xung quanh bản thân một lượt.
 - Mọi thứ đều được sắp xếp hoàn hảo, mỗi người có một ngôi nhà nhỏ riêng - giống như một thế giới bước ra từ sách tranh, chỉ khác là mọi thứ ở đây đều do con người tạo ra.
 - Cửa phòng Luvia mở ra lần nữa, thấy Solara bước ra ngoài cùng Luvia, đã mặc xong bộ quần áo mới.
-- Tôi thề... sao mà mặc quần áo cho người khác mệt cỡ này…
-- Trông tớ thế nào...? Chị Solara mặc quần áo cho tớ đấy…
-- Ê, ai chị mày ?!
+
+- Solara
+> - Tôi thề... sao mà mặc quần áo cho người khác mệt cỡ này…
+
+- Luvia
+> - Trông tớ thế nào...? Chị Solara mặc quần áo cho tớ đấy…
+
+- Solara
+> - Ê, ai chị mày ?!
 
 <StoryChoice :options='["Cậu mặc vừa vặn lắm.", "Trông không hợp Luvia lắm…"]'>
 
 <template #branch-0>
 
-- Thật sao ! Hihi…
+- Luvia
+> - Thật sao ! Hihi…
 
 </template>
 
 <template #branch-1>
 
-- Ý với chả kiến cái gì?! Hay thích nhìn cô ta không mặc gì hơn?!
+- Solara
+> - Ý với chả kiến cái gì?! Hay thích nhìn cô ta không mặc gì hơn?!
 
 </template>
 
 </StoryChoice>
 
-- (Thở dài)... Mệt bở hơi tai. Giờ đang là nửa đêm, nên tôi quay về ngủ đây.
-- Thương chị ghê - giờ vẫn còn đang trong tòa nhà quốc hội. Chị ý nhờ tôi dẫn ngươi đi tham quan thành phố…
-- Mà đó là việc của ngày mai. Tối nay, tém tém lại và cẩn thận, với cả cho dù làm gì - đừng có gõ cửa phòng tôi.
-- Ờ…
-- Ưm. Chúng mình sẽ cẩn thận.
-- Thôi đừng có nói mấy lời dư thừa nữa !!
-- È hem... dù sao thì, nói ngắn gọn như này.
-- Nơi ngươi đang ở là khu dân cư. Mỗi gia đình được phân bổ nhà ở và nhận nhu yếu phẩm dựa trên nhu cầu của họ. Tất cả cư dân đều sống trong khu vực này.
-- Dù là lãnh đạo thành phố, nông dân hay công nhân - tất cả mọi người đều sống chung với nhau.
-- Mọi người đều quen biết nhau. Có một hệ thống cấp bậc trong công việc, nhưng ngoài ra, chúng tôi đều là hàng xóm và bạn bè của nhau.
-- Lãnh đạo? Nông dân? Công nhân? Là gì vậy ?
-- ...Ờ…
-- Sao mà mấy người sống được trong cái tòa nhà đó thế nhỉ ?
-- Tận dụng những gì đã có, sửa chữa mấy thứ hỏng hóc... cứ thế sống qua ngày thôi…
-- Tớ từng sống trong một căn phòng nhỏ, nên không biết được.
-- Chúa ơi, cái đéo gì vậy…
-- Thôi được, vì chị tôi cho các ngươi sống ở Arcadia, tốt hơn là học cách người Arcadia sống đi.
+- Solara
+> - (Thở dài)... Mệt bở hơi tai. Giờ đang là nửa đêm, nên tôi quay về ngủ đây.
+> - Thương chị ghê - giờ vẫn còn đang trong tòa nhà quốc hội. Chị ý nhờ tôi dẫn ngươi đi tham quan thành phố…
+> - Mà đó là việc của ngày mai. Tối nay, tém tém lại và cẩn thận, với cả cho dù làm gì - đừng có gõ cửa phòng tôi.
+
+- Tôi
+> - Ờ…
+
+- Luvia
+> - Ưm. Chúng mình sẽ cẩn thận.
+
+- Solara
+> - Thôi đừng có nói mấy lời dư thừa nữa !!
+> - È hem... dù sao thì, nói ngắn gọn như này.
+> - Nơi ngươi đang ở là khu dân cư. Mỗi gia đình được phân bổ nhà ở và nhận nhu yếu phẩm dựa trên nhu cầu của họ. Tất cả cư dân đều sống trong khu vực này.
+> - Dù là lãnh đạo thành phố, nông dân hay công nhân - tất cả mọi người đều sống chung với nhau.
+> - Mọi người đều quen biết nhau. Có một hệ thống cấp bậc trong công việc, nhưng ngoài ra, chúng tôi đều là hàng xóm và bạn bè của nhau.
+
+- Luvia
+> - Lãnh đạo? Nông dân? Công nhân? Là gì vậy ?
+
+- Solara
+> - ...Ờ…
+> - Sao mà mấy người sống được trong cái tòa nhà đó thế nhỉ ?
+
+- Tôi
+> - Tận dụng những gì đã có, sửa chữa mấy thứ hỏng hóc... cứ thế sống qua ngày thôi…
+
+- Luvia
+> - Tớ từng sống trong một căn phòng nhỏ, nên không biết được.
+
+- Solara
+> - Chúa ơi, cái đéo gì vậy…
+> - Thôi được, vì chị tôi cho các ngươi sống ở Arcadia, tốt hơn là học cách người Arcadia sống đi.
 - Ngón tay cô ta bắt đầu chỉ vào từng vật xung quanh mình.
-- Nói một cách đơn giản, công nhân bảo trì tất cả các cơ sở hạ tầng của thành phố - hệ thống thoát nước, hệ thống điện, bảo dưỡng nhà ở. Nếu không có họ, Arcadia đã bị ngập lụt do nước mưa thấm từ lâu rồi.
-- Nông dân thì trồng trọt lương thực cho chúng ta. Nếu không có công sức lao động của họ, chúng ta sẽ chết đói - và thậm chí không có gì để mặc.
-- Và những người lãnh đạo… như chị gái tôi - người đứng đầu hội đồng - có trách nhiệm định hướng tương lai của Arcadia và đảm bảo mọi người có thể tiếp tục sống như thế này.
-- Nghe tự hào ghê... đúng là một thành phố xứng đáng với điều đó.
-- …Chẳng có gì thay đổi cả. Không có tiến triển gì. Tất cả chỉ là để tồn tại cho xong.
+
+- Solara
+> - Nói một cách đơn giản, công nhân bảo trì tất cả các cơ sở hạ tầng của thành phố - hệ thống thoát nước, hệ thống điện, bảo dưỡng nhà ở. Nếu không có họ, Arcadia đã bị ngập lụt do nước mưa thấm từ lâu rồi.
+> - Nông dân thì trồng trọt lương thực cho chúng ta. Nếu không có công sức lao động của họ, chúng ta sẽ chết đói - và thậm chí không có gì để mặc.
+> - Và những người lãnh đạo… như chị gái tôi - người đứng đầu hội đồng - có trách nhiệm định hướng tương lai của Arcadia và đảm bảo mọi người có thể tiếp tục sống như thế này.
+
+- Tôi
+> - Nghe tự hào ghê... đúng là một thành phố xứng đáng với điều đó.
+
+- Solara
+> - …Chẳng có gì thay đổi cả. Không có tiến triển gì. Tất cả chỉ là để tồn tại cho xong.
 - Tôi nhận thấy điều gì đó phức tạp trong ánh mắt của Solara.
-- Kể từ khi đoàn thám hiểm giải tán…
+
+- Solara
+> - Kể từ khi đoàn thám hiểm giải tán…
 - Cô ấy không nói tiếp nữa.
-- Chị Solara...?
-- Bảo rồi, tao không phải chị mày. Vậy thôi, đi ngủ đây. Đừng có ra đường vào ban đêm! Nếu xảy ra chuyện gì, đừng có mà khóc lóc tìm đến tôi.
+
+- Luvia
+> - Chị Solara...?
+
+- Solara
+> - Bảo rồi, tao không phải chị mày. Vậy thôi, đi ngủ đây. Đừng có ra đường vào ban đêm! Nếu xảy ra chuyện gì, đừng có mà khóc lóc tìm đến tôi.
+
 - Cô ta rời đi mặt không ngoảnh lại, để lại Luvia và tôi đứng đó nhìn nhau.
-- Cậu không ngủ à ?
+
+- Tôi
+> - Cậu không ngủ à ?
 - Luvia ngáp một cái trước khi trả lời.
-- Sao cậu không ngủ chút đi ?
-- Nhưng mãi tới mới có được quần áo mới để mặc…
-- Đi dạo một lúc vậy, tớ sẽ đưa cậu về khi cậu cảm thấy mệt.
+
+- Tôi
+> - Sao cậu không ngủ chút đi ?
+
+- Luvia
+> - Nhưng mãi tới mới có được quần áo mới để mặc…
+
+- Tôi
+> - Đi dạo một lúc vậy, tớ sẽ đưa cậu về khi cậu cảm thấy mệt.
+
 - Sau khi rời khỏi khu dân cư, chúng tôi nhanh chóng đến nơi mà họ gọi là "phố".
 - Toàn bộ khu vực dường như được xây dựng xung quanh một nhà ga tàu điện ngầm khổng lồ, thế nhưng bạn vẫn có thể thấy đủ loại phương tiện giao thông di chuyển khắp thành phố.
 - Không chỉ có xe đạp đậu dọc đường - thỉnh thoảng cũng có cả xe bảo dưỡng và xe dọn dẹp chạy ngang qua chúng tôi. Nhưng đó chưa phải là tất cả.
+
 - Trong lúc lang thang, chúng tôi bắt gặp một lối đi tương tự như lối đi mà chúng tôi đã đi qua khi mới vào Arcadia - chỉ khác là lối đi này có đường ray xe lửa chạy dọc, với một toa xe chở hàng được hàn từ khung kim loại đặt trên đó.
 - Những thanh chắn đơn giản chạy quanh xe đẩy. Xe có thân dài, một hàng ghế đơn giản ở mỗi bên và một bảng điều khiển ở giữa.
 - Trên đó có một tấm biển giấy ghi: Đi thẳng đến Khu 3: Khu Công nghiệp.
 - Nghĩ lại thì, khu dân cư của chúng tôi thuộc Khu 4.
 - Vậy đây chắc hẳn là cách người dân di chuyển giữa các quận.
-- Cậu mệt chưa ?
-- Tớ thấy còn tỉnh táo hơn trước...
-- Vậy là tốt rồi.
+
+- Tôi
+> - Cậu mệt chưa ?
+
+- Luvia
+> - Tớ thấy còn tỉnh táo hơn trước...
+
+- Tôi
+> - Vậy là tốt rồi.
 - Luvia và tôi trèo lên xe mỏ. Tôi đã đẩy nó di chuyển ngay lập tức.
-- Cậu biết cách sử dụng thứ này sao ?
-- Nó hoạt động dựa trên nguyên lý tương tự như máy móc ở bên trong tòa nhà.
+
+- Luvia
+> - Cậu biết cách sử dụng thứ này sao ?
+
+- Tôi
+> - Nó hoạt động dựa trên nguyên lý tương tự như máy móc ở bên trong tòa nhà.
 - Đường đi gồ ghề hơn tôi tưởng. Khi vào khúc cua, tôi bám chặt vào mép chỗ ngồi và suýt ngã.
 - Có phải đang đi quá nhanh không ta? Tôi đã nghĩ đến việc giảm tốc độ - nhưng làn gió ào ào thổi vào mặt qua đường hầm thật sảng khoái.
 - Làn tóc của Luvia bay phấp phới trong gió, khiến tôi không thể rời mắt.
+
 - Đến lúc tôi sực người ra - khung cảnh không còn là một đường hầm vô tận nữa - thì chúng tôi đã đến khu nhà máy rồi.
 - Bầu không khí ở đây hoàn toàn khác với khu dân cư, đặc quánh mùi rỉ sét và khói.
 - Chiếc xe mỏ dừng lại ở bệ, nơi một công nhân đang chất dỡ các thùng hàng lên xuống các xe đẩy khác.
-- Mấy người là ai mà đến nhà máy giờ này ?
+
+- Công nhân trên giàn khoan
+> - Mấy người là ai mà đến nhà máy giờ này ?
 
 <StoryChoice :options='["Chỉ là ngắm nghía chút thôi.", "Chúng tôi là trợ lý của Selene. Chúng tôi đến đây để lấy mẫu."]'>
 
 <template #branch-0>
 
-- Ngắm nghía? Nơi này không phải cứ đi vào là được đâu.
-- Chúng tôi là cư dân mới. Chúng tôi chỉ đi dạo xung quanh rồi mò được tới đây. Chúng tôi sẽ quay về sớm thôi.
-- Cư dân mới ư? Điều đó còn tệ hơn nữa! Biết đâu các người đến đây để ăn cắp công nghệ thì sao. Quay lại đi, quay lại đi - nơi này không dành cho người ngoài.
+- Công nhân trên giàn khoan
+> - Ngắm nghía? Nơi này không phải cứ đi vào là được đâu.
+
+- Tôi
+> - Chúng tôi là cư dân mới. Chúng tôi chỉ đi dạo xung quanh rồi mò được tới đây. Chúng tôi sẽ quay về sớm thôi.
+
+- Công nhân trên giàn khoan
+> - Cư dân mới ư? Điều đó còn tệ hơn nữa! Biết đâu các người đến đây để ăn cắp công nghệ thì sao. Quay lại đi, quay lại đi - nơi này không dành cho người ngoài.
 - Chúng tôi bị đuổi trở lại xe mỏ và bị đưa trở lại nơi chúng tôi đến.
 
 </template>
 
 <template #branch-1>
 
-- Chúng tôi là trợ lý của Selene. Chúng tôi đến đây để lấy mẫu.
+- Tôi
+> - Chúng tôi là trợ lý của Selene. Chúng tôi đến đây để lấy mẫu.
 - Luvia mở to mắt, hoàn toàn không hiểu tôi đang nói gì.
-- Trợ lý của Sếp Selene? Sao tôi chưa từng nghe đến nhỉ.
-- Tôi có thể nhờ liên lạc với cô ấy, nhưng hiện tại cô ấy đang họp hội đồng. Có phiền chờ một chút không?
-- Không phiền không phiền! Nhà máy sẽ đóng cửa sau nửa tiếng nữa. Không phải là tôi không tin tưởng anh, nhưng giờ này thì thực sự đã quá muộn rồi…
+
+- Công nhân trên giàn khoan
+> - Trợ lý của Sếp Selene? Sao tôi chưa từng nghe đến nhỉ.
+
+- Tôi
+> - Tôi có thể nhờ liên lạc với cô ấy, nhưng hiện tại cô ấy đang họp hội đồng. Có phiền chờ một chút không?
+
+- Công nhân trên giàn khoan
+> - Không phiền không phiền! Nhà máy sẽ đóng cửa sau nửa tiếng nữa. Không phải là tôi không tin tưởng anh, nhưng giờ này thì thực sự đã quá muộn rồi…
 
 </template>
 
@@ -1357,7 +2491,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 <template #branch-0>
 
-- Một nhóm thám hiểm khoa học? Thành thật mà nói, tôi chưa từng nghe đến điều đó bao giờ. Nghe này, nghiêm túc đấy - sao anh không quay lại vào ngày mai xem sao!
+- Công nhân trên giàn khoan
+> - Một nhóm thám hiểm khoa học? Thành thật mà nói, tôi chưa từng nghe đến điều đó bao giờ. Nghe này, nghiêm túc đấy - sao anh không quay lại vào ngày mai xem sao!
 - Ngay cả sau khi tiết lộ danh tính, chẳng giúp được gì. Anh ta nhất quyết không cho chúng tôi đi qua.
 - Đúng như tôi nghĩ - không có mặt Selene ở đây, chúng tôi đành bất lực
 - Vì đã quá muộn, tôi không thúc ép thêm nữa. Luvia và tôi quay trở lại khu phố của mình.
@@ -1367,39 +2502,63 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 <template #branch-1>
 
 <!-- 空分支 1011 -->
-
 </template>
 
 </StoryChoice>
 
-<StoryChoice :options='["mark.ch2_4_route1 == explore", "其它情况"]'>
+<StoryChoice :options='["mark.ch2_4_route1 == explore", "Trường hợp khác"]'>
 
 <template #branch-0>
 
-- Ồ! Không chỉ là trợ lý của Sếp Selene, mà còn là thành viên của đoàn thám hiểm nữa! Hai người hẳn là những nhân vật rất quan trọng!
-- Những nhân vật quan trọng… ?
-- Xin đừng trách tôi vì đã ngăn cản hai anh chị lúc nãy - dạo này có rất nhiều gián điệp… Nhưng nếu các anh chị là thành viên cũ của đoàn thám hiểm, thì chắc chắn không có vấn đề gì!
-- Chúng tôi phải đóng cổng trước nửa đêm, vì vậy cả hai người cần phải rời đi trước thời gian đó.
-- Không sao hết, đừng lo.
+- Công nhân trên giàn khoan
+> - Ồ! Không chỉ là trợ lý của Sếp Selene, mà còn là thành viên của đoàn thám hiểm nữa! Hai người hẳn là những nhân vật rất quan trọng!
+
+- Luvia
+> - Những nhân vật quan trọng… ?
+
+- Công nhân trên giàn khoan
+> - Xin đừng trách tôi vì đã ngăn cản hai anh chị lúc nãy - dạo này có rất nhiều gián điệp… Nhưng nếu các anh chị là thành viên cũ của đoàn thám hiểm, thì chắc chắn không có vấn đề gì!
+> - Chúng tôi phải đóng cổng trước nửa đêm, vì vậy cả hai người cần phải rời đi trước thời gian đó.
+
+- Tôi
+> - Không sao hết, đừng lo.
 - Thành thật mà nói, tôi hoàn toàn không biết đội thám hiểm đó là gì. Tôi chỉ nghe loáng thoáng cụm từ đó từ những lời Solara lẩm bẩm một mình.
 - Nhưng tôi thực sự không ngờ nó lại có sức ảnh hưởng đến vậy.
 - Vừa bước xuống sân ga và lên cầu thang, tôi nghe thấy một tiếng ầm vang lên từ bên dưới.
-- Có người vừa đi ngang qua với một thùng đầy phụ tùng máy móc.
-- Dường như phần lớn những thứ thành phố cần đều được cung cấp từ đây…
-- Tuyệt quá.
+
+- Tôi
+> - Có người vừa đi ngang qua với một thùng đầy phụ tùng máy móc.
+> - Dường như phần lớn những thứ thành phố cần đều được cung cấp từ đây…
+
+- Luvia
+> - Tuyệt quá.
 - Khi bước lên cầu thang vào khu nhà máy, cảnh tượng trước mắt tôi thật choáng ngợp.
 - Nơi đó đầy ắp những loại máy móc mà tôi chỉ từng thấy trong ảnh hoặc đọc trong sách.
 - Một vài công nhân vẫn đang miệt mài làm việc. Mỏ hàn bắn ra những tia lửa trên bề mặt kim loại, máy cắt làm văng những mảnh vụn sắt, và máy dập phát ra những tiếng kêu sắc bén, giòn tan.
 - Khuôn mặt Luvia rạng rỡ vẻ tò mò.
-- Quao... tuyệt thật đấy…
-- Mặc dù có vẻ như công việc trong ngày sắp kết thúc - nhiều máy móc đã được tắt.
-- Ờ? Hai người là ?
-- Trợ lý của Selene. Chúng tôi ở đây để lấy mẫu.
-- Ồ! Tôi biết anh đang nói về chuyện gì rồi. Sếp Solara đã gọi điện báo trước rồi. Chúng tôi đang thắc mắc sao hôm nay không ai đến cả.
+
+- Luvia
+> - Quao... tuyệt thật đấy…
+
+- Tôi
+> - Mặc dù có vẻ như công việc trong ngày sắp kết thúc - nhiều máy móc đã được tắt.
+
+- Công nhân tại nơi làm việc
+> - Ờ? Hai người là ?
+
+- Tôi
+> - Trợ lý của Selene. Chúng tôi ở đây để lấy mẫu.
+
+- Công nhân tại nơi làm việc
+> - Ồ! Tôi biết anh đang nói về chuyện gì rồi. Sếp Solara đã gọi điện báo trước rồi. Chúng tôi đang thắc mắc sao hôm nay không ai đến cả.
 - Người công nhân dẫn chúng tôi đến một xưởng nhỏ, vừa đi vừa giải thích một nửa sự việc.
 - Anh ta đưa cho chúng tôi một thiết bị không rõ công dụng và vỗ nhẹ vào nó vài lần.
-- Dù thế nào đi nữa, đừng làm mất nó. Hãy gửi lại khi anh dùng xong - chúng tôi vẫn cần nó cho vòng cải tiến tiếp theo.
-- Hiểu rồi.
+
+- Công nhân tại nơi làm việc
+> - Dù thế nào đi nữa, đừng làm mất nó. Hãy gửi lại khi anh dùng xong - chúng tôi vẫn cần nó cho vòng cải tiến tiếp theo.
+
+- Tôi
+> - Hiểu rồi.
 - Làm sao tôi có thể hiểu được chứ. Thứ này ở đâu ra vậy? Tôi đang cầm cái gì thế này?
 - Nhưng dù sao thì, tôi chỉ cần đưa cái này cho Solara thôi, phải không…
 - Sau khi tham quan nhanh các xưởng còn lại, chúng tôi quay trở lại nhà ga và lên xe ngựa ngay trước khi cổng nhà máy đóng lại.
@@ -1408,21 +2567,33 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Tôi nghiêng người về phía cô ấy và chúng tôi tựa vào nhau. Tôi cảm nhận được làn gió trên mặt mình, và một điều gì đó khác nữa - một điều mà chỉ thành phố Arcadia này mới có thể mang lại.
 - Tôi rất vui vì cậu ấy đã đồng hành cùng tôi trong chuyến đi này.
 - Sáng hôm sau, tôi đưa thiết bị kì lạ cho Solara, cô ta đến gặp chúng tôi.
-- ...?
-- Khu nhà máy bảo tôi đưa cái này.
-- …
-- Tao báo bảo vệ. Dù các người xoay sở thế nào, chuyện này cũng quá đáng rồi đấy!! Làm sao - làm sao mà các người vào được trong đó?!
-- Móa tụi bây! Bảo vệ đâu!! Bắt hai đứa này lại ngay !!!
+
+- Solara
+> - ...?
+
+- Tôi
+> - Khu nhà máy bảo tôi đưa cái này.
+
+- Solara
+> - …
+> - Tao báo bảo vệ. Dù các người xoay sở thế nào, chuyện này cũng quá đáng rồi đấy!! Làm sao - làm sao mà các người vào được trong đó?!
+> - Móa tụi bây! Bảo vệ đâu!! Bắt hai đứa này lại ngay !!!
 - Cô ấy đã kích hoạt thiết bị trong tay mình.
 - Lúc đó tôi mới nhận ra đó là một thiết bị báo động cá nhân.
 - Sau gần mười phút hỗn loạn, cuối cùng tôi cũng giải thích được cho Solara hiểu chuyện gì đã xảy ra giữa tôi và Luvia đêm hôm trước.
 - Solara lắng nghe với vẻ mặt cau có, càng lúc càng tức giận hơn với mỗi lời nói, cho đến khi cô quá phẫn nộ đến nỗi không thể nói thẳng được nữa.
-- Hai - hai người các ngươi đã - mạo danh tôi… dùng tên của chị gái tôi…
-- Không, không thể nào chấp nhận được. Bảo vệ đâu!!! Bắt họ lại ngay !!!
+
+- Solara
+> - Hai - hai người các ngươi đã - mạo danh tôi… dùng tên của chị gái tôi…
+> - Không, không thể nào chấp nhận được. Bảo vệ đâu!!! Bắt họ lại ngay !!!
 - Cô ấy lại tắt chuông báo động.
-- Hên đấy, nay tôi cũng định đưa mấy người đến nhà máy. Tôi sẽ coi như sự việc hôm nay không có gì.
-- Đừng để chuyện đó xảy ra lần nữa. Rõ chưa?
-- Tôi xin khiêm nhường thừa nhận sai sót của mình…
+
+- Solara
+> - Hên đấy, nay tôi cũng định đưa mấy người đến nhà máy. Tôi sẽ coi như sự việc hôm nay không có gì.
+> - Đừng để chuyện đó xảy ra lần nữa. Rõ chưa?
+
+- Tôi
+> - Tôi xin khiêm nhường thừa nhận sai sót của mình…
 
 </template>
 
@@ -1432,54 +2603,122 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Chúng tôi mang bánh mì về phòng và không ra ngoài nữa tối hôm đó.
 - Chẳng mệt mỏi như Luvia, tôi còn chẳng ngủ nổi mãi đến tận sáng sớm mới ngủ được.
 - Tôi không ngờ Solara lại đến sớm như vậy vào sáng hôm sau. Tôi đã nghĩ chắc cô ấy sẽ không đến mà.
-- …
-- Cái vẻ mặt đó của ngươi đang bảo tôi sẽ bỏ hẹn ha.
-- Không không, nghĩ nhiều rồi. Thực ra tôi đang nghĩ nay sẽ đưa chúng tôi đi đâu.
-- Hừm. Điểm đến đầu tiên, sẽ là nơi tôi biết rõ. Tôi sẽ đưa mấy người đến nhà máy ở Khu 3.
+
+- Solara
+> - …
+> - Cái vẻ mặt đó của ngươi đang bảo tôi sẽ bỏ hẹn ha.
+
+- Tôi
+> - Không không, nghĩ nhiều rồi. Thực ra tôi đang nghĩ nay sẽ đưa chúng tôi đi đâu.
+
+- Solara
+> - Hừm. Điểm đến đầu tiên, sẽ là nơi tôi biết rõ. Tôi sẽ đưa mấy người đến nhà máy ở Khu 3.
 - Tôi không dám nói với Solara rằng chúng tôi đã bị đuổi khỏi chính nơi đó đêm hôm trước. Luvia mím chặt môi và không nói gì.
 - Vẫn đường hầm đó, vẫn cơn gió tạt vào mặt. Chuyến đi đến khu nhà máy dường như dài hơn đêm hôm trước một chút.
 - Vừa bước xuống sân ga và lên cầu thang, tôi nghe thấy một tiếng ầm ầm vang lên từ bên dưới.
-- Những thùng hàng mà người đó vừa khiêng chứa đầy các bộ phận máy móc cần thiết cho các khu khác.
-- Mọi thứ mà tất cả các khu cần đều được cung cấp từ đây phải không?
-- Đúng. Nên nơi đây lúc nào cũng bận.
-- Tuyệt quá.
-- Thường thôi.
+
+- Solara
+> - Những thùng hàng mà người đó vừa khiêng chứa đầy các bộ phận máy móc cần thiết cho các khu khác.
+
+- Tôi
+> - Mọi thứ mà tất cả các khu cần đều được cung cấp từ đây phải không?
+
+- Solara
+> - Đúng. Nên nơi đây lúc nào cũng bận.
+
+- Luvia
+> - Tuyệt quá.
+
+- Solara
+> - Thường thôi.
 - Khi bước lên cầu thang vào khu nhà máy, cảnh tượng trước mắt tôi thật choáng ngợp.
 - Nơi đó đầy ắp những loại máy móc mà tôi chỉ từng thấy trong ảnh hoặc đọc trong sách.
 - Công nhân ở khắp nơi - vận chuyển, sửa chữa, chế tạo đủ loại máy móc. Mỏ hàn bắn ra những tia lửa trên bề mặt kim loại, máy cắt làm văng những mảnh vụn sắt, và máy dập phát ra những tiếng va chạm chói tai.
 - Khuôn mặt Luvia rạng rỡ vẻ tò mò.
-- Oa... siêu quá đi…
-- Đương nhiên. Rất nhiều thiết bị ở đây được chế tạo từng bộ phận một qua nhiều thế hệ, từ phế liệu kim loại.
-- Ê Luvia ! Nguy hiểm đấy - đừng lại gần đó.
+
+- Luvia
+> - Oa... siêu quá đi…
+
+- Solara
+> - Đương nhiên. Rất nhiều thiết bị ở đây được chế tạo từng bộ phận một qua nhiều thế hệ, từ phế liệu kim loại.
+> - Ê Luvia ! Nguy hiểm đấy - đừng lại gần đó.
 - Luvia lùi lại khỏi lối đi trên cao không có lan can.
-- Mấy cái máy đó... bạn có dùng được hết không ?
-- Dĩ nhiên là dùng được.
-- Tuyệt quá. Mình còn chẳng dùng được cái nào.
-- Sao mà dùng nổi, nếu ngươi chưa từng học.
-- Nếu cậu học, cậu cũng sẽ dùng được đó.
-- Đó là phần quan trọng nhất - học hỏi.
-- Dạy chúng tôi với được không ?
-- Còn tùy vào năng khiếu… và thành tích.
-- Này, đó chẳng phải là Solara sao? Sao sếp lại quay lại đây thay vì ở lại khu lõi?
-- À, tôi dẫn mấy trợ lý mới của chị gái tôi đến xem thử. Vậy, tỷ lệ hỏng hóc của máy công cụ vẫn còn cao chứ ?
-- Sau khi được cô hiệu chỉnh lại, nó hoạt động rất ổn định! Ngon đét luôn !
-- Hoạt động tốt cỡ nào thì tốt - chỉ cần đừng làm hỏng nó lần nữa. Tôi không muốn thấy cảnh thiếu hụt trục động cơ nữa.
-- Nếu nhu cầu tăng đột biến, ai mà biết chuyện gì sẽ xảy ra.
-- Haizz... dù sao thì, nếu nó hỏng thì đến tìm tôi ngay. Đừng kéo dài chuyện này như lần trước cho đến khi nó trở thành vấn đề nghiêm trọng.
-- Rõ, thưa sếp !
-- Đám người này chẳng bao giờ để tôi được yên ổn một giây một phút nào… Này Luvia, quay lại đây!
+
+- Luvia
+> - Mấy cái máy đó... bạn có dùng được hết không ?
+
+- Solara
+> - Dĩ nhiên là dùng được.
+
+- Luvia
+> - Tuyệt quá. Mình còn chẳng dùng được cái nào.
+
+- Solara
+> - Sao mà dùng nổi, nếu ngươi chưa từng học.
+
+- Tôi
+> - Nếu cậu học, cậu cũng sẽ dùng được đó.
+
+- Solara
+> - Đó là phần quan trọng nhất - học hỏi.
+
+- Tôi
+> - Dạy chúng tôi với được không ?
+
+- Solara
+> - Còn tùy vào năng khiếu… và thành tích.
+
+- Công nhân tại nơi làm việc
+> - Này, đó chẳng phải là Solara sao? Sao sếp lại quay lại đây thay vì ở lại khu lõi?
+
+- Solara
+> - À, tôi dẫn mấy trợ lý mới của chị gái tôi đến xem thử. Vậy, tỷ lệ hỏng hóc của máy công cụ vẫn còn cao chứ ?
+
+- Công nhân tại nơi làm việc
+> - Sau khi được cô hiệu chỉnh lại, nó hoạt động rất ổn định! Ngon đét luôn !
+
+- Solara
+> - Hoạt động tốt cỡ nào thì tốt - chỉ cần đừng làm hỏng nó lần nữa. Tôi không muốn thấy cảnh thiếu hụt trục động cơ nữa.
+
+- Công nhân tại nơi làm việc
+> - Nếu nhu cầu tăng đột biến, ai mà biết chuyện gì sẽ xảy ra.
+
+- Solara
+> - Haizz... dù sao thì, nếu nó hỏng thì đến tìm tôi ngay. Đừng kéo dài chuyện này như lần trước cho đến khi nó trở thành vấn đề nghiêm trọng.
+
+- Công nhân tại nơi làm việc
+> - Rõ, thưa sếp !
+
+- Solara
+> - Đám người này chẳng bao giờ để tôi được yên ổn một giây một phút nào… Này Luvia, quay lại đây!
 - Luvia lảng tránh chiếc máy xay đang hoạt động với vẻ mặt buồn rầu.
-- Mình không định chạm vào đó đâu mà…
-- Lỡ như có ai va vào ngươi thì sao? Không làm ở đây thì lùi lại đi.
-- Tôi dặn dò tất cả mọi người làm việc ở đây phải học thuộc lòng các nguyên tắc an toàn.
-- Vậy cô "từng" làm ở đây... thế hiện giờ đang làm ở đâu? Cái khu lõi gì họ nhắc đến ấy ?
-- Ờm, khu lõi ấy. Công việc ở Khu 1 quan trọng hơn, vì vậy cần nhiều người có tay nghề cao hơn.
-- Vậy thì hẳn cô phải giỏi lắm.
-- Là chị em của Archon, tôi không thể để cô ấy thất vọng được.
-- Đợi ở đây trong khi tôi lấy một mẫu từ xưởng. Sau đó chúng ta sẽ đến khu vực tiếp theo.
+
+- Luvia
+> - Mình không định chạm vào đó đâu mà…
+
+- Solara
+> - Lỡ như có ai va vào ngươi thì sao? Không làm ở đây thì lùi lại đi.
+> - Tôi dặn dò tất cả mọi người làm việc ở đây phải học thuộc lòng các nguyên tắc an toàn.
+
+- Tôi
+> - Vậy cô "từng" làm ở đây... thế hiện giờ đang làm ở đâu? Cái khu lõi gì họ nhắc đến ấy ?
+
+- Solara
+> - Ờm, khu lõi ấy. Công việc ở Khu 1 quan trọng hơn, vì vậy cần nhiều người có tay nghề cao hơn.
+
+- Tôi
+> - Vậy thì hẳn cô phải giỏi lắm.
+
+- Solara
+> - Là chị em của Archon, tôi không thể để cô ấy thất vọng được.
+> - Đợi ở đây trong khi tôi lấy một mẫu từ xưởng. Sau đó chúng ta sẽ đến khu vực tiếp theo.
 - Cô ấy vừa bước được vài bước thì đã quay người lại.
-- Đừng chạm vào cái gì, đừng đi lung tung, đợi tôi quay lại. Rõ chưa ?
-- Đã rõ. Chúng tôi sẽ không đi đâu cả.
+
+- Solara
+> - Đừng chạm vào cái gì, đừng đi lung tung, đợi tôi quay lại. Rõ chưa ?
+
+- Tôi
+> - Đã rõ. Chúng tôi sẽ không đi đâu cả.
 - Solara quay lại sau một lúc.
 
 </template>
@@ -1487,129 +2726,277 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 </StoryChoice>
 
 - Được Solara dẫn đường, Luvia và tôi đã đến Khu 2 của Arcadia: khu nông trại.
-- …Những loại cây xanh này có ăn được không?
-- Trời ơi. Rau mà không ăn được, không nhẽ để làm cảnh ?
-- Ừm, nói sao cho đúng… nhỉ: mỗi cây trồng ở đây đều là thành quả lao động của người dân.
+
+- Tôi
+> - …Những loại cây xanh này có ăn được không?
+
+- Solara
+> - Trời ơi. Rau mà không ăn được, không nhẽ để làm cảnh ?
+> - Ừm, nói sao cho đúng… nhỉ: mỗi cây trồng ở đây đều là thành quả lao động của người dân.
 - Những mảnh đất trồng rau được cải tạo từ các hầm trú ẩn cũ đầy ắp những loại cây mà tôi chưa từng thấy trước đây.
 - Nông dân trong trang phục bảo hộ đang làm việc trên đồng ruộng, bón phân và phun thuốc.
-- Ở đây ấm hơn hẳn so với các khu khác.
-- Nhiệt độ ở đây được điều chỉnh bằng hệ thống điều hòa trung tâm, nhằm đáp ứng các điều kiện cần thiết cho sự phát triển của cây trồng.
-- Các đèn trên trần nhà cũng là đèn chuyên dụng để trồng cây, mô phỏng ánh sáng mặt trời.
-- Ánh sáng mặt trời…? Chẳng phải cả ánh sáng mặt trời và ánh đèn đều… sáng sao?
-- Quang phổ và bước sóng của ánh sáng mặt trời khác với đèn thông thường. Nên tại sao tôi phải giải thích những kiến thức khoa học cơ bản cho mọi người…
-- Điều quan trọng là, thực vật cần ánh sáng mặt trời để phát triển. Nếu không, chúng ta sẽ chỉ ăn được nấm, thứ mọc khắp nơi mà không cần ánh nắng mặt trời.
-- Nấm…
+
+- Tôi
+> - Ở đây ấm hơn hẳn so với các khu khác.
+
+- Solara
+> - Nhiệt độ ở đây được điều chỉnh bằng hệ thống điều hòa trung tâm, nhằm đáp ứng các điều kiện cần thiết cho sự phát triển của cây trồng.
+> - Các đèn trên trần nhà cũng là đèn chuyên dụng để trồng cây, mô phỏng ánh sáng mặt trời.
+
+- Luvia
+> - Ánh sáng mặt trời…? Chẳng phải cả ánh sáng mặt trời và ánh đèn đều… sáng sao?
+
+- Solara
+> - Quang phổ và bước sóng của ánh sáng mặt trời khác với đèn thông thường. Nên tại sao tôi phải giải thích những kiến thức khoa học cơ bản cho mọi người…
+> - Điều quan trọng là, thực vật cần ánh sáng mặt trời để phát triển. Nếu không, chúng ta sẽ chỉ ăn được nấm, thứ mọc khắp nơi mà không cần ánh nắng mặt trời.
+
+- Luvia
+> - Nấm…
 - Vẻ mặt của Luvia hơi sa sầm.
-- Thảo nào chúng ta chẳng trồng được gì trong tòa nhà cả. Chỉ toàn nấm thôi.
-- Mỗi nấm thôi á? Chẳng thà sống như thế, ra ngoài đứng mưa cho rồi.
-- Chúng tôi cũng nuôi một vài con lợn, nhưng số lượng rất ít.
-- Tôi biết - chỉ ăn thịt vào dịp năm mới. Nhưng ở đây thì khác. Hãy sang bên đó xem thử rồi ngươi sẽ hiểu ý thôi.
+
+- Tôi
+> - Thảo nào chúng ta chẳng trồng được gì trong tòa nhà cả. Chỉ toàn nấm thôi.
+
+- Solara
+> - Mỗi nấm thôi á? Chẳng thà sống như thế, ra ngoài đứng mưa cho rồi.
+
+- Tôi
+> - Chúng tôi cũng nuôi một vài con lợn, nhưng số lượng rất ít.
+
+- Solara
+> - Tôi biết - chỉ ăn thịt vào dịp năm mới. Nhưng ở đây thì khác. Hãy sang bên đó xem thử rồi ngươi sẽ hiểu ý thôi.
 - Chúng tôi đi theo Solara vào khu vực lân cận.
 - Chúng tôi có thể ngửi thấy mùi của các loài vật từ xa. Không hẳn là mùi hôi thối… thành thật mà nói, cái mùi đó khiến bản năng của tôi bừng tỉnh - tức là có thịt, và có thịt là đồng nghĩa với niềm vui.
 - Nhưng… mùi động vật nồng nặc, đến mức khó tả - đây thực sự là lần đầu tiên tôi được trải nghiệm điều đó.
-- Nh-nhiều thế ?!
+
+- Tôi
+> - Nh-nhiều thế ?!
 - Bên trong những chuồng trại có tường bằng tôn là một số lượng lớn lợn và gà.
 - Chúng được nhốt riêng trong các chuồng, có máng ăn và nước uống đầy đủ, và được chăm sóc bởi những người nông dân chuyên trách.
-- Nhiều thế này… nuôi phải tốn thức ăn mỗi ngày cỡ nào vậy.
-- Nuôi tốn hay không không nằm ở đó. Chúng sản xuất phân bón cho cây trồng, và cây trồng không thể sử dụng có thể biến thành thức ăn cho chúng.
-- Chỉ cần kiểm soát được số lượng, nó sẽ tạo thành một chu trình - đáp ứng nhu cầu lương thực hàng ngày của Arcadia đồng thời giảm thiểu tối đa lượng nông sản bị lãng phí.
-- Con màu trắng kia là chim non phải không?! Nó còn dễ thương hơn cả ở trong ảnh nữa!
-- ...Cái người đi cùng ngươi đây - trông cứ như thể chưa từng thấy thứ gì trên đời bao giờ vậy. Mà ngươi bảo "ở trong ảnh" là có ý gì cơ?
-- Chuyện dài lắm... thật sự, tôi cũng không biết sao cô ấy thiếu kiến thức cơ bản đến vậy. Còn chẳng giống như bị đãng trí.
+
+- Tôi
+> - Nhiều thế này… nuôi phải tốn thức ăn mỗi ngày cỡ nào vậy.
+
+- Solara
+> - Nuôi tốn hay không không nằm ở đó. Chúng sản xuất phân bón cho cây trồng, và cây trồng không thể sử dụng có thể biến thành thức ăn cho chúng.
+> - Chỉ cần kiểm soát được số lượng, nó sẽ tạo thành một chu trình - đáp ứng nhu cầu lương thực hàng ngày của Arcadia đồng thời giảm thiểu tối đa lượng nông sản bị lãng phí.
+
+- Luvia
+> - Con màu trắng kia là chim non phải không?! Nó còn dễ thương hơn cả ở trong ảnh nữa!
+
+- Solara
+> - ...Cái người đi cùng ngươi đây - trông cứ như thể chưa từng thấy thứ gì trên đời bao giờ vậy. Mà ngươi bảo "ở trong ảnh" là có ý gì cơ?
+
+- Tôi
+> - Chuyện dài lắm... thật sự, tôi cũng không biết sao cô ấy thiếu kiến thức cơ bản đến vậy. Còn chẳng giống như bị đãng trí.
 - Pọc pọc?! Cục cục cục!!
-- Au! Solara, tại sao chúng lại mổ tớ vậy? Tớ đâu có giống mấy thứ đồ ăn nhìn phẳng lì…
-- Gà không chỉ dùng mỏ để ăn ngô. Ngươi càng hào hứng lao vào chúng vậy - dĩ nhiên chúng sẽ cảnh giác phòng bị.
-- Cậu có đau không ?
-- Không... tớ chỉ là bị một vết mổ trên tay…
-- Tốt, chỉ cần cậu không bị thương là tốt rồi. Cậu hấp tấp quá nên chúng bị dọa sợ đó.
-- Nếu cậu muốn sờ chúng, cậu phải từ từ. Để chúng biết ai là người mang đồ ăn cho chúng.
-- Vậy tớ sẽ đến đây thường xuyên từ bây giờ.
-- Ê, cứ muốn là làm sao được - chăm sóc chúng cần phải học đấy. Và để làm được điều đó, cần phải có giấy phép chăn nuôi gia cầm chính thức.
-- Và chăn nuôi lợn cần có giấy phép riêng, kèm theo cả kỳ thi. Chúng ta phải đảm bảo không có sai sót nào trong nguồn cung cấp thực phẩm hàng ngày cho người dân.
-- Kỳ thi sao? Được rồi, tớ sẽ chăm chỉ học.
-- Đừng đặt mục tiêu cả đời là "được phép nuôi lợn" đấy nha…
+
+- Luvia
+> - Au! Solara, tại sao chúng lại mổ tớ vậy? Tớ đâu có giống mấy thứ đồ ăn nhìn phẳng lì…
+
+- Solara
+> - Gà không chỉ dùng mỏ để ăn ngô. Ngươi càng hào hứng lao vào chúng vậy - dĩ nhiên chúng sẽ cảnh giác phòng bị.
+
+- Tôi
+> - Cậu có đau không ?
+
+- Luvia
+> - Không... tớ chỉ là bị một vết mổ trên tay…
+
+- Tôi
+> - Tốt, chỉ cần cậu không bị thương là tốt rồi. Cậu hấp tấp quá nên chúng bị dọa sợ đó.
+> - Nếu cậu muốn sờ chúng, cậu phải từ từ. Để chúng biết ai là người mang đồ ăn cho chúng.
+
+- Luvia
+> - Vậy tớ sẽ đến đây thường xuyên từ bây giờ.
+
+- Solara
+> - Ê, cứ muốn là làm sao được - chăm sóc chúng cần phải học đấy. Và để làm được điều đó, cần phải có giấy phép chăn nuôi gia cầm chính thức.
+> - Và chăn nuôi lợn cần có giấy phép riêng, kèm theo cả kỳ thi. Chúng ta phải đảm bảo không có sai sót nào trong nguồn cung cấp thực phẩm hàng ngày cho người dân.
+
+- Luvia
+> - Kỳ thi sao? Được rồi, tớ sẽ chăm chỉ học.
+
+- Solara
+> - Đừng đặt mục tiêu cả đời là "được phép nuôi lợn" đấy nha…
 - Mặc dù Solara vừa tỏ ra rất không thích nấm mới đây, nhưng cô ấy vẫn dẫn chúng tôi đi tham quan một vài phòng trồng nấm.
 - Khác với phương pháp trồng nấm tùy tiện ở tòa nhà trước đây, vốn phụ thuộc một nửa vào môi trường, nấm ở đây mọc thành từng vòng gọn gàng trên giá nuôi cấy màu trắng sữa.
 - Quan trọng hơn, các loại nấm được kiểm soát rất chặt chẽ - một giá đựng chỉ chứa duy nhất loại nấm đó.
 - Một số trong đó tôi chưa từng thấy bao giờ và thậm chí không chắc là có ăn được hay không.
-- Một số được dùng để nêm gia vị. Số khác thì thích hợp hơn cho các món súp.
-- Ở nơi chúng tôi từng sống, cũng làm súp nấm và bánh mì dẹt… nhưng luôn chỉ có vài loại quen thuộc. Kết cấu thì khác nhau, nhưng hương vị thì hầu như giống nhau.
-- Vậy nên đó là lý do tại sa-... những khu trú ẩn nhỏ bên ngoài chưa bao giờ bận tâm nghiên cứu cách chế biến tốt nhất cho từng nguyên liệu.
-- ..
-- À mà này - chị gái của cô vừa cho phép chúng tôi như vậy, thậm chí còn sắp xếp hai phòng cho chúng tôi nữa… chị ấy có phải lúc nào cũng đối xử với người lạ như thế không ?
-- Nếu chị ấy làm thế, thì Arcadia bị xâm chiếm từ lâu rồi. Các thành viên hội đồng thành phố khác cũng sẽ không để chị thoát tội dễ dàng đâu. Hừm…
-- Hiện tại, chị ấy chỉ có thể kiềm chế các ủy viên hội đồng thành phố khác bằng cách dựa vào quyền lực mà thế hệ trước để lại. …Ừ, đúng rồi đấy. Nhiều người trong số họ không hoàn toàn làm vì lợi ích của thành phố này.
-- A… cái thứ có hình dạng như này cũng là nấm sao ?!
-- Đúng.
+
+- Solara
+> - Một số được dùng để nêm gia vị. Số khác thì thích hợp hơn cho các món súp.
+
+- Tôi
+> - Ở nơi chúng tôi từng sống, cũng làm súp nấm và bánh mì dẹt… nhưng luôn chỉ có vài loại quen thuộc. Kết cấu thì khác nhau, nhưng hương vị thì hầu như giống nhau.
+
+- Solara
+> - Vậy nên đó là lý do tại sa-... những khu trú ẩn nhỏ bên ngoài chưa bao giờ bận tâm nghiên cứu cách chế biến tốt nhất cho từng nguyên liệu.
+
+- Tôi
+> - ..
+> - À mà này - chị gái của cô vừa cho phép chúng tôi như vậy, thậm chí còn sắp xếp hai phòng cho chúng tôi nữa… chị ấy có phải lúc nào cũng đối xử với người lạ như thế không ?
+
+- Solara
+> - Nếu chị ấy làm thế, thì Arcadia bị xâm chiếm từ lâu rồi. Các thành viên hội đồng thành phố khác cũng sẽ không để chị thoát tội dễ dàng đâu. Hừm…
+> - Hiện tại, chị ấy chỉ có thể kiềm chế các ủy viên hội đồng thành phố khác bằng cách dựa vào quyền lực mà thế hệ trước để lại. …Ừ, đúng rồi đấy. Nhiều người trong số họ không hoàn toàn làm vì lợi ích của thành phố này.
+
+- Luvia
+> - A… cái thứ có hình dạng như này cũng là nấm sao ?!
+
+- Solara
+> - Đúng.
 - Cô ấy nhìn Luvia tò mò chạy về phía một giá đồ ở xa. Tôi ở lại bên cạnh Solara - tôi có cảm giác cô ấy đang tìm cơ hội để nói chuyện riêng với tôi.
-- Ngươi không biết chị tôi đã làm gì đêm qua đâu, đúng không ?
-- Hả? Cô có nói rằng Selene ở lại hội đồng rất muộn.
-- …Tất cả là do ngươi và đồng bọn của ngươi đó. Haizz— đúng là hai tên ngốc.
-- Thậm chí chẳng ai cần biết mặt ngươi. Ngay khi một đơn xin nhập cư mới được nộp, điều đó chắc chắn báo hiệu rằng có người lạ đã đến Arcadia.
-- Chị ấy nói rằng ngươi đang mang trong mình thứ gì đó vô giá. Tôi chẳng thấy có gì đặc biệt ở cả hai người cả, nhưng tôi hy vọng chị ấy nói đúng.
-- Một thứ vô giá… Tôi cũng không chắc chị gái cô có ý gì.
+
+- Solara
+> - Ngươi không biết chị tôi đã làm gì đêm qua đâu, đúng không ?
+
+- Tôi
+> - Hả? Cô có nói rằng Selene ở lại hội đồng rất muộn.
+
+- Solara
+> - …Tất cả là do ngươi và đồng bọn của ngươi đó. Haizz— đúng là hai tên ngốc.
+> - Thậm chí chẳng ai cần biết mặt ngươi. Ngay khi một đơn xin nhập cư mới được nộp, điều đó chắc chắn báo hiệu rằng có người lạ đã đến Arcadia.
+> - Chị ấy nói rằng ngươi đang mang trong mình thứ gì đó vô giá. Tôi chẳng thấy có gì đặc biệt ở cả hai người cả, nhưng tôi hy vọng chị ấy nói đúng.
+
+- Tôi
+> - Một thứ vô giá… Tôi cũng không chắc chị gái cô có ý gì.
 - Thật ra tôi biết.
-- Chị ấy không chịu nói với tôi, nhưng chắc chắn chị ấy đã nói với hội đồng rồi. Họ đã họp bàn về chuyện đó đến tận khuya. Chị ấy tối qua chẳng về nhà.
+
+- Solara
+> - Chị ấy không chịu nói với tôi, nhưng chắc chắn chị ấy đã nói với hội đồng rồi. Họ đã họp bàn về chuyện đó đến tận khuya. Chị ấy tối qua chẳng về nhà.
 - Có lẽ Selene đã đoán được rằng chúng ta có thể đánh thức mọi người khỏi những giấc mơ do mưa gây ra bằng một số phương pháp đặc biệt nào đó.
 - Và vì lý do nào đó, chị ý chưa bảo Solara.
 - Chắc hẳn cô ấy phải có lý do riêng, tôi nghĩ vậy. Thế nên việc nói cho Solara biết không phải là tôi.
-- Sau đó, tôi có thể nhờ hỗ trợ tôi một số công việc bảo trì.
-- Như vậy ổn không? Đây cũng là một cách để các ngươi tạo dựng vị thế của mình ở đây.
-- Tôi không vấn đề. Nhưng mà Luvia…
-- Đúng là cô ta hợp làm việc nông trại hơn. Nhưng một đứa con gái không giỏi nhiều lĩnh vực sẽ không thể tồn tại trong thế giới này. Tôi sẽ cho cô ấy cơ hội để chứng tỏ khả năng của mình.
+
+- Solara
+> - Sau đó, tôi có thể nhờ hỗ trợ tôi một số công việc bảo trì.
+> - Như vậy ổn không? Đây cũng là một cách để các ngươi tạo dựng vị thế của mình ở đây.
+
+- Tôi
+> - Tôi không vấn đề. Nhưng mà Luvia…
+
+- Solara
+> - Đúng là cô ta hợp làm việc nông trại hơn. Nhưng một đứa con gái không giỏi nhiều lĩnh vực sẽ không thể tồn tại trong thế giới này. Tôi sẽ cho cô ấy cơ hội để chứng tỏ khả năng của mình.
 - Khi Luvia quay lại, cậu ấy thấy Solara đang nhìn mình với vẻ trầm ngâm, và nghiêng đầu khó hiểu.
-- Không có gì đâu. Cả hai chỉ đang bàn bạc về công việc thôi.
-- Mình có thể có công việc sao? Tuyệt quá đi.
-- Tràn đầy năng lượng luôn ha ?
+
+- Tôi
+> - Không có gì đâu. Cả hai chỉ đang bàn bạc về công việc thôi.
+
+- Luvia
+> - Mình có thể có công việc sao? Tuyệt quá đi.
+
+- Tôi
+> - Tràn đầy năng lượng luôn ha ?
 - Cậu ý vẫn như vậy. Đầy thứ cậu ý còn chưa hiểu, nhưng lại chẳng bao giờ than vãn.
 - Chắc trừ lúc ăn nấm thôi.
-- Giờ cũng đã muộn rồi... ngó nghiêng xong chưa? Giờ quay lại Khu 4 đi ăn thôi.
+
+- Solara
+> - Giờ cũng đã muộn rồi... ngó nghiêng xong chưa? Giờ quay lại Khu 4 đi ăn thôi.
+
 - Chúng tôi đi xe mỏ trở lại khu dân cư cùng với Solara, rồi cô ấy dẫn chúng tôi đến một nhà hàng.
+
 - Nhà hàng trông rộng gần bằng cả một tầng của trung tâm thương mại trên mặt đất. Một tấm biển bên ngoài hiển thị các món ăn được đề xuất bằng chữ lớn.
-- Chị tôi cùng tôi hay ăn ở đây. Khi nào bận quá thì có thể mang đồ ăn đi.
-- A... Chị đó hả ?
+
+- Solara
+> - Chị tôi cùng tôi hay ăn ở đây. Khi nào bận quá thì có thể mang đồ ăn đi.
+> - A... Chị đó hả ?
 - Từ phía bên kia phòng, Solara nhìn thấy Selene ở quầy phục vụ và vội vàng chạy ra chỗ cô ấy.
+
 - Selene đang cầm một khay đầy thức ăn mà cả Luvia lẫn tôi chưa từng ăn bao giờ.
-- A, hai người đến rồi à... thế nào rồi? Chuyến đi tham quan do Solara ra sao ?
-- ...Quá đã luôn. Tôi không nghĩ một nơi như này tồn tại, hay một cuộc sống như này.
-- Nơi này được xây dựng nhờ nỗ lực to lớn của rất nhiều người. Chúng tôi hy vọng nó có thể tiếp tục tồn tại và trở nên tốt hơn nữa.
-- Mấy con gà và con lợn dễ thương quá đi.
-- Thế à? Chị cũng nghĩ chúng dễ thương lắm! Nhưng chẳng bao giờ lại gần được - hễ cứ lại gần, là mấy con gà mổ cho đấy.
-- A, chúng cũng mổ em đấy…
+
+- Selene
+> - A, hai người đến rồi à... thế nào rồi? Chuyến đi tham quan do Solara ra sao ?
+
+- Tôi
+> - ...Quá đã luôn. Tôi không nghĩ một nơi như này tồn tại, hay một cuộc sống như này.
+
+- Selene
+> - Nơi này được xây dựng nhờ nỗ lực to lớn của rất nhiều người. Chúng tôi hy vọng nó có thể tiếp tục tồn tại và trở nên tốt hơn nữa.
+
+- Luvia
+> - Mấy con gà và con lợn dễ thương quá đi.
+
+- Selene
+> - Thế à? Chị cũng nghĩ chúng dễ thương lắm! Nhưng chẳng bao giờ lại gần được - hễ cứ lại gần, là mấy con gà mổ cho đấy.
+
+- Luvia
+> - A, chúng cũng mổ em đấy…
 - Solara đứng đó, tay cầm khay vừa lấy đồ ăn xong, nhìn Selene với vẻ mặt lo lắng.
-- Chị ơi, mấy người đó không gây khó dễ gì cho chị đâu, phải không?
-- Không hẳn vậy. Họ cũng đang nghĩ về tương lai của Arcadia đấy.
-- Solara và chị sẽ đi tìm chỗ ngồi. Mọi người lấy đồ ăn rồi đến ngồi cùng nhé.
+
+- Solara
+> - Chị ơi, mấy người đó không gây khó dễ gì cho chị đâu, phải không?
+
+- Selene
+> - Không hẳn vậy. Họ cũng đang nghĩ về tương lai của Arcadia đấy.
+> - Solara và chị sẽ đi tìm chỗ ngồi. Mọi người lấy đồ ăn rồi đến ngồi cùng nhé.
 - Đằng sau quầy phục vụ là vài người phụ nữ đang bận rộn múc cơm với các món ăn, mang khay rỗng vào trong nhà bếp rồi mang ra những món ăn vừa nấu xong vẫn còn bốc khói nghi ngút từ nồi.
-- Ồ? Lính mới à. Mà hai người trông có vẻ đang nói chuyện rất vui vẻ với Chủ tịch Selene - hai người là nhà ngoại giao phải không?
-- Chúng tôi là trợ lý của Selene. Chúng tôi đã được phân công làm việc tại các trung tâm trú ẩn khác.
+
+- Cô bán hàng ở căng tin
+> - Ồ? Lính mới à. Mà hai người trông có vẻ đang nói chuyện rất vui vẻ với Chủ tịch Selene - hai người là nhà ngoại giao phải không?
+
+- Tôi
+> - Chúng tôi là trợ lý của Selene. Chúng tôi đã được phân công làm việc tại các trung tâm trú ẩn khác.
 - Bịa đấy. Thành thật mà nói, tôi thậm chí còn không chắc "những nơi trú ẩn khác" có thực sự tồn tại hay không.
-- Thảo nào bọn cô chẳng gặp cháu quanh đây thường xuyên. Chắc hẳn bận rộn lắm nhỉ ?
-- Ưm... đúng, bận lắm.
+
+- Cô bán hàng ở căng tin
+> - Thảo nào bọn cô chẳng gặp cháu quanh đây thường xuyên. Chắc hẳn bận rộn lắm nhỉ ?
+
+- Tôi
+> - Ưm... đúng, bận lắm.
 - Hên vãi đái, nói đại thế mà cũng trúng.
-- Hahaha, để cô sẽ lén cho thêm một ít cơm vào khay của cháu. Đừng làm việc quá sức nhé.
+
+- Cô bán hàng ở căng tin
+> - Hahaha, để cô sẽ lén cho thêm một ít cơm vào khay của cháu. Đừng làm việc quá sức nhé.
 - Cô bán hàng ở căng tin đem cho tôi một khay nặng hơn tôi tưởng, đầy ắp cơm nóng, trứng và rau. Mùi thơm lan tỏa theo hơi nước và xộc vào mũi tôi.
-- Úi dồi ôi... nhiều cỡ này luôn? Có sao không đó ?
-- Đừng bận tâm, ăn lẹ lẹ đi - kẻo đồ ăn nguội mất cả ngon !
-- Cả cháu nữa, cô gái trẻ - ăn nhon chóng nhớn. Nhìn cánh tay cánh chân như da bọc xương kìa!
-- A, cháu cảm ơn ạ.
+
+- Tôi
+> - Úi dồi ôi... nhiều cỡ này luôn? Có sao không đó ?
+
+- Cô bán hàng ở căng tin
+> - Đừng bận tâm, ăn lẹ lẹ đi - kẻo đồ ăn nguội mất cả ngon !
+> - Cả cháu nữa, cô gái trẻ - ăn nhon chóng nhớn. Nhìn cánh tay cánh chân như da bọc xương kìa!
+
+- Luvia
+> - A, cháu cảm ơn ạ.
+
 - Luvia và tôi mang khay của mình đến bàn của Selene. Solara đã ngồi sẵn bên cạnh cô ấy.
-- Mong đồ ăn hợp khẩu vị với ngươi.
-- Không thì cũng đừng lãng phí.
-- Nhìn hai người vậy, chắc không lãng phí đâu.
-- Chuẩn rồi. Nơi cô sống và nơi chúng tôi từng sống như hai thế giới luôn ấy.
-- Cô còn chẳng phải lo mưa, có rất nhiều không gian sinh sống, rất nhiều loại thức ăn, điện đóm và cả kênh liên lạc ổn định.
-- Chúng tôi thì... chẳng có nổi cái nào.
-- …Vì chị đã coi em như những người trong nhóm, nên chị sẽ không giấu giếm điều này.
-- Chị đã thảo luận vấn đề này với các thành viên hội đồng. Gần đây, họ có vẻ… khá nhạy cảm với người ngoài.
-- Chị hy vọng em sẽ có thể tham gia vào công việc của thành phố trong thời gian tới và giành được sự tin tưởng của mọi người.
-- Vâng, em đã suy nghĩ về điều đó rồi. Khi đến lúc thích hợp, ngươi sẽ làm việc cùng tôi. Cho dù là bảo trì hay công việc nông trại, tôi đều có thể tìm được vị trí phù hợp cho ngươi.
-- Chỉ vì chị gái tôi thôi. Nếu không thì tôi sẽ không làm thế. Mong ngươi hiểu điều đó.
-- Đã rõ.
-- Tôi muốn nói rõ ngay từ đầu: Tôi không thể đảm bảo các vị trí này sẽ "phù hợp". Đây không phải là cuộc đàm phán - đây chỉ là thông báo. Ngươi có thể chấp nhận điều đó không?
-- Đừng lo. Dù là công việc gì, tôi cũng sẽ thử chí ít nhất một lần. Sống ở trên mặt đất còn khó chán so với dăm ba đống này.
-- Hừm... tự tin đấy. Tôi không vấn đề gì - chúng tôi cần những người xung phong làm việc nặng.
-- Được rồi được rồi - ăn đi các em, kẻo nguội đó. Xíu nữa còn cả đống thời gian nói chuyện công việc.
+
+- Selene
+> - Mong đồ ăn hợp khẩu vị với ngươi.
+
+- Solara
+> - Không thì cũng đừng lãng phí.
+> - Nhìn hai người vậy, chắc không lãng phí đâu.
+
+- Tôi
+> - Chuẩn rồi. Nơi cô sống và nơi chúng tôi từng sống như hai thế giới luôn ấy.
+> - Cô còn chẳng phải lo mưa, có rất nhiều không gian sinh sống, rất nhiều loại thức ăn, điện đóm và cả kênh liên lạc ổn định.
+> - Chúng tôi thì... chẳng có nổi cái nào.
+
+- Selene
+> - …Vì chị đã coi em như những người trong nhóm, nên chị sẽ không giấu giếm điều này.
+> - Chị đã thảo luận vấn đề này với các thành viên hội đồng. Gần đây, họ có vẻ… khá nhạy cảm với người ngoài.
+> - Chị hy vọng em sẽ có thể tham gia vào công việc của thành phố trong thời gian tới và giành được sự tin tưởng của mọi người.
+
+- Solara
+> - Vâng, em đã suy nghĩ về điều đó rồi. Khi đến lúc thích hợp, ngươi sẽ làm việc cùng tôi. Cho dù là bảo trì hay công việc nông trại, tôi đều có thể tìm được vị trí phù hợp cho ngươi.
+> - Chỉ vì chị gái tôi thôi. Nếu không thì tôi sẽ không làm thế. Mong ngươi hiểu điều đó.
+
+- Tôi
+> - Đã rõ.
+
+- Solara
+> - Tôi muốn nói rõ ngay từ đầu: Tôi không thể đảm bảo các vị trí này sẽ "phù hợp". Đây không phải là cuộc đàm phán - đây chỉ là thông báo. Ngươi có thể chấp nhận điều đó không?
+
+- Tôi
+> - Đừng lo. Dù là công việc gì, tôi cũng sẽ thử chí ít nhất một lần. Sống ở trên mặt đất còn khó chán so với dăm ba đống này.
+
+- Solara
+> - Hừm... tự tin đấy. Tôi không vấn đề gì - chúng tôi cần những người xung phong làm việc nặng.
+
+- Selene
+> - Được rồi được rồi - ăn đi các em, kẻo nguội đó. Xíu nữa còn cả đống thời gian nói chuyện công việc.
 - Mùi thức ăn và cơn đói trong bụng khiến tôi ăn ngấu nghiến. Bên cạnh tôi, Luvia cũng ăn từng miếng lớn, rất ngon lành.
 - Tôi có thể thấy trên khuôn mặt Luvia hiện ra hai chữ hạnh phúc — một niềm hạnh phúc thuần khiết đến mức gần như khiến người ta phải wow.
 
@@ -1620,47 +3007,86 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 <VnPlayer episode="main_story_2_5" title="2.5" />
 
 - Trong phòng họp hội đồng, Selene đứng ở vị trí trung tâm.
-- Hai cư dân này có thể hoạt động trên bề mặt mà không cần biện pháp bảo vệ hiệu quả. Cơ chế vẫn chưa rõ ràng, nhưng sự thật thì hiển nhiên trước mắt chúng ta.
-- Giờ đây, các chip xử lý cốt lõi trong hệ thống thành phố đang xuống cấp nghiêm trọng, tôi muốn tổ chức lại đội thám hiểm xoay quanh hai chip này và tìm kiếm công nghệ chip được niêm phong trong viện nghiên cứu ngoại ô.
-- Mới đây, vì sự cứng đầu của cô mà cả một đội đã thiệt mạng. Cô không định nói gì về chuyện đó sao?
-- Hơn nữa, các kỹ sư đang nỗ lực hết sức để phát triển các con chip thay thế nhằm giải quyết vấn đề lão hóa của máy. Chúng ta không cần và cũng không thể chấp nhận rủi ro này.
-- Hai người đó... vì cô đã nhận họ vào rồi, chúng ta không thể cứ thế ném họ đi được.
-- Tôi nghĩ chúng ta có thể quan sát trước rồi quyết định sau.
-- Nhưng tôi xin nói rõ: cô là Archon của Arcadia. Đừng dẫn dắt mọi người đến sự diệt vong chỉ vì sự tùy tiện của riêng mình.
-- Chúng ta cần khẩn trương thiết lập lại liên lạc giữa các khu trú ẩn tạm thời. Những người sống sót ở gần đó đang sống trong hoàn cảnh vô cùng khó khăn.
-- Giải cứu những người sống sót bên ngoài là một trong những nhiệm vụ chính của chúng ta.
-- Việc tìm kiếm thành công những ứng viên có khả năng chống chịu tác động của môi trường khiến việc lập lại đội ngũ thăm dò trở thành một canh bạc có lợi nhuận rất cao.
-- Tôi hy vọng mọi người sẽ lắng nghe và phân tích lập luận của tôi…
+
+- Selene
+> - Hai cư dân này có thể hoạt động trên bề mặt mà không cần biện pháp bảo vệ hiệu quả. Cơ chế vẫn chưa rõ ràng, nhưng sự thật thì hiển nhiên trước mắt chúng ta.
+> - Giờ đây, các chip xử lý cốt lõi trong hệ thống thành phố đang xuống cấp nghiêm trọng, tôi muốn tổ chức lại đội thám hiểm xoay quanh hai chip này và tìm kiếm công nghệ chip được niêm phong trong viện nghiên cứu ngoại ô.
+
+- Thành viên Hội đồng A
+> - Mới đây, vì sự cứng đầu của cô mà cả một đội đã thiệt mạng. Cô không định nói gì về chuyện đó sao?
+> - Hơn nữa, các kỹ sư đang nỗ lực hết sức để phát triển các con chip thay thế nhằm giải quyết vấn đề lão hóa của máy. Chúng ta không cần và cũng không thể chấp nhận rủi ro này.
+
+- Thành viên Hội đồng B
+> - Hai người đó... vì cô đã nhận họ vào rồi, chúng ta không thể cứ thế ném họ đi được.
+> - Tôi nghĩ chúng ta có thể quan sát trước rồi quyết định sau.
+> - Nhưng tôi xin nói rõ: cô là Archon của Arcadia. Đừng dẫn dắt mọi người đến sự diệt vong chỉ vì sự tùy tiện của riêng mình.
+
+- Selene
+> - Chúng ta cần khẩn trương thiết lập lại liên lạc giữa các khu trú ẩn tạm thời. Những người sống sót ở gần đó đang sống trong hoàn cảnh vô cùng khó khăn.
+> - Giải cứu những người sống sót bên ngoài là một trong những nhiệm vụ chính của chúng ta.
+> - Việc tìm kiếm thành công những ứng viên có khả năng chống chịu tác động của môi trường khiến việc lập lại đội ngũ thăm dò trở thành một canh bạc có lợi nhuận rất cao.
+> - Tôi hy vọng mọi người sẽ lắng nghe và phân tích lập luận của tôi…
+
 - Ba ngày sau, tôi được phân công làm việc tại Khu Phát Triển. Còn Luvia, vì đam mê trồng hoa nên cô ấy được phân công làm việc ở trang trại.
 - Tôi đến lối đi, chuẩn bị đẩy xe đến khu vực phát triển. Sân ga chật kín người, dường như là công nhân cũng đang đến đó như tôi.
-- Không ngờ lại có nhiều người thế này khi dậy sớm... Không biết Luvia có xoay xở được ở đó không ta ?
-- Đồng chí! Anh là lính mới à?
+
+- Tôi
+> - Không ngờ lại có nhiều người thế này khi dậy sớm... Không biết Luvia có xoay xở được ở đó không ta ?
+
+- Công nhân gần đó
+> - Đồng chí! Anh là lính mới à?
 
 <StoryChoice :options='["Tôi vừa được Chủ tịch Selene điều chuyển công tác.", "Dạo này hình như tôi cứ phải trả lời câu hỏi này liên tục."]'>
 
 <template #branch-0>
 
-- Ồ, từ phía Chủ tịch Selene à. Chắc hẳn cuộc sống của thường rất khó khăn.
-- Vâng, và tôi phải chạy lên mặt đất liên tục. Khá nguy hiểm đấy.
-- Đó thực sự... không phải là công việc mà tôi dám nhận.
-- Công việc ở khu phát triển như thế nào?
-- Mệt và nóng. Như cái lò tôn.
-- Nhưng so với công việc trên mặt đất của anh, ít nhất nó cũng đỡ nguy hiểm hơn.
-- Việc đấy ở đây... cũng nguy hiểm sao ?
-- Dĩ nhiên rồi. Ngay cả những công trình ngầm cạnh Arcadia cũng chưa được sửa chữa trong hai hoặc ba trăm năm nay. Nếu chúng sụp đổ, không biết bao nhiêu đồng đội sẽ thiệt mạng.
-- Ngay cả trong điều kiện bình thường, vẫn có những tai nạn xây dựng gây thương tích nghiêm trọng. Người mới vào nghề, nhớ tuân thủ các quy tắc an toàn nhé.
+- Công nhân gần đó
+> - Ồ, từ phía Chủ tịch Selene à. Chắc hẳn cuộc sống của thường rất khó khăn.
+
+- Tôi
+> - Vâng, và tôi phải chạy lên mặt đất liên tục. Khá nguy hiểm đấy.
+
+- Công nhân gần đó
+> - Đó thực sự... không phải là công việc mà tôi dám nhận.
+
+- Tôi
+> - Công việc ở khu phát triển như thế nào?
+
+- Công nhân gần đó
+> - Mệt và nóng. Như cái lò tôn.
+
+- Công nhân đang lau mồ hôi
+> - Nhưng so với công việc trên mặt đất của anh, ít nhất nó cũng đỡ nguy hiểm hơn.
+
+- Tôi
+> - Việc đấy ở đây... cũng nguy hiểm sao ?
+
+- Công nhân đang lau mồ hôi
+> - Dĩ nhiên rồi. Ngay cả những công trình ngầm cạnh Arcadia cũng chưa được sửa chữa trong hai hoặc ba trăm năm nay. Nếu chúng sụp đổ, không biết bao nhiêu đồng đội sẽ thiệt mạng.
+> - Ngay cả trong điều kiện bình thường, vẫn có những tai nạn xây dựng gây thương tích nghiêm trọng. Người mới vào nghề, nhớ tuân thủ các quy tắc an toàn nhé.
 
 </template>
 
 <template #branch-1>
 
-- Haha, chắc hẳn người nhập cư nào cũng từng trải qua chuyện này!
-- Nhưng đừng lo. Cứ làm việc chăm chỉ và làm như chúng tôi, sẽ không có vấn đề gì đâu.
-- Công việc ở khu vực phát triển nó như thế nào?
-- Mệt và nóng. Như cái lò tôn.
-- Và ồn vãi linh hồn. Tai như muốn điếc.
-- Tôi không hình dung ra được như nào…
-- Đến nơi khác được trải thôi.
+- Công nhân gần đó
+> - Haha, chắc hẳn người nhập cư nào cũng từng trải qua chuyện này!
+> - Nhưng đừng lo. Cứ làm việc chăm chỉ và làm như chúng tôi, sẽ không có vấn đề gì đâu.
+
+- Tôi
+> - Công việc ở khu vực phát triển nó như thế nào?
+
+- Công nhân gần đó
+> - Mệt và nóng. Như cái lò tôn.
+
+- Công nhân đang lau mồ hôi
+> - Và ồn vãi linh hồn. Tai như muốn điếc.
+
+- Tôi
+> - Tôi không hình dung ra được như nào…
+
+- Công nhân đang lau mồ hôi
+> - Đến nơi khác được trải thôi.
 
 </template>
 
@@ -1669,8 +3095,10 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Xe mỏ bắt đầu đi, còn tôi thì chen chúc với đám công nhân đang đi đến khu phát triển.
 - Khu phát triển nằm ở xa hơn nhiều so với các khu nhà máy và nông trại, và bụi càng dày đặc hơn sau mỗi bước chân.
 - Có lẽ tôi sẽ chứng kiến một cảnh tượng khác mà mình chưa từng thấy trước đây. Tôi bắt đầu cảm thấy căng thẳng.
-- Cụ thể như sau: Arcadia ban đầu có khu trung tâm là số 1 và khu nông trại là số 2. Sau đó, khu công nghiệp là số 3 và khu dân cư là số 4 được xây dựng khi cần thiết, tạo thành một hình vuông theo chiều kim đồng hồ.
-- Khu Mới là số 5 hoàn toàn không nằm trong quy hoạch thành phố ban đầu. Nó được xây dựng trên nền các hầm trú ẩn thời chiến không có hệ thống thông gió.
+
+- Công nhân (Lau mồ hôi)
+> - Cụ thể như sau: Arcadia ban đầu có khu trung tâm là số 1 và khu nông trại là số 2. Sau đó, khu công nghiệp là số 3 và khu dân cư là số 4 được xây dựng khi cần thiết, tạo thành một hình vuông theo chiều kim đồng hồ.
+> - Khu Mới là số 5 hoàn toàn không nằm trong quy hoạch thành phố ban đầu. Nó được xây dựng trên nền các hầm trú ẩn thời chiến không có hệ thống thông gió.
 - Chiếc xe đẩy dừng lại ở một sân ga. Theo sự sắp xếp của người quản lý sân ga, tôi thay quần áo bảo hộ và đội mũ bảo hiểm.
 - Công trường xây dựng thực tế vẫn còn khá xa. Ở đó không có đường ray, nên chúng tôi phải đi bộ.
 - Những ngọn đèn trông giống như đèn công trường tạm thời... và bụi ngày càng nhiều.
@@ -1682,145 +3110,316 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Ở cuối con đường là một cỗ máy khổng lồ hình đĩa. Tiếng gầm rú phát ra từ đó.
 - Chỉ đến lúc đó tôi mới nhận ra tất cả máy móc và nhân viên đều đang hoạt động trên bệ của cỗ máy đó.
 - Gọi nó là một cỗ máy nghe có vẻ không đúng. Nó giống một khu trú ẩn di động hơn.
-- Khoảng cách hầu như không thay đổi so với hôm qua. Hiệu suất công việc gần đây khá kém.
+
+- Công nhân gần đó
+> - Khoảng cách hầu như không thay đổi so với hôm qua. Hiệu suất công việc gần đây khá kém.
 - Tôi giữ im lặng, sợ để lộ rằng mình không biết gì cả.
 - Tôi cùng các công nhân khác đến cổng công trường.
 - Một người đàn ông đội mũ bảo hiểm màu khác đứng đó, chân gác lên những chồng thùng carton, tay cầm loa phóng thanh.
-- Anh, anh và anh. Ba người các anh sẽ trải lưới thép hôm nay.
-- Anh và người kia đi lắp bu lông vào "TBM".
-- Còn anh. Đúng anh đấy, ngó nghiêng vừa thôi, {player.name}. Anh là người của bên Đồng chí Selene cử đến, đúng không?
-- Anh nhận ra tôi sao ?
-- Tối qua Solara gọi điện nói. Tên tôi là Sergay. Cho tôi hỏi, đồng chí, anh biết bao nhiêu về kỹ thuật đào hầm bằng khiên chắn?
-- ...Không nhiều.
-- Rồi, thôi được. Lên giàn khoan và giúp công nhân treo bạt chống thấm nước. Không cần biết nhiều, chỉ cần sức lao động thôi.
+
+- Quản đốc Sergay
+> - Anh, anh và anh. Ba người các anh sẽ trải lưới thép hôm nay.
+> - Anh và người kia đi lắp bu lông vào "TBM".
+> - Còn anh. Đúng anh đấy, ngó nghiêng vừa thôi, {player.name}. Anh là người của bên Đồng chí Selene cử đến, đúng không?
+
+- Tôi
+> - Anh nhận ra tôi sao ?
+
+- Quản đốc Sergay
+> - Tối qua Solara gọi điện nói. Tên tôi là Sergay. Cho tôi hỏi, đồng chí, anh biết bao nhiêu về kỹ thuật đào hầm bằng khiên chắn?
+
+- Tôi
+> - ...Không nhiều.
+
+- Quản đốc Sergay
+> - Rồi, thôi được. Lên giàn khoan và giúp công nhân treo bạt chống thấm nước. Không cần biết nhiều, chỉ cần sức lao động thôi.
 - Đó lại là một việc mà tôi giỏi.
-- Tiếp! Anh! Đi đến hệ thống thông gió !
+
+- Quản đốc Sergay
+> - Tiếp! Anh! Đi đến hệ thống thông gió !
+
 - Sergay tiếp tục bàn giao công việc. Tôi cầm vài món dụng cụ rồi đi đến dàn giáo.
+
 - Các công nhân phía trước đã sử dụng máy trải bạt để dựng lên một số tấm bạt. Họ đứng trên các bậc thang để cố định và làm phẳng chúng.
-- Tôi được cử đến đây để giúp đỡ.
-- Ồ! Đi lên trên làm phẳng tấm bạt ra đi !
-- Ok.
+
+- Tôi
+> - Tôi được cử đến đây để giúp đỡ.
+
+- Công nhân lao động
+> - Ồ! Đi lên trên làm phẳng tấm bạt ra đi !
+
+- Tôi
+> - Ok.
 - Tôi nhanh nhẹn leo lên và nhanh chóng đến đỉnh. Tôi không hề biết máy hoạt động như thế nào, nhưng nó khá tiện dụng ngay cả khi không hiểu nguyên lý hoạt động.
 - Dưới sự hướng dẫn bằng lời nói của các công nhân, tôi nhanh chóng trải phẳng tấm bạt.
-- Nhanh tay lẹ mắt đó. Hay lắm !
-- Do được anh hướng dẫn chu đáo cả.
-- Ể, nói chuyện đủ rồi đồng chí, mau đặt cái tiếp theo đi !
+
+- Công nhân lao động
+> - Nhanh tay lẹ mắt đó. Hay lắm !
+
+- Tôi
+> - Do được anh hướng dẫn chu đáo cả.
+
+- Công nhân đang khiêng tấm bạt
+> - Ể, nói chuyện đủ rồi đồng chí, mau đặt cái tiếp theo đi !
+
 - Mọi người lại bận rộn lần nữa.
 - Đường hầm ngột ngạt và nóng nực. Lần cuối cùng tôi cảm thấy nóng như thế này là khi mặc những bộ quần áo mưa cũ. Mồ hôi túa ra từ trán và thấm ướt quần áo.
 - Thời gian trôi qua, không hề hay biết.
-- Đã đến trưa rồi! Các đồng chí, nghỉ giải lao!
-- Đồ ăn ở đây! Xếp hàng tại sân ga và nhận đồ ăn theo hàng lối !
-- Đến giờ nghỉ giải lao rồi, các đồng chí! Lau mồ hôi và ăn trưa thôi!
+
+- Quản đốc Sergay
+> - Đã đến trưa rồi! Các đồng chí, nghỉ giải lao!
+> - Đồ ăn ở đây! Xếp hàng tại sân ga và nhận đồ ăn theo hàng lối !
+
+- Công nhân đang làm phẳng tấm bạt
+> - Đến giờ nghỉ giải lao rồi, các đồng chí! Lau mồ hôi và ăn trưa thôi!
+
 - Sau một lúc nghỉ ngơi ngắn, tôi rời công trường cùng các công nhân và đi lên giàn khoan để lấy bữa trưa.
 - Chiếc hộp cơm bằng kim loại đựng đầy thức ăn, trên nắp có những giọt nước đọng.
 - Không có chỗ ngồi trên sân ga. Mọi người đều dựa vào tường, ngồi ở mép hoặc ngồi xổm trên mặt đất để ăn.
 - Có lẽ vì chúng tôi đã làm việc cả buổi sáng nên bữa ăn ngon hơn bình thường.
-- Này đồng chí, sếp Sergay nói anh được chuyển từ chỗ Chủ tịch Selene phải không?
-- Vậy anh có biết chuyện gì đang xảy ra trên mặt đất không ?
-- À thì…
+
+- Công nhân đang nghỉ ngơi
+> - Này đồng chí, sếp Sergay nói anh được chuyển từ chỗ Chủ tịch Selene phải không?
+> - Vậy anh có biết chuyện gì đang xảy ra trên mặt đất không ?
+
+- Tôi
+> - À thì…
 - Tôi thể nói rõ được. Không thể nói chắc chắn là không có người nào còn sống sót ở độ cao vài dặm trên đó.
-- Haizz... khi mà chúng tôi còn liên lạc được với bên ngoài thì ít nhất còn biết được vài thông tin. Nhưng giờ liên lạc bị cắt…
-- Ngay cả khi chúng tôi biết chúng tôi có thể sẽ không bao giờ được nhìn trăng với trời trong đời, chúng tôi vẫn cần có gì đó để níu kéo. Xin đó.
-- Được rồi…
+
+- Công nhân đang nghỉ ngơi
+> - Haizz... khi mà chúng tôi còn liên lạc được với bên ngoài thì ít nhất còn biết được vài thông tin. Nhưng giờ liên lạc bị cắt…
+> - Ngay cả khi chúng tôi biết chúng tôi có thể sẽ không bao giờ được nhìn trăng với trời trong đời, chúng tôi vẫn cần có gì đó để níu kéo. Xin đó.
+
+- Tôi
+> - Được rồi…
+
 - Tôi đang định nói thì bộ đàm của tôi vang lên.
 - Thật sự, tôi còn chẳng biết có thứ này trong túi cơ mà, nên khi có âm thanh phát ra từ ngực khiến tôi giật hết cả mình.
-- Xin lỗi, tôi có chút việc.
-- Tôi vội vàng ngồi dậy, lấy chiếc radio ra và giơ lên.
-- ...Alo? Ai đấy ?
-- Qua Khu 2 ngay. Có chuyện rồi.
-- Khu 2? Luvia đang ở đó hả?
-- Cô ta đang chỗ tôi. Sau khi ngươi đến, hãy qua chỗ chúng ta đã trồng ngô hôm qua và tiếp quản công việc của tôi.
-- Sao lại là tôi? Có nhiều người ở đó lắm mà.
-- Cứ qua đi rồi khác biết tại sao. Cúp máy đây !
-- Tôi cố gọi cho Solara lần nữa, nhưng không thấy trả lời.
-- Vậy ra cháu là cô bé mà Chủ tịch Selene bảo tới đây giúp đúng không? Chào người mới nhé !
-- A, vâng, là cháu.
-- Trước khi làm việc, thì đi vào phòng nghỉ rồi lấy găng tay đeo vào với giày chống nước, không là bẩn hết quần áo đấy.
-- Hôm nay, việc đầu tiên là làm quen với các cây trồng và học kiến thức ở các khu trồng trọt. Để các dì dạy cháu nhé, đừng sợ, họ không nghiêm khắc đâu.
-- Ưm...
-- Chào buổi sáng nha. Hửm? Cháu bé này là... ?
-- Cháu ở đây để giúp ạ.
-- Ồ, cô bé à. Cô nghe bảo cháu chưa từng làm nông phải không ?
-- Dạ. Dì phụ trách nói... là dì đi dạy cháu…
-- Hahaha rồi rồi, đừng căng thẳng quá! Các dì sẽ dạy cháu từ đầu luôn nhé !
-- Mọi người vui vì thấy một gương mặt mới lắm đấy. Cháu không phải sợ nhé.
-- Quá chuẩn. Người mới đem đến làn gió mới khi làm việc !
-- Cứ gọi dì là Alina.
-- Dì là Zoya nhé.
-- Thế tên cháu là gì ?
-- ...Luvia.
-- Tên hay đó, khá hiếm gặp đó nha.
-- Trông cháu thật rạng rỡ và lạc quan. Chủ tịch Selene và Tư lệnh Solara chắc hẳn rất vui khi có cháu ở bên cạnh lắm đó.
-- Bố mẹ của chúng mất sớm... những đứa trẻ nhỏ bé ấy đã phải gánh vác nhiều trách nhiệm đến thế, chỉ nghĩ đến thôi cũng thấy đau lòng…
-- Không có bố mẹ ?
-- Á! Đừng nói thế trước mặt họ nha !
-- Dạ vâng…
-- Đừng đứng đó mãi vậy, làm thôi !
-- Dạ... vâng ạ.
-- Hì hì, cháu mà đang trồng trọt, thì bước đầu là nhận biết loại cây đã.
 
-<StoryChoice :options='["planted_state.2 >= planted", "其它情况"]'>
+- Tôi
+> - Xin lỗi, tôi có chút việc.
+
+- Tôi vội vàng ngồi dậy, lấy chiếc radio ra và giơ lên.
+
+- Tôi
+> - ...Alo? Ai đấy ?
+
+- Solara
+> - Qua Khu 2 ngay. Có chuyện rồi.
+
+- Tôi
+> - Khu 2? Luvia đang ở đó hả?
+
+- Solara
+> - Cô ta đang chỗ tôi. Sau khi ngươi đến, hãy qua chỗ chúng ta đã trồng ngô hôm qua và tiếp quản công việc của tôi.
+
+- Tôi
+> - Sao lại là tôi? Có nhiều người ở đó lắm mà.
+
+- Solara
+> - Cứ qua đi rồi khác biết tại sao. Cúp máy đây !
+
+- Tôi cố gọi cho Solara lần nữa, nhưng không thấy trả lời.
+
+- Quản lý trang trại
+> - Vậy ra cháu là cô bé mà Chủ tịch Selene bảo tới đây giúp đúng không? Chào người mới nhé !
+
+- Luvia
+> - A, vâng, là cháu.
+
+- Quản lý trang trại
+> - Trước khi làm việc, thì đi vào phòng nghỉ rồi lấy găng tay đeo vào với giày chống nước, không là bẩn hết quần áo đấy.
+> - Hôm nay, việc đầu tiên là làm quen với các cây trồng và học kiến thức ở các khu trồng trọt. Để các dì dạy cháu nhé, đừng sợ, họ không nghiêm khắc đâu.
+
+- Luvia
+> - Ưm...
+
+- Alina
+> - Chào buổi sáng nha. Hửm? Cháu bé này là... ?
+
+- Luvia
+> - Cháu ở đây để giúp ạ.
+
+- Alina
+> - Ồ, cô bé à. Cô nghe bảo cháu chưa từng làm nông phải không ?
+
+- Luvia
+> - Dạ. Dì phụ trách nói... là dì đi dạy cháu…
+
+- Alina
+> - Hahaha rồi rồi, đừng căng thẳng quá! Các dì sẽ dạy cháu từ đầu luôn nhé !
+
+- Zoya
+> - Mọi người vui vì thấy một gương mặt mới lắm đấy. Cháu không phải sợ nhé.
+
+- Alina
+> - Quá chuẩn. Người mới đem đến làn gió mới khi làm việc !
+> - Cứ gọi dì là Alina.
+
+- Zoya
+> - Dì là Zoya nhé.
+
+- Alina
+> - Thế tên cháu là gì ?
+
+- Luvia
+> - ...Luvia.
+
+- Zoya
+> - Tên hay đó, khá hiếm gặp đó nha.
+> - Trông cháu thật rạng rỡ và lạc quan. Chủ tịch Selene và Tư lệnh Solara chắc hẳn rất vui khi có cháu ở bên cạnh lắm đó.
+
+- Alina
+> - Bố mẹ của chúng mất sớm... những đứa trẻ nhỏ bé ấy đã phải gánh vác nhiều trách nhiệm đến thế, chỉ nghĩ đến thôi cũng thấy đau lòng…
+
+- Luvia
+> - Không có bố mẹ ?
+
+- Zoya
+> - Á! Đừng nói thế trước mặt họ nha !
+
+- Luvia
+> - Dạ vâng…
+
+- Alina
+> - Đừng đứng đó mãi vậy, làm thôi !
+
+- Luvia
+> - Dạ... vâng ạ.
+
+- Zoya
+> - Hì hì, cháu mà đang trồng trọt, thì bước đầu là nhận biết loại cây đã.
+
+<StoryChoice :options='["planted_state.2 >= planted", "Trường hợp khác", "mark.no_plan_at_this_version == unreachable"]'>
 
 <template #branch-0>
 
-- Cháu thấy cây dương xỉ nước này! Cháu đã từng thử trồng loại cây này rồi.
-- Cháu gái, đằng kia có nhiều cánh hoa trắng, cháu có biết là gì không ?
-- Ưm... ờm, cháu không biết ạ.
-- Không sao, để dì dạy cháu. Phần củ bên dưới chính là khoai tây mà chúng ta ăn…
+- Luvia
+> - Cháu thấy cây dương xỉ nước này! Cháu đã từng thử trồng loại cây này rồi.
+
+- Zoya
+> - Cháu gái, đằng kia có nhiều cánh hoa trắng, cháu có biết là gì không ?
+
+- Luvia
+> - Ưm... ờm, cháu không biết ạ.
+
+- Zoya
+> - Không sao, để dì dạy cháu. Phần củ bên dưới chính là khoai tây mà chúng ta ăn…
 
 </template>
 
 <template #branch-1>
 
-- Nhìn kìa, cái cây có nhiều cánh hoa trắng đó, phần củ bên dưới chính là khoai tây mà chúng ta ăn…
+- Zoya
+> - Nhìn kìa, cái cây có nhiều cánh hoa trắng đó, phần củ bên dưới chính là khoai tây mà chúng ta ăn…
+
+</template>
+
+<template #branch-2>
+
+- Luvia
+> - Cháu thấy cây dương xỉ nước và khoai tây rồi !
+
+- Zoya
+> - Ồ, cháu giỏi lắm. Có vẻ cháu nắm bắt công việc nhanh ra phết đấy.
+
+- Luvia
+> - Mong được chỉ giáo ạ.
 
 </template>
 
 </StoryChoice>
 
-- Cháu thấy cây dương xỉ nước và khoai tây rồi !
-- Ồ, cháu giỏi lắm. Có vẻ cháu nắm bắt công việc nhanh ra phết đấy.
-- Mong được chỉ giáo ạ.
 - Trên màn hình điều khiển vùng lõi, những dữ liệu liên tục nhấp nháy khiến Solara cau mày.
-- Aleksei, chỉ còn có vậy thôi sao ?
+
+- Solara
+> - Aleksei, chỉ còn có vậy thôi sao ?
 - Người điều hành hệ thống tên Aleksei gật đầu.
-- ...tôi tưởng chúng ta còn ít nhất mười ngày cho đến nửa tháng chứ. Sao tình hình lại xấu đi nhanh thế ?
-- Solara, thời gian dành cho khu vực phát triển không còn nhiều.
-- Hệ thống điện của Khu 2 đã đạt đến mức quá tải nghiêm trọng. Gánh nặng tính toán và điều tiết lưu lượng nước cũng như kiểm soát các kênh dẫn nước trở nên quá sức.
-- Chẳng phải nhóm phát triển chip đã nói họ có thể giải quyết vấn đề này từ sớm sao? Kế hoạch đã được công bố, vậy kết quả thực tế đâu?
-- Hãy lập tức tổng hợp thông tin mà tôi đã yêu cầu anh thu thập về các van tiết lưu, cửa xả lũ và bộ điều chỉnh áp suất trên khắp các khu vực.
-- Các thiết bị này vẫn hoạt động tốt. Đây, tôi đã có bản sao cho sếp xem.
-- Vậy nên chúng ta có thể duy trì bảo trì ổn định bằng cách tự sản xuất linh kiện, nhưng chip thông minh vẫn còn quá khả năng...
+
+- Solara
+> - ...tôi tưởng chúng ta còn ít nhất mười ngày cho đến nửa tháng chứ. Sao tình hình lại xấu đi nhanh thế ?
+
+- Aleksei
+> - Solara, thời gian dành cho khu vực phát triển không còn nhiều.
+
+- Solara
+> - Hệ thống điện của Khu 2 đã đạt đến mức quá tải nghiêm trọng. Gánh nặng tính toán và điều tiết lưu lượng nước cũng như kiểm soát các kênh dẫn nước trở nên quá sức.
+> - Chẳng phải nhóm phát triển chip đã nói họ có thể giải quyết vấn đề này từ sớm sao? Kế hoạch đã được công bố, vậy kết quả thực tế đâu?
+> - Hãy lập tức tổng hợp thông tin mà tôi đã yêu cầu anh thu thập về các van tiết lưu, cửa xả lũ và bộ điều chỉnh áp suất trên khắp các khu vực.
+
+- Aleksei
+> - Các thiết bị này vẫn hoạt động tốt. Đây, tôi đã có bản sao cho sếp xem.
+
+- Solara
+> - Vậy nên chúng ta có thể duy trì bảo trì ổn định bằng cách tự sản xuất linh kiện, nhưng chip thông minh vẫn còn quá khả năng...
 - Một chấm đỏ rực đột nhiên hiện lên trên màn hình, báo hiệu vị trí khẩn cấp thứ bảy đã xuất hiện.
-- Đó là đường ống dẫn thuộc hệ thống hỗ trợ sự sống phía đông khu vực trang trại... sao giờ lại xuất hiện thêm một đường ống nữa?!
-- Tôi vừa mới phân công lại nhiệm vụ cho mọi người xong. Có vẻ như tôi cũng phải đi rồi.
-- Nhưng Solara, nhiệm vụ sơ tán Khu 2…
-- Tôi sẽ gọi người khác đến tiếp quản. Đừng can thiệp vào việc đó. Cứ tiếp tục phát đi các thông báo là được.
-- Chúng tôi vẫn có thể gọi nhân viên bảo trì thông thường. Sếp có chắc chắn muốn đến tận nơi không?
-- Gọi điện cho các nhân viên thường xuyên và nói với họ rằng bảy điểm cấp cứu khẩn cấp xuất hiện đồng thời trong thành phố? Điều đó chắc chắn sẽ khiến họ sợ chết khiếp.
-- Có lẽ chúng ta sắp hết thời gian rồi. Aleksei, tôi phải đi đây.
+
+- Solara
+> - Đó là đường ống dẫn thuộc hệ thống hỗ trợ sự sống phía đông khu vực trang trại... sao giờ lại xuất hiện thêm một đường ống nữa?!
+> - Tôi vừa mới phân công lại nhiệm vụ cho mọi người xong. Có vẻ như tôi cũng phải đi rồi.
+
+- Aleksei
+> - Nhưng Solara, nhiệm vụ sơ tán Khu 2…
+
+- Solara
+> - Tôi sẽ gọi người khác đến tiếp quản. Đừng can thiệp vào việc đó. Cứ tiếp tục phát đi các thông báo là được.
+
+- Aleksei
+> - Chúng tôi vẫn có thể gọi nhân viên bảo trì thông thường. Sếp có chắc chắn muốn đến tận nơi không?
+
+- Solara
+> - Gọi điện cho các nhân viên thường xuyên và nói với họ rằng bảy điểm cấp cứu khẩn cấp xuất hiện đồng thời trong thành phố? Điều đó chắc chắn sẽ khiến họ sợ chết khiếp.
+> - Có lẽ chúng ta sắp hết thời gian rồi. Aleksei, tôi phải đi đây.
 - Solara nhanh chóng kiểm tra các linh kiện trong hộp dụng cụ của mình và đẩy cửa phòng điều khiển ra.
-- Để tôi đi cùng. Đường ống tại điểm 7 chỉ có thể được sửa chữa bằng cách tắt máy phát điện, nhưng tắt quá lâu sẽ gây sụp đổ hệ thống hỗ trợ sự sống của nhà máy.
-- Chỉ khi có thêm một người ở lại trông coi máy phát điện thì việc sửa chữa mới có thể được thực hiện trong thời gian an toàn.
-- ...Đúng. Nhưng anh cần ở lại đây và theo dõi các địa điểm khẩn cấp khác.
-- Tôi có thể tìm được một người giúp việc hoàn toàn không hoảng loạn. Hãy ở lại đây. Nếu tình hình xấu đi, hãy báo cho tôi ngay lập tức.
+
+- Aleksei
+> - Để tôi đi cùng. Đường ống tại điểm 7 chỉ có thể được sửa chữa bằng cách tắt máy phát điện, nhưng tắt quá lâu sẽ gây sụp đổ hệ thống hỗ trợ sự sống của nhà máy.
+> - Chỉ khi có thêm một người ở lại trông coi máy phát điện thì việc sửa chữa mới có thể được thực hiện trong thời gian an toàn.
+
+- Solara
+> - ...Đúng. Nhưng anh cần ở lại đây và theo dõi các địa điểm khẩn cấp khác.
+> - Tôi có thể tìm được một người giúp việc hoàn toàn không hoảng loạn. Hãy ở lại đây. Nếu tình hình xấu đi, hãy báo cho tôi ngay lập tức.
+
 - Trước khi Aleksei kịp phản hồi, Solara đã nhanh chóng rời đi.
+
 - Nghe những thông báo qua loa phóng thanh gần đó về "nguy cơ rò rỉ", Luvia vẫn đang hái ngô trên cánh đồng.
+
 - Ngước nhìn, cô thấy Solara đang chạy về phía mình từ xa với một hộp dụng cụ.
-- Ờm, Chị Solara ?
-- Ta không phải chị ngươi. Theo ta mau. Một hiện trường khẩn cấp cần sửa chữa, và tôi cần người trông coi máy phát điện.
-- A, Ớ?! Nhưng…
-- Việc này rất cấp bách, nhưng tôi không muốn làm nông dân ở đây lo lắng! Mười phần trăm lương thực của Arcadia nằm trong tay chúng ta!
-- Gần đây thôi. Mau đi với tôi !!
+
+- Luvia
+> - Ờm, Chị Solara ?
+
+- Solara
+> - Ta không phải chị ngươi. Theo ta mau. Một hiện trường khẩn cấp cần sửa chữa, và tôi cần người trông coi máy phát điện.
+
+- Luvia
+> - A, Ớ?! Nhưng…
+
+- Solara
+> - Việc này rất cấp bách, nhưng tôi không muốn làm nông dân ở đây lo lắng! Mười phần trăm lương thực của Arcadia nằm trong tay chúng ta!
+> - Gần đây thôi. Mau đi với tôi !!
 - Solara cầm bộ đàm lên.
-- Aleksei, đây là Solara. Điểm 7 có thể giữ được bao lâu nữa ?
-- 17 phút.
-- Đã nhận.
-- Luvia, huấn luyện xử lý sự cố khẩn cấp. Cô chỉ có một cơ hội để học hỏi. Về cái máy phát điện đó, đi theo tôi !
-- Đ-được !
+
+- Solara
+> - Aleksei, đây là Solara. Điểm 7 có thể giữ được bao lâu nữa ?
+
+- Aleksei
+> - 17 phút.
+
+- Solara
+> - Đã nhận.
+> - Luvia, huấn luyện xử lý sự cố khẩn cấp. Cô chỉ có một cơ hội để học hỏi. Về cái máy phát điện đó, đi theo tôi !
+
+- Luvia
+> - Đ-được !
+
 - Hai người đến gần một máy phát điện lớn. Những đường ống và dây điện chằng chịt khiến Luvia choáng váng.
-- Lẽ ra mình nên học những kiến thức cơ bản về máy phát điện từ {player.name} sớm hơn…
-- Không sao cả. Tôi là người thầy giỏi nhất mà cô từng gặp. Tôi sẽ hướng dẫn cô cách làm một cách đơn giản nhất.
+
+- Luvia
+> - Lẽ ra mình nên học những kiến thức cơ bản về máy phát điện từ {player.name} sớm hơn…
+
+- Solara
+> - Không sao cả. Tôi là người thầy giỏi nhất mà cô từng gặp. Tôi sẽ hướng dẫn cô cách làm một cách đơn giản nhất.
 - - Solara chuẩn bị cho Luvia huấn luyện đặc biệt.
 - Hãy tránh những tia lửa điện có thể bắn ra, nhưng đừng quên nhiệm vụ quan trọng trước mắt.
 - Từ nay trở đi, việc đoán mò không còn giúp bạn vượt qua được tình huống này nữa.
@@ -1831,123 +3430,216 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 <VnPlayer episode="main_story_2_6" title="2.6" />
 
-<StoryChoice :options='["highest_score < 700000", "highest_score >= 950000", "其它情况"]'>
+<StoryChoice :options='["highest_score < 700000", "highest_score >= 950000", "Trường hợp khác"]'>
 
 <template #branch-0>
 
-- …
-- C-cô... là người tiền sử hả? Tôi dạy cô... khó hiểu đến thế cơ à ?!
-- Cô không nghe hiểu tôi nói gì sao? Hay vẫn còn nghĩ đến mấy bắp ngô đó ?!
-- Mình, mình rất xin lỗi... Mình có thể học lại !
-- Trời móa... không phải tôi vừa bảo xong à? Cô chỉ có một cơ hội duy nhất để nắm bắt !!
-- Lần tới sẽ là thực tế. Chỉ cần thất bại là chết, và tôi nói vậy có nghĩa là: CHẾT, THẬT, ĐẤY !
-- Mình xin lỗi... mình sẽ làm nghiêm túc hơn lần tới.
-- Tôi mong mọi thứ tôi nói cô đều nhớ hết vào đầu rồi. Thời gian đã hết, đi với tôi qua khu bảo trì.
-- Mà tôi nhắc lại: cô sẽ chết thật đấy. Phải thật cẩn thận, rất rất rất cẩn thận !
+- Solara
+> - …
+> - C-cô... là người tiền sử hả? Tôi dạy cô... khó hiểu đến thế cơ à ?!
+> - Cô không nghe hiểu tôi nói gì sao? Hay vẫn còn nghĩ đến mấy bắp ngô đó ?!
+
+- Luvia
+> - Mình, mình rất xin lỗi... Mình có thể học lại !
+
+- Solara
+> - Trời móa... không phải tôi vừa bảo xong à? Cô chỉ có một cơ hội duy nhất để nắm bắt !!
+> - Lần tới sẽ là thực tế. Chỉ cần thất bại là chết, và tôi nói vậy có nghĩa là: CHẾT, THẬT, ĐẤY !
+
+- Luvia
+> - Mình xin lỗi... mình sẽ làm nghiêm túc hơn lần tới.
+
+- Solara
+> - Tôi mong mọi thứ tôi nói cô đều nhớ hết vào đầu rồi. Thời gian đã hết, đi với tôi qua khu bảo trì.
+> - Mà tôi nhắc lại: cô sẽ chết thật đấy. Phải thật cẩn thận, rất rất rất cẩn thận !
 
 </template>
 
 <template #branch-1>
 
-- …
-- Cô có muốn trở thành đệ tử của tôi không ?
-- Hửm... ?
-- Đã lâu lắm rồi tôi mới thấy một thiên tài học nghề điện nhanh đến vậy.
-- Xin lỗi vì đã gọi cô là kẻ man rợ trước đó. Giờ thì tôi thấy bạn hoàn toàn khác bọt rồi.
-- Với trình độ hiện tại của cô, chắc chắn sẽ không có vấn đề gì. Đi theo tôi. Tiếp theo là quá trình làm việc trực tiếp !
-- Cảnh báo trước: nếu có nguy hiểm xảy ra trong quá trình làm việc trực tiếp, tôi có thể không cứu được cô. Cô có thể chết. Vì vậy, hãy cẩn thận với từng cử động của mình.
+- Solara
+> - …
+> - Cô có muốn trở thành đệ tử của tôi không ?
+
+- Luvia
+> - Hửm... ?
+
+- Solara
+> - Đã lâu lắm rồi tôi mới thấy một thiên tài học nghề điện nhanh đến vậy.
+> - Xin lỗi vì đã gọi cô là kẻ man rợ trước đó. Giờ thì tôi thấy bạn hoàn toàn khác bọt rồi.
+> - Với trình độ hiện tại của cô, chắc chắn sẽ không có vấn đề gì. Đi theo tôi. Tiếp theo là quá trình làm việc trực tiếp !
+> - Cảnh báo trước: nếu có nguy hiểm xảy ra trong quá trình làm việc trực tiếp, tôi có thể không cứu được cô. Cô có thể chết. Vì vậy, hãy cẩn thận với từng cử động của mình.
 
 </template>
 
 <template #branch-2>
 
-- Ừm... tạm được. Coi như đã học được rồi.
-- Mình có cần xem xét và củng cố thêm điều gì nữa không?
-- Đừng nối mọi sợi dây cáp cô thấy. Không phải tất cả các dây điện đều có thể nối với nhau. Cô có muốn bị điện giật không?
-- Lần tới khi cô thực hiện việc này, đó sẽ là quá trình làm việc trực tiếp. Hãy nhớ rằng, cô phải liên tục ôn tập lại những gì mình đã học.
-- Nếu cô gặp sự cố trong quá trình thực hiện nhiệm vụ thực tế, rất có thể cô sẽ chết. Chết thật đấy.
-- Mình... đã hiểu.
-- Theo tôi.
+- Solara
+> - Ừm... tạm được. Coi như đã học được rồi.
+
+- Luvia
+> - Mình có cần xem xét và củng cố thêm điều gì nữa không?
+
+- Solara
+> - Đừng nối mọi sợi dây cáp cô thấy. Không phải tất cả các dây điện đều có thể nối với nhau. Cô có muốn bị điện giật không?
+> - Lần tới khi cô thực hiện việc này, đó sẽ là quá trình làm việc trực tiếp. Hãy nhớ rằng, cô phải liên tục ôn tập lại những gì mình đã học.
+> - Nếu cô gặp sự cố trong quá trình thực hiện nhiệm vụ thực tế, rất có thể cô sẽ chết. Chết thật đấy.
+
+- Luvia
+> - Mình... đã hiểu.
+
+- Solara
+> - Theo tôi.
 
 </template>
 
 </StoryChoice>
 
 - Tại hiện trường, hơi nước ở nhiệt độ cao phun ra từ một đường ống bị vỡ kèm theo tiếng rít chói tai.
-- Tốt, thiệt hại không quá nghiêm trọng. Chúng ta hãy sửa những thứ này luôn nhé.
-- Mình có cần làm gì không ?
-- Đi sau tôi. Chuẩn bị sẵn sàng.
-- Mỏ hàn, kính bảo hộ... găng tay... để tôi tìm van…
-- A, thấy rồi.
+
+- Solara
+> - Tốt, thiệt hại không quá nghiêm trọng. Chúng ta hãy sửa những thứ này luôn nhé.
+
+- Luvia
+> - Mình có cần làm gì không ?
+
+- Solara
+> - Đi sau tôi. Chuẩn bị sẵn sàng.
+> - Mỏ hàn, kính bảo hộ... găng tay... để tôi tìm van…
+> - A, thấy rồi.
 - Solara vặn mạnh van để ngăn dòng hơi nước có nhiệt độ cao chảy trong đường ống.
-- Những đường ống này đã được sử dụng bao lâu rồi nhỉ? Chúng ta vá đi vá lại nhiều lần, nhưng chúng lại vỡ ngay sau đó. Chúng ta cần đường ống mới.
-- Chúng chưa bao giờ được thay sao ?
-- Tại vì không có một cái nào mới. Việc sản xuất dừng từ lâu lắm rồi.
+
+- Solara
+> - Những đường ống này đã được sử dụng bao lâu rồi nhỉ? Chúng ta vá đi vá lại nhiều lần, nhưng chúng lại vỡ ngay sau đó. Chúng ta cần đường ống mới.
+
+- Luvia
+> - Chúng chưa bao giờ được thay sao ?
+
+- Solara
+> - Tại vì không có một cái nào mới. Việc sản xuất dừng từ lâu lắm rồi.
 - Vừa làm việc vừa càu nhàu, Solara lấy dụng cụ ra và sửa chữa chỗ bị rách. Chẳng mấy chốc, cô đã hàn kín nó lại.
-- Xong. Giờ thử xem…
+
+- Solara
+> - Xong. Giờ thử xem…
 - Cô mở van trở lại và nghe thấy tiếng hơi nước rỉ một cách nhẹ nhàng di chuyển trong đường ống.
-- Phần tiếp theo sẽ khó khăn hơn. Tôi cần cả tôi và cô cùng lúc thực hiện các thao tác khác nhau.
-- ...Tiếng gì đó ?
-- Mau tránh ra !!
+
+- Solara
+> - Phần tiếp theo sẽ khó khăn hơn. Tôi cần cả tôi và cô cùng lúc thực hiện các thao tác khác nhau.
+> - ...Tiếng gì đó ?
+> - Mau tránh ra !!
+
 - Một tiếng nổ trầm đục vang lên từ cuối hành lang. Một đường ống bên cạnh cô đột nhiên gãy.
-- ...A, đau quá... !
-- Solara ?!
+
+- Solara
+> - ...A, đau quá... !
+
+- Luvia
+> - Solara ?!
 - Chịu đựng cơn đau do bỏng, Solara đến chỗ đường ống bị vỡ và sửa chữa lại đường ống.
-- Xong. Đi tiếp, sắp đến rồi.
+
+- Solara
+> - Xong. Đi tiếp, sắp đến rồi.
 - Cô cắn môi chịu đựng, chỉ tay về phía cánh cửa sắt hé mở phía trước hành lang.
-- C-chị... tay chị bị bỏng rồi, đúng không ?
-- Đây không phải lúc để lo lắng về vết thương. Một lát nữa tôi sẽ để cô quan sát máy phát điện. Một tín hiệu nghĩa là ngắt điện, hai tín hiệu nghĩa là bật lại.
-- Vậy thì tín hiệu nó là gì vậy ?
-- Sẽ có đèn báo trên máy phát điện. Cô sẽ hiểu ngay khi nhìn thấy chúng.
+
+- Luvia
+> - C-chị... tay chị bị bỏng rồi, đúng không ?
+
+- Solara
+> - Đây không phải lúc để lo lắng về vết thương. Một lát nữa tôi sẽ để cô quan sát máy phát điện. Một tín hiệu nghĩa là ngắt điện, hai tín hiệu nghĩa là bật lại.
+
+- Luvia
+> - Vậy thì tín hiệu nó là gì vậy ?
+
+- Solara
+> - Sẽ có đèn báo trên máy phát điện. Cô sẽ hiểu ngay khi nhìn thấy chúng.
 - Hai người họ lần lượt tiến đến cánh cửa sắt. Solara đá tung cửa.
-- A, đây rồi. Nó này, máy phát điện, Ở đây chờ đi.
-- Máy phát điện ổn định, không cần phải lo. Tốt rồi.
+
+- Solara
+> - A, đây rồi. Nó này, máy phát điện, Ở đây chờ đi.
+> - Máy phát điện ổn định, không cần phải lo. Tốt rồi.
 - Sau khi giao cho Luvia một nhiệm vụ khó, Solara chạy bộ đến cuối hành lang với hộp dụng cụ của mình. Đúng như dự đoán, nước ngập khắp sàn nhà.
 - Một sợi dây cáp điện bị đứt và đang quất mạnh vào vũng nước trên mặt đất.
 - Giày của cô ấy có lớp cách điện, nhưng nếu cô ấy dùng cờ lê trực tiếp lên đường ống, vẫn có nguy cơ bị điện giật. Đèn báo khẩn cấp có lẽ sáng lên do dòng điện rò rỉ.
 - Solara dùng tua vít chọc vào một nút trên hộp điện nhỏ gắn trên tường. Vài giây sau, sợi dây đang giật giật ngừng chuyển động, nhưng toàn bộ hành lang chìm trong bóng tối.
 - Luvia đã ngắt máy phát điện, Hay lắm, cô ta học được rồi.
-- Nhanh phết... May mà có cô đấy.
+
+- Solara
+> - Nhanh phết... May mà có cô đấy.
 - Cô bật đèn pin, ngậm chặt nó trong miệng, tìm thấy điểm bị rỉ và nhanh chóng vá chỗ vỡ của đường ống.
 - Nhưng tại sao dây cáp lại bị hỏng ngay từ đầu? Trước đó, cô cũng nghe thấy một tiếng nổ nhỏ ở đây. Nguyên nhân là gì...?
 - Cô ấy nhấn nút trên hộp điều khiển gần đó hai lần. Luvia sẽ thấy đèn báo hiệu và khởi động lại máy phát điện.
 - Nhưng khi đèn hành lang bật sáng trở lại, ánh mắt Solara dừng lại ở chiếc đèn trần đang nhấp nháy liên tục.
-- ...Hử ?
+
+- Solara
+> - ...Hử ?
 - Một cảm giác sợ hãi tột độ dâng trào trong lồng ngực cô. Điều này không bình thường.
 - Có thứ gì đó đang ảnh hưởng đến hệ thống điện. Cái máy phát điện tồi tệ này sắp bị quá tải rồi.
-- Ôi thôi chếc... Luvia vẫn đang canh ở máy phát điện !!
+
+- Solara
+> - Ôi thôi chếc... Luvia vẫn đang canh ở máy phát điện !!
+
 - Trong khi đi xe mỏ, tôi nhận được cuộc gọi từ Aleksei, trợ lý của Solara.
 - Nhưng tín hiệu trong đường hầm quá tệ. Tôi chẳng nghe được gì ngoài tên anh ta.
+
 - Khi tôi bước xuống rồi vào nông trại, tôi thấy các nông dân đang bình tĩnh sơ tán.
 - Tôi không hiểu tại sao lại bị gọi ra nơi này, nhưng cảnh tượng ấy làm tôi đoán được nơi này đang đối mặt với nguy hiểm ra sao.
+
 - Ngay khi đang nghĩ ngợi, một giọt nước lạnh rơi trúng đầu tôi.
-- ...Ể ?
+
+- Tôi
+> - ...Ể ?
+
 - Tôi nhìn lên. Trên trần đã ướt đẫm nước. Tôi đứng ngây ra đó một lúc cho đến khi giọt nước tiếp theo rơi trúng.
-- Mưa? Rỉ từ trên trần sao ?
+
+- Tôi
+> - Mưa? Rỉ từ trên trần sao ?
 - Thảo nào Solara lại chọn tôi. Bởi mưa không ảnh hưởng đến tôi.
 - Ơ nhưng mà sẽ ra sao nếu nơi này sập? Tôi có thể miễn nhiễm với giấc ngủ, nhưng bê tông cốt thép vẫn có thể đè chết tôi.
+
 - Bộ đàm trong tay tôi lại vang lên. Tôi đưa máy lên trước mặt.
-- Phòng điều khiển trung tâm khu vực đây. {player.name}, tôi cần anh giúp xác nhận xem tất cả nhân viên nông trại đã được sơ tán chưa.
-- Tôi đã đoán được ra là như vậy, nên tôi đang làm đây.
-- Anh giúp chúng tôi nhiều đấy.
-- Anh có thông tin gì về tung tích của Luvia, người đồng hành cùng tôi không ?
+
+- Aleksei
+> - Phòng điều khiển trung tâm khu vực đây. {player.name}, tôi cần anh giúp xác nhận xem tất cả nhân viên nông trại đã được sơ tán chưa.
+
+- Tôi
+> - Tôi đã đoán được ra là như vậy, nên tôi đang làm đây.
+
+- Aleksei
+> - Anh giúp chúng tôi nhiều đấy.
+
+- Tôi
+> - Anh có thông tin gì về tung tích của Luvia, người đồng hành cùng tôi không ?
 - Tôi còn chẳng nghe rõ được Aleksei nói gì.
 - Vì đèn chiếu sáng phía trên đột nhiên sáng rực lên, rồi mờ đi trong tích tắc.
 - Một số nông dân đang sơ tán khi chứng kiến cảnh tượng đó đã hoảng sợ thốt lên. Mất điện rồi? Ở một nơi mà điện năng lại thiết yếu đến vậy sao ?
 - Tôi nắm chặt chiếc radio. Tôi không thể phân biệt được thứ đang nhỏ giọt từ trán mình là mồ hôi lạnh hay không.
-- Aleksei, anh nói gì cơ ?
-- Solara đưa Luvia đến phòng điều khiển hệ thống hỗ trợ sự sống ở phía đông Khu 2.
+
+- Tôi
+> - Aleksei, anh nói gì cơ ?
+
+- Aleksei
+> - Solara đưa Luvia đến phòng điều khiển hệ thống hỗ trợ sự sống ở phía đông Khu 2.
 - ...Sao lại để Luvia đến thẳng nơi đó, với một nhiệm vụ nguy hiểm như vậy ?!
-- Cho tôi hỏi... tình hình hiện tại của hệ thống điện nông trại ra sao rồi ?
-- Nguồn điện dự phòng đang được cung cấp. Thời gian còn lại cho đến khi hệ thống hỗ trợ sự sống sụp đổ là... 108 giây.
-- Luvia !!
+
+- Tôi
+> - Cho tôi hỏi... tình hình hiện tại của hệ thống điện nông trại ra sao rồi ?
+
+- Aleksei
+> - Nguồn điện dự phòng đang được cung cấp. Thời gian còn lại cho đến khi hệ thống hỗ trợ sự sống sụp đổ là... 108 giây.
+
+- Solara
+> - Luvia !!
 - Luvia đứng đó, vẻ mặt ngơ ngác.
 - Ôi không... Solara có thể nhận ra cô gái ấy đang cố gắng sửa chữa khẩn cấp chiếc máy phát điện bị hỏng.
 - Lý do duy nhất khiến đèn không phát nổ lúc nãy là vì Luvia đã bằng cách thần kì nào đó ổn định được máy phát điện vào thời điểm quan trọng.
 - Nhưng cô ấy chỉ mới học về điện được một ngày. Cô ấy không hề biết bước sửa chữa tiếp theo nên là gì.
-- Giờ tớ chỉ có thể giữ cho nó không phát nổ…
-- Tránh ra, đống này nguy hiểm lắm. Tôi không thể để cô mạo hiểm tính mạng ở đây được !
-- Để tôi lo cái máy này! Đưa tôi cái cờ lê !!
+
+- Luvia
+> - Giờ tớ chỉ có thể giữ cho nó không phát nổ…
+
+- Solara
+> - Tránh ra, đống này nguy hiểm lắm. Tôi không thể để cô mạo hiểm tính mạng ở đây được !
+> - Để tôi lo cái máy này! Đưa tôi cái cờ lê !!
 
 ---
 
@@ -1955,81 +3647,135 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 <VnPlayer episode="main_story_2_7" title="2.7" />
 
-- A, ư... !
+- Solara
+> - A, ư... !
 - Khi bác sĩ bôi thuốc vào cánh tay Solara, cơn đau lập tức nhói lên.
-- Tôi đã nói với cô bao nhiêu lần rồi? Ít nhất thực hiện các biện pháp sơ cứu cơ bản sau khi bị thương.
-- Tôi đang thực hiện sửa chữa khẩn cấp. Làm sao tôi có thời gian cho mấy cái vật tư y tế chứ ?
-- Nếu vết thương trở nặng và bị nhiễm trùng, cộng thêm tình trạng thiếu thuốc, ngay cả cô cũng có thể gặp nguy hiểm.
-- Thảo nào cô lại bất cẩn thế. Cả cô và chị gái cô đều chẳng biết sợ là gì.
-- Tôi sẽ ghi lại thông tin về việc sử dụng thuốc và quá trình điều trị. Ở lại đây. Đừng rời đi nếu tôi chưa báo lại cho cô.
-- Biết rồi. Tôi nghe phải năm lần rồi đấy. Tôi chưa thể rời đi, chứ gì ?
-- Cô cứ khăng khăng muốn rời đi. Túm lại là không.
+
+- Bác sĩ
+> - Tôi đã nói với cô bao nhiêu lần rồi? Ít nhất thực hiện các biện pháp sơ cứu cơ bản sau khi bị thương.
+
+- Solara
+> - Tôi đang thực hiện sửa chữa khẩn cấp. Làm sao tôi có thời gian cho mấy cái vật tư y tế chứ ?
+
+- Bác sĩ
+> - Nếu vết thương trở nặng và bị nhiễm trùng, cộng thêm tình trạng thiếu thuốc, ngay cả cô cũng có thể gặp nguy hiểm.
+> - Thảo nào cô lại bất cẩn thế. Cả cô và chị gái cô đều chẳng biết sợ là gì.
+> - Tôi sẽ ghi lại thông tin về việc sử dụng thuốc và quá trình điều trị. Ở lại đây. Đừng rời đi nếu tôi chưa báo lại cho cô.
+
+- Solara
+> - Biết rồi. Tôi nghe phải năm lần rồi đấy. Tôi chưa thể rời đi, chứ gì ?
+
+- Bác sĩ
+> - Cô cứ khăng khăng muốn rời đi. Túm lại là không.
 - Tôi và Luvia ngồi ở một góc khác của phòng khám, cùng nhau xem lại những gì vừa xảy ra.
 - Cảm ơn Solara và Luvia, hệ thống thiết bị duy trì sự sống nông trại đã được giải cứu vào giây phút cuối cùng trước khi sụp đổ.
 - Họ bảo việc khởi động lại các cơ sở hỗ trợ sự sống quy mô lớn như vậy sau khi ngừng hoạt động sẽ mất rất nhiều thời gian, và nhiệt độ sẽ giảm mạnh.
 - Mức tổn thất tối đa ước tính ban đầu là 10% đã đột ngột tăng lên 80%... may mắn là họ đã giữ vững được. Chỉ nghĩ đến thôi cũng đã thấy kinh khủng rồi.
 - Các công nhân chịu trách nhiệm sửa chữa khẩn cấp tại sáu địa điểm còn lại lần lượt quay lại và báo cáo kết quả cho Solara ngay tại hiện trường.
 - Không ai trong số họ biết Solara vừa lập được kỳ tích gì. Tốt hơn hết là nên giữ im lặng để tránh gây hoang mang…
-- Ồn vãi l…
-- Vẫn cứng đầu thế.
-- Cứng đầu? Dăm ba cái vết xước thôi mà.
-- …
-- …Chỉ sửa một đường ống thôi, mà tôi đã mắc phải một lỗi nhỏ nhặt. Hoàn toàn có thể tránh được…
-- Hả? Cô nói gì cơ ?
-- Tôi bảo là phòng này ngột ngạt đéo chịu được. Tôi cần ra ngoài. Chậc…
-- ...Tôi lại sắp bị ăn chửi rồi.
+
+- Solara
+> - Ồn vãi l…
+
+- Tôi
+> - Vẫn cứng đầu thế.
+
+- Solara
+> - Cứng đầu? Dăm ba cái vết xước thôi mà.
+> - …
+> - …Chỉ sửa một đường ống thôi, mà tôi đã mắc phải một lỗi nhỏ nhặt. Hoàn toàn có thể tránh được…
+
+- Tôi
+> - Hả? Cô nói gì cơ ?
+
+- Solara
+> - Tôi bảo là phòng này ngột ngạt đéo chịu được. Tôi cần ra ngoài. Chậc…
+> - ...Tôi lại sắp bị ăn chửi rồi.
 - Tôi thấy vẻ mặt đầy uất ức và sợ hãi của Solara. Tôi biết cô ấy muốn nói rằng Selene sẽ đổ lỗi cho cô ấy.
 - Thực ra, tôi cũng muốn gặp Selene. Để hỏi vài thứ không mấy quan trọng.
+
 - Tuy nhiên, cho đến khi bác sĩ cho phép Solara rời khỏi phòng khám, Selene vẫn không xuất hiện.
 - Solara cúi đầu rời đi. Dáng vẻ cô đơn hiện lên trên khuôn mặt.
 - Sau khi tôi và Luvia cùng trở về nhà, mệt rã rời, việc đầu tiên tôi làm là đến phòng tắm chung gần sân ga để tắm rửa.
 - Nước tắm không bị nguội dần trong khi tắm vòi sen quả thực là một điều kỳ diệu.
+
 - Khi tôi quay lại gần phòng, tôi thấy Luvia đang ngồi trên băng ghế bên ngoài cửa phòng, hơi ngước nhìn tấm biển "Bánh mì &amp; Bia" đang phát sáng ở phía xa.
-- Hôm nay cậu hẳn phải mệt lắm. Tớ nghĩ cậu còn mệt hơn cả tớ nữa đấy.
+
+- Tôi
+> - Hôm nay cậu hẳn phải mệt lắm. Tớ nghĩ cậu còn mệt hơn cả tớ nữa đấy.
 - Cậu ấy không để ý tôi nói gì, vẫn nhìn chằm chằm vào tấm biển.
 - Tôi nở một nụ cười gượng gạo, chậm rãi ngồi xuống bên cạnh cậu ấy, và không nói gì.
+
 - Sự im lặng kéo dài, chỉ khi bị phá vỡ bởi tiếng bước chân vang vọng trên tấm lưới kim loại gần đó và tiếng leng keng khe khẽ vọng lại từ quán rượu ngoài trời ở phía xa hơn.
-- Dì Zoya và dì Alina thật tốt bụng. Họ đã dạy tớ rất nhiều.
-- Cậu lấy một củ khoai tây, cắt làm đôi, trồng một nửa vào đất… và nó lại mọc ra thêm một củ mới! Cậu thấy đó.
-- Cậu có thể làm vậy sao ?
+
+- Luvia
+> - Dì Zoya và dì Alina thật tốt bụng. Họ đã dạy tớ rất nhiều.
+> - Cậu lấy một củ khoai tây, cắt làm đôi, trồng một nửa vào đất… và nó lại mọc ra thêm một củ mới! Cậu thấy đó.
+
+- Tôi
+> - Cậu có thể làm vậy sao ?
 - Lời nói của cậu ấy thu hút tôi, và tôi thấy mình đang lắng nghe rất chăm chút.
-- Ưm-ờm. Và ngô thì có thể cho gà ăn, cũng có thể trồng nấm nữa đó.
-- Nấm sao ?
-- Nhiều nhắm. Có rất nhiều loại tớ chưa từng thấy.
-- Làm việc thì khó, nhưng... mà vui.
+
+- Luvia
+> - Ưm-ờm. Và ngô thì có thể cho gà ăn, cũng có thể trồng nấm nữa đó.
+
+- Tôi
+> - Nấm sao ?
+
+- Luvia
+> - Nhiều nhắm. Có rất nhiều loại tớ chưa từng thấy.
+> - Làm việc thì khó, nhưng... mà vui.
 - Toàn thân tôi khẽ run lên. Bởi vì trong tầm nhìn của tôi, chợt nhìn thấy thứ gì đó.
-- ...Ể ?
-- Này là... nước mắt sao? Sao lại thế ?
+
+- Luvia
+> - ...Ể ?
+> - Này là... nước mắt sao? Sao lại thế ?
 - Cô cố gắng dùng tay lau những giọt nước mắt đang rơi, khuôn mặt đầy vẻ bối rối.
 - Một cảm giác khó chịu, như có thứ gì đó nhói lên trong lồng ngực tôi.
-- ...Hôm nay, cậu là người hùng vĩ đại của Arcadia.
-- À... vậy là lần này mình đã thực sự, thực sự giúp được.
+
+- Tôi
+> - ...Hôm nay, cậu là người hùng vĩ đại của Arcadia.
+
+- Luvia
+> - À... vậy là lần này mình đã thực sự, thực sự giúp được.
 - Cậu ấy lau nước mắt rồi tiếp tục.
-- Chị Solara bảo tớ rằng, nếu tớ không ổn định được máy phát điện, thì tớ đã chết trong căn phòng đó rồi.
-- Khi tớ nghe điều đó, tớ nghĩ chuyện đó chưa thể nào xảy ra được. Chúng mình còn chưa tìm được chồng của Dì Susan và đứa bé mà. Sao tớ có thể chết được chứ.
+
+- Luvia
+> - Chị Solara bảo tớ rằng, nếu tớ không ổn định được máy phát điện, thì tớ đã chết trong căn phòng đó rồi.
+> - Khi tớ nghe điều đó, tớ nghĩ chuyện đó chưa thể nào xảy ra được. Chúng mình còn chưa tìm được chồng của Dì Susan và đứa bé mà. Sao tớ có thể chết được chứ.
 
 <StoryChoice :options='["Mạng sống của cậu quan trọng nhất.", "Đó là điều đầu tiên cậu nghĩ vậy sao ?"]'>
 
 <template #branch-0>
 
-- Luvia.
-- Mạng của cậu quan trọng nhất.
-- Hôm nay cậu chính là người hùng. Cậu đã bảo vệ được người khác và cả bản thân cậu. Tớ tự hào lắm đó.
-- ...Cảm ơn cậu.
-- Nhưng nếu không có Chị Solara, tớ sẽ không thể làm được.
-- Tớ sẽ làm việc chăm chỉ hơn từ bây giờ. Để tớ có thể tự mình bước đi. Tớ chắc chắn sẽ làm được.
+- Tôi
+> - Luvia.
+> - Mạng của cậu quan trọng nhất.
+> - Hôm nay cậu chính là người hùng. Cậu đã bảo vệ được người khác và cả bản thân cậu. Tớ tự hào lắm đó.
+
+- Luvia
+> - ...Cảm ơn cậu.
+> - Nhưng nếu không có Chị Solara, tớ sẽ không thể làm được.
+> - Tớ sẽ làm việc chăm chỉ hơn từ bây giờ. Để tớ có thể tự mình bước đi. Tớ chắc chắn sẽ làm được.
 
 </template>
 
 <template #branch-1>
 
-- Trong tình huống như vậy, điều đầu tiên cậu nghĩ đến... là yêu cầu của dì Susan ?
-- Việc vẫn biết đặt lợi ích của người khác lên trên hết trong những khoảnh khắc như vậy chứng tỏ cậu là một người rất tốt bụng.
-- Luvia, hành trình của chúng ta chỉ mới bắt đầu. Hiện tại, có lẽ chúng mình chỉ ở đây tạm thời thôi.
-- Mọi chuyện sẽ không kết thúc một cách bất cẩn và nhanh chóng chỉ vì một tai nạn.
-- Tuyệt vời phải không? Chúng mình giống như những anh hùng của thế giới vậy.
-- Luvia phải là nhân vật chính trong cuộc đời của chính mình nhé.
-- Ưm.
+- Tôi
+> - Trong tình huống như vậy, điều đầu tiên cậu nghĩ đến... là yêu cầu của dì Susan ?
+> - Việc vẫn biết đặt lợi ích của người khác lên trên hết trong những khoảnh khắc như vậy chứng tỏ cậu là một người rất tốt bụng.
+> - Luvia, hành trình của chúng ta chỉ mới bắt đầu. Hiện tại, có lẽ chúng mình chỉ ở đây tạm thời thôi.
+> - Mọi chuyện sẽ không kết thúc một cách bất cẩn và nhanh chóng chỉ vì một tai nạn.
+
+- Luvia
+> - Tuyệt vời phải không? Chúng mình giống như những anh hùng của thế giới vậy.
+
+- Tôi
+> - Luvia phải là nhân vật chính trong cuộc đời của chính mình nhé.
+
+- Luvia
+> - Ưm.
 
 </template>
 
@@ -2037,70 +3783,146 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 - Trước khi tôi kịp nghĩ ra lời nào để nói tiếp, một bóng người quen thuộc bước vào từ cổng khu dân cư.
 - Selene. Cuối cùng cô ấy cũng có thời gian.
-- Ôi xem ai đang ngồi đây này, hai người hùng đã cứu lấy Arcadia.
-- Em chỉ giúp Khu 2 thôi mà. Phải là Solara và Luvia chứ chị.
-- Khiêm tốn quá đấy.
-- Luvia, công việc thế nào rồi ?
-- Làm cùng với dì Zoya và dì Alina, học hỏi, vui lắm chị ạ.
-- Haha, giỏi lắm. Thấy em làm việc cùng mọi người hòa hợp vậy cũng khiến chị vui rồi.
-- Tối nay em không ngủ sớm sao ?
-- Thực ra, em rất mệt. Em sẽ đi ngủ.
-- Tớ cũng vậy.
-- Chúc ngủ ngon, chị yêu Selene. Chúc ngủ ngon, cậu yêu {player.name}.
+
+- Selene
+> - Ôi xem ai đang ngồi đây này, hai người hùng đã cứu lấy Arcadia.
+
+- Tôi
+> - Em chỉ giúp Khu 2 thôi mà. Phải là Solara và Luvia chứ chị.
+
+- Selene
+> - Khiêm tốn quá đấy.
+> - Luvia, công việc thế nào rồi ?
+
+- Luvia
+> - Làm cùng với dì Zoya và dì Alina, học hỏi, vui lắm chị ạ.
+
+- Selene
+> - Haha, giỏi lắm. Thấy em làm việc cùng mọi người hòa hợp vậy cũng khiến chị vui rồi.
+> - Tối nay em không ngủ sớm sao ?
+
+- Luvia
+> - Thực ra, em rất mệt. Em sẽ đi ngủ.
+
+- Tôi
+> - Tớ cũng vậy.
+
+- Luvia
+> - Chúc ngủ ngon, chị yêu Selene. Chúc ngủ ngon, cậu yêu {player.name}.
+
 - Sau khi nói lời tạm biệt, Luvia quay vào phòng cô ấy.
 - Selene liếc mắt nhìn tôi, vẫn nở nụ cười.
-- Còn em thì sao ?
-- Một người bận rộn như chị mà lại đi một quãng đường xa như vậy để tìm bọn em thì có lẽ không chỉ để nói lời cảm ơn.
-- Nếu như chị thực sự chỉ muốn chân thành cảm ơn em vì đã cứu sống em gái chị thì sao?
-- Em không xứng đáng đến vậy. Kể cả khi không có em, họ hoàn toàn có thể sơ tán an toàn.
-- Quan trọng hơn nữa... em nghe nói cũng có tai nạn xảy ra trong khu vực đang phát triển. Hệ thống quản lý do những người của chị có thực sự cho phép dự án này tiếp tục tiến triển không?
-- Vì đó là một khả năng cho tương lai.
-- Trong quá trình xây dựng Khu 3 và Khu 4, bọn chị đã gặp khá nhiều tai nạn và mất nhiều công nhân.
-- Khu 5 hiện đang sử dụng các thiết bị tiên tiến hơn trước và các quy tắc an toàn hoàn thiện hơn.
-- Quan trọng hơn nữa... nếu khu phát triển xong xuôi, Arcadia có thể chứa thêm nhiều người hơn, và có nhiều không gian sinh sống hơn cho khu dân cư, nhà máy, và nông trại.
-- Bởi vì đường trên mặt đất đã bị chặn.
-- Đội thám hiểm đã giải tán.
+
+- Selene
+> - Còn em thì sao ?
+
+- Tôi
+> - Một người bận rộn như chị mà lại đi một quãng đường xa như vậy để tìm bọn em thì có lẽ không chỉ để nói lời cảm ơn.
+
+- Selene
+> - Nếu như chị thực sự chỉ muốn chân thành cảm ơn em vì đã cứu sống em gái chị thì sao?
+
+- Tôi
+> - Em không xứng đáng đến vậy. Kể cả khi không có em, họ hoàn toàn có thể sơ tán an toàn.
+> - Quan trọng hơn nữa... em nghe nói cũng có tai nạn xảy ra trong khu vực đang phát triển. Hệ thống quản lý do những người của chị có thực sự cho phép dự án này tiếp tục tiến triển không?
+
+- Selene
+> - Vì đó là một khả năng cho tương lai.
+> - Trong quá trình xây dựng Khu 3 và Khu 4, bọn chị đã gặp khá nhiều tai nạn và mất nhiều công nhân.
+> - Khu 5 hiện đang sử dụng các thiết bị tiên tiến hơn trước và các quy tắc an toàn hoàn thiện hơn.
+> - Quan trọng hơn nữa... nếu khu phát triển xong xuôi, Arcadia có thể chứa thêm nhiều người hơn, và có nhiều không gian sinh sống hơn cho khu dân cư, nhà máy, và nông trại.
+
+- Tôi
+> - Bởi vì đường trên mặt đất đã bị chặn.
+
+- Tôi
+> - Đội thám hiểm đã giải tán.
 - Vẻ mặt của Selene trở nên nghiêm nghị trong một khoảnh khắc hiếm hoi.
+
 - Nhưng chỉ ngay giây sau, chị ấy lại nở nụ cười thường ngày.
-- Solara đã nói với em vậy sao ?
-- Vâng, nhưng em chưa rõ cụ thể ra sao.
-- Giờ chưa phải lúc để nói cho em biết toàn bộ sự thật. Nhưng việc tổ chức lại đội ngũ thăm dò quả thực là cần thiết.
-- Có rất nhiều nơi trú ẩn nhỏ bên ngoài đã bị mất liên lạc. "Tòa nhà" mà em vừa ở có lẽ là một trong số đó.
-- Theo em nhớ, tòa nhà đó chưa bao giờ có cái tên "Arcadia". Chị hẳn đã mất liên lạc với các nơi trú ẩn xung quanh ít nhất là hàng chục năm rồi nhỉ.
-- Khi em đến đây, em không thấy bất kì ngọn đèn nào vào buổi tối. Đúng không ?
+
+- Selene
+> - Solara đã nói với em vậy sao ?
+
+- Tôi
+> - Vâng, nhưng em chưa rõ cụ thể ra sao.
+
+- Selene
+> - Giờ chưa phải lúc để nói cho em biết toàn bộ sự thật. Nhưng việc tổ chức lại đội ngũ thăm dò quả thực là cần thiết.
+> - Có rất nhiều nơi trú ẩn nhỏ bên ngoài đã bị mất liên lạc. "Tòa nhà" mà em vừa ở có lẽ là một trong số đó.
+
+- Tôi
+> - Theo em nhớ, tòa nhà đó chưa bao giờ có cái tên "Arcadia". Chị hẳn đã mất liên lạc với các nơi trú ẩn xung quanh ít nhất là hàng chục năm rồi nhỉ.
+
+- Selene
+> - Khi em đến đây, em không thấy bất kì ngọn đèn nào vào buổi tối. Đúng không ?
 - Tôi gật đầu. Một nỗi buồn man mác hiện lên trên khuôn mặt Selene.
-- Công việc phát triển rất khó khăn... khảo sát địa chất vô cùng vất vả.
-- Tọa độ dự kiến ban đầu là khu vực khai quật tại một Great Hollow bị bỏ hoang.
-- Great Hollow sao, nghe có vẻ thú vị.
-- Một công trình kiến trúc còn sót lại từ thời chiến ?
-- Chịu thôi, mục đích của nó hoàn toàn chưa được biết đến, nhưng nhà máy quân sự ngoại ô có thể cung cấp câu trả lời.
+
+- Selene
+> - Công việc phát triển rất khó khăn... khảo sát địa chất vô cùng vất vả.
+> - Tọa độ dự kiến ban đầu là khu vực khai quật tại một Great Hollow bị bỏ hoang.
+
+- Tôi
+> - Great Hollow sao, nghe có vẻ thú vị.
+> - Một công trình kiến trúc còn sót lại từ thời chiến ?
+
+- Selene
+> - Chịu thôi, mục đích của nó hoàn toàn chưa được biết đến, nhưng nhà máy quân sự ngoại ô có thể cung cấp câu trả lời.
 - Tôi chợt nghĩ rằng đây cũng có thể là một trong những mục tiêu của đội thám hiểm bí ẩn đó.
-- Dù sao thì... cái Great Hollow đó có cấu trúc quá phức tạp và đất tơi xốp, không thể sinh sống được. Chúng ta chỉ có thể thay đổi hướng đi và bắt đầu lại việc xây dựng.
-- Tuyến đường hiện tại có phải là tuyến đường khai quật mới của chị không?
-- Ừm. Nó đã khởi động lại giữa chừng, nên ngay cả bây giờ vẫn chưa hoàn thành.
-- Em thấy rồi…
-- Nhân tiện, có một lý do chính khác khiến chị tìm gặp em hôm nay là để thay mặt em gái chị xin lỗi.
-- Xin lỗi ạ? Có chuyện gì sao ?
+
+- Selene
+> - Dù sao thì... cái Great Hollow đó có cấu trúc quá phức tạp và đất tơi xốp, không thể sinh sống được. Chúng ta chỉ có thể thay đổi hướng đi và bắt đầu lại việc xây dựng.
+
+- Tôi
+> - Tuyến đường hiện tại có phải là tuyến đường khai quật mới của chị không?
+
+- Selene
+> - Ừm. Nó đã khởi động lại giữa chừng, nên ngay cả bây giờ vẫn chưa hoàn thành.
+
+- Tôi
+> - Em thấy rồi…
+
+- Selene
+> - Nhân tiện, có một lý do chính khác khiến chị tìm gặp em hôm nay là để thay mặt em gái chị xin lỗi.
+
+- Tôi
+> - Xin lỗi ạ? Có chuyện gì sao ?
 - Chị đã xem xét lại tất cả những gì Solara đã nói và làm, và cuối cùng nhớ ra rằng bản thân từng nghe em ấy gọi hai người là "những kẻ man rợ".
-- À.
-- Ừm, cái... "từ" đó em ý toàn dùng là cách một số người Arcadia gọi những người sống trên mặt đất.
-- Họ cho rằng những người sống sót trên mặt đất không có công nghệ, không có kiến thức, giống như người nguyên thủy.
-- Nên họ gọi như vậy đó.
-- Với sự xuất hiện của hai em như một bước ngoặt, có lẽ chị có thể xóa bỏ thêm định kiến của cư dân đối với những người sống trên mặt đất.
-- Điều đó cũng sẽ giúp rất nhiều trong việc lấy lại những gì đã mất. Để giúp đỡ người khác, trước hết chúng ta phải đoàn kết người dân của chính mình.
-- Tất cả những gì Luvia và em đang có hiện nay đều do chị cung cấp. Bọn em cũng sẽ đền đáp lại.
-- Và em thực sự không muốn Luvia bị đối xử như người thấp kém. Vì vậy, nếu chị cần sự giúp đỡ của em trong cuộc cải cách tư tưởng này, hãy gọi cho em bất cứ lúc nào.
-- Cảm ơn rất nhiều vì sự ủng hộ của các em... điều này có thể không chỉ dừng lại ở lý thuyết. Chị thực sự rất cần đến sức mạnh của hai em.
-- Chị sẽ trông cậy vào cả hai em trong tương lai đó.
+
+- Tôi
+> - À.
+
+- Selene
+> - Ừm, cái... "từ" đó em ý toàn dùng là cách một số người Arcadia gọi những người sống trên mặt đất.
+> - Họ cho rằng những người sống sót trên mặt đất không có công nghệ, không có kiến thức, giống như người nguyên thủy.
+> - Nên họ gọi như vậy đó.
+> - Với sự xuất hiện của hai em như một bước ngoặt, có lẽ chị có thể xóa bỏ thêm định kiến của cư dân đối với những người sống trên mặt đất.
+> - Điều đó cũng sẽ giúp rất nhiều trong việc lấy lại những gì đã mất. Để giúp đỡ người khác, trước hết chúng ta phải đoàn kết người dân của chính mình.
+
+- Tôi
+> - Tất cả những gì Luvia và em đang có hiện nay đều do chị cung cấp. Bọn em cũng sẽ đền đáp lại.
+> - Và em thực sự không muốn Luvia bị đối xử như người thấp kém. Vì vậy, nếu chị cần sự giúp đỡ của em trong cuộc cải cách tư tưởng này, hãy gọi cho em bất cứ lúc nào.
+
+- Selene
+> - Cảm ơn rất nhiều vì sự ủng hộ của các em... điều này có thể không chỉ dừng lại ở lý thuyết. Chị thực sự rất cần đến sức mạnh của hai em.
+> - Chị sẽ trông cậy vào cả hai em trong tương lai đó.
+
 - Những ngày ở Arcadia vẫn tiếp diễn một thời gian.
 - Tôi và Luvia dần dần quen với cuộc sống ở thành phố. Người dân ở đây rất tốt bụng và thân thiện với chúng tôi.
 - Nhưng tôi luôn cảm thấy một sự khó chịu âm ỉ. Tôi cứ tự hỏi: nếu họ biết Luvia và tôi là những "kẻ man rợ" như họ vẫn nói, thì họ sẽ nhìn chúng tôi bằng con mắt nào?
 - Hôm nay tôi đã hoàn thành công việc ở khu vực phát triển. Bắt đầu lúc 3 giờ chiều, tôi lại có một nhiệm vụ khác - lịch trình này đã kéo dài gần một tuần.
+
 - Tôi đến đúng giờ tại lối vào tòa thị chính khu vực trung tâm. Selene đã đợi sẵn ở đó.
-- Nhiệm vụ lập bản đồ địa hình ngày mai... chị bảo muốn em mang Luvia theo.
-- Đúng.
-- Cảm ơn em lần nữa vì đã dành thời gian đến đây hôm nay.
-- Không có chi.
+
+- Tôi
+> - Nhiệm vụ lập bản đồ địa hình ngày mai... chị bảo muốn em mang Luvia theo.
+
+- Selene
+> - Đúng.
+> - Cảm ơn em lần nữa vì đã dành thời gian đến đây hôm nay.
+
+- Tôi
+> - Không có chi.
 - Tôi được giao nhiệm vụ đi cùng Selene lên mặt đất hai lần một tuần để thám hiểm.
 - Như tôi đã nói trước đó, mỗi nhiệm vụ chủ yếu là lập bản đồ địa hình, hầu như không mang lại lợi ích đáng kể nào.
 - Nhưng điều đó cũng có nghĩa là tôi đã thực sự trở thành trợ lý của Selene.
@@ -2110,13 +3932,21 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Sau khi hoàn thành các biểu đồ và tài liệu, tôi nhìn chằm chằm lên trần nhà, nơi mà tôi đã dần quen thuộc.
 - Những ngày như thế này sẽ còn kéo dài bao lâu nữa đây ?
 - Ngày nào cũng trôi qua như nhau, và ngay cả trái tim tôi cũng trở nên chai sạn.
-- Người dân ở Arcadia sống dưới lòng đất mỗi ngày, làm những công việc lặp đi lặp lại không hề thay đổi.
-- Mặc dù môi trường tốt hơn, nhưng về cơ bản nó không khác biệt nhiều so với cuộc sống trong tòa nhà.
-- Cuộc sống không như lý tưởng của em đúng không ?
-- Không ạ…
-- Em chỉ đang thắc mắc, liệu việc cứ dậm chân tại chỗ ở đây... có thực sự ổn không?
-- Có vẻ như mọi người đều đang tự lừa dối chính mình.
-- Em nghĩ rất giống chị đấy.
+
+- Tôi
+> - Người dân ở Arcadia sống dưới lòng đất mỗi ngày, làm những công việc lặp đi lặp lại không hề thay đổi.
+> - Mặc dù môi trường tốt hơn, nhưng về cơ bản nó không khác biệt nhiều so với cuộc sống trong tòa nhà.
+
+- Selene
+> - Cuộc sống không như lý tưởng của em đúng không ?
+
+- Tôi
+> - Không ạ…
+> - Em chỉ đang thắc mắc, liệu việc cứ dậm chân tại chỗ ở đây... có thực sự ổn không?
+> - Có vẻ như mọi người đều đang tự lừa dối chính mình.
+
+- Selene
+> - Em nghĩ rất giống chị đấy.
 - Sau khi biết về Luvia và tôi, hội đồng đã quan sát chúng tôi trong nhiều ngày và cuối cùng hài lòng với những việc làm của chúng tôi.
 - Selene đã nhanh chóng nắm bắt cơ hội, biến nó thành đề xuất dể lập ra "đội điều tra bề mặt" và thực hiện nó một cách suôn sẻ.
 - Cả hội đồng và tôi đều biết đây là nước đi của Selene nhằm tái tổ chức đội ngũ thám hiểm. Mà sau khi chị ấy đi vận động mọi người, số người phản đối đã giảm đi.
@@ -2125,114 +3955,221 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Càng nhiều người được cử đi, càng nhiều người chết - điều đó không quan trọng.
 - Selene nói rằng nếu chúng ta tìm thấy những vật tư quan trọng, hội đồng có thể đánh giá cực cao về đội tìm kiếm trên mặt đất.
 - Nghi lắm à nha.
-- Ngày mai chị muốn em mang Luvia đến... thực ra không phải để khảo sát địa chất.
-- Vậy thì làm gì ạ? Em tưởng chị cần thêm một trợ lý nữa không bị chìm vào giấc ngủ chứ.
-- Em từng hỏi chị tìm một người tên Robert. Chị đã có thông tin rồi.
+
+- Selene
+> - Ngày mai chị muốn em mang Luvia đến... thực ra không phải để khảo sát địa chất.
+
+- Tôi
+> - Vậy thì làm gì ạ? Em tưởng chị cần thêm một trợ lý nữa không bị chìm vào giấc ngủ chứ.
+
+- Selene
+> - Em từng hỏi chị tìm một người tên Robert. Chị đã có thông tin rồi.
 - Hốt cả hền, không nghĩ là nói về chủ đề này cơ đấy.
 - Đây luôn là một trong những nhiệm vụ quan trọng nhất mà tôi và Luvia không bao giờ quên. Chúng tôi chỉ gác lại nó vì không hề biết Robert đang ở đâu.
 - Tôi đã hỏi Selene trước đây khi chúng tôi còn gặp mặt. Vì không có thông tin gì trong một thời gian dài, tôi cho rằng chị ý không thể làm gì được.
-- Chị đã tìm ra tung tích của Robert rồi sao ?!
-- ...Chị không chắc là mọi chuyện đã hoàn toàn rõ ràng. Thông tin về tung tích của anh ta... rất phức tạp.
-- Nhưng con của anh ấy đang ở đây.
-- ...con của dì Susan.
-- Vậy là em biết có đứa trẻ này.
-- Mai lúc 3 giờ chiều, gọi Luvia rồi ra tìm chị nhé.
+
+- Tôi
+> - Chị đã tìm ra tung tích của Robert rồi sao ?!
+
+- Selene
+> - ...Chị không chắc là mọi chuyện đã hoàn toàn rõ ràng. Thông tin về tung tích của anh ta... rất phức tạp.
+> - Nhưng con của anh ấy đang ở đây.
+
+- Tôi
+> - ...con của dì Susan.
+
+- Selene
+> - Vậy là em biết có đứa trẻ này.
+> - Mai lúc 3 giờ chiều, gọi Luvia rồi ra tìm chị nhé.
 - Sau phần thảo luận này, Selene nhanh chóng được các ủy viên hội đồng khác gọi đi để bàn về chủ đề "các điều kiện tiềm năng của thành phố".
 - Ở một mình vô tri trong văn phòng của chị ấy chả biết làm gì, tôi nhanh chóng rời khỏi Tòa thị chính.
-- Trở lại Khu 4, Luvia đã ngồi ở một bàn cà phê ngoài trời cạnh lối vào khu dân cư, trên bàn có ly nước cam. Chị ấy nhận ra ngay khi tôi đến gần.
-- Cậu quay lại rồi. Hay quá.
-- Cậu cũng vậy Luvia. Nay có thu hoạch được gì không ?
 
-<StoryChoice :options='["planted_state.10 >= planted", "其它情况"]'>
+- Trở lại Khu 4, Luvia đã ngồi ở một bàn cà phê ngoài trời cạnh lối vào khu dân cư, trên bàn có ly nước cam. Chị ấy nhận ra ngay khi tôi đến gần.
+
+- Luvia
+> - Cậu quay lại rồi. Hay quá.
+
+- Tôi
+> - Cậu cũng vậy Luvia. Nay có thu hoạch được gì không ?
+
+<StoryChoice :options='["planted_state.10 >= planted", "Trường hợp khác"]'>
 
 <template #branch-0>
 
-- Hôm nay Dì Zoya đã dạy tớ cách trồng dâu tây bằng tay !
-- Chúng ta hoàn toàn có thể dùng tay được mà ta.
-- Vui quá đi. Trồng dâu tây sau này sẽ dễ hơn nhiều.
+- Luvia
+> - Hôm nay Dì Zoya đã dạy tớ cách trồng dâu tây bằng tay !
+
+- Tôi
+> - Chúng ta hoàn toàn có thể dùng tay được mà ta.
+
+- Luvia
+> - Vui quá đi. Trồng dâu tây sau này sẽ dễ hơn nhiều.
 
 </template>
 
 <template #branch-1>
 
-- Hôm nay tớ đã học được cách thụ phấn dâu tây bằng tay từ Dì Zoya !
-- Có lẽ chúng ta sẽ dùng đến nó đấy.
-- Ừm... nếu sau này mình cần tự trồng trái cây, thì cái này chắc sẽ hữu ích lắm.
+- Luvia
+> - Hôm nay tớ đã học được cách thụ phấn dâu tây bằng tay từ Dì Zoya !
+
+- Tôi
+> - Có lẽ chúng ta sẽ dùng đến nó đấy.
+
+- Luvia
+> - Ừm... nếu sau này mình cần tự trồng trái cây, thì cái này chắc sẽ hữu ích lắm.
 
 </template>
 
 </StoryChoice>
 
 - Sau cuộc trò chuyện thường lệ sau giờ làm, tôi đã chia sẻ với Luvia những gì Selene đã kể cho tôi nghe.
-- Con của Dì Susan…
-- Thế, cậu có muốn gặp em ý không ?
-- Ưm !
+
+- Luvia
+> - Con của Dì Susan…
+
+- Tôi
+> - Thế, cậu có muốn gặp em ý không ?
+
+- Luvia
+> - Ưm !
+
 - Ngày hôm sau, tại cổng Tòa thị chính, người đang đợi chúng tôi là... Solara.
-- Sao? Thấy tôi ở đây lạ lắm hay gì ?
-- Không, chỉ là tôi không có lịch hẹn gặp cô thôi.
-- Ôi ngại thế, lại phải gặp tôi rồi !
-- Chị ấy đang bận họp quá. Hôm nay tôi sẽ dẫn đến nhà trẻ.
+
+- Solara
+> - Sao? Thấy tôi ở đây lạ lắm hay gì ?
+
+- Tôi
+> - Không, chỉ là tôi không có lịch hẹn gặp cô thôi.
+
+- Solara
+> - Ôi ngại thế, lại phải gặp tôi rồi !
+> - Chị ấy đang bận họp quá. Hôm nay tôi sẽ dẫn đến nhà trẻ.
+
 - Dù sao đi nữa, Solara cũng biết rõ toàn bộ khu vực trung tâm như Selene. Cảm giác như chúng tôi không hề đi lạc đường một lần nào trước khi đến được một vườn ươm không mấy nổi bật.
-- A, Chỉ huy Solara. Còn những người đứng sau cô là ai vậy ?
-- Trợ lý của chị tôi.
-- Chào mừng hai người đến đây.
+
+- Nhân viên
+> - A, Chỉ huy Solara. Còn những người đứng sau cô là ai vậy ?
+
+- Solara
+> - Trợ lý của chị tôi.
+
+- Nhân viên
+> - Chào mừng hai người đến đây.
+
 - Chỉ cần nhắc đến tên Selene với nhân viên, họ đã để cho chúng tôi vào.
 - Nhân viên dẫn chúng tôi đến gặp con của Susan và Robert, rồi rời đi.
-- Vậy sao cô không nói rằng chúng tôi là trợ lý của cô ?
-- Không thích.
-- Nếu Luvia có hứng thú sửa chữa bình nước nóng, tôi có thể xem xét nhận cô ấy làm thợ học việc.
+
+- Tôi
+> - Vậy sao cô không nói rằng chúng tôi là trợ lý của cô ?
+
+- Solara
+> - Không thích.
+> - Nếu Luvia có hứng thú sửa chữa bình nước nóng, tôi có thể xem xét nhận cô ấy làm thợ học việc.
+
 - Hầu hết các nôi ở đây đều trống không.
 - Trong căn phòng rộng rãi, chỉ có một em bé nằm yên lặng trong nôi: con của Susan và Robert.
 - Cậu bé có một chiếc chăn sạch, hệ thống điều hòa nhiệt độ, máy theo dõi dấu hiệu sự sống và đồ chơi treo lủng lẳng.
 - Sống ở đây tốt hơn nhiều so với sống trong tòa nhà. Tôi chưa từng gặp anh ta trước đây, nhưng tôi chắc chắn điều đó.
-- Vậy ra đây là con của Dì Susan... chúng mình thật sự tìm được rồi.
+
+- Luvia
+> - Vậy ra đây là con của Dì Susan... chúng mình thật sự tìm được rồi.
 - Tấm bảng tên đặt trong khe bên cạnh cũi ghi: Lucil.
 - Nếu như đó là một bé gái, dì ấy đã đặt là "Luvia" rồi…
 - Tim tôi nhói lên trong giây lát.
-- Bé tí xíu, má phúng phính rung rinh…
-- Vậy ra đây là em bé... ?
-- Đúng vậy, một mạng sống nhỏ bé mà Susan và Robert đã đánh đổi tương lai của mình để có được.
-- Dễ thương quá đi…
-- …Nhưng cũng vô cùng cô đơn.
-- Không biết liệu sau này anh ấy có còn nhớ đến Susan và Robert không.
-- Sẽ không có đâu. Đứa trẻ này sẽ được hưởng nền giáo dục kiểu Arcadia. Nó sẽ không biết cha mẹ mình là ai, thậm chí có thể không có khái niệm về "cha mẹ ruột".
-- Sao cô lại theo chúng tôi đi vào đây ?
-- Thôi nào, tôi đã đưa anh đến đây! Sao tôi không thể nhìn thấy anh đang làm gì?
-- Con ai đây? Hai người trông chẳng giống cha mẹ nó.
-- Tôi đã quen biết bố mẹ của đứa trẻ này từ trước.
-- Chị nói rằng cậu ấy sẽ không biết cha mẹ mình là ai sao? Thật đáng thương quá…
-- Thật sao? Cha mẹ có thể tốt đến mức nào nếu họ bỏ rơi con cái mình chứ ?
-- K-không phải như vậy đâu !
-- Dì Susan và hú Robert đã hy sinh rất nhiều để con của họ có một cuộc sống tốt đẹp hơn !
-- Nực cười. Tôi chẳng biết họ. Với tôi, có lẽ họ thậm chí còn không thèm để ý đến đứa trẻ này.
-- Đứa bé này... sự khác biệt thực sự giữa việc không có cha mẹ và việc có cha mẹ là gì?
+
+- Luvia
+> - Bé tí xíu, má phúng phính rung rinh…
+> - Vậy ra đây là em bé... ?
+
+- Tôi
+> - Đúng vậy, một mạng sống nhỏ bé mà Susan và Robert đã đánh đổi tương lai của mình để có được.
+
+- Luvia
+> - Dễ thương quá đi…
+> - …Nhưng cũng vô cùng cô đơn.
+
+- Tôi
+> - Không biết liệu sau này anh ấy có còn nhớ đến Susan và Robert không.
+
+- Solara
+> - Sẽ không có đâu. Đứa trẻ này sẽ được hưởng nền giáo dục kiểu Arcadia. Nó sẽ không biết cha mẹ mình là ai, thậm chí có thể không có khái niệm về "cha mẹ ruột".
+
+- Tôi
+> - Sao cô lại theo chúng tôi đi vào đây ?
+
+- Solara
+> - Thôi nào, tôi đã đưa anh đến đây! Sao tôi không thể nhìn thấy anh đang làm gì?
+> - Con ai đây? Hai người trông chẳng giống cha mẹ nó.
+
+- Tôi
+> - Tôi đã quen biết bố mẹ của đứa trẻ này từ trước.
+
+- Luvia
+> - Chị nói rằng cậu ấy sẽ không biết cha mẹ mình là ai sao? Thật đáng thương quá…
+
+- Solara
+> - Thật sao? Cha mẹ có thể tốt đến mức nào nếu họ bỏ rơi con cái mình chứ ?
+
+- Luvia
+> - K-không phải như vậy đâu !
+> - Dì Susan và hú Robert đã hy sinh rất nhiều để con của họ có một cuộc sống tốt đẹp hơn !
+
+- Solara
+> - Nực cười. Tôi chẳng biết họ. Với tôi, có lẽ họ thậm chí còn không thèm để ý đến đứa trẻ này.
+> - Đứa bé này... sự khác biệt thực sự giữa việc không có cha mẹ và việc có cha mẹ là gì?
 - Rõ ràng chúng ta đang bàn về con của Susan, vậy tại sao Solara lại trông đau khổ như vậy?
-- Vì họ yêu con mình hơn cả mong muốn giữ con bên cạnh.
-- Việc để đứa bé ở lại với họ để chịu đựng sự đau khổ còn tồi tệ hơn là tự chịu đựng nỗi đau và mang lại cho đứa bé một cuộc sống tốt đẹp hơn.
-- ...Ừ.
-- Lời hay ý đẹp cũng chẳng thay đổi thực tế đâu.
-- Cuộc sống ở Arcadia có thực sự tốt hơn những nơi khác không? Tốt hơn ở điểm nào?
-- Chị ấy nói tất cả điều này phụ thuộc vào việc hy sinh một nhóm nhỏ để đạt được lợi ích, và những lợi ích đó là giả tạo. Tôi không phản đối điều đó.
-- Cô luôn quan tâm đến những gì chị gái cô nói nhỉ.
-- Sao tôi lại phải có những suy nghĩ khác? Chị gái là người thân duy nhất của tôi, là người duy nhất tôi có thể tin tưởng !
-- Những đứa trẻ như thế này không chỉ có một hoặc hai đứa ở Arcadia. Không ai đến nhận nuôi chúng, đó là lý do tại sao nhà trẻ này thậm chí không có biển hiệu nổi bật.
-- Về bản chất, chẳng có gì thay đổi cả. Nếu muốn phản bác tôi, trước tiên hãy tìm xem bố mẹ đứa trẻ này đang ở đâu.
-- Tôi dám chắc họ không ở Arcadia đâu.
-- Điều đó hoàn toàn đúng…
-- Tôi đã suy nghĩ rất nhiều về những điều. Những gì vừa nói... tôi phải thừa nhận là nghe rất hay.
-- ...Nhưng tôi cũng hi vọng mấy cái lời hay đó là thật.
+
+- Tôi
+> - Vì họ yêu con mình hơn cả mong muốn giữ con bên cạnh.
+> - Việc để đứa bé ở lại với họ để chịu đựng sự đau khổ còn tồi tệ hơn là tự chịu đựng nỗi đau và mang lại cho đứa bé một cuộc sống tốt đẹp hơn.
+
+- Solara
+> - ...Ừ.
+> - Lời hay ý đẹp cũng chẳng thay đổi thực tế đâu.
+> - Cuộc sống ở Arcadia có thực sự tốt hơn những nơi khác không? Tốt hơn ở điểm nào?
+> - Chị ấy nói tất cả điều này phụ thuộc vào việc hy sinh một nhóm nhỏ để đạt được lợi ích, và những lợi ích đó là giả tạo. Tôi không phản đối điều đó.
+
+- Tôi
+> - Cô luôn quan tâm đến những gì chị gái cô nói nhỉ.
+
+- Solara
+> - Sao tôi lại phải có những suy nghĩ khác? Chị gái là người thân duy nhất của tôi, là người duy nhất tôi có thể tin tưởng !
+> - Những đứa trẻ như thế này không chỉ có một hoặc hai đứa ở Arcadia. Không ai đến nhận nuôi chúng, đó là lý do tại sao nhà trẻ này thậm chí không có biển hiệu nổi bật.
+> - Về bản chất, chẳng có gì thay đổi cả. Nếu muốn phản bác tôi, trước tiên hãy tìm xem bố mẹ đứa trẻ này đang ở đâu.
+> - Tôi dám chắc họ không ở Arcadia đâu.
+
+- Tôi
+> - Điều đó hoàn toàn đúng…
+
+- Solara
+> - Tôi đã suy nghĩ rất nhiều về những điều. Những gì vừa nói... tôi phải thừa nhận là nghe rất hay.
+> - ...Nhưng tôi cũng hi vọng mấy cái lời hay đó là thật.
 - Nói xong, Solara cúi đầu và nhanh chóng rời đi.
-- Sao chị ấy nhìn giận dữ vậy ?
-- Có lẽ vì tớ đã đặt câu hỏi về nguồn gốc thế giới quan của cô ấy.
-- Hoặc có lẽ đơn giản là cô ấy... tức giận với toàn bộ Arcadia?
-- Có lẽ đây không phải là chuyện chúng ta nên can thiệp.
-- Ưm... được thôi. Tớ hiểu rồi.
-- Người chăm sóc Lucil cũng rất vất vả. Lát nữa mình mua ít bánh mì mang đến tặng cô ấy để cảm ơn nhé.
-- Được đó.
+
+- Luvia
+> - Sao chị ấy nhìn giận dữ vậy ?
+
+- Tôi
+> - Có lẽ vì tớ đã đặt câu hỏi về nguồn gốc thế giới quan của cô ấy.
+> - Hoặc có lẽ đơn giản là cô ấy... tức giận với toàn bộ Arcadia?
+> - Có lẽ đây không phải là chuyện chúng ta nên can thiệp.
+
+- Luvia
+> - Ưm... được thôi. Tớ hiểu rồi.
+
+- Tôi
+> - Người chăm sóc Lucil cũng rất vất vả. Lát nữa mình mua ít bánh mì mang đến tặng cô ấy để cảm ơn nhé.
+
+- Luvia
+> - Được đó.
 - Chúng tôi nhìn Lucil trong nôi thêm một lần nữa.
 - Đứa trẻ ấy đang chìm đắm trong những giấc mơ. Không phải giấc ngủ do mưa gây ra, mà chỉ là một giấc mơ đẹp.
-- Đến lúc đi rồi. Chúng ta còn phải tìm Robert kìa.
-- Ưm, Dì Susan nói chúng mình phải đích thân đưa thư cho Robert nữa.
+
+- Tôi
+> - Đến lúc đi rồi. Chúng ta còn phải tìm Robert kìa.
+
+- Luvia
+> - Ưm, Dì Susan nói chúng mình phải đích thân đưa thư cho Robert nữa.
 
 ---
 
@@ -2246,242 +4183,488 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Bộ đồ bảo hộ của Arcadia chắc chắn hơn nhiều so với những bộ cũ tôi từng mặc, rõ ràng là được bảo trì bởi đội ngũ nhân viên tận tâm.
 - Những bộ đồ này thậm chí còn được trang bị thiết bị liên lạc không dây tầm ngắn mọi lúc.
 - Vì Luvia chưa bao giờ mặc đồ bảo hộ nên cô ấy di chuyển khá vụng về khi lội nước.
-- Nặng quá…
-- Lâu lắm rồi không mặc cái này. Vẫn ngột ngạt khó chịu.
+
+- Luvia
+> - Nặng quá…
+
+- Solara
+> - Lâu lắm rồi không mặc cái này. Vẫn ngột ngạt khó chịu.
 - Mục đích của chúng tôi lần này rất đơn giản: ghi lại những thay đổi ở các khu vực lân cận do hiện tượng xói mòn gây ra bởi mưa lớn.
 - Selene đi trước, trông có vẻ hơi phấn khích.
-- Mỗi lần chị ý lên mặt đất, trong lòng vui như mở cờ.
-- Chị ấy thực sự khao khát cuộc sống trên mặt đất. Sống một cuộc sống bình thường ở đây gần như là điều không thể.
+
+- Solara
+> - Mỗi lần chị ý lên mặt đất, trong lòng vui như mở cờ.
+> - Chị ấy thực sự khao khát cuộc sống trên mặt đất. Sống một cuộc sống bình thường ở đây gần như là điều không thể.
 - Thời tiết lạnh hơn. Mưa trút xuống xối xả. Nước có vẻ sâu hơn so với lúc chúng tôi đến, đôi khi ngập đến đầu gối.
 - May mắn thay, chúng tôi đang di chuyển về phía khu vực phía trên, nên con đường phía sau sẽ dễ dàng hơn một chút.
 - Mưa tạt vào bộ đồ bảo hộ. Thiếu đi cảm giác những giọt nước lạnh buốt, tôi cảm thấy khá là lạ lẫm.
 - Tôi đã từng tự hỏi liệu mình và Luvia có thực sự cần những bộ đồ dày cộp như vậy không, nhưng giờ tôi cảm thấy may mắn vì mình đã mặc nó.
-- Sao chúng ta không xây một lối đi thuận tiện hơn ra khỏi Arcadia nhỉ…
-- Chị từng nghĩ đến điều đó, nhưng như vậy cũng sẽ tạo điều kiện dễ dàng hơn cho những kẻ đe dọa chúng ta xâm nhập vào Arcadia.
-- Chị chỉ hoan nghênh tất cả những ai thực sự muốn định cư tại thành phố này.
-- Nhưng... một số người không muốn sống dưới lòng đất một cách hòa bình.
-- Ra là vậy.
+
+- Tôi
+> - Sao chúng ta không xây một lối đi thuận tiện hơn ra khỏi Arcadia nhỉ…
+
+- Selene
+> - Chị từng nghĩ đến điều đó, nhưng như vậy cũng sẽ tạo điều kiện dễ dàng hơn cho những kẻ đe dọa chúng ta xâm nhập vào Arcadia.
+> - Chị chỉ hoan nghênh tất cả những ai thực sự muốn định cư tại thành phố này.
+> - Nhưng... một số người không muốn sống dưới lòng đất một cách hòa bình.
+
+- Tôi
+> - Ra là vậy.
 - Solara nhấc chân lên, dù đang mặc đồ bảo hộ, nhưng vẫn nhẹ nhàng nhảy lên một bục cao bên cạnh chúng tôi.
 - Tôi cũng thử làm vậy và suýt nữa thì ngã xuống nước. Tôi muốn Solara kéo tôi lên, nhưng cô ấy đã khuất sau bóng tòa nhà rồi.
 - Tôi bất lực trèo lên, rồi giúp Selene leo lên.
 - Luvia rất thông minh, cậu ấy đi xa hơn và bước thẳng lên cầu thang nửa chìm dưới nước bên cạnh tòa nhà.
 - Nhóm chúng tôi di chuyển theo kế hoạch nhiệm vụ, như thể tất cả đều đi theo sau Solara.
-- Mùa đông này cũng có thể sẽ khó khăn đó.
-- Trời đã bắt đầu hơi lạnh rồi. Lần sau em có nên lắp máy sưởi vào bộ đồ không nhỉ?
-- Da của ngươi sẽ nứt nẻ đấy, đồ ngu.
+
+- Selene
+> - Mùa đông này cũng có thể sẽ khó khăn đó.
+
+- Tôi
+> - Trời đã bắt đầu hơi lạnh rồi. Lần sau em có nên lắp máy sưởi vào bộ đồ không nhỉ?
+
+- Solara
+> - Da của ngươi sẽ nứt nẻ đấy, đồ ngu.
 - Solara, đi trước, đã nói thêm câu đó.
-- Chị gần như đã quên mất mặt trời trông như thế nào theo miêu tả của người khác.
+
+- Selene
+> - Chị gần như đã quên mất mặt trời trông như thế nào theo miêu tả của người khác.
 - Tôi từng nhìn ra khoảng không gian mênh mông như đại dương, nơi lẽ ra phải là những con đường trong thành phố, những gợn sóng trải dài vô tận trên đó.
-- Em chỉ có thể nhìn thấy nó trong ảnh.
-- Ngay cả khi chỉ nhìn thấy mặt trời trong ảnh, chị vẫn nghĩ. Mọi người trong quá khứ đều sống dưới ánh nắng chói chang…
-- Chị không biết khi nào chúng ta mới có thể quay lại những ngày tháng tươi đẹp hiện ra trong các bức ảnh ấy.
-- Chị ơi, chị bị tụt lại phía sau rồi kìa.
-- Chị xin lỗi.
+
+- Tôi
+> - Em chỉ có thể nhìn thấy nó trong ảnh.
+
+- Selene
+> - Ngay cả khi chỉ nhìn thấy mặt trời trong ảnh, chị vẫn nghĩ. Mọi người trong quá khứ đều sống dưới ánh nắng chói chang…
+> - Chị không biết khi nào chúng ta mới có thể quay lại những ngày tháng tươi đẹp hiện ra trong các bức ảnh ấy.
+
+- Solara
+> - Chị ơi, chị bị tụt lại phía sau rồi kìa.
+
+- Selene
+> - Chị xin lỗi.
 - Ngay lúc đó, Solara quay mắt nhìn về phía tôi.
-- ...Hả ?
-- Ngươi nhìn cái đéo gì ?
-- Chẳng phải cô nhìn tôi trước à ?
-- ...Gần đây ngươi và Luvia đã hoạt động khá nhiều trên bề mặt. Chắc hẳn ngươi đã quen thuộc hơn với địa hình xung quanh rồi, phải không?
-- Đại khái là vậy, mặc dù chúng tôi đã đi bộ khá xa.
-- Hướng này cũng đi ngang qua trung tâm thương mại mà chúng tôi từng đến. Có những hộp thịt đóng hộp nổi lềnh bềnh trên mặt nước. Tôi thích điều đó.
-- Thịt đóng hộp nổi lềnh bềnh...? Đó là cái gì vậy?
-- Những lon thiếc nổi trên mặt nước. Bên trong có thịt.
-- Ghê quá... mấy thứ đó ngấm đầy dầu mỡ như muối, tôi không ăn nổi.
-- Nhưng nếu còn đồ hộp, có lẽ những thứ khác cũng còn sót lại. Chúng ta có thể tìm thấy những hạt giống vẫn còn khả năng nảy mầm.
-- Trung tâm thương mại St. Peter Department Plaza là điểm đến cuối cùng trong bốn điểm đến ngày hôm nay.
+
+- Tôi
+> - ...Hả ?
+
+- Solara
+> - Ngươi nhìn cái đéo gì ?
+
+- Tôi
+> - Chẳng phải cô nhìn tôi trước à ?
+
+- Solara
+> - ...Gần đây ngươi và Luvia đã hoạt động khá nhiều trên bề mặt. Chắc hẳn ngươi đã quen thuộc hơn với địa hình xung quanh rồi, phải không?
+
+- Tôi
+> - Đại khái là vậy, mặc dù chúng tôi đã đi bộ khá xa.
+> - Hướng này cũng đi ngang qua trung tâm thương mại mà chúng tôi từng đến. Có những hộp thịt đóng hộp nổi lềnh bềnh trên mặt nước. Tôi thích điều đó.
+
+- Solara
+> - Thịt đóng hộp nổi lềnh bềnh...? Đó là cái gì vậy?
+
+- Tôi
+> - Những lon thiếc nổi trên mặt nước. Bên trong có thịt.
+
+- Solara
+> - Ghê quá... mấy thứ đó ngấm đầy dầu mỡ như muối, tôi không ăn nổi.
+> - Nhưng nếu còn đồ hộp, có lẽ những thứ khác cũng còn sót lại. Chúng ta có thể tìm thấy những hạt giống vẫn còn khả năng nảy mầm.
+> - Trung tâm thương mại St. Peter Department Plaza là điểm đến cuối cùng trong bốn điểm đến ngày hôm nay.
 - Trước đó, chúng tôi đã khám phá hai địa điểm: Thư viện Quốc gia và Bảo tàng Lịch sử Quốc gia. Và điểm dừng chân tiếp theo là Nhà hát Thủ đô.
-- Nhưng do mưa gây xói mòn, hiện tượng sạt lở đất ở khu vực phía trên rất nghiêm trọng. Chỉ một bước đi sai cũng có thể gây nguy hiểm.
+
+- Tôi
+> - Nhưng do mưa gây xói mòn, hiện tượng sạt lở đất ở khu vực phía trên rất nghiêm trọng. Chỉ một bước đi sai cũng có thể gây nguy hiểm.
 - Vùng nước sâu thì vẫn có thể xoay xở được. Điều tôi lo sợ là bộ đồ bảo hộ của hai chị em họ sẽ bị rách do mảnh vỡ.
 - Dù Luvia có thể đánh thức họ dậy, thì bây giờ cũng không phải là thời điểm thích hợp.
 - Thực ra, trong quá trình tìm hiểu về Nhà hát Thủ đô, tôi nhận thấy những con phố gần đó đã mang lại cảm giác quen thuộc.
 - Rồi tôi nhận ra trung tâm thương mại và rạp chiếu phim chỉ cách nhau hai hoặc ba dãy nhà.
 - Khi đến trung tâm thương mại đó, tôi cẩn thận tìm kiếm lối xuyên tường mà chúng tôi đã từng đi trước đây nhưng không thành công.
 - Chỉ khi nhận ra chúng tôi không còn cần phải leo tường để vào nữa thì tôi mới thấy một vụ sập lớn đã nuốt chửng lối vào cũ đó.
-- Tình trạng xói mòn rất nghiêm trọng. Giống như nhà hát, khó mà nhận ra đây và ba năm trước vẫn là cùng một địa điểm.
-- Tình trạng hư hại cấu trúc đang gia tăng nhanh chóng.
-- Không chỉ vậy. So với lần tôi đến đây một tháng trước, nơi này cũng đã thay đổi rất nhiều.
+
+- Solara
+> - Tình trạng xói mòn rất nghiêm trọng. Giống như nhà hát, khó mà nhận ra đây và ba năm trước vẫn là cùng một địa điểm.
+> - Tình trạng hư hại cấu trúc đang gia tăng nhanh chóng.
+
+- Tôi
+> - Không chỉ vậy. So với lần tôi đến đây một tháng trước, nơi này cũng đã thay đổi rất nhiều.
 - Đằng sau chúng tôi, Selene đứng trên nóc một chiếc xe hơi, lặng lẽ nhìn chằm chằm vào khu trung tâm thương mại St. Peter Department Plaza rộng lớn.
-- Khà... khà…
-- Có chuyện gì vậy? Cậu hơi mệt à?
-- Một chút... bộ đồ này nặng quá…
-- Suỵt! Nói nhỏ thôi... !
-- Hai người có chuyện gì thế? Luvia không khỏe à ?
-- Một chút.
-- Luvia có thể cầm cự thêm một chút nữa không? Đây là điểm quan sát cuối cùng, sau đó chúng ta có thể quay lại.
-- Được ạ…
+
+- Luvia
+> - Khà... khà…
+
+- Tôi
+> - Có chuyện gì vậy? Cậu hơi mệt à?
+
+- Luvia
+> - Một chút... bộ đồ này nặng quá…
+
+- Tôi
+> - Suỵt! Nói nhỏ thôi... !
+
+- Selene
+> - Hai người có chuyện gì thế? Luvia không khỏe à ?
+
+- Tôi
+> - Một chút.
+
+- Selene
+> - Luvia có thể cầm cự thêm một chút nữa không? Đây là điểm quan sát cuối cùng, sau đó chúng ta có thể quay lại.
+
+- Luvia
+> - Được ạ…
+
 - Selene đỡ Luvia lên nóc xe và nâng đỡ cơ thể mệt mỏi của cô ấy.
 - Solara liếc nhìn họ, dừng lại vài giây, rồi bước vào trung tâm thương mại dọc theo đoạn đường bị sập.
 - Tôi không đi theo ngay, mà kiên nhẫn chờ Selene.
 - Sau khi chị ấy đưa Luvia vượt qua dòng nước đến chỗ bức tường ngoài bị sụp đổ, tôi nghe thấy chị ấy thở dài.
-- Tình trạng bề mặt thậm chí còn tệ hơn chị tưởng.
-- Chỉ xét riêng độ sâu của nước thôi, thì đúng vậy.
-- Mực nước thay đổi theo mùa khô và mùa mưa. Chúng ta lên lịch khảo sát này ngay bây giờ vì đến tháng sau việc đi lại sẽ khó khăn hơn.
-- Ban đầu chỉ có Solara và chị sẵn sàng đi, nhưng chị không muốn em ấy mạo hiểm tính mạng, vì vậy trong ba năm, điểm xa nhất mà cả hai đến chỉ là bảo tàng lịch sử.
-- Ba năm… có thể mang lại sự thay đổi lớn lao đến vậy. Dù cơn mưa này đã kéo dài ba trăm năm…
-- Hà... hà... nếu nước nhấn chìm mọi thứ... liệu tất cả mọi người sẽ phải ở lại dưới lòng đất không?
-- Nếu đơn giản thế thì không nói.
-- Mùa mưa rất nguy hiểm. Khi hệ thống thoát nước bị hỏng, mọi thứ chúng ta trân quý đều bị ngập lụt.
-- …
-- Sao vậy chị? Có gì phiền lòng chị sao ?
-- Chị có một chuyện rất đáng lo ngại.
-- Sự cố khẩn cấp lần trước không phải là ngẫu nhiên. Một lô phụ tùng mới sử dụng trong hệ thống thoát nước sắp hết hạn sử dụng.
-- Vậy là ngay cả sau thất bại, chị vẫn tiếp tục cố gắng phát triển Khu 5…
-- Arcadia được xây dựng trên nền tảng cơ sở hạ tầng của các ga tàu điện ngầm. Cho dù hệ thống thoát nước có tốt đến đâu, bản thân thiết kế vẫn hướng đến việc "dẫn nước vào".
-- Khu 5 đã hết thời gian. Chị phải tìm cách khác.
-- Nhưng hơn cả nguy cơ thảm họa tiềm tàng, điều chị lo sợ là…
-- ...phải chăng những người dân mà chị yêu quý đã từ bỏ cuộc đấu tranh rồi?
+
+- Selene
+> - Tình trạng bề mặt thậm chí còn tệ hơn chị tưởng.
+
+- Tôi
+> - Chỉ xét riêng độ sâu của nước thôi, thì đúng vậy.
+
+- Selene
+> - Mực nước thay đổi theo mùa khô và mùa mưa. Chúng ta lên lịch khảo sát này ngay bây giờ vì đến tháng sau việc đi lại sẽ khó khăn hơn.
+> - Ban đầu chỉ có Solara và chị sẵn sàng đi, nhưng chị không muốn em ấy mạo hiểm tính mạng, vì vậy trong ba năm, điểm xa nhất mà cả hai đến chỉ là bảo tàng lịch sử.
+> - Ba năm… có thể mang lại sự thay đổi lớn lao đến vậy. Dù cơn mưa này đã kéo dài ba trăm năm…
+
+- Luvia
+> - Hà... hà... nếu nước nhấn chìm mọi thứ... liệu tất cả mọi người sẽ phải ở lại dưới lòng đất không?
+
+- Selene
+> - Nếu đơn giản thế thì không nói.
+> - Mùa mưa rất nguy hiểm. Khi hệ thống thoát nước bị hỏng, mọi thứ chúng ta trân quý đều bị ngập lụt.
+> - …
+
+- Tôi
+> - Sao vậy chị? Có gì phiền lòng chị sao ?
+
+- Selene
+> - Chị có một chuyện rất đáng lo ngại.
+> - Sự cố khẩn cấp lần trước không phải là ngẫu nhiên. Một lô phụ tùng mới sử dụng trong hệ thống thoát nước sắp hết hạn sử dụng.
+
+- Tôi
+> - Vậy là ngay cả sau thất bại, chị vẫn tiếp tục cố gắng phát triển Khu 5…
+
+- Selene
+> - Arcadia được xây dựng trên nền tảng cơ sở hạ tầng của các ga tàu điện ngầm. Cho dù hệ thống thoát nước có tốt đến đâu, bản thân thiết kế vẫn hướng đến việc "dẫn nước vào".
+> - Khu 5 đã hết thời gian. Chị phải tìm cách khác.
+> - Nhưng hơn cả nguy cơ thảm họa tiềm tàng, điều chị lo sợ là…
+> - ...phải chăng những người dân mà chị yêu quý đã từ bỏ cuộc đấu tranh rồi?
 - Những gì họ có thể chạm vào và nhìn thấy rõ ràng trong hiện tại là những gì họ tin tưởng nhất. Tất cả những thứ khác, tất cả sự không chắc chắn, đều không khác gì cơn mưa này.
 - ----Thật vậy sao ?
 - Tôi không thể giúp đỡ gì nhiều; tất cả những gì tôi có thể làm là an ủi Selene.
-- Khi em làm việc ở khu vực phát triển, các công nhân nói với em rằng họ vẫn muốn nhìn thấy mặt trời và mặt trăng.
-- Nhưng họ cũng biết đó chỉ là một giấc mơ.
-- Họ... thật sự đã nói điều đó với em sao?
-- Ừm. Chị không phải là người duy nhất nghĩ như vậy.
-- Dì Zoya và... dì Alina cũng nói vậy đó ạ! Nếu cây được trồng... dưới ánh nắng mặt trời, chúng chắc chắn sẽ... phát triển tốt hơn.
-- Cảm ơn em đã cho chị biết…
-- Những người chị nên cảm ơn chính là họ, những người đã nói những lời này và vẫn giữ vững ước mơ. Vẫn còn rất nhiều người không dễ dàng bỏ cuộc.
-- Đúng…
+
+- Tôi
+> - Khi em làm việc ở khu vực phát triển, các công nhân nói với em rằng họ vẫn muốn nhìn thấy mặt trời và mặt trăng.
+> - Nhưng họ cũng biết đó chỉ là một giấc mơ.
+
+- Selene
+> - Họ... thật sự đã nói điều đó với em sao?
+
+- Tôi
+> - Ừm. Chị không phải là người duy nhất nghĩ như vậy.
+
+- Luvia
+> - Dì Zoya và... dì Alina cũng nói vậy đó ạ! Nếu cây được trồng... dưới ánh nắng mặt trời, chúng chắc chắn sẽ... phát triển tốt hơn.
+
+- Selene
+> - Cảm ơn em đã cho chị biết…
+
+- Tôi
+> - Những người chị nên cảm ơn chính là họ, những người đã nói những lời này và vẫn giữ vững ước mơ. Vẫn còn rất nhiều người không dễ dàng bỏ cuộc.
+
+- Selene
+> - Đúng…
 - Từ xa vọng lại giọng nói của Solara.
-- Mọi người! Chúng ta đã ghi hình xong tất cả những gì cần thiết. Chúng ta quay lại nhé?
+
+- Solara
+> - Mọi người! Chúng ta đã ghi hình xong tất cả những gì cần thiết. Chúng ta quay lại nhé?
 - Selene nhìn Luvia, rồi nhìn tôi, và gật đầu nặng nề.
+
 - Trước khi trời tối, cả bốn chúng tôi đều trở về Arcadia an toàn.
 - Sau khi Solara rời đi sớm để thực hiện một nhiệm vụ tạm thời, Selene đã chặn Luvia và tôi lại khi chúng tôi chuẩn bị về nhà.
-- Chị muốn trao đổi chi tiết với em sao ?
-- Không phải nhiệm vụ hôm nay. Chị chỉ muốn nói với cả hai em một vài điều ngoài lề.
-- Trong thời gian này, em gái chị đã gây rắc rối cho hai người rồi, phải không…
-- Thực ra cũng không tệ lắm. Cô ấy không còn tỏ ra thù địch như lúc ban đầu nữa. Tôi nghĩ đôi khi cách nói chuyện của cô ấy hơi khó nghe.
-- Trước đây cô ấy có từng mâu thuẫn với người ngoài như bọn em không?
-- ...Không, không hẳn vậy…
-- Nhưng xuất thân của em ấy rất đặc biệt. ...Giống như em vậy, em ý cũng xuất thân từ trên mặt đất.
-- Em ấy không phải là em gái ruột của chị.
-- ...Hở ?!
-- Khi còn rất nhỏ, bố mẹ em ấy đã gửi đến Arcadia. Bố mẹ chị đã nhận nuôi em ấy như em gái ruột của chị. Bố mẹ ruột của em ấy đã lên mặt đất để tham gia xây dựng các công trình quy mô lớn.
-- Vì vậy, em ấy hầu như không bao giờ gặp bố mẹ ruột của mình…
-- Nhưng bố mẹ chị... không lâu sau đó, họ qua đời trong một tai nạn khi đang thăm dò trên mặt đất.
-- Chỉ còn Solara với chị là dựa vào nhau.
-- Em ấy rất quan tâm đến chị, nhưng chắc hẳn trong lòng em ý cũng oán giận tôi, bố mẹ chị và bố mẹ em ấy…
-- Mất cả cha lẫn mẹ hai lần, trong một thế giới như thế này... chắc hẳn là rất đau đớn.
-- Có thể cô ấy sẽ không tìm thấy nơi mình thuộc về.
-- Xét về khía cạnh đó, cô ấy có phần giống em và Luvia. Chẳng trách cô ấy lại thù địch với bọn em đến vậy.
-- Tuy nhiên, có lẽ sẽ không còn những đứa trẻ như Solara trong tương lai nữa. Con của Susan và Robert có thể là đứa trẻ cuối cùng.
-- Tại sao ạ ?
-- Lúc khác chúng ta nói chuyện nhé.
+
+- Tôi
+> - Chị muốn trao đổi chi tiết với em sao ?
+
+- Selene
+> - Không phải nhiệm vụ hôm nay. Chị chỉ muốn nói với cả hai em một vài điều ngoài lề.
+> - Trong thời gian này, em gái chị đã gây rắc rối cho hai người rồi, phải không…
+
+- Tôi
+> - Thực ra cũng không tệ lắm. Cô ấy không còn tỏ ra thù địch như lúc ban đầu nữa. Tôi nghĩ đôi khi cách nói chuyện của cô ấy hơi khó nghe.
+> - Trước đây cô ấy có từng mâu thuẫn với người ngoài như bọn em không?
+
+- Selene
+> - ...Không, không hẳn vậy…
+> - Nhưng xuất thân của em ấy rất đặc biệt. ...Giống như em vậy, em ý cũng xuất thân từ trên mặt đất.
+> - Em ấy không phải là em gái ruột của chị.
+
+- Tôi
+> - ...Hở ?!
+
+- Selene
+> - Khi còn rất nhỏ, bố mẹ em ấy đã gửi đến Arcadia. Bố mẹ chị đã nhận nuôi em ấy như em gái ruột của chị. Bố mẹ ruột của em ấy đã lên mặt đất để tham gia xây dựng các công trình quy mô lớn.
+> - Vì vậy, em ấy hầu như không bao giờ gặp bố mẹ ruột của mình…
+> - Nhưng bố mẹ chị... không lâu sau đó, họ qua đời trong một tai nạn khi đang thăm dò trên mặt đất.
+> - Chỉ còn Solara với chị là dựa vào nhau.
+> - Em ấy rất quan tâm đến chị, nhưng chắc hẳn trong lòng em ý cũng oán giận tôi, bố mẹ chị và bố mẹ em ấy…
+> - Mất cả cha lẫn mẹ hai lần, trong một thế giới như thế này... chắc hẳn là rất đau đớn.
+
+- Tôi
+> - Có thể cô ấy sẽ không tìm thấy nơi mình thuộc về.
+> - Xét về khía cạnh đó, cô ấy có phần giống em và Luvia. Chẳng trách cô ấy lại thù địch với bọn em đến vậy.
+
+- Selene
+> - Tuy nhiên, có lẽ sẽ không còn những đứa trẻ như Solara trong tương lai nữa. Con của Susan và Robert có thể là đứa trẻ cuối cùng.
+
+- Tôi
+> - Tại sao ạ ?
+
+- Selene
+> - Lúc khác chúng ta nói chuyện nhé.
 - Ánh mắt chị ấy cho thấy nơi này không tiện để nói ra.
+
 - Chúng tôi chọn tiệm bánh Dorothy ở cuối phố. Tôi biết rõ tiệm này. Tôi từng mua bánh mì ở đó cho người chăm sóc Lucil.
 - Cô ấy mua đồ uống cho mỗi người chúng tôi. Ba chúng tôi ngồi xuống và tiếp tục trò chuyện.
-- Tại sao nơi này lại an toàn vậy ?
-- Nguồn gốc của tiệm bánh này... phức tạp hơn em tưởng đấy.
-- Quay lại chủ đề chính.
-- Ưm, em nghe đây.
-- …
-- Ngày xưa, có một nhóm người đã đổ rất nhiều nhân lực và nguồn lực vào việc xây dựng một công trình khổng lồ - tất cả chỉ để ngăn chặn cơn mưa này.
-- Sau khi triển khai kế hoạch, họ cũng thiết lập các tiền đồn tiếp sức, trạm quan sát và phương tiện vận chuyển nhân lực/vật chất.
-- Em hiểu rõ hơn chị những rủi ro khi làm việc dưới trời mưa lớn mà…
-- Bố mẹ chị đã ngã xuống mưa vì giấc mơ đó, và người dân Arcadia cũng vậy.
-- Những cư dân sống trên mặt đất được huy động để giúp đỡ cũng bị ngã trong mưa, và mối quan hệ của mọi người với các khu vực an toàn lớn gần đó trở nên căng thẳng.
-- Mọi người không thể tiếp tục gánh chịu chi phí xây dựng nữa. Vì vậy, theo quyết định đa số của hội đồng, mọi người đã chấm dứt mọi liên lạc với bên ngoài và chuyển trọng tâm sang phát triển công trình ngầm.
-- Chị không muốn điều đó... Chị không nghĩ đó là con đường đúng đắn. Chị muốn tiếp tục xây dựng cơ sở vật chất trên mặt đất đó.
-- Chỉ bằng cách ngăn mưa và để ánh nắng mặt trời và ánh trăng chiếu rọi lên con người, chúng ta mới có được lối thoát thực sự.
-- Họ không muốn làm điều đó. Tức là, mọi hy vọng đã tan biến.
-- Nhưng sự xuất hiện của em và Luvia đã cho chị thấy những khả năng chưa từng có.
-- Em đến từ trên mặt đất, nơi đã quyết định cắt đứt mọi liên lạc, và rồi lại kết nối với chúng tôi.
-- Có lẽ em cũng có thể giúp mọi người kết nối lại với nhau…
-- Em thật sự có khả năng đó sao ?
-- Em có thể không nghĩ vậy, nhưng chị cảm thấy em và Luvia có khả năng đó.
+
+- Tôi
+> - Tại sao nơi này lại an toàn vậy ?
+
+- Selene
+> - Nguồn gốc của tiệm bánh này... phức tạp hơn em tưởng đấy.
+> - Quay lại chủ đề chính.
+
+- Tôi
+> - Ưm, em nghe đây.
+
+- Selene
+> - …
+
+- Selene
+> - Ngày xưa, có một nhóm người đã đổ rất nhiều nhân lực và nguồn lực vào việc xây dựng một công trình khổng lồ - tất cả chỉ để ngăn chặn cơn mưa này.
+> - Sau khi triển khai kế hoạch, họ cũng thiết lập các tiền đồn tiếp sức, trạm quan sát và phương tiện vận chuyển nhân lực/vật chất.
+> - Em hiểu rõ hơn chị những rủi ro khi làm việc dưới trời mưa lớn mà…
+> - Bố mẹ chị đã ngã xuống mưa vì giấc mơ đó, và người dân Arcadia cũng vậy.
+> - Những cư dân sống trên mặt đất được huy động để giúp đỡ cũng bị ngã trong mưa, và mối quan hệ của mọi người với các khu vực an toàn lớn gần đó trở nên căng thẳng.
+> - Mọi người không thể tiếp tục gánh chịu chi phí xây dựng nữa. Vì vậy, theo quyết định đa số của hội đồng, mọi người đã chấm dứt mọi liên lạc với bên ngoài và chuyển trọng tâm sang phát triển công trình ngầm.
+> - Chị không muốn điều đó... Chị không nghĩ đó là con đường đúng đắn. Chị muốn tiếp tục xây dựng cơ sở vật chất trên mặt đất đó.
+> - Chỉ bằng cách ngăn mưa và để ánh nắng mặt trời và ánh trăng chiếu rọi lên con người, chúng ta mới có được lối thoát thực sự.
+> - Họ không muốn làm điều đó. Tức là, mọi hy vọng đã tan biến.
+
+- Selene
+> - Nhưng sự xuất hiện của em và Luvia đã cho chị thấy những khả năng chưa từng có.
+> - Em đến từ trên mặt đất, nơi đã quyết định cắt đứt mọi liên lạc, và rồi lại kết nối với chúng tôi.
+> - Có lẽ em cũng có thể giúp mọi người kết nối lại với nhau…
+
+- Tôi
+> - Em thật sự có khả năng đó sao ?
+
+- Selene
+> - Em có thể không nghĩ vậy, nhưng chị cảm thấy em và Luvia có khả năng đó.
 - Luvia ngồi yên lặng bên cạnh chúng tôi, hì hụp đồ uống mà Selene đã đưa cho cậu ấy.
 - Khi chủ đề trò chuyện đặc biệt như này, cậu ý chỉ yên lặng lắng nghe và hiếm khi mở lời.
-- Em Luvia... chỉ khiến chị cảm thấy xa cách, thậm chí có lẽ là cả với em nữa.
-- Không phải xa về mặt địa lý đâu. Um... Chị không biết tại sao có cả cảm giác này, xin lỗi em.
-- Tuy vậy... dù thế, chị vẫn cảm nhận được "tiềm năng" trong em ấy.
-- Em ấy cần người chỉ dẫn. Chị nghĩ đó chính là em.
-- Em sẽ bảo vệ bạn ấy tốt mà.
-- Bạn ý... là một người bạn quan trọng. Và cũng là người duy nhất…
+
+- Selene
+> - Em Luvia... chỉ khiến chị cảm thấy xa cách, thậm chí có lẽ là cả với em nữa.
+> - Không phải xa về mặt địa lý đâu. Um... Chị không biết tại sao có cả cảm giác này, xin lỗi em.
+> - Tuy vậy... dù thế, chị vẫn cảm nhận được "tiềm năng" trong em ấy.
+> - Em ấy cần người chỉ dẫn. Chị nghĩ đó chính là em.
+
+- Tôi
+> - Em sẽ bảo vệ bạn ấy tốt mà.
+> - Bạn ý... là một người bạn quan trọng. Và cũng là người duy nhất…
 - Tôi không tiếp tục.
 - Tôi không muốn có mối quan hệ quá thân thiết với bất kỳ ai. Nếu mất đi mối quan hệ đó, tôi sẽ chỉ đau khổ hơn mà thôi.
 - Selene không ép tôi nói thêm gì nữa, chỉ cười mỉm mà thôi.
-- Hì, cảm ơn em đã lắng nghe nhé.
-- Nhớ tối nay ngâm mình trong bồn nước nóng, thư giãn, và nghỉ ngơi nha.
-- Vâng, chị cũng vậy nhé.
-- …
-- Ưm, chị cảm ơn.
-- Chị để Solara ở lại với bọn em nha.
+
+- Selene
+> - Hì, cảm ơn em đã lắng nghe nhé.
+> - Nhớ tối nay ngâm mình trong bồn nước nóng, thư giãn, và nghỉ ngơi nha.
+
+- Tôi
+> - Vâng, chị cũng vậy nhé.
+
+- Selene
+> - …
+> - Ưm, chị cảm ơn.
+> - Chị để Solara ở lại với bọn em nha.
 - Chị ấy rời khỏi phòng.
+
 - Lúc chín giờ tối, tôi quay trở về phòng.
 - Sau khi đọc sách nửa tiếng đồng hồ và chắc chắn chẳng hiểu gì cả, tôi thở dài trườn bò trên giường.
+
 - Tôi đang nghĩ mình chẳng thấy mệt chút nào thì một tiếng gõ cửa bất ngờ làm tôi giật mình ngồi dậy.
 - Khi tôi mở cửa, thấy Luvia đứng đó.
-- Sao cậu lại ở đây ?
-- Tớ mãi không ngủ được. Tớ vào được không ?
+
+- Tôi
+> - Sao cậu lại ở đây ?
+
+- Luvia
+> - Tớ mãi không ngủ được. Tớ vào được không ?
 - Tôi liếc nhìn quanh phòng. Trông không quá bừa bộn.
-- Vào đi.
+
+- Tôi
+> - Vào đi.
 - Luvia ngồi cạnh tôi, vẻ mặt có phần đau khổ.
-- Chị Selene gánh vác một trách nhiệm vô cùng to lớn…
-- Nhưng ước nguyện của chị ấy thật đẹp.
-- Vì điều ước đó, bố mẹ chị ấy… Chị Selene chắc hẳn rất đau lòng lắm…
-- Chị Solara cũng vậy... Nếu như không có mưa, chuyện này chắc chẳng xảy ra.
+
+- Luvia
+> - Chị Selene gánh vác một trách nhiệm vô cùng to lớn…
+
+- Tôi
+> - Nhưng ước nguyện của chị ấy thật đẹp.
+
+- Luvia
+> - Vì điều ước đó, bố mẹ chị ấy… Chị Selene chắc hẳn rất đau lòng lắm…
+> - Chị Solara cũng vậy... Nếu như không có mưa, chuyện này chắc chẳng xảy ra.
 - Tôi nhẹ nhàng xoa đầu Luvia.
-- Nếu như không có mưa, Selene và Solara sẽ không bao giờ gặp nhau.
-- Chúng mình không thể kết luận rằng những kết quả tưởng tượng đó sẽ tốt hơn.
-- Giờ đây họ có thể hỗ trợ lẫn nhau. Không ai có thể chắc chắn rằng điều đó tồi tệ hơn một thế giới không có mưa.
-- Là vậy sao... ?
-- Selene và Solara đều đang nỗ lực vì tương lai. Câu nói "nếu như" của chúng ta sẽ xóa bỏ mọi nỗ lực của họ.
-- Tớ muốn giúp Selene và Solara…
-- Chúng ta đang giúp họ mà.
-- Thật sao ?
-- Thật.
+
+- Tôi
+> - Nếu như không có mưa, Selene và Solara sẽ không bao giờ gặp nhau.
+> - Chúng mình không thể kết luận rằng những kết quả tưởng tượng đó sẽ tốt hơn.
+> - Giờ đây họ có thể hỗ trợ lẫn nhau. Không ai có thể chắc chắn rằng điều đó tồi tệ hơn một thế giới không có mưa.
+
+- Luvia
+> - Là vậy sao... ?
+
+- Tôi
+> - Selene và Solara đều đang nỗ lực vì tương lai. Câu nói "nếu như" của chúng ta sẽ xóa bỏ mọi nỗ lực của họ.
+
+- Luvia
+> - Tớ muốn giúp Selene và Solara…
+
+- Tôi
+> - Chúng ta đang giúp họ mà.
+
+- Luvia
+> - Thật sao ?
+
+- Tôi
+> - Thật.
 - Gương mặt Luvia khẽ nở nụ cười.
-- Vậy thì tớ sẽ tiếp tục làm việc chăm chỉ để giúp đỡ nhiều hơn.
-- Nhưng trước đó, cả hai chúng ta đều cần nghỉ ngơi đầy đủ.
-- T... tớ có thể ngủ ở phòng cậu tối nay không ?
-- Xin lỗi, vậy có thể phiền cậu lắm…
-- ...Hử ?
-- Để xem nào... chắc là được đấy.
-- ...Vậy thì tớ sẽ dễ ngủ hơn rồi. Cảm ơn cậu.
+
+- Luvia
+> - Vậy thì tớ sẽ tiếp tục làm việc chăm chỉ để giúp đỡ nhiều hơn.
+
+- Tôi
+> - Nhưng trước đó, cả hai chúng ta đều cần nghỉ ngơi đầy đủ.
+
+- Luvia
+> - T... tớ có thể ngủ ở phòng cậu tối nay không ?
+> - Xin lỗi, vậy có thể phiền cậu lắm…
+
+- Tôi
+> - ...Hử ?
+> - Để xem nào... chắc là được đấy.
+
+- Luvia
+> - ...Vậy thì tớ sẽ dễ ngủ hơn rồi. Cảm ơn cậu.
+
 - Luvia ngủ say sưa bên cạnh tôi. Tôi ngồi xuống cạnh giường và cầm lấy cuốn sách mà tôi chưa đọc xong trước đó, đọc cho đến khi cơn buồn ngủ cuối cùng cũng đánh tan mọi suy nghĩ.
+
 - Nhưng rồi bộ đàm trên bàn gần đó vang lên.
 - Tôi miễn cưỡng đứng dậy và nhặt nó lên.
-- Có chuyện gì không? Đây là Solara sao ?
-- Anh có biết Solara đang đâu không? Tôi không thể liên lạc được với cô ấy kể từ khi cô ấy đi làm nhiệm vụ.
+
+- Tôi
+> - Có chuyện gì không? Đây là Solara sao ?
+
+- Aleksei
+> - Anh có biết Solara đang đâu không? Tôi không thể liên lạc được với cô ấy kể từ khi cô ấy đi làm nhiệm vụ.
 - Tôi dụi mắt và nhìn đồng hồ.
-- Đã 10:30 tối rồi đấy.
-- Nên tôi mới gọi cho anh đấy. Tôi đã kiểm tra mọi nơi có thể rồi.
-- Giờ này... à còn Selene thì sao ?
-- Vẫn đang họp... Tôi đã gọi cho người giúp việc, đều nghe là không ai ở nhà.
-- Tôi nghĩ tôi biết Solara đã đi đâu.
+
+- Tôi
+> - Đã 10:30 tối rồi đấy.
+
+- Aleksei
+> - Nên tôi mới gọi cho anh đấy. Tôi đã kiểm tra mọi nơi có thể rồi.
+
+- Tôi
+> - Giờ này... à còn Selene thì sao ?
+
+- Aleksei
+> - Vẫn đang họp... Tôi đã gọi cho người giúp việc, đều nghe là không ai ở nhà.
+
+- Tôi
+> - Tôi nghĩ tôi biết Solara đã đi đâu.
 - Bởi vì Selene họp rất muộn, Solara chắn hẳn đã phát ngán và đến hội đồng để kéo Selene về.
 - Cô ta có vẻ là người sẽ làm điều đó.
 - Nếu vậy, chúng ta có thể tìm thấy cả hai chị em họ tại hội đồng.
+
 - Mặc dù tôi muốn ngủ, nhưng Aleksei từ phòng điều khiển đã đích thân yêu cầu tôi, nên tôi không thể từ chối. Tôi đã đi nhờ xe đẩy đến tận khu vực trung tâm.
 - Giờ tôi đã khá quen thuộc với việc đến Tòa thị chính rồi. Chưa đầy mười lăm phút sau tôi đã đến nơi. Phòng họp lớn bên trong quả thật vẫn còn sáng đèn.
 - Tôi lặng lẽ đi vòng xuống dưới cửa sổ. Trong sự tĩnh lặng tuyệt đối của đêm, tôi có thể nghe rõ cuộc tranh cãi của họ.
-- Theo báo cáo của lãnh đạo, hai người đó đã tham gia canh tác nông nghiệp và xây dựng khu phát triển, đúng không ?
-- Đúng vậy. Theo các quản lý trang trại và giám sát phát triển, họ tuân thủ quy định, làm việc chăm chỉ và đạt hiệu quả tốt.
-- Tôi nghe nói gần đây họ cũng đã tiếp tục cho công tác khảo sát bề mặt với cô, phải không lãnh đạo?
-- Đúng.
-- Nhưng theo các báo cáo, công việc khảo sát đó không mang lại lợi ích đáng kể nào.
-- Giá trị thực sự của các cuộc khảo sát bề mặt không thể chỉ được đánh giá bằng các bản đồ mà chúng tôi đã lập ra.
-- Lãnh đạo, theo tôi, hai người đó chưa đóng góp đủ để xứng đáng được ở lại Arcadia.
-- Nhưng những cư dân từng làm việc với họ lại đánh giá cao họ. Tôi không nghĩ chúng ta cần phải đuổi họ đi đâu.
-- Lãnh đạo, quan điểm của cô thế nào?
-- ...Họ có thể chính là những người có khả năng thay đổi hiện trạng của Arcadia.
-- Lãnh đạo, ý cô là sao?
-- Chính sách hiện tại của Arcadia về việc cắt đứt liên lạc với thế giới bên ngoài và duy trì đóng cửa sẽ chỉ dẫn chúng ta từng bước đến sự hủy diệt.
-- Mực nước trên beef mặt vẫn đang dâng cao. Khi mùa mưa tiếp theo đến, các biện pháp thoát nước của chúng ta có thể không còn bảo vệ được chúng ta như trước nữa.
-- Khi ngày đó đến, những người sống dưới lòng đất như chúng ta có thể chạy đi đâu?
+
+- Thành viên Hội đồng A
+> - Theo báo cáo của lãnh đạo, hai người đó đã tham gia canh tác nông nghiệp và xây dựng khu phát triển, đúng không ?
+
+- Selene
+> - Đúng vậy. Theo các quản lý trang trại và giám sát phát triển, họ tuân thủ quy định, làm việc chăm chỉ và đạt hiệu quả tốt.
+
+- Thành viên Hội đồng A
+> - Tôi nghe nói gần đây họ cũng đã tiếp tục cho công tác khảo sát bề mặt với cô, phải không lãnh đạo?
+
+- Selene
+> - Đúng.
+
+- Thành viên Hội đồng A
+> - Nhưng theo các báo cáo, công việc khảo sát đó không mang lại lợi ích đáng kể nào.
+
+- Selene
+> - Giá trị thực sự của các cuộc khảo sát bề mặt không thể chỉ được đánh giá bằng các bản đồ mà chúng tôi đã lập ra.
+
+- Thành viên Hội đồng B
+> - Lãnh đạo, theo tôi, hai người đó chưa đóng góp đủ để xứng đáng được ở lại Arcadia.
+
+- Thành viên Hội đồng C
+> - Nhưng những cư dân từng làm việc với họ lại đánh giá cao họ. Tôi không nghĩ chúng ta cần phải đuổi họ đi đâu.
+
+- Thành viên Hội đồng D
+> - Lãnh đạo, quan điểm của cô thế nào?
+
+- Selene
+> - ...Họ có thể chính là những người có khả năng thay đổi hiện trạng của Arcadia.
+
+- Thành viên Hội đồng B
+> - Lãnh đạo, ý cô là sao?
+
+- Selene
+> - Chính sách hiện tại của Arcadia về việc cắt đứt liên lạc với thế giới bên ngoài và duy trì đóng cửa sẽ chỉ dẫn chúng ta từng bước đến sự hủy diệt.
+> - Mực nước trên beef mặt vẫn đang dâng cao. Khi mùa mưa tiếp theo đến, các biện pháp thoát nước của chúng ta có thể không còn bảo vệ được chúng ta như trước nữa.
+> - Khi ngày đó đến, những người sống dưới lòng đất như chúng ta có thể chạy đi đâu?
 - Đây là chủ đề mà Selene đã thảo luận với tôi.
 - Nhưng nghe vậy... Solara không có ở đây sao?
 - Vậy thì cô ta có thể ở đâu được nhỉ? Đã 10:30 tối rồi đấy.
-- Cô muốn Arcadia khôi phục lại với giao dịch bên ngoài sao? Cô có biết cái giá phải trả là bao nhiêu không? Đừng quên cha mẹ cô đã chết vì chuyện này đấy.
-- Chính vì hiểu điều đó, tôi không muốn những người đã hy sinh vì một điều gì đó bị bỏ dở dang.
-- Đồng chí Selene, chúng tôi bầu cô làm lãnh đạo vì cô là con gái của lãnh đạo.
-- Cái gì cũng có giới hạn của nó. Đừng vượt quá giới hạn, đồng chí Selene.
-- Vậy anh có muốn bị mắc kẹt dưới lòng đất cho đến khi chất dinh dưỡng trong đất cạn kiệt và lớp đất mặt bên trên hoàn toàn mục nát không ?
-- Dù vậy, người dân Arcadia không thể gánh nổi cái giá phải trả để trở về mặt đất. Chúng tôi đang phát triển các khu vực mới. Đó là biện pháp ứng phó của chúng tôi.
-- Lãnh đạo, dù tôi ủng hộ việc giữ họ ở Arcadia, việc thiết lập lại liên lạc với bên ngoài quá nguy hiểm…
-- Phải chăng hai kẻ ngoại lai đó đã gieo rắc những ý tưởng sai lệch vào đầu lãnh đạo? Chúng tôi cần biết người đang giấu giếm thông tin quan trọng nào.
+
+- Thành viên Hội đồng A
+> - Cô muốn Arcadia khôi phục lại với giao dịch bên ngoài sao? Cô có biết cái giá phải trả là bao nhiêu không? Đừng quên cha mẹ cô đã chết vì chuyện này đấy.
+
+- Selene
+> - Chính vì hiểu điều đó, tôi không muốn những người đã hy sinh vì một điều gì đó bị bỏ dở dang.
+
+- Thành viên Hội đồng B
+> - Đồng chí Selene, chúng tôi bầu cô làm lãnh đạo vì cô là con gái của lãnh đạo.
+> - Cái gì cũng có giới hạn của nó. Đừng vượt quá giới hạn, đồng chí Selene.
+
+- Selene
+> - Vậy anh có muốn bị mắc kẹt dưới lòng đất cho đến khi chất dinh dưỡng trong đất cạn kiệt và lớp đất mặt bên trên hoàn toàn mục nát không ?
+
+- Thành viên Hội đồng D
+> - Dù vậy, người dân Arcadia không thể gánh nổi cái giá phải trả để trở về mặt đất. Chúng tôi đang phát triển các khu vực mới. Đó là biện pháp ứng phó của chúng tôi.
+
+- Thành viên Hội đồng C
+> - Lãnh đạo, dù tôi ủng hộ việc giữ họ ở Arcadia, việc thiết lập lại liên lạc với bên ngoài quá nguy hiểm…
+
+- Thành viên Hội đồng D
+> - Phải chăng hai kẻ ngoại lai đó đã gieo rắc những ý tưởng sai lệch vào đầu lãnh đạo? Chúng tôi cần biết người đang giấu giếm thông tin quan trọng nào.
+
 - Tôi đã thử liên lạc với Aleksei qua radio để hỏi xem Solara đã trở về trong thời gian này chưa.
 - Không có ai trả lời cả.
-- ...Ủa ?
+
+- Tôi
+> - ...Ủa ?
+
 - Khi tôi hạ nhỏ âm lượng radio, tôi nghe thấy một âm thanh khác ngoài tiếng nói của hội đồng.
 - Nhưng đó không phải là từ đài radio của tôi.
 - Một tiếng chuông báo động. Âm thanh chói tai, với đèn đỏ nhấp nháy trong bóng tối.
@@ -2492,38 +4675,84 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Khun 3 và 4 là các khu nhà máy và khu dân cư.
 - Một tiếng thôi á... ? Đùa đấy à? Ngắn quá mức vô lý rồi ?!
 - Tôi biết đây không phải lúc để tiếp tục nghe lén, vì vậy tôi xông thẳng qua cổng chính của Tòa thị chính và lao về phía phòng họp.
+
 - Tại đó, Selene với vẻ mặt nghiêm nghị đang nhanh chóng thảo luận điều gì đó với một vài thành viên hội đồng.
-- Selene !
-- Đó là người ngoài do Chủ tịch Selene đưa đến. Tại sao anh lại ở đây?
-- Solara vẫn chưa về nhà. Chị có biết em ấy đang ở đâu không?!
-- Solara... không ổn rồi.
-- Vào thời điểm như thế này, ai cũng biết Solara sẽ ở đâu.
-- Trước tiên chị xác nhận nhé: em ấy thực sự chưa về nhà phải không? Em đã gọi cho phòng điều khiển trung tâm chưa? Em ý có thể đang ở đó.
-- Em nghe được chuyện đó từ chỗ đó. Nhưng giờ em không thể gọi lại được nữa.
-- ...Chị biết em ấy có thể ở đâu. Cụ thể là ba nơi.
-- {player.name}, em có thể chia nhau đi tìm em gái chị được không? Hiện tại chúng ta đang thiếu người trầm trọng.
+
+- Tôi
+> - Selene !
+
+- Thành viên Hội đồng C
+> - Đó là người ngoài do Chủ tịch Selene đưa đến. Tại sao anh lại ở đây?
+
+- Tôi
+> - Solara vẫn chưa về nhà. Chị có biết em ấy đang ở đâu không?!
+
+- Selene
+> - Solara... không ổn rồi.
+> - Vào thời điểm như thế này, ai cũng biết Solara sẽ ở đâu.
+> - Trước tiên chị xác nhận nhé: em ấy thực sự chưa về nhà phải không? Em đã gọi cho phòng điều khiển trung tâm chưa? Em ý có thể đang ở đó.
+
+- Tôi
+> - Em nghe được chuyện đó từ chỗ đó. Nhưng giờ em không thể gọi lại được nữa.
+
+- Selene
+> - ...Chị biết em ấy có thể ở đâu. Cụ thể là ba nơi.
+> - {player.name}, em có thể chia nhau đi tìm em gái chị được không? Hiện tại chúng ta đang thiếu người trầm trọng.
 - Selene cầm tấm bản đồ khu nhà máy trên bàn, khoanh tròn hai vị trí rồi đưa cho tôi.
-- Còn chị thì sao ?
-- Tôi sẽ đến khu dân cư, nơi thứ ba mà cô ấy có thể xuất hiện.
-- Nếu mình gọi cho Luvia, có lẽ cậu ấy sẽ giúp…
-- ...Chết thật, Luvia còn đang ngủ trong phòng, radio thì bên cạnh tôi !!
-- Không sao đâu cậu.
-- A-!!
-- Xin lỗi... Tớ chỉ lo cậu đi đâu muộn quá thôi, nên tớ mới theo sau cậu.
-- Luvia...! Cậu đừng làm mấy chuyện nguy hiểm nữa được không. Lần sau chỉ cần gọi tớ là được, vậy nhé ?
-- Ưm, tớ nhớ rồi.
-- Selene, Luvia và tớ sẽ cùng nhau đến khu nhà máy.
-- Được thôi em.
-- Và... khi tìm thấy em gái chị, hãy đưa em ấy đến Khu 2 ngay lập tức nhé ?
-- Được ạ. Em cũng tính vậy mà.
-- Vậy chị cũng cẩn thận nhé.
-- {player.name}, Luvia.
-- Chị vô cùng biết ơn cả hai em. Nếu có thể, chị thực sự hy vọng mình có thể đền đáp lại một cách xứng đáng.
-- Để sau đi chị. Chúng ta sắp hết thời gian rồi.
-- ...Ừm. Chúng ta sắp hết thời gian rồi, vì vậy tất cả chúng ta phải làm mọi thứ có thể để ngăn chặn thảm họa này.
+
+- Tôi
+> - Còn chị thì sao ?
+
+- Selene
+> - Tôi sẽ đến khu dân cư, nơi thứ ba mà cô ấy có thể xuất hiện.
+
+- Tôi
+> - Nếu mình gọi cho Luvia, có lẽ cậu ấy sẽ giúp…
+> - ...Chết thật, Luvia còn đang ngủ trong phòng, radio thì bên cạnh tôi !!
+
+- Luvia
+> - Không sao đâu cậu.
+
+- Tôi
+> - A-!!
+
+- Luvia
+> - Xin lỗi... Tớ chỉ lo cậu đi đâu muộn quá thôi, nên tớ mới theo sau cậu.
+
+- Tôi
+> - Luvia...! Cậu đừng làm mấy chuyện nguy hiểm nữa được không. Lần sau chỉ cần gọi tớ là được, vậy nhé ?
+
+- Luvia
+> - Ưm, tớ nhớ rồi.
+
+- Tôi
+> - Selene, Luvia và tớ sẽ cùng nhau đến khu nhà máy.
+
+- Selene
+> - Được thôi em.
+> - Và... khi tìm thấy em gái chị, hãy đưa em ấy đến Khu 2 ngay lập tức nhé ?
+
+- Tôi
+> - Được ạ. Em cũng tính vậy mà.
+> - Vậy chị cũng cẩn thận nhé.
+
+- Selene
+> - {player.name}, Luvia.
+> - Chị vô cùng biết ơn cả hai em. Nếu có thể, chị thực sự hy vọng mình có thể đền đáp lại một cách xứng đáng.
+
+- Tôi
+> - Để sau đi chị. Chúng ta sắp hết thời gian rồi.
+
+- Selene
+> - ...Ừm. Chúng ta sắp hết thời gian rồi, vì vậy tất cả chúng ta phải làm mọi thứ có thể để ngăn chặn thảm họa này.
+
 - Khi tôi rời đi, tôi nhận thấy Selene lại lao vào cuộc tranh luận gay gắt với các ủy viên hội đồng.
-- Sẵn sàng chưa? Mỗi người chúng ta sẽ đến một địa điểm ở trên.
-- Tớ sẵn sàng rồi.
+
+- Tôi
+> - Sẵn sàng chưa? Mỗi người chúng ta sẽ đến một địa điểm ở trên.
+
+- Luvia
+> - Tớ sẵn sàng rồi.
 - Chúng tôi chạy nước rút suốt quãng đường, gần như nhảy lên xe đẩy để đến Khu 3.
 
 ---
@@ -2532,128 +4761,249 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 <VnPlayer episode="main_story_2_9" title="2.9" />
 
-- Ơ... sao ngươi lại ở đây ?
+- Solara
+> - Ơ... sao ngươi lại ở đây ?
 - Tôi tìm thấy Solara một mình trong một phòng bảo trì, ở rìa khu nhà máy.
-- May quá, chúng tôi đã tìm thấy cô rồi…! Solara, chị gái cô đang rất lo lắng đấy…
-- Chị gái…
-- Ngươi có biết chị ấy đi đâu rồi không ?!
-- Chị ấy chia nhau ra rồi, qua Khu 4…
-- Khu... dân cư...?
-- ...Chết tiệt!! Sao ngươi lại để chị đến đó? Chị ấy sẽ không tìm thấy đâu. Sao ngươi lại để chị ấy đến khu dân cư đó?!
+
+- Tôi
+> - May quá, chúng tôi đã tìm thấy cô rồi…! Solara, chị gái cô đang rất lo lắng đấy…
+
+- Solara
+> - Chị gái…
+> - Ngươi có biết chị ấy đi đâu rồi không ?!
+
+- Tôi
+> - Chị ấy chia nhau ra rồi, qua Khu 4…
+
+- Solara
+> - Khu... dân cư...?
+
+- Solara
+> - ...Chết tiệt!! Sao ngươi lại để chị đến đó? Chị ấy sẽ không tìm thấy đâu. Sao ngươi lại để chị ấy đến khu dân cư đó?!
+
 - Solara đẩy tôi sang một bên, thả hộp dụng cụ xuống, và lao ra khỏi cửa.
-- A, may quá... á !!
+
+- Luvia
+> - A, may quá... á !!
 - Luvia vừa đến cửa để gặp lại tôi thì Solara lao ra và đâm sầm vào cô ấy, khiến Luvia ngã xuống sàn.
 - Hộp dụng cụ rơi xuống đất. Các dụng cụ văng tứ tung khắp nơi với những tiếng leng keng chói tai.
 - Chị ấy không định tìm cô ấy sao...? Ý Solara là gì vậy ?
 - Khoan. Tôi hiểu rồi.
 - Tôi hiểu rồi... mục đích thật sự của Selene.
-- K-không... không ổn rồi, phải ngăn Solara lại ngay !!
+
+- Tôi
+> - K-không... không ổn rồi, phải ngăn Solara lại ngay !!
+
 - Sau khi nghe thông báo phát thanh, cư dân, vốn đã hoảng sợ vì tiếng còi báo động, càng trở nên hoảng loạn hơn.
-- Lũ lụt?! Nơi này sắp ngập nước rồi sao?!
-- M-Mau lên, tìm chỗ trú !
+
+- Người dân
+> - Lũ lụt?! Nơi này sắp ngập nước rồi sao?!
+> - M-Mau lên, tìm chỗ trú !
 - Giọng của Selene vang lên từ đám đông gần đó.
-- Mọi người hãy giữ bình tĩnh! Hãy mang theo đồ dùng cá nhân và nhu yếu phẩm hàng ngày! Khu vực phát triển có đủ chỗ cho tất cả mọi người !
+
+- Selene
+> - Mọi người hãy giữ bình tĩnh! Hãy mang theo đồ dùng cá nhân và nhu yếu phẩm hàng ngày! Khu vực phát triển có đủ chỗ cho tất cả mọi người !
 - Selene len lỏi qua đám đông và tìm thấy một người mẹ và đứa con đang hoảng loạn, mất hết bình tĩnh.
-- Xin hãy nhanh chóng sơ tán cùng với những cư dân khác!
-- V-Vậy... còn cô thì sao?
-- Tôi là lãnh đạo của Arcadia. Tôi phải bảo vệ người khác.
+
+- Selene
+> - Xin hãy nhanh chóng sơ tán cùng với những cư dân khác!
+
+- Nữ
+> - V-Vậy... còn cô thì sao?
+
+- Selene
+> - Tôi là lãnh đạo của Arcadia. Tôi phải bảo vệ người khác.
 - Selene chỉ đường cho người mẹ và đứa con đi đúng hướng, rồi vội vã đến địa điểm tiếp theo.
-- Hội đồng, đây là Selene! Người dân đã bắt đầu sơ tán. Công tác chuẩn bị tại khu vực phát triển đang diễn ra như nào rồi ?
-- Tất cả các nơi trú ẩn tạm thời đã hoàn thành. Chúng tôi đang lắp đặt các rào chắn chống lũ, và các cổng bị bịt kín gần như đã được sửa chữa xong.
-- Sao phải sửa những cánh cổng bịt kín?!
-- Còn việc di dời cây trồng cùng vật nuôi thì sao?!
-- Việc di dời vẫn đang tiếp diễn. Các con vật đang hoảng sợ và khó kiểm soát. Lượng thức ăn dự trữ hiện tại chỉ đủ nuôi sống cư dân trong 14 ngày.
-- Đừng để động vật hoảng sợ và làm hại người. Nhớ đó!
-- Đã rõ.
-- (...Một số ủy viên hội đồng đã vội vã tìm nơi trú ẩn.)
-- (Các đội sửa chữa đang tự tay đóng kín các cửa xả lũ để làm chậm dòng nước tràn vào Arcadia càng nhiều càng tốt.)
-- (Nhưng điều đó chỉ giúp câu giờ mà thôi.)
+
+- Selene
+> - Hội đồng, đây là Selene! Người dân đã bắt đầu sơ tán. Công tác chuẩn bị tại khu vực phát triển đang diễn ra như nào rồi ?
+
+- Thành viên Hội đồng C
+> - Tất cả các nơi trú ẩn tạm thời đã hoàn thành. Chúng tôi đang lắp đặt các rào chắn chống lũ, và các cổng bị bịt kín gần như đã được sửa chữa xong.
+
+- Selene
+> - Sao phải sửa những cánh cổng bịt kín?!
+> - Còn việc di dời cây trồng cùng vật nuôi thì sao?!
+
+- Thành viên Hội đồng D
+> - Việc di dời vẫn đang tiếp diễn. Các con vật đang hoảng sợ và khó kiểm soát. Lượng thức ăn dự trữ hiện tại chỉ đủ nuôi sống cư dân trong 14 ngày.
+
+- Selene
+> - Đừng để động vật hoảng sợ và làm hại người. Nhớ đó!
+
+- Thành viên Hội đồng D
+> - Đã rõ.
+
+- Selene
+> - (...Một số ủy viên hội đồng đã vội vã tìm nơi trú ẩn.)
+> - (Các đội sửa chữa đang tự tay đóng kín các cửa xả lũ để làm chậm dòng nước tràn vào Arcadia càng nhiều càng tốt.)
+> - (Nhưng điều đó chỉ giúp câu giờ mà thôi.)
 - Một khi các cửa xả lũ bị vỡ, nước sẽ tràn vào Arcadia.
 - Ngay cả khi không xét đến việc cơn mưa này có khiến người ta ngủ thiếp đi hay không, họ vẫn sẽ chết đuối trước khi kịp ngủ.
 - Không lẽ không có cách nào... để chuyển hướng dòng nước này đi nơi khác sao?
-- Khoan…
-- Khu vực điều khiển trung tâm, nghe rõ không ?
-- Alo ?!
-- …
-- Gọi đến hội đồng, kiểm tra khu vực Great Hollow !!
-- Khu Great Hollow? Di dời dòng lũ qua đó ?
-- Nhưng bây giờ chúng ta lấy đâu ra thời gian để xây dựng kênh dẫn nước chuyển hướng?
-- Chuyển toàn bộ vật tư từ các máy khoan hầm và vận chuyển trực tiếp từ Khu 4 đến Khu 5 cũ.
-- Nhưng điều đó sẽ khiến Chủ tịch Selene không hài lòng?!
-- Tôi phải đảm bảo tất cả cư dân ở đó đã được sơ tán. Tiếp tục liên lạc với phòng điều khiển trung tâm đi !!
-- (Mặc dù mình không biết việc này sẽ giúp được bao nhiêu, nhưng việc chuyển hướng phần lớn lượng nước sẽ giúp Arcadia không bị ngập quá nhanh.)
-- (Thế là đủ rồi... Chỉ cần có phương pháp, thì vẫn còn cơ hội.)
-- Chủ tịch Selene, chúng tôi đã đến phòng điều khiển trung tâm rồi!
-- Đã nhận, hết !!
-- ...Phòng điều khiển trung tâm, đây là Selene.
-- Chủ tịch Selene, không hiểu sao hệ thống thoát nước lại hoàn toàn bị hỏng, và lượng mưa trên bề mặt cũng ngày càng lớn!
-- Chúng ta cần đưa người lên mặt đất ngay lập tức.
-- Bộ xử lý lõi ban đầu mà thành phố Arcadia sử dụng hiện đang nằm ở viện nghiên cứu ngoại ô. Nếu chúng ta tìm được một bộ xử lý không bị hư hại ở đó, Arcadia vẫn có thể được cứu.
-- Nếu chúng ta chuyển hướng dòng lũ đến Great Hollow ở khu vực cũ của Khu 5, chúng ta có thể cầm cự được bao lâu?!
-- Để tôi tính xem…
-- Ba ngày. Có khi còn ít hơn 3 ngày.
-- Tôi muốn đợi đến khi công tác thăm dò hoàn tất hơn một chút trước khi đến đó... nhưng giờ thì hết thời gian rồi.
-- Tôi đã gọi cho hội đồng, mọi người đã tìm được nguyên nhân gây ra sự cố thoát nước chưa?!
-- Ủy viên hội đồng Dmitri đã dẫn người đến xem xét, nhưng chúng tôi không thể liên lạc được với anh ấy.
-- (Phải chăng anh ta... đã bỏ trốn vào phút cuối?)
+
+- Selene
+> - Khoan…
+
+- Selene
+> - Khu vực điều khiển trung tâm, nghe rõ không ?
+> - Alo ?!
+> - …
+> - Gọi đến hội đồng, kiểm tra khu vực Great Hollow !!
+
+- Thành viên Hội đồng C
+> - Khu Great Hollow? Di dời dòng lũ qua đó ?
+> - Nhưng bây giờ chúng ta lấy đâu ra thời gian để xây dựng kênh dẫn nước chuyển hướng?
+
+- Selene
+> - Chuyển toàn bộ vật tư từ các máy khoan hầm và vận chuyển trực tiếp từ Khu 4 đến Khu 5 cũ.
+
+- Thành viên Hội đồng C
+> - Nhưng điều đó sẽ khiến Chủ tịch Selene không hài lòng?!
+
+- Selene
+> - Tôi phải đảm bảo tất cả cư dân ở đó đã được sơ tán. Tiếp tục liên lạc với phòng điều khiển trung tâm đi !!
+> - (Mặc dù mình không biết việc này sẽ giúp được bao nhiêu, nhưng việc chuyển hướng phần lớn lượng nước sẽ giúp Arcadia không bị ngập quá nhanh.)
+> - (Thế là đủ rồi... Chỉ cần có phương pháp, thì vẫn còn cơ hội.)
+
+- Thành viên Hội đồng C
+> - Chủ tịch Selene, chúng tôi đã đến phòng điều khiển trung tâm rồi!
+
+- Selene
+> - Đã nhận, hết !!
+> - ...Phòng điều khiển trung tâm, đây là Selene.
+
+- Trưởng phòng Điều Khiển (Không phải Aleksei)
+> - Chủ tịch Selene, không hiểu sao hệ thống thoát nước lại hoàn toàn bị hỏng, và lượng mưa trên bề mặt cũng ngày càng lớn!
+
+- Selene
+> - Chúng ta cần đưa người lên mặt đất ngay lập tức.
+> - Bộ xử lý lõi ban đầu mà thành phố Arcadia sử dụng hiện đang nằm ở viện nghiên cứu ngoại ô. Nếu chúng ta tìm được một bộ xử lý không bị hư hại ở đó, Arcadia vẫn có thể được cứu.
+> - Nếu chúng ta chuyển hướng dòng lũ đến Great Hollow ở khu vực cũ của Khu 5, chúng ta có thể cầm cự được bao lâu?!
+
+- Trưởng phòng Điều Khiển
+> - Để tôi tính xem…
+> - Ba ngày. Có khi còn ít hơn 3 ngày.
+
+- Selene
+> - Tôi muốn đợi đến khi công tác thăm dò hoàn tất hơn một chút trước khi đến đó... nhưng giờ thì hết thời gian rồi.
+> - Tôi đã gọi cho hội đồng, mọi người đã tìm được nguyên nhân gây ra sự cố thoát nước chưa?!
+
+- Thành viên Hội đồng C
+> - Ủy viên hội đồng Dmitri đã dẫn người đến xem xét, nhưng chúng tôi không thể liên lạc được với anh ấy.
+
+- Selene
+> - (Phải chăng anh ta... đã bỏ trốn vào phút cuối?)
 - Đã có một lượng nước đọng trong lối đi bên ngoài khu dân cư. Toàn bộ hệ thống thoát nước còn lại chắc hẳn đang trong tình trạng tồi tệ hơn.
 - Toàn bộ Arcadia đang hoạt động hết công suất, mọi đội sửa chữa khẩn cấp đều thực hiện nhiệm vụ dưới áp lực cực lớn.
 - Một báo cáo được truyền qua radio từ đội vận hành cửa xả lũ.
-- Các cửa xả lũ giữa Khu 1-4 và Khu 2-3 đã được bịt kín hoàn toàn! Bắt đầu công việc bịt kín chống thấm cho các cửa xả lũ 5-01!
-- Tiếp tục đi, nhớ giữ an toàn !
+
+- Thành viên đội Thủy Lợi
+> - Các cửa xả lũ giữa Khu 1-4 và Khu 2-3 đã được bịt kín hoàn toàn! Bắt đầu công việc bịt kín chống thấm cho các cửa xả lũ 5-01!
+
+- Selene
+> - Tiếp tục đi, nhớ giữ an toàn !
+
 - Chiếc xe đẩy bị hỏng, Solara chạy xuyên qua đường hầm từ khu nhà máy thẳng đến khu dân cư. Nơi đây đã trở nên hỗn loạn.
 - Cư dân, công nhân, nông dân và gia súc đều đang di tản về Khu 5. Nỗi lo lắng hiện rõ trên khuôn mặt của mỗi người.
-- Sao chuyện này lại xảy ra…
-- Arcadia... sắp bị phá hủy rồi sao…
-- Không, không thể nào... Đây là thành phố của chị mình, kia là những người chị ấy muốn bảo vệ... vậy mình cũng phải bảo vệ !
+
+- Solara
+> - Sao chuyện này lại xảy ra…
+> - Arcadia... sắp bị phá hủy rồi sao…
+> - Không, không thể nào... Đây là thành phố của chị mình, kia là những người chị ấy muốn bảo vệ... vậy mình cũng phải bảo vệ !
 - Sau khi nhận được nhiệm vụ bảo trì khẩn cấp, cô ấy đã vội vã đến khu nhà máy, nhưng lại phát hiện ra tình hình tồi tệ hơn nhiều so với dự kiến.
 - Cô ấy định gọi đội bảo trì, nhưng một tiếng nổ ở phòng bên cạnh làm cô ấy giật mình đến nỗi ném cả chiếc radio đi.
 - Chiếc radio rơi xuyên qua tấm lưới kim loại xuống đường ống nước bên dưới phòng, đó là lý do tại sao cô ấy mất liên lạc.
 - Cô ấy chộp lấy chiếc radio mà ai đó để quên trên bàn ven đường. Sau một hồi loay hoay, cô ấy đã liên lạc được với hội đồng thành phố.
-- Chị tôi đâu rồi ?!
-- Tôi vừa nói chuyện xong với lãnh đạo! Chỉ huy Solara, chúng ta cần đến viện nghiên cứu cũ để tìm bộ xử lý lõi mới. Đó là cách duy nhất để cứu Arcadia.
-- Không có thời gian cho việc này sao?! Một tiếng đồng hồ cho cả đi cả về?!
-- Chủ tịch Selene đến khu dân cư đi.
-- Tôi đang ở đây rồi! Chị ấy không ở đây! Chính xác là đang đâu rồi ?!
-- Chúng tôi dự định dẫn nước lũ về phía khu phát triển cũ. Chị ấy đã đi theo hướng đó.
-- Được rồi !!
+
+- Solara
+> - Chị tôi đâu rồi ?!
+
+- Thành viên Hội đồng C
+> - Tôi vừa nói chuyện xong với lãnh đạo! Chỉ huy Solara, chúng ta cần đến viện nghiên cứu cũ để tìm bộ xử lý lõi mới. Đó là cách duy nhất để cứu Arcadia.
+
+- Solara
+> - Không có thời gian cho việc này sao?! Một tiếng đồng hồ cho cả đi cả về?!
+
+- Thành viên Hội đồng D
+> - Chủ tịch Selene đến khu dân cư đi.
+
+- Solara
+> - Tôi đang ở đây rồi! Chị ấy không ở đây! Chính xác là đang đâu rồi ?!
+
+- Thành viên Hội đồng D
+> - Chúng tôi dự định dẫn nước lũ về phía khu phát triển cũ. Chị ấy đã đi theo hướng đó.
+
+- Solara
+> - Được rồi !!
 - Tất cả sự lý tưởng hóa này, cứ như thể dòng lũ sẽ ngoan ngoãn chảy về khu phát triển cũ vậy?! Không có kênh dẫn nước thì đó chỉ là ảo tưởng!
 - Nhưng vì hội đồng đã cung cấp thông tin, Solara vẫn lo lắng tiếp tục tiến về phía trước để tìm Selene.
 - Vừa chạy, cô ấy vừa gọi điện khẩn cấp về phòng điều khiển trung tâm.
-- Anh nghe thấy tôi không, Aleksei !!
-- Chỉ huy Solara?! Phó đội trưởng Aleksei đã dẫn người đi thực hiện việc khởi động lại khẩn cấp hệ thống thoát nước.
-- C--Cái gì, khởi động lại hệ thống thoát nước à… À rồi, việc đó có thể giúp kéo dài thời gian lúc này… nhưng nó chỉ giải quyết tạm thời .
-- Nó có thể giúp chúng ta cầm cực được bao lâu nữa ?!
-- Ước tính, thêm khoảng hai tiếng nữa.
-- Nếu chúng ta bỏ khu vực nhà máy, chúng ta có thể thêm được một ngày, nhưng điều đó sẽ gây thảm họa cho thiết bị nhà máy và làm quá tải hệ thống thoát nước ở Khu 2.
+
+- Solara
+> - Anh nghe thấy tôi không, Aleksei !!
+
+- Trưởng phòng Điều Khiển
+> - Chỉ huy Solara?! Phó đội trưởng Aleksei đã dẫn người đi thực hiện việc khởi động lại khẩn cấp hệ thống thoát nước.
+
+- Solara
+> - C--Cái gì, khởi động lại hệ thống thoát nước à… À rồi, việc đó có thể giúp kéo dài thời gian lúc này… nhưng nó chỉ giải quyết tạm thời .
+> - Nó có thể giúp chúng ta cầm cực được bao lâu nữa ?!
+
+- Trưởng phòng Điều Khiển
+> - Ước tính, thêm khoảng hai tiếng nữa.
+> - Nếu chúng ta bỏ khu vực nhà máy, chúng ta có thể thêm được một ngày, nhưng điều đó sẽ gây thảm họa cho thiết bị nhà máy và làm quá tải hệ thống thoát nước ở Khu 2.
 - Khu 2, nơi có các trang trại, và Khu 3, nơi có các nhà máy, nằm liền kề nhau. Hệ thống thoát nước của Khu 2 vẫn còn nguyên vẹn, nhưng Khu 3 lại là vùng bị tàn phá nặng nề.
-- ...Chúng ta không thể đánh mất một nguồn năng suất bền vững trong khi lại gây nguy hiểm cho một nguồn khác.
-- Chúng ta phải bảo vệ trong hai giờ này, và chỉ hai giờ này thôi. Đó là cách chúng ta giữ được càng nhiều cơ sở vật chất của thành phố càng tốt !!
+
+- Solara
+> - ...Chúng ta không thể đánh mất một nguồn năng suất bền vững trong khi lại gây nguy hiểm cho một nguồn khác.
+> - Chúng ta phải bảo vệ trong hai giờ này, và chỉ hai giờ này thôi. Đó là cách chúng ta giữ được càng nhiều cơ sở vật chất của thành phố càng tốt !!
+
 - Khi đi ngang qua một nhóm người đang sơ tán, cô dừng lại. Một ý tưởng chợt nảy ra trong đầu cô.
-- Mọi người !!
-- ...?
-- Arcadia đang gặp nguy hiểm nghiêm trọng, và chúng tôi đang thực hiện mọi biện pháp để bảo vệ mọi người !
-- Hội đồng đã bắt đầu lên mặt đất tìm kiếm bộ xử lý trung tâm mới !
+
+- Solara
+> - Mọi người !!
+
+- Người dân
+> - ...?
+
+- Solara
+> - Arcadia đang gặp nguy hiểm nghiêm trọng, và chúng tôi đang thực hiện mọi biện pháp để bảo vệ mọi người !
+> - Hội đồng đã bắt đầu lên mặt đất tìm kiếm bộ xử lý trung tâm mới !
 - Nghe tin hội đồng đã cử người lên mặt đất, mọi người đều sững sờ.
-- Thành phố này cần chúng ta kéo thêm thời gian !
-- Chúng tôi dự định chuyển hướng dòng nước lũ sắp tới vào khu vực Great Hollow thuộc khu phát triển cũ! Nhưng hiện tại chúng tôi đang thiếu nhân lực trầm trọng !
-- Tôi hy vọng nhận được sự giúp đỡ của mọi người. Hiện tại, chúng ta không có cách nào để thực hiện kế hoạch này !!
+
+- Solara
+> - Thành phố này cần chúng ta kéo thêm thời gian !
+> - Chúng tôi dự định chuyển hướng dòng nước lũ sắp tới vào khu vực Great Hollow thuộc khu phát triển cũ! Nhưng hiện tại chúng tôi đang thiếu nhân lực trầm trọng !
+> - Tôi hy vọng nhận được sự giúp đỡ của mọi người. Hiện tại, chúng ta không có cách nào để thực hiện kế hoạch này !!
 - …
 - …
 - Yên lặng.
 - Tim Solara như thắt lại.
 - Cô bất lực nhìn một số người liên tục bỏ chạy và biến mất khỏi tầm mắt mình.
+
 - Nhưng... một số người vẫn ở lại nơi họ đang sống.
-- Hãy cho chúng tôi biết phải làm gì và ra lệnh đi !
-- Chủ tịch Selene đang liều mạng vì chúng ta! Sao chúng ta có thể ngồi yên một chỗ được chứ?!
-- Đúng rồi !
+
+- Zoya
+> - Hãy cho chúng tôi biết phải làm gì và ra lệnh đi !
+
+- Alina
+> - Chủ tịch Selene đang liều mạng vì chúng ta! Sao chúng ta có thể ngồi yên một chỗ được chứ?!
+
+- Người dân
+> - Đúng rồi !
+
 - Chứng kiến mọi người tràn đầy nghị lực như vậy, Solara cảm thấy nước mắt trào dâng.
-- Chị ơi, mọi người đang sẵn lòng giúp đỡ chúng ta... thật may quá.
-- ...Ai có sức, hãy đi cùng tôi và xây một con đê chắn lũ tạm thời!! Mọi người ở các trang trại, hãy đảm bảo vật nuôi và cây trồng được an toàn!
-- Những người quen thuộc với công tác bảo trì, hãy đến khu vực phát triển mới và điều chỉnh lại đường ống thoát lũ. Chúng ta không thể để người dân sơ tán chạy vào vùng nước lũ!
+
+- Solara
+> - Chị ơi, mọi người đang sẵn lòng giúp đỡ chúng ta... thật may quá.
+> - ...Ai có sức, hãy đi cùng tôi và xây một con đê chắn lũ tạm thời!! Mọi người ở các trang trại, hãy đảm bảo vật nuôi và cây trồng được an toàn!
+> - Những người quen thuộc với công tác bảo trì, hãy đến khu vực phát triển mới và điều chỉnh lại đường ống thoát lũ. Chúng ta không thể để người dân sơ tán chạy vào vùng nước lũ!
 - Mình đang làm gì thế này ?
 - Mình nên đi tìm chị ngay chứ.
-- (Chị ơi... chị đang ở đâu ?)
+
+- Solara
+> - (Chị ơi... chị đang ở đâu ?)
 
 ---
 
@@ -2661,13 +5011,22 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 <VnPlayer episode="main_story_2_10" title="2.10" />
 
-- Bắt... lấy !!
+- Selene
+> - Bắt... lấy !!
 - Selene kéo một bé gái đang khóc và bế lên chỗ đất khô. Một người lớn ở trên đó, không biết bơi, đã túm lấy đứa trẻ.
-- Chủ tịch Selene, nắm lấy tay tôi, tôi sẽ kéo cô lên cùng!!
-- Không! Tôi vẫn còn việc phải làm ở đây. Đưa đứa trẻ đi và ra ngoài ngay!
-- Nước sẽ sớm ngập trần nhà thôi. Tôi không thể để cô cứ thế xông lên được!
+
+- Nam
+> - Chủ tịch Selene, nắm lấy tay tôi, tôi sẽ kéo cô lên cùng!!
+
+- Selene
+> - Không! Tôi vẫn còn việc phải làm ở đây. Đưa đứa trẻ đi và ra ngoài ngay!
+
+- Nam
+> - Nước sẽ sớm ngập trần nhà thôi. Tôi không thể để cô cứ thế xông lên được!
 - Hộp điện phát nổ với những tia lửa điện chói mắt do chập điện. Một trong hai cánh cổng chống thấm nước đóng sầm lại. Cư dân hoảng loạn la hét và rơi vào tình trạng hỗn loạn.
-- Mạng sống của mọi người là ưu tiên hàng đầu. Đừng lo lắng cho tôi!!
+
+- Selene
+> - Mạng sống của mọi người là ưu tiên hàng đầu. Đừng lo lắng cho tôi!!
 - Selene tiếp tục lội nước về phía xa.
 - Nước sâu đã ngập đến ngực cô. Sức lực của cô đã cạn kiệt.
 - Nhưng cô không thể dừng lại.
@@ -2684,79 +5043,150 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Vì đó là cách tôi chứng minh mình không phải là một con bù nhìn bất lực.
 - Tôi phải giúp họ. Khi họ cần tôi nhất, tôi tuyệt đối sẽ không chạy đi.
 - Tôi không thể chạy đi.
-- Cứu! Tôi không biết bơi !!
-- Vẫn còn có người ở đó... tất nhiên là vẫn còn.
-- Có ai không?! Cứu với, ở đây! Tôi bị kẹt ở đây !!
-- Đợi đó, tôi đang đến.
-- Chủ tịch Selene !!
-- Chủ tịch... Selene? Cô…
-- Làm sao cô…
-- Có... vấn đề gì à ?
+
+- Nữ
+> - Cứu! Tôi không biết bơi !!
+
+- Selene
+> - Vẫn còn có người ở đó... tất nhiên là vẫn còn.
+
+- Nữ
+> - Có ai không?! Cứu với, ở đây! Tôi bị kẹt ở đây !!
+
+- Selene
+> - Đợi đó, tôi đang đến.
+
+- Nữ
+> - Chủ tịch Selene !!
+> - Chủ tịch... Selene? Cô…
+> - Làm sao cô…
+
+- Selene
+> - Có... vấn đề gì à ?
+
 - Cô không còn cảm thấy mệt mỏi.
 - Đau đớn, vết thương, nước lạnh buốt dưới cổ, cô không còn cảm nhận được gì nữa.
 - Giống như một cái vỏ rỗng vẫn còn khả năng chuyển động, người con gái trẻ ấy tiếp tục tiến về phía trước, quyết tâm đến cùng, không thể lay chuyển.
 - Cứu một người nữa. Thêm một người nữa thôi.
 - Một người nữa.
 - Mạng sống của tôi không quan trọng.
-- Mau... chạy với tôi.
+
+- Selene
+> - Mau... chạy với tôi.
+
 - Đường hầm từ Khu 3 đến Khu 4 giờ chỉ có thể vượt qua bằng cách bơi, nhưng sức bền của Luvia không thể theo kịp.
 - Tôi tìm kiếm dọc theo bức tường một lúc lâu và vặn mở một cánh cửa sắt được khóa bằng van.
 - Còn về việc đây là hành lang bảo trì hay phòng nghỉ của nhân viên, tôi còn chẳng có lấy thời gian mà nghĩ.
-- Lối này !
-- Tới đây !
+
+- Tôi
+> - Lối này !
+
+- Luvia
+> - Tới đây !
 - Lối đi nhanh chóng dẫn đến một cầu thang kim loại đi xuống. Khi chúng tôi xuống đến nơi, nước đã ngập đến ngang eo, và Luvia cùng tôi phải vật lộn để vượt qua hành lang ngập nước.
 - Khu vực này lẽ ra phải an toàn khỏi lũ lụt, điều đó có nghĩa là tình hình ở Khu 4 hẳn rất tồi tệ.
 - Tại sao lại xây dựng khu dân cư ở độ cao thấp nhất? Đó có phải là kế hoạch có chủ đích, hay khi đó không còn lựa chọn mở rộng nào khác ?
 - Cuối cùng, có lẽ Khu 4 được xây dựng sau cùng chính là do địa hình của nó.
-- Sắp đến rồi... phía trước có cầu thang, may quá.
+
+- Tôi
+> - Sắp đến rồi... phía trước có cầu thang, may quá.
 - Tiếng nước vang vọng khắp lối đi. Di chuyển trong vùng nước sâu như vậy vô cùng khó khăn. Mười hai mét dường như là điều không thể.
 - Hơi thở của tôi ngày càng nặng nhọc. Tim tôi như muốn vỡ tung ra khỏi lồng ngực.
 - Tôi chẳng còn hiểu mục đích của việc này là gì nữa. Chúng tôi đáng lẽ phải ngăn chặn Solara, nhưng giờ chúng tôi lại đang cùng cô ta tiến gần hơn đến vị trí của Selene.
-- Cái cửa này... chết tiệt, nó không mở được. Luvia, đằng sau có thấy cái dĩa nào không?!
-- Đây !!
+
+- Tôi
+> - Cái cửa này... chết tiệt, nó không mở được. Luvia, đằng sau có thấy cái dĩa nào không?!
+
+- Luvia
+> - Đây !!
 - Cô ấy vẫy tay chào tôi trong khi nửa người đang chìm dưới nước.
 - Chúng tôi lại đổi lộ trình.
-- Cánh cửa này... xoay được kìa !!
+
+- Tôi
+> - Cánh cửa này... xoay được kìa !!
+
 - Sau khi vất vả vặn mở cánh cửa sắt, Luvia và tôi bước vào một khu dân cư gần như là một thị trấn ma.
 - Dường như nhiều người đã sơ tán đến khu vực phát triển. Vì lý do nào đó, khiến tôi cảm thấy nhẹ nhõm thay Selene.
-- Lại có thêm một lỗ hổng nữa ở Lối đi 5! Anh, vá nó đi!
-- Cậu nghe thấy gì không ?
-- Có, đó là giọng chị Solara.
+
+- Solara
+> - Lại có thêm một lỗ hổng nữa ở Lối đi 5! Anh, vá nó đi!
+
+- Tôi
+> - Cậu nghe thấy gì không ?
+
+- Luvia
+> - Có, đó là giọng chị Solara.
 - Chúng tôi chạy về phía phát ra âm thanh. Trong thành phố chỉ còn tiếng nước chảy, nên những giọng nói từ xa nghe rõ ràng một cách bất thường.
-- Có người bị thương ở Lối đi 2! Mau đưa anh ta xuống đây ngay!
-- Đã rõ !
-- Lại thêm một cái máy bơm nữa bị hỏng! Mang cái khác đến đây!
+
+- Solara
+> - Có người bị thương ở Lối đi 2! Mau đưa anh ta xuống đây ngay!
+
+- Zoya
+> - Đã rõ !
+
+- Solara
+> - Lại thêm một cái máy bơm nữa bị hỏng! Mang cái khác đến đây!
 - Vào thời điểm đó, hơn một nửa khu dân cư đã bị ngập nước, nhưng một nhóm người vẫn giữ vững vị trí của mình.
 - Họ liên tục vá những chỗ vỡ trên đường ống dẫn nước và bơm nước lũ ra ngoài.
-- Solara !!
-- Hai... hai người…
-- ...Anh tiếp tục ra lệnh cho mọi người chuyển hướng dòng lũ được không ?!
-- Được! Nhưng mà cô…
-- Anh không cần phải lo tôi định làm cái gì đâu !!
+
+- Tôi
+> - Solara !!
+
+- Solara
+> - Hai... hai người…
+> - ...Anh tiếp tục ra lệnh cho mọi người chuyển hướng dòng lũ được không ?!
+
+- Tôi
+> - Được! Nhưng mà cô…
+
+- Solara
+> - Anh không cần phải lo tôi định làm cái gì đâu !!
 - Tôi biết cô ấy đang nghĩ gì.
 - Nhưng tôi không còn muốn ngăn cản cô ấy nữa.
 - Nếu có thể, tôi thậm chí còn muốn đi cùng cô ấy.
 - Vậy nên vào một thời điểm như thế này…
-- Chuyển hướng đi đâu ?
-- Thấy cái cổng không? Cái cổng đang mở ấy! Chúng ta phải chuyển hướng dòng lũ về đó nhiều nhất có thể !
+
+- Tôi
+> - Chuyển hướng đi đâu ?
+
+- Solara
+> - Thấy cái cổng không? Cái cổng đang mở ấy! Chúng ta phải chuyển hướng dòng lũ về đó nhiều nhất có thể !
 - Tôi nheo mắt thật kỹ và nhận ra cánh cổng mà Solara đã chỉ. Đi bộ đến đó không xa, nhưng việc phong tỏa mọi giao lộ để buộc dòng lũ lụt đi về hướng đó thì lại rất xa.
-- Các kỹ thuật viên đã khởi động cưỡng chế một phần hệ thống thoát nước, và các máy bơm công nghiệp đang bốc khói. Có lẽ chúng ta chỉ còn khoảng một giờ nữa thôi !!
-- Người dân của chúng ta đã phá sập được vài bức tường rồi. Nếu chúng ta chặn tất cả các giao lộ ở đây trước khi hố thu nước bị vỡ, chúng ta thực sự có thể buộc dòng lũ phải chuyển hướng!
+
+- Solara
+> - Các kỹ thuật viên đã khởi động cưỡng chế một phần hệ thống thoát nước, và các máy bơm công nghiệp đang bốc khói. Có lẽ chúng ta chỉ còn khoảng một giờ nữa thôi !!
+> - Người dân của chúng ta đã phá sập được vài bức tường rồi. Nếu chúng ta chặn tất cả các giao lộ ở đây trước khi hố thu nước bị vỡ, chúng ta thực sự có thể buộc dòng lũ phải chuyển hướng!
 - Đúng vậy, tình hình vẫn rất nguy cấp. Ít nhất hai giao lộ vẫn hoàn toàn thông thoáng.
 - May mắn thay, đây vốn là một ga tàu điện ngầm, nên việc tạm thời chặn các lối đi bằng đồ đạc và vật liệu bảo trì là hoàn toàn khả thi.
-- Để đó cho tôi. Tôi biết phải làm gì rồi.
+
+- Tôi
+> - Để đó cho tôi. Tôi biết phải làm gì rồi.
+
 - Solara liếc nhìn tôi một cái, đầy sự phức tạp. Đôi mắt cô ấy ngấn lệ.
+
 - Có lẽ cô ấy đã muốn đi tìm chị gái mình từ lâu rồi. Chính thành phố này đã níu giữ cô ấy lại.
 - Vì những người ở đây là những người mà chị gái cô ấy yêu quý. Solara không thể làm ngơ trước những khó khăn mà cư dân nơi đây đang phải đối mặt.
 - Nhưng cô ấy có thể tin tưởng giao vai trò chỉ huy cho tôi.
-- Em ý... thật đáng thương.
-- Hử? Sao cậu nói vậy ?
-- Rõ ràng là em ấy đã tin tưởng cả hai bọn mình, nhưng vẫn không thể buông bỏ những ám ảnh sâu sắc trong lòng.
-- Thế nhưng, khi chị gái em ấy gặp nguy hiểm, em ý vẫn tin tưởng giao phó nhiệm vụ quan trọng đó cho chúng mình không chút do dự nào.
-- ...Hi vọng em ấy sẽ tìm được Selene.
-- Gái Luvia ơi!! Dòng điện trên cao đang mạnh dần lên. Giúp chị di chuyển bao cát được không?!
-- Em đây !
-- Anh kia, hãy cẩn thận. Nếu tấm thép đó rơi xuống, nó sẽ chặn dòng chảy và đẩy nước lũ tràn ngược trở lại!
+
+- Tôi
+> - Em ý... thật đáng thương.
+
+- Luvia
+> - Hử? Sao cậu nói vậy ?
+
+- Tôi
+> - Rõ ràng là em ấy đã tin tưởng cả hai bọn mình, nhưng vẫn không thể buông bỏ những ám ảnh sâu sắc trong lòng.
+> - Thế nhưng, khi chị gái em ấy gặp nguy hiểm, em ý vẫn tin tưởng giao phó nhiệm vụ quan trọng đó cho chúng mình không chút do dự nào.
+> - ...Hi vọng em ấy sẽ tìm được Selene.
+
+- Zoya
+> - Gái Luvia ơi!! Dòng điện trên cao đang mạnh dần lên. Giúp chị di chuyển bao cát được không?!
+
+- Luvia
+> - Em đây !
+
+- Tôi
+> - Anh kia, hãy cẩn thận. Nếu tấm thép đó rơi xuống, nó sẽ chặn dòng chảy và đẩy nước lũ tràn ngược trở lại!
 - Luvia và tôi lập tức lao vào tuyến đầu.
 - Bóng dáng của Solara tan vào ánh đèn cảnh báo đỏ, di chuyển ngược dòng người dân đang tháo chạy.
 
@@ -2770,29 +5200,58 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Trận lụt lẽ ra đã nhấn chìm hoàn toàn Arcadia vào thời điểm này đã được ngăn chặn phần nào, nhờ những nỗ lực sửa chữa khẩn cấp ở tiền tuyến.
 - Lúc đó đã là một giờ rưỡi sáng. Đêm nay ở Arcadia, vô số người đang làm việc suốt ngày đêm - không ai có thể chợp mắt được chút nào.
 - Mọi người đang chiến đấu bằng tất cả mọi thứ họ có để đổi lấy cơ hội sống sót mong manh.
-- Cổng 4-03 cần thêm thợ hàn !
-- Khu Mở Rộng Mới cần thêm 2 người bốc xếp thép!
-- Đừng động vào máy TBM! Chờ lệnh của tôi !
-- Chúng ta cần hoàn thành công việc lát nền càng nhanh càng tốt.
-- Được. Ê, đừng có đứng đó! Kiểm tra các điểm neo của rào chắn cách ly đi !
+
+- Quản đốc Sergay
+> - Cổng 4-03 cần thêm thợ hàn !
+> - Khu Mở Rộng Mới cần thêm 2 người bốc xếp thép!
+> - Đừng động vào máy TBM! Chờ lệnh của tôi !
+
+- Tôi
+> - Chúng ta cần hoàn thành công việc lát nền càng nhanh càng tốt.
+
+- Quản đốc Sergay
+> - Được. Ê, đừng có đứng đó! Kiểm tra các điểm neo của rào chắn cách ly đi !
 - Một báo cáo được truyền qua bộ đàm từ đội phụ trách cửa xả lũ.
-- Toàn bộ cửa lũ đã được bịt kín kịp thời! Thành công rồi !
-- Gọi đến trung tâm điều khiển. Công tác chuẩn bị gần như hoàn tất. Anh Aleksei, tình hình thế nào rồi?!
-- Tuyến phòng thủ đầu tiên trong khu vực nhà máy vẫn chưa thành công. Lũ lụt đang tiến về vị trí của anh. Chỉ còn mười hai giây nữa là đến Cổng Chống Nước 4-02.
-- Này! C-chờ chút, đợi đã... có tiếng rung kìa...!
-- Lũ lụt đến! Nước lũ đang tràn vào cửa cống nối liền!!
-- Mọi người lùi lại sau hàng rào!! Lùi lại !!!
-- R-Rõ !
-- Nước lũ đã đến Cửa 4-02 ở Khu 4. Tất cả các cửa xả lũ đều đang hoạt động tốt.
-- Chúng ta không còn thời gian nữa. Chúng ta không thể để nước lũ đọng lại trong khu vực nhà máy và làm ngập hết thiết bị.
-- Hãy gọi thêm người hàn ống! Nếu nhà máy bị ngập lụt, chúng ta sẽ mất năng lực sản xuất lâu dài!
-- Đằng ấy, cả ba người - không không, cả năm người luôn đi! Theo tôi! Chúng ta đi đến Cổng 4-02 để mở cửa xả lũ !!
-- Luvia, hãy xác nhận tất cả các giao lộ ở đây đã được phong tỏa hoàn toàn. Sau khi mở lại, chúng ta cần chờ ít nhất một phút !
-- Đã rõ... !!
+
+- Thành viên đội Thủy Lợi
+> - Toàn bộ cửa lũ đã được bịt kín kịp thời! Thành công rồi !
+
+- Tôi
+> - Gọi đến trung tâm điều khiển. Công tác chuẩn bị gần như hoàn tất. Anh Aleksei, tình hình thế nào rồi?!
+
+- Aleksei
+> - Tuyến phòng thủ đầu tiên trong khu vực nhà máy vẫn chưa thành công. Lũ lụt đang tiến về vị trí của anh. Chỉ còn mười hai giây nữa là đến Cổng Chống Nước 4-02.
+
+- Thành viên đội Thủy Lợi
+> - Này! C-chờ chút, đợi đã... có tiếng rung kìa...!
+> - Lũ lụt đến! Nước lũ đang tràn vào cửa cống nối liền!!
+
+- Tôi
+> - Mọi người lùi lại sau hàng rào!! Lùi lại !!!
+
+- Thành viên đội Thủy Lợi
+> - R-Rõ !
+
+- Aleksei
+> - Nước lũ đã đến Cửa 4-02 ở Khu 4. Tất cả các cửa xả lũ đều đang hoạt động tốt.
+
+- Quản đốc Sergay
+> - Chúng ta không còn thời gian nữa. Chúng ta không thể để nước lũ đọng lại trong khu vực nhà máy và làm ngập hết thiết bị.
+> - Hãy gọi thêm người hàn ống! Nếu nhà máy bị ngập lụt, chúng ta sẽ mất năng lực sản xuất lâu dài!
+
+- Tôi
+> - Đằng ấy, cả ba người - không không, cả năm người luôn đi! Theo tôi! Chúng ta đi đến Cổng 4-02 để mở cửa xả lũ !!
+> - Luvia, hãy xác nhận tất cả các giao lộ ở đây đã được phong tỏa hoàn toàn. Sau khi mở lại, chúng ta cần chờ ít nhất một phút !
+
+- Luvia
+> - Đã rõ... !!
+
 - Phần cực tây của khu dân cư nằm cách khu phát triển cũ khoảng 30 mét, với nhiều lối đi hẹp chỉ vài mét ở giữa.
 - Không phải tất cả các khu vực kết nối với khu phát triển cũ đều nằm ở độ cao thấp nhất của khu dân cư. Nhưng Solara biết Selene sẽ chọn con đường nào phía trước.
 - Chính vì mực nước trong lối đi trên cao chưa ngập đến đầu gối, nên Selene không thể nào có mặt ở đó được.
-- (Em sẽ... tìm chị, chị ơi.)
+
+- Solara
+> - (Em sẽ... tìm chị, chị ơi.)
 - Cô hơi cúi đầu và nhìn về phía con dốc. Con dốc đó cuối cùng cũng dẫn đến phòng điều khiển cổng chống thấm nước của Khu Mở rộng Cũ.
 - Cô không cần phải lấy hết can đảm. Cô đã có đủ quyết tâm rồi. Cô nhìn chằm chằm vào hồ nước sâu đen kịt, thỉnh thoảng lại nhuộm đỏ bởi những ánh đèn cảnh báo màu đỏ sẫm nhấp nháy.
 - Cô tiến về phía đó. Về phía vùng nước sâu hơn, cho đến khi nước dâng lên quá vai cô.
@@ -2803,72 +5262,126 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Cô hít một hơi thật sâu rồi lao xuống nước. Cô không biết khi nào mình mới ngoi lên được không khí, nhưng bỏ chạy chưa bao giờ là ý định của cô.
 - Là đội trưởng đội bảo trì, Solara thuộc lòng tấm bản đồ này. Ngay cả dưới nước, cô cũng có thể tìm thấy phòng điều khiển.
 - Một chuyện nhỏ nhặt như vậy, so với những đau khổ mà chị đã phải chịu đựng…
-- (... chẳng đáng để nhắc đến.)
+
+- Solara
+> - (... chẳng đáng để nhắc đến.)
 - Điều đó lẽ ra phải đúng. Nhưng Solara đã đánh giá sai một điều: nếu bộ xử lý chip có thể hỏng, thì chính các tòa nhà có thể đã xuống cấp rồi.
 - Sau khi lượng nước mưa lớn tràn vào khu vực này, các thùng phế liệu trên khung kim loại ở lối vào khu nhà cũ đã bị đổ sập.
 - Những container nặng nề đã đè bẹp nhiều ngôi nhà làm bằng container. Các công trình từng được xếp chồng lên nhau như những khối đồ chơi đã dễ dàng đổ sập xuống khu vực phòng điều khiển phía dưới.
 - Và khoang chứa container trên cùng đã đổ sập ngay trước cửa phòng điều khiển.
 - Và mực nước cao ba mét đã nhấn chìm một nửa thùng chứa đó xuống dưới mặt nước.
-- (Chị ơi... chị có trong phòng điều khiển không đó ?!)
+
+- Solara
+> - (Chị ơi... chị có trong phòng điều khiển không đó ?!)
 - Cô ngoi lên mặt nước, bám vào thành trên của thùng chứa và thở hổn hển để lấy sức trước khi trèo lên trên.
 - Phòng điều khiển nơi chị gái cô đang ở đó, chỉ cách có hai mét. Nhưng giờ chỉ còn lại một cánh cửa hơi biến dạng, bị nghiền nát bởi va chạm. Nước lũ đang tràn vào không ngừng.
-- Chị ơi ?
-- ...Solara ?
-- Chị ơi? Chị có thể đi ra khỏi đây được không?? Em sẽ đưa chị đi ngay !!
+
+- Solara
+> - Chị ơi ?
+
+- Selene
+> - ...Solara ?
+
+- Solara
+> - Chị ơi? Chị có thể đi ra khỏi đây được không?? Em sẽ đưa chị đi ngay !!
 - Solara gần như lao mình vào khe cửa, dùng hết sức lực để cạy nó ra.
 - Nhưng chắn ngang cửa là cả một thùng container khổng lồ, chưa kể đến áp lực cực lớn từ hơn ba mét nước.
-- Không được đâu, Solara. Chị đã thử mọi cách rồi.
-- Chị chỉ còn một bước quan trọng nữa là có thể khởi động máy phát điện. Khi việc đó hoàn tất, cánh cổng chống thấm nước dẫn vào khu vực xây dựng cũ sẽ mở ra.
-- Nếu chỉ vậy thôi, thì em sẽ đi ngay đây… !!!
-- Nhưng… đến lúc em đến được chỗ máy phát điện… thì chị sẽ không thể cầm cự được nữa.
-- ...!!
-- Sao có thể chứ, sao lại thế?! E-em đi ngay đây, em bơi nhanh lắm, chị chờ em nha... !!
-- Đừng đi vội, ở đây đã !!
+
+- Selene
+> - Không được đâu, Solara. Chị đã thử mọi cách rồi.
+> - Chị chỉ còn một bước quan trọng nữa là có thể khởi động máy phát điện. Khi việc đó hoàn tất, cánh cổng chống thấm nước dẫn vào khu vực xây dựng cũ sẽ mở ra.
+
+- Solara
+> - Nếu chỉ vậy thôi, thì em sẽ đi ngay đây… !!!
+
+- Selene
+> - Nhưng… đến lúc em đến được chỗ máy phát điện… thì chị sẽ không thể cầm cự được nữa.
+
+- Solara
+> - ...!!
+> - Sao có thể chứ, sao lại thế?! E-em đi ngay đây, em bơi nhanh lắm, chị chờ em nha... !!
+
+- Selene
+> - Đừng đi vội, ở đây đã !!
 - Solara hoảng sợ quay lại nhìn Selene, người vẫn bình tĩnh như thường lệ.
 - Gánh nặng mà người chị phải gánh chịu quá lớn.
 - Cô ấy từ chối chấp nhận sự thật hiển nhiên: không còn thời gian để cô ấy đến chỗ máy phát điện và bật nó lên nữa.
-- Solara, em nghe kỹ đây. Nhiệm vụ quan trọng nhất của em bây giờ là lên mặt đất và tìm một bộ xử lý thay thế.
-- Không, em không muốn nghe đâu! Em không muốn nghe bất cứ điều gì cả !!
-- Nếu chị muốn em làm gì, thì chị phải sống sót ra khỏi đó đã! Thì em mới chấp nhận !!
-- Solara! Nghe chị !!!
+
+- Selene
+> - Solara, em nghe kỹ đây. Nhiệm vụ quan trọng nhất của em bây giờ là lên mặt đất và tìm một bộ xử lý thay thế.
+
+- Solara
+> - Không, em không muốn nghe đâu! Em không muốn nghe bất cứ điều gì cả !!
+> - Nếu chị muốn em làm gì, thì chị phải sống sót ra khỏi đó đã! Thì em mới chấp nhận !!
+
+- Selene
+> - Solara! Nghe chị !!!
 - Nước mắt lưng tròng, Solara run rẩy dùng đôi tay níu lấy khung cửa một cách tuyệt vọng.
 - Selene nhẹ nhàng đặt tay lên tay Solara.
-- Solara, thời gian dành cho Arcadia không còn nhiều.
+
+- Selene
+> - Solara, thời gian dành cho Arcadia không còn nhiều.
 - Mực nước dâng cao liên tục nhấn chìm phòng điều khiển.
-- Chỉ còn ba ngày nữa thôi... trước lúc đó, em phải tìm được bộ xử lý tại viện ngoại ô.
-- Người dân Arcadia... chỉ có em mới có thể lãnh đạo họ thay chị lúc này.
-- Chị xin lỗi vì đã đặt trách nhiệm này trên vai em vào thời điểm này…
+
+- Selene
+> - Chỉ còn ba ngày nữa thôi... trước lúc đó, em phải tìm được bộ xử lý tại viện ngoại ô.
+> - Người dân Arcadia... chỉ có em mới có thể lãnh đạo họ thay chị lúc này.
+> - Chị xin lỗi vì đã đặt trách nhiệm này trên vai em vào thời điểm này…
 - Selene luồn chiếc chìa khóa Khu Mở rộng Cũ qua khe cửa cho Solara, người đang khóc nức nở đến nỗi không nói nên lời.
-- Lãnh đạo có thể thay thế. Nhưng không có mọi người, chẳng còn gì cả.
+
+- Selene
+> - Lãnh đạo có thể thay thế. Nhưng không có mọi người, chẳng còn gì cả.
+
 - Gánh nặng mà người chị phải gánh chịu quá lớn.
 - Nó vẫn luôn là như vậy.
 - Chị ấy chưa từng được nghỉ ngơi dù chỉ một giây một phút.
 - Chị ấy thậm chí còn không có cơ hội nghỉ ngơi.
-- Chị ơi…
-- Từng có một điều mà chị sẽ đặt lên trên hết những người trong trái tim chị.
-- Chính là em, Solara. Em gái của chị.
-- Chị chỉ muốn em có một gia đình hạnh phúc, ít nhất là một cuộc sống yên bình…
-- Chị xin lỗi. Chị quá bận. Chị còn chẳng có lấy cơ hội nào để đấu tranh cho ước mơ ấy…
+
+- Solara
+> - Chị ơi…
+
+- Selene
+> - Từng có một điều mà chị sẽ đặt lên trên hết những người trong trái tim chị.
+> - Chính là em, Solara. Em gái của chị.
+> - Chị chỉ muốn em có một gia đình hạnh phúc, ít nhất là một cuộc sống yên bình…
+> - Chị xin lỗi. Chị quá bận. Chị còn chẳng có lấy cơ hội nào để đấu tranh cho ước mơ ấy…
 - Đôi tay chị ấy lạnh cóng vì ngâm trong nước.
-- Em... biết gì không ?
+
+- Selene
+> - Em... biết gì không ?
 - Chút không khí cuối cùng sắp bị lũ nhấn chìm.
-- Lần đầu chị lên mặt đất cùng em... là lần đầu tiên chị được thấy mặt trời.
-- Nhưng lúc đó mây che khuất hết mà chị. Không có mặt trời. Không có mặt trời đâu…
-- Sao lại thế ?
-- Ngay cả khi bị che khuất bởi mưa và sương mù... mặt trời vẫn ở đó.
-- Chỉ là trên những đám mây ấy.
+
+- Selene
+> - Lần đầu chị lên mặt đất cùng em... là lần đầu tiên chị được thấy mặt trời.
+
+- Solara
+> - Nhưng lúc đó mây che khuất hết mà chị. Không có mặt trời. Không có mặt trời đâu…
+
+- Selene
+> - Sao lại thế ?
+> - Ngay cả khi bị che khuất bởi mưa và sương mù... mặt trời vẫn ở đó.
+> - Chỉ là trên những đám mây ấy.
+
 - Thời gian vẫn cứ trôi.
 - Mọi thứ vẫn lặng lẽ trôi, chậm đến mức gần như bất động.
 - Biểu tượng của một tương lai tàn khốc.
 - Một tương lai tàn khốc đầy bất trắc.
 - Vẫn cứ... trôi.
-- Chị ước mọi người... có thể được chứng kiến điều ấy.
-- Được chứng kiến một bầu trời mà chị chưa từng thấy.
+
+- Selene
+> - Chị ước mọi người... có thể được chứng kiến điều ấy.
+
+- Selene
+> - Được chứng kiến một bầu trời mà chị chưa từng thấy.
 - Mặc dù tay mình và chị mình không thể chạm vào nhau.
 - Tại sao, tại sao lúc này lại xa cách đến thế ?
 - Chị ơi, chị tính làm gì vậy ?
-- Mặt trời... thật đẹp đẽ làm sao.
-- Thế giới... thật rực rỡ.
+
+- Selene
+> - Mặt trời... thật đẹp đẽ làm sao.
+
+- Selene
+> - Thế giới... thật rực rỡ.
 
 ---
 
@@ -2879,69 +5392,120 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Một tiếng gầm rú dữ dội, trầm thấp vọng lại từ xa.
 - Cơn lũ, cuối cùng cũng tràn vào.
 - Nước mắt tuôn trào trên gương mặt cô, Solara đứng trước máy phát điện.
-- Nào…
-- ---- Bật lên !!!
+
+- Solara
+> - Nào…
+> - ---- Bật lên !!!
 - Một tiếng va chạm long trời lở đất.
 - Cánh cửa dẫn vào khu vực phát triển cũ mở ra với tiếng ầm ầm chói tai.
+
 - Nước đã rút đi.
 - Điều đó chỉ để lại cho chúng ta chưa đến ba ngày. Đủ dài rồi - xét đến tình hình hiện tại.
 - Lúc 5:00 sáng, Luvia và tôi đến cổng Tòa Thị Chính.
 - Khi người lãnh đạo của họ biến mất, hội đồng hoàn toàn mất kiểm soát. Tôi nghĩ họ sẽ la hét át tiếng nhau, nhưng rõ ràng họ vẫn đang chìm đắm trong niềm hân hoan khi sống sót sau thảm họa.
-- Nhờ có Đồng Chí Selene, thiệt hại của thành phố chúng ta giảm đi đáng kể.
-- So với mức tổn thất dự kiến, đúng là như vậy.
-- Quẩy lên !
-- Nhưng chúng ta vẫn chỉ còn chưa đến ba ngày... Chúng ta phải lập tức cử người đến vùng ngoại ô và tìm một bộ xử lý thay thế.
-- Đó cũng là tâm nguyện cuối cùng của Đồng Chí Selene.
+
+- Thành viên Hội đồng C
+> - Nhờ có Đồng Chí Selene, thiệt hại của thành phố chúng ta giảm đi đáng kể.
+
+- Thành viên Hội đồng B
+> - So với mức tổn thất dự kiến, đúng là như vậy.
+> - Quẩy lên !
+
+- Thành viên Hội đồng D
+> - Nhưng chúng ta vẫn chỉ còn chưa đến ba ngày... Chúng ta phải lập tức cử người đến vùng ngoại ô và tìm một bộ xử lý thay thế.
+> - Đó cũng là tâm nguyện cuối cùng của Đồng Chí Selene.
 - Bên cạnh cửa sổ phụ của Tòa thị chính, Solara tựa vào tường, cúi đầu, lặng lẽ tận hưởng sự tĩnh lặng của buổi sáng sớm.
-- Đang nghe lén cuộc họp sao ?
-- ...?
-- Hả, là anh à.
-- ...Sao lại gọi đó là nghe lén?
-- Vì trước đây tôi cũng hay nghe lén ở đây.
-- ...Kì quặc.
-- Chị Solara…
+
+- Tôi
+> - Đang nghe lén cuộc họp sao ?
+
+- Solara
+> - ...?
+> - Hả, là anh à.
+> - ...Sao lại gọi đó là nghe lén?
+
+- Tôi
+> - Vì trước đây tôi cũng hay nghe lén ở đây.
+
+- Solara
+> - ...Kì quặc.
+
+- Luvia
+> - Chị Solara…
+
 - Từ "chị" dường như trôi qua Solara như một dòng điện.
-- Nói xem, tôi nên làm gì đây ?
+
+- Solara
+> - Nói xem, tôi nên làm gì đây ?
 - Cả Luvia và tôi đều không thể trả lời.
 - Tôi đứng cạnh Solara trong im lặng, suy nghĩ làm thế nào để giúp cô ấy lấy lại bình tĩnh.
-- Nhưng Ông Dmitri đã đi đâu rồi? Lẽ ra ông ấy phải trở về rồi chứ.
-- Đội của ông ấy đã mất liên lạc suốt thời gian qua. Chúng tôi đã cử Venyamin đi tìm ông ấy rồi.
-- Chúng ta thực sự cần nâng cao tinh thần người dân. Trong khi chờ đợi đội đặc nhiệm, chúng ta nên tổ chức ăn mừng sự tái thiết.
-- Chị gái tôi đã hy sinh bản thân vì mọi người, vậy mà tất cả những gì họ quan tâm chỉ là mức độ thiệt hại của thành phố.
-- Tôi biết đây cũng là cách chị gái tôi thường làm, nhưng... tôi không thể chấp nhận điều đó.
-- Nếu cô nghĩ cần thay đổi, thì cứ thay đổi thôi.
-- Tôi sẽ không thay đổi những gì chị gái đã giao phó cho tôi.
-- ...Có lẽ tôi đã biết mình nên làm gì rồi.
+
+- Thành viên Hội đồng B
+> - Nhưng Ông Dmitri đã đi đâu rồi? Lẽ ra ông ấy phải trở về rồi chứ.
+
+- Thành viên Hội đồng C
+> - Đội của ông ấy đã mất liên lạc suốt thời gian qua. Chúng tôi đã cử Venyamin đi tìm ông ấy rồi.
+
+- Thành viên Hội đồng D
+> - Chúng ta thực sự cần nâng cao tinh thần người dân. Trong khi chờ đợi đội đặc nhiệm, chúng ta nên tổ chức ăn mừng sự tái thiết.
+
+- Solara
+> - Chị gái tôi đã hy sinh bản thân vì mọi người, vậy mà tất cả những gì họ quan tâm chỉ là mức độ thiệt hại của thành phố.
+> - Tôi biết đây cũng là cách chị gái tôi thường làm, nhưng... tôi không thể chấp nhận điều đó.
+
+- Tôi
+> - Nếu cô nghĩ cần thay đổi, thì cứ thay đổi thôi.
+
+- Solara
+> - Tôi sẽ không thay đổi những gì chị gái đã giao phó cho tôi.
+> - ...Có lẽ tôi đã biết mình nên làm gì rồi.
+
 - Solara đứng thẳng dậy khỏi bức tường và bắt đầu bước về phía trước... với vẻ quyết tâm.
 - Đối với tôi, cô ấy trông giống như một dáng hình nhỏ bé, lơi tơi, như một bóng ma, lướt qua tôi như một cơn gió lạnh.
 - Lạnh thấu xương luôn.
 - Luvia và tôi lần lượt đi theo sau Solara vào Tòa thị chính.
 - Tôi nuốt nước bọt.
-- Tớ nên làm gì đây... ?
-- Trông chị Solara có vẻ chưa sẵn sàng đâu…
-- Cứ từ từ mà làm thôi.
-- Bọn tôi chưa thể hòa nhập hoàn toàn vào thành phố này.
-- Là người ngoài, không thể can thiệp vào công việc nội bộ của họ.
-- Vậy là... bọn mình không thể làm gì sao ?
-- Có đấy.
+
+- Luvia
+> - Tớ nên làm gì đây... ?
+> - Trông chị Solara có vẻ chưa sẵn sàng đâu…
+
+- Tôi
+> - Cứ từ từ mà làm thôi.
+> - Bọn tôi chưa thể hòa nhập hoàn toàn vào thành phố này.
+> - Là người ngoài, không thể can thiệp vào công việc nội bộ của họ.
+
+- Luvia
+> - Vậy là... bọn mình không thể làm gì sao ?
+
+- Tôi
+> - Có đấy.
 - Selene muốn đến vùng ngoại ô để tìm một bộ điều khiển thay thế.
 - Luvia và tôi có thể hoàn thành nhiệm vụ đó.
-- Nhưng... điều đó vẫn không thể thay đổi tình hình hiện tại.
-- Điều cô ấy cần lúc này hoàn toàn không phải là thứ đó.
-- Sau khi chị ấy mất... Tớ không tưởng tượng nổi cảm xúc mà Solara phải đối mặt.
-- Tớ muốn giúp chị ấy.
-- Liệu chúng mình... có thể cùng ở bên chị ấy không ?
+
+- Tôi
+> - Nhưng... điều đó vẫn không thể thay đổi tình hình hiện tại.
+> - Điều cô ấy cần lúc này hoàn toàn không phải là thứ đó.
+> - Sau khi chị ấy mất... Tớ không tưởng tượng nổi cảm xúc mà Solara phải đối mặt.
+
+- Luvia
+> - Tớ muốn giúp chị ấy.
+> - Liệu chúng mình... có thể cùng ở bên chị ấy không ?
 - Tôi không nói gì.
 - Bởi vì nếu trả lời câu hỏi kiểu đó vào thời điểm này thì thế giới sẽ trở nên quá tàn nhẫn.
 - Chúng tôi dõi theo bóng dáng nhỏ bé ấy tiến về phía trước với quyết tâm tuyệt đối.
 - Cô ấy... đang nghĩ gì vậy nhỉ ?
 - Liệu cô ấy có thực sự muốn gánh vác trách nhiệm mà chị gái mình đã giao phó cho cô ấy không?
-- Có lẽ chúng mình cần ở bên cạnh chị ấy đấy.
+
+- Tôi
+> - Có lẽ chúng mình cần ở bên cạnh chị ấy đấy.
 - Bởi vì thế giới này quá tàn nhẫn.
 - Trước mặt chúng tôi, cô ấy tháo kính bảo hộ và đẩy cửa phòng họp ra.
-- Xin chào, các ủy viên hội đồng.
-- Từ giờ, tôi chính là Lãnh Đạo của Arcadia.
-- Tôi rất mong được hợp tác với tất cả các vị.
+
+- Solara
+> - Xin chào, các ủy viên hội đồng.
+> - Từ giờ, tôi chính là Lãnh Đạo của Arcadia.
+> - Tôi rất mong được hợp tác với tất cả các vị.
 
 ---
 

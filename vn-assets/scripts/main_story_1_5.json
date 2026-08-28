@@ -1,0 +1,1511 @@
+{
+  "episode": "main_story_1_5",
+  "blocks": [
+    {
+      "type": "scene",
+      "value": "living_room"
+    },
+    {
+      "type": "chara",
+      "value": "lwy"
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|surprise"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "1",
+          "speaker": "w"
+        },
+        {
+          "id": "2",
+          "speaker": "pb"
+        },
+        {
+          "id": "3",
+          "speaker": "pb"
+        },
+        {
+          "id": "4",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "5",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "bgm",
+      "value": "warm"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "6",
+          "speaker": "pb"
+        },
+        {
+          "id": "7",
+          "speaker": "pb"
+        },
+        {
+          "id": "8",
+          "speaker": "pb"
+        },
+        {
+          "id": "9",
+          "speaker": "pb"
+        },
+        {
+          "id": "10",
+          "speaker": "pb"
+        },
+        {
+          "id": "11",
+          "speaker": "lwy"
+        },
+        {
+          "id": "12",
+          "speaker": "lwy"
+        },
+        {
+          "id": "13",
+          "speaker": "w"
+        },
+        {
+          "id": "14",
+          "speaker": "ss"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "lwy+ss"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "15",
+          "speaker": "pb"
+        },
+        {
+          "id": "16",
+          "speaker": "pb"
+        },
+        {
+          "id": "17",
+          "speaker": "pb"
+        },
+        {
+          "id": "18",
+          "speaker": "w"
+        },
+        {
+          "id": "19",
+          "speaker": "ss"
+        },
+        {
+          "id": "20",
+          "speaker": "ss"
+        },
+        {
+          "id": "21",
+          "speaker": "ss"
+        },
+        {
+          "id": "22",
+          "speaker": "w"
+        },
+        {
+          "id": "23",
+          "speaker": "ss"
+        },
+        {
+          "id": "24",
+          "speaker": "lwy"
+        },
+        {
+          "id": "25",
+          "speaker": "ss"
+        },
+        {
+          "id": "26",
+          "speaker": "lwy"
+        },
+        {
+          "id": "27",
+          "speaker": "ss"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "ss+rbt"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "-1",
+          "speaker": "pb"
+        },
+        {
+          "id": "28",
+          "speaker": "rbt"
+        },
+        {
+          "id": "29",
+          "speaker": "pb"
+        },
+        {
+          "id": "30",
+          "speaker": "pb"
+        },
+        {
+          "id": "31",
+          "speaker": "w"
+        },
+        {
+          "id": "32",
+          "speaker": "ss"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "rbt"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "33",
+          "speaker": "pb"
+        },
+        {
+          "id": "34",
+          "speaker": "rbt"
+        },
+        {
+          "id": "35",
+          "speaker": "w"
+        },
+        {
+          "id": "36",
+          "speaker": "rbt"
+        },
+        {
+          "id": "37",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "lwy"
+    },
+    {
+      "type": "scene",
+      "value": "susan_door"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "38",
+          "speaker": "pb"
+        },
+        {
+          "id": "39",
+          "speaker": "pb"
+        },
+        {
+          "id": "40",
+          "speaker": "w"
+        },
+        {
+          "id": "41",
+          "speaker": "lwy"
+        },
+        {
+          "id": "42",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "scene",
+      "value": "living_room"
+    },
+    {
+      "type": "chara",
+      "value": "lwy+ss"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "43",
+          "speaker": "ss"
+        },
+        {
+          "id": "44",
+          "speaker": "pb"
+        },
+        {
+          "id": "45",
+          "speaker": "w"
+        },
+        {
+          "id": "46",
+          "speaker": "pb"
+        },
+        {
+          "id": "47",
+          "speaker": "w"
+        },
+        {
+          "id": "48",
+          "speaker": "lwy"
+        },
+        {
+          "id": "49",
+          "speaker": "pb"
+        },
+        {
+          "id": "50",
+          "speaker": "ss"
+        },
+        {
+          "id": "51",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "52",
+          "speaker": "pb"
+        },
+        {
+          "id": "53",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "chara",
+      "value": "lwy/default"
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|default"
+    },
+    {
+      "type": "scene",
+      "value": "bedroom"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "54",
+          "speaker": "w"
+        },
+        {
+          "id": "55",
+          "speaker": "w"
+        },
+        {
+          "id": "56",
+          "speaker": "w"
+        },
+        {
+          "id": "57",
+          "speaker": "w"
+        },
+        {
+          "id": "58",
+          "speaker": "lwy"
+        },
+        {
+          "id": "59",
+          "speaker": "w"
+        }
+      ]
+    }
+  ],
+  "dialogues": {
+    "zh_Hans": {
+      "say58": "那我们明天就去说服苏珊，让她从梦里醒来。",
+      "say43": "饼干烤好啦，快来尝尝吧。",
+      "say4": "这里是……？",
+      "say2": "（视线突然黑了一下，好像是……不自觉地闭上了眼。）",
+      "say35": "嗯好……",
+      "say41": "这个房子，就是苏珊的梦境。",
+      "say31": "你好……",
+      "say1": "呃……",
+      "say38": "（罗伯特一走，我就来到门口，想看看这个屋子外的景色。）",
+      "say24": "我没有名字。",
+      "say34": "她喜欢烤饼干，而且很棒，等下不嫌弃的话可以尝尝。",
+      "say33": "（苏珊转身走进了厨房，在现实世界里只能用上明火和煮锅，这里却有烤箱。）",
+      "say7": "（这好像是……阳光……它们就从窗户外照进来。）",
+      "say51": "（还没等我动手，一旁的少女就主动拿起了另一块，简直就像个小孩子。）",
+      "say13": "是啊……和现实世界中的景象……完全不一样。",
+      "say23": "噢……小姑娘，你叫什么名字呀？",
+      "say42": "所以根本没有门外的世界吗……",
+      "say14": "啊，有客人来了吗？",
+      "say28": "你们好，没有及时出来招待，请见谅。",
+      "say36": "你们坐，我还得回去继续画设计图，工作太忙。",
+      "say48": "好甜……",
+      "say52": "（最后，在罗伯特和苏珊的劝说下，我们在客房过了夜。）",
+      "say8": "（看不到外面的景象……）",
+      "say3": "（一股香气传入鼻中，那是远比烤蘑菇与肉汤还要诱人的气味。）",
+      "say32": "哦对了，烤饼干快做好了，你们在这里坐会儿，我去看看。",
+      "say40": "打不开……",
+      "say44": "（苏珊套着隔热手套，烤盘中整齐地摆着许多新鲜出炉的曲奇，黄色的饼干上镶嵌着深色的小小颗粒，应该是巧克力豆吧。）",
+      "say54": "到了晚上，看起来倒是和现实世界有那么点像了。",
+      "say45": "谢、谢谢。",
+      "say57": "但……必须让她醒过来才行，这个梦，是假的……",
+      "say55": "但是没有雨……",
+      "say12": "和相册里看到的几乎一样，真漂亮……",
+      "say11": "这就是苏珊的梦的世界。",
+      "say18": "苏、苏珊阿姨……",
+      "say20": "奇怪……是在哪里的角落……",
+      "say59": "嗯，不然的话，苏珊的命就……",
+      "say39": "（当转下把手时，却发现无论如何也打不开，就好像这个门根本就是一堵墙。）",
+      "say50": "呵呵呵，好吃的话就多吃点，看自己做出来的点心被别人品尝收获夸奖就是我最大的回报了。",
+      "say10": "（这里……就是梦境中的世界吗……）",
+      "say16": "（可她现在，应该还躺在生命维持设备上才对……）",
+      "say27": "罗伯特，家里来客人啦！快出来招待——",
+      "say49": "（从未吃到过这么香这么甜的东西，又脆，巧克力的微苦和饼干的甜混合在一起，让身心都暖洋洋的。）",
+      "say26": "嗯。",
+      "say25": "诶？是吗……那我就先叫你小姑娘吧？",
+      "say29": "（他也应该到地面上去了才对……）",
+      "say37": "能理解。",
+      "say-1": "（从房间里又走出来一个男性，那显然是苏珊的丈夫。）",
+      "say56": "真是幸福的地方……",
+      "say19": "啊，是你啊，总是站在角落里的那个。",
+      "say53": "（更何况，除了这里也没有地方了。）",
+      "say21": "唔……想不起来，你边上这位小姑娘是……？",
+      "say22": "呃……是……是我的朋友。",
+      "say6": "（整洁的房间，崭新的家具，看起来像是，客厅一样的布局，比应急灯光照射还要明亮的空间……）",
+      "say46": "（我拿起一个递给少女，又拿起一个放进口中。）",
+      "say30": "（好像是参加某种设施的建造……）",
+      "say47": "……！好、好吃……！",
+      "say9": "（没有雨声……）",
+      "say17": "（这就是她梦中的自己吗。）",
+      "say5": "（缓缓睁开双眼，我便立刻被眼前的一切震惊了。）",
+      "say15": "（苏珊从房间内走了出来，穿着一身干净的衣服，她的脸上挂着轻松惬意的神情。）"
+    },
+    "zh_Hant": {
+      "say58": "那我們明天就去說服蘇珊，讓他從夢裡醒來。",
+      "say43": "餅乾烤好啦，快來嚐嚐吧。",
+      "say4": "這裡是……？",
+      "say2": "（視線突然黑了一下，好像是……不自覺地閉上了眼。）",
+      "say35": "嗯好……",
+      "say41": "這個房子，就是蘇珊的夢境。",
+      "say31": "你好……",
+      "say1": "呃……",
+      "say38": "（羅伯特一走，我就來到門口，想看看這個屋子外的景色。）",
+      "say24": "我沒有名字。",
+      "say34": "她喜歡烤餅乾，而且很棒，等下不嫌棄的話可以嚐嚐。",
+      "say33": "（蘇珊轉身走進了廚房，在現實世界裡只能用上明火和煮鍋，這裡卻有烤箱。）",
+      "say7": "（這好像是……陽光……它們就從窗戶外照進來。）",
+      "say51": "（還沒等我動手，一旁的少女就主動拿起了另一塊。簡直就像個小孩子。）",
+      "say13": "是啊……和現實世界中的景象……完全不一樣。",
+      "say23": "噢……小姑娘，你叫什麼名字呀？",
+      "say42": "所以根本沒有門外的世界嗎……",
+      "say14": "啊，有客人來了嗎？",
+      "say28": "你們好，沒有及時出來招待，請見諒。",
+      "say36": "你們坐，我還得回去繼續畫設計圖，工作太忙。",
+      "say48": "好甜……",
+      "say52": "（最後，在羅伯特和蘇珊的勸說下，我們在客房過了夜。）",
+      "say8": "（看不到外面的景象……）",
+      "say3": "（一股香氣傳入鼻中，那是遠比烤蘑菇與肉湯還要誘人的氣味。）",
+      "say32": "哦對了，烤餅乾快做好了，你們在這裡坐會兒，我去看看。",
+      "say40": "打不開……",
+      "say44": "（蘇珊套著隔熱手套，烤盤中整齊地擺著許多新鮮出爐的曲奇，黃色的餅乾上鑲嵌著深色的小小顆粒，應該是巧克力豆吧。）",
+      "say54": "到了晚上，看起來倒是和現實世界有那麼點像了。",
+      "say45": "謝、謝謝。",
+      "say57": "但……必須讓他醒過來才行，這個夢，是假的……",
+      "say55": "但是沒有雨……",
+      "say12": "和相冊裡看到的幾乎一樣，真漂亮……",
+      "say11": "這就是蘇珊的夢的世界。",
+      "say18": "蘇、蘇珊阿姨……",
+      "say20": "奇怪……是在哪裡的角落……",
+      "say59": "嗯，不然的話，蘇珊的命就……",
+      "say39": "（當轉下把手時，卻發現無論如何也打不開，就好像這個門根本就是一堵牆。）",
+      "say50": "呵呵呵，好吃的話就多吃點，看自己做出來的點心被別人品嚐收穫誇獎就是我最大的回報了。",
+      "say10": "（這裡……就是夢境中的世界嗎……）",
+      "say16": "（可她現在，應該還躺在生命維持設備上才對……）",
+      "say27": "羅伯特，家裡來客人啦！快出來招待——",
+      "say49": "（從未吃到過這麼香這麼甜的東西，又脆，巧克力的微苦和餅乾的甜混合在一起，讓身心都暖洋洋的。）",
+      "say26": "嗯。",
+      "say25": "誒？是嗎……那我就先叫你小姑娘吧？",
+      "say29": "（他也應該到地面上去了才對……）",
+      "say37": "能理解。",
+      "say-1": "（從房間裡又走出來一個男性，那顯然是蘇珊的丈夫。）",
+      "say56": "真是幸福的地方……",
+      "say19": "啊，是你啊，總是站在角落裡的那個。",
+      "say53": "（更何況，除了這裡也沒有地方了。）",
+      "say21": "唔……想不起來，你邊上這位小姑娘是……？",
+      "say22": "呃……是……是我的朋友。",
+      "say6": "（整潔的房間，嶄新的傢俱，看起來像是，客廳一樣的佈局。比應急燈光照射還要明亮的空間……）",
+      "say46": "（我拿起一個遞給少女，又拿起一個放進口中。）",
+      "say30": "（好像是參加某種設施的建造……）",
+      "say47": "……！好、好吃……！",
+      "say9": "（沒有雨聲……）",
+      "say17": "（這就是她夢中的自己嗎。）",
+      "say5": "（緩緩睜開雙眼，我便立刻被眼前的一切震驚了。）",
+      "say15": "（蘇珊從房間內走了出來，穿著一身乾淨的衣服，她的臉上掛著輕鬆愜意的神情。）"
+    },
+    "yue_Hant": {
+      "say58": "咁我哋聽日就去說服蘇珊，令佢喺夢入面醒返嚟。",
+      "say43": "餅乾焗好喇，快啲嚟試吓啦。",
+      "say4": "呢度係……？",
+      "say2": "（視線突然黑咗一下，好似係……唔自覺咁就瞇埋眼。）",
+      "say35": "嗯好……",
+      "say41": "呢間屋企，就係蘇珊嘅夢境。",
+      "say31": "你好……",
+      "say1": "呃⋯⋯",
+      "say38": "（羅伯特一走，我就嚟到門口，想睇吓呢個屋企外面嘅景色。）",
+      "say24": "我唔知。",
+      "say34": "佢好鍾意焗餅乾，而且做得好好，等陣唔介意嘅話可以試吓。",
+      "say33": "（蘇珊擰轉身行入廚房，喺現實世界只可以用明火來煲，呢度多咗焗爐可以揀。）",
+      "say7": "（呢個好似係……陽光……佢地就從窗外面照入黎。）",
+      "say51": "（仲未等我郁手，一邊嘅少女已經主動拎起咗另一塊，真係似個細路仔咁。）",
+      "say13": "係啊……同現實世界嘅景象……完全唔一樣。",
+      "say23": "噢……細路女，你叫咩名呀？",
+      "say42": "所以根本冇門外面嘅世界啊……",
+      "say14": "啊，有客人嚟咗喇？",
+      "say28": "大家好，未有出嚟招呼，唔好意思。",
+      "say36": "你哋坐，我仲要返去繼續畫設計圖，工作太忙啦。",
+      "say48": "好甜……",
+      "say52": "（最後，喺羅伯特同蘇珊嘅游說下，我哋喺客房過咗一晚。）",
+      "say8": "（睇唔到外面啲風景……）",
+      "say3": "（一陣香味過嚟，係比烤蘑菇同肉湯仲要誘人嘅味道。）",
+      "say32": "哦喺噃，啲曲奇餅乾快焗好喇，你哋喺度坐陣，我去睇吓先。",
+      "say40": "打唔開……",
+      "say44": "（蘇珊戴住隔熱手套，焗盤上整整齊齊放著好多新鮮出爐嘅曲奇，金黃色嘅曲奇上嵌著一啲細細嘅深色顆粒，應該係朱古力啩。）",
+      "say54": "到咗夜晚，睇落似乎同現實世界有啲似了。",
+      "say45": "多、多謝。",
+      "say57": "但……必須令佢醒返過嚟，呢個夢嚟嘅係假嘅……",
+      "say55": "但係冇雨……",
+      "say12": "同相簿裡面睇到嘅幾乎一模一樣，好靚……",
+      "say11": "呢度就係蘇珊嘅夢嘅世界。",
+      "say18": "蘇、蘇珊阿姨……",
+      "say20": "奇怪……係喺邊度嘅角落……",
+      "say59": "嗯，唔係嘅話，蘇珊嘅命就……",
+      "say39": "（當我去開門嘅時候，發覺門點都打唔開，實實净净好似同墻混爲一體。）",
+      "say50": "哈哈哈，好味就吃多，睇到自己做嘅點心被人讚，就係我好开心啦。",
+      "say10": "（呢度……就是夢中的世界嗎……）",
+      "say16": "（但係佢而家，應該仲瞓係維生設備上面先啱……）",
+      "say27": "羅伯特，屋企有客人嚟啦！快啲出嚟招待——",
+      "say49": "（從未食過咁香咁甜嘅嘢，又脆，朱古力嘅微苦同餅乾嘅甜混合喺一齊，令到身心都暖笠笠咁。）",
+      "say26": "嗯。",
+      "say25": "咦？係咩……咁我就叫你細路女先啦？",
+      "say29": "（佢應該喺地面上先啱……）",
+      "say37": "可以理解。",
+      "say-1": "（房入面又行出黎一個男人，明顯就係蘇珊嘅老公。）",
+      "say56": "真係個幸福嘅地方……",
+      "say19": "啊，係你啊，成日企係角落頭嗰個。",
+      "say53": "（更何況，除了呢一度都冇其他地方可以過夜。）",
+      "say21": "唔……諗唔起，你身邊呢位細路女係……？",
+      "say22": "呃……係……係我嘅朋友。",
+      "say6": "（乾潔嘅房間，全新嘅家具，睇起身似係，客廳一樣嘅佈局，比緊急燈光照著仲要明亮嘅空間…）",
+      "say46": "（我拎起一個遞畀少女，再拎起一個放入口裹面。）",
+      "say30": "（好似係響度參加緊建設某種設施……）",
+      "say47": "……！好、好吃……！",
+      "say9": "（冇雨聲……）",
+      "say17": "（呢個就是佢夢中嘅自己？）",
+      "say5": "（緩緩咁睜開對眼，我就立即被眼前嘅所有嘢震驚咗。）",
+      "say15": "（蘇珊從房間內面行咗出嚟，著住一身乾淨嘅衫，佢塊臉上掛著輕鬆愜意的表情。）"
+    },
+    "en": {
+      "say58": "Then tomorrow we will convince her to wake up from it.",
+      "say43": "The cookies are ready! Come and try them!",
+      "say4": "Where am I…?",
+      "say2": "(My vision suddenly darkens, as if something involuntarily closed my eyes.)",
+      "say35": "We…we would love to.",
+      "say41": "The house is Susan's dream.",
+      "say31": "Hi…",
+      "say1": "Uh…",
+      "say38": "(After Robert leaves, I get close to the door, wanting to see the view outside this house.)",
+      "say24": "I don’t have one.",
+      "say34": "She <i>loves</i> baking cookies, and they're amazing! You should try some if you like.",
+      "say33": "(Susan turns and walks into the kitchen, where in the real world she could only cook with an open flame and a pot, but in here, she has an oven.)",
+      "say7": "(Sunlight streams in through the windows.)",
+      "say51": "(Before I can even start, the girl next to me picks up another piece eagerly, just like a child.)",
+      "say13": "Yeah… It's completely different from the real world we’re from.",
+      "say23": "Oh, what’s your name, little girl?",
+      "say42": "So there's no world outside the door…",
+      "say14": "Oh, do we have guests?",
+      "say28": "Oh, hello. Sorry for not coming out to greet you sooner.",
+      "say36": "Please, make yourselves at home, while I have to get back to work on my designs; it’s been busy.",
+      "say48": "Sweet…",
+      "say52": "(In the end, we spent the night in the guest room at Robert and Susan's warm invitation.)",
+      "say8": "(I can't see what's on the outside)",
+      "say3": "(A sweet aroma wafts into my nostrils, more enticing than baked mushrooms and meat broth.)",
+      "say32": "Oh right, the cookies are almost done. Why don't you sit here and I'll go and check on them.",
+      "say40": "It won't open…",
+      "say44": "(Susan wears oven mitts, and on a baking tray are neatly arranged freshly baked cookies, golden surfaces studded with.)",
+      "say54": "It looks kinda like the real world at night.",
+      "say45": "Oh, thank you.",
+      "say57": "But… we have to wake her up. It’s a dream. It's not real…",
+      "say55": "And there's no rain…",
+      "say12": "It's almost exactly like what I saw in the pictures. So beautiful…",
+      "say11": "So that’s Susan's dream.",
+      "say18": "Su… <i>Aunt Susan.</i>",
+      "say20": "Wait… What corner…",
+      "say59": "Yeah, otherwise she will be…",
+      "say39": "(But when I turn the handle, I find I can't open it at all, as if the door is just a wall.)",
+      "say50": "Hehehe… please have some more if you like. Seeing others enjoy the snacks I make is the best reward for me.",
+      "say10": "(Am I… in the world of <i>dreams?</i>)",
+      "say16": "(But in reality, she should be lying in bed, connected to life support…)",
+      "say27": "Robert, we have guests in the house! Come out and meet them!",
+      "say49": "(Never have I tasted something so fragrant and sweet, so crispy. The slight bitterness of chocolate mixes with the sweetness of the cookie, warming both body and soul.)",
+      "say26": "Sure.",
+      "say25": "No names? Okay… I'll just call you little girl then.",
+      "say29": "(He is supposed be on the ground…)",
+      "say37": "We understand.",
+      "say-1": "(Another man emerges from the room, obviously Susan's husband.)",
+      "say56": "Such a happy place…",
+      "say19": "Ah, it's you. The one who's always standing in the corner.",
+      "say53": "(And besides, there's nowhere else to go.)",
+      "say21": "Hmm… can't remember. So, who's this young lady next to you?",
+      "say22": "Uh… She's… my friend.",
+      "say6": "(It’s a tidy room, with new furniture arranged like a living room. The space is brighter than any emergency lights…)",
+      "say46": "(I pick one up and hand another to the girl, then take a bite.)",
+      "say30": "(Went to work on some facility construction…)",
+      "say47": "That… is delicious!",
+      "say9": "(There’s no sound of rain…)",
+      "say17": "(Is this how she sees herself in her dream?)",
+      "say5": "(I slowly open my eyes and am immediately struck by what I see.)",
+      "say15": "(Susan walks out from the room, dressed in clean clothes. There is a relaxed and content expression on her face.)"
+    },
+    "ja": {
+      "say58": "じゃあ、明日スーザンを説得して、彼女を夢から目覚めさせよう。",
+      "say43": "クッキーが焼きあがったわ、さあ、食べてみて。",
+      "say4": "ここは…？",
+      "say2": "「視界が突然暗くなった。まるで無意識に目を閉じたように。」",
+      "say35": "はい…",
+      "say41": "この家は、スーザンの夢の世界なんだ。",
+      "say31": "こんにちは…",
+      "say1": "え…",
+      "say38": "「ロバートが出て行くと、私は玄関に向かい、この家の外の景色を見ようとした。」",
+      "say24": "名前はありません。",
+      "say34": "彼女はクッキーを焼くのが好きで、とても上手なんだ。気に入りましたら食べてみて。",
+      "say33": "「スーザンはキッチンに向かった。現実の世界では火と鍋しか使えないのに、ここにはオーブンがある。」",
+      "say7": "「これは…日光のようだ…窓から差し込んでいる。」",
+      "say51": "「私が手を伸ばす前に、隣の少女がもう一つを手に取り、まるで子供のように食べ始めた。」",
+      "say13": "そうだね…現実の世界とは…全く違う。",
+      "say23": "ああ…小さいお嬢ちゃん、名前は何て言うの？",
+      "say42": "じゃあ、外の世界は存在しないのか…",
+      "say14": "あら、お客さんが来たの？",
+      "say28": "こんにちは、すぐに出迎えられず申し訳ありません。",
+      "say36": "座っていてね、私はまた設計図を描きに戻らないと。仕事が忙しくてね。",
+      "say48": "甘い…",
+      "say52": "「結局、ロバートとスーザンの勧めで、私たちは客室で一夜を過ごした。」",
+      "say8": "「外の景色は見えない…」",
+      "say3": "「鼻に甘い香りが漂ってきた。それは焼きキノコや肉のスープよりも遥かに魅力的な匂いだった。」",
+      "say32": "そうだ、クッキーがもうすぐ焼き上がるから、ここで少し座って待っていてね、見てくるわ。",
+      "say40": "開かない…",
+      "say44": "「スーザンはオーブンミットをはめ、焼きたてのクッキーを整然と並べた。黄色いクッキーにはダークな小さな粒が散りばめられていて、たぶんチョコチップだろう。」",
+      "say54": "夜になってみると、現実の世界に少し似ているね。",
+      "say45": "あ、ありがとう。",
+      "say57": "でも…彼女を目覚めさせなければならない、この夢は偽物だ…",
+      "say55": "でも雨はない…",
+      "say12": "アルバムで見たのとほとんど同じで、とても綺麗…",
+      "say11": "ここはスーザンの夢の世界だ。",
+      "say18": "ス、スーザンおばさん…",
+      "say20": "おかしいね…どこの隅だったかしら…",
+      "say59": "うん、さもなければ、スーザンの命が…",
+      "say39": "「ドアノブを回してみたが、どうしても開かなかった。まるでこのドアが壁の一部であるかのように。」",
+      "say50": "ふふふ、美味しいならたくさん食べてね。自分が作ったお菓子をみんなに喜んでもらえるのが、私にとって最高の喜びなの。",
+      "say10": "「ここが…夢の中の世界なのか…」",
+      "say16": "「でも、今は生命維持装置に付いているはずなのに…」",
+      "say27": "ロバート、お客さんが来たわよ！早く出てきておもてなしをしてーー",
+      "say49": "「こんなに香ばしくて甘いものは初めてだ。サクサクしていて、チョコのほろ苦さとクッキーの甘さが混ざり合い、心も体も温かくなる。」",
+      "say26": "うん。",
+      "say25": "え？そうなの…じゃあ、しばらくは小さいお嬢ちゃんと呼ぶわね？",
+      "say29": "「（彼も地上にいるはずなのに…」",
+      "say37": "はい。",
+      "say-1": "「部屋からもう一人の男性が出てきた。明らかにスーザンの夫だ。」",
+      "say56": "本当に幸せな場所だ…",
+      "say19": "ああ、あなたね、いつも隅に立っている子。",
+      "say53": "「ここ以外に場所もないのだから。」",
+      "say21": "うーん…思い出せないわ。隣の子は…？",
+      "say22": "ええっと……私の友達です。",
+      "say6": "「整然とした部屋、新しい家具、まるでリビングルームのような配置。緊急灯の光よりも明るい空間…」",
+      "say46": "「私は一つを少女に渡し、もう一つを口に入れた。」",
+      "say30": "「何か施設の建設に参加していたような…」",
+      "say47": "…！お、美味しい…！",
+      "say9": "「雨の音もない…」",
+      "say17": "「これが彼女の夢の中の姿なのか。」",
+      "say5": "「ゆっくりと目を開けると、目の前の光景に驚かされた。」",
+      "say15": "「スーザンが部屋から出てきた。綺麗な服を着て、顔には安らぎの表情が浮かんでいる。」"
+    },
+    "es": {
+      "say58": "Mañana trataremos de convencerla para que se despierte.",
+      "say43": "¡Las galletas están listas! ¡Venid a probarlas!",
+      "say4": "¿Dónde estoy…?",
+      "say2": "(Mi visión se oscurece de repente, como si algo me cerrara los ojos involuntariamente)",
+      "say35": "Nos… nos encantaría.",
+      "say41": "La casa es el sueño de Susan.",
+      "say31": "Hola…",
+      "say1": "Esto…",
+      "say38": "(Después de que Robert se fuese, me acerco a la puerta, queriendo ver las vistas de fuera de esta casa)",
+      "say24": "No tengo ningún nombre.",
+      "say34": "Le <i>encanta</i> hacer galletas, ¡y son increíbles! Deberías probar algunas si te gustan.",
+      "say33": "(Susan se da la vuelta y entra en la cocina, donde en el mundo real sólo podría cocinar con una llama abierta y una olla, pero aquí tiene un horno)",
+      "say7": "(La luz del sol entra por las ventanas)",
+      "say51": "(Antes de que pueda empezar, la chica que está a mi lado agarra otro trozo con impaciencia, como una niña)",
+      "say13": "Sí… Es completamente diferente del mundo real del que venimos.",
+      "say23": "Oh, ¿cómo te llamas, pequeña?",
+      "say42": "Lo que quiere decir que no hay más mundo más allá de esta puerta…",
+      "say14": "Vaya, ¿tenemos visita?",
+      "say28": "Ah, hola. Siento no haber salido a saludarte antes.",
+      "say36": "Por favor, siéntanse como en casa mientras sigo trabajando en mis diseños; he estado muy ocupada.",
+      "say48": "Dulce…",
+      "say52": "(Al final, pasamos la noche en la habitación de invitados por la cordial invitación de Robert y Susan)",
+      "say8": "(No puedo ver lo que hay fuera)",
+      "say3": "(Un aroma dulce llega a mis fosas nasales, más tentador que los champiñoes al horno y el caldo de carne)",
+      "say32": "Oh cierto, las galletas están casi listas. ¿Por qué no te sientas aquí? Mientras iré a ver cómo están.",
+      "say40": "No se abre…",
+      "say44": "(Susan lleva guantes de cocina, y sobre una bandeja de horno hay pulcramente dispuestas galletas recién horneadas, con la superficie dorada y salpicada)",
+      "say54": "Se parece mucho al mundo real por la noche.",
+      "say45": "Vaya, gracias.",
+      "say57": "Pero… tenemos que despertarla. Es un sueño, no es real…",
+      "say55": "Además, no hay lluvia…",
+      "say12": "Es prácticamente igual a como lo que vi en las fotos. Es tan hermoso…",
+      "say11": "Así que ese es el sueño de Susan.",
+      "say18": "Su… <i>Tía Susan.</i>",
+      "say20": "Espera… ¿Qué esquina…?",
+      "say59": "Sí, de lo contrario…",
+      "say39": "(Pero cuando giro la manilla, descubro que no puedo abrirla, como si la puerta no fuera más que una pared)",
+      "say50": "Je, je, je… Siéntete libre de comer alguna más si te apetece. Ver a otros disfrutar de los aperitivos que hago es la mejor recompensa para mí.",
+      "say10": "(¿Estaré en… el mundo de los <i>sueños?</i>)",
+      "say16": "(Pero en realidad, debería estar tumbada en la cama, conectada a un soporte vital…)",
+      "say27": "¡Robert, Tenemos visita en casa! ¡Pásate a saludar!",
+      "say49": "(Nunca antes había probado algo tan fragante y dulce, tan crujiente. El ligero amargor del chocolate se mezcla con el dulzor de la galleta, calentando cuerpo y alma)",
+      "say26": "Claro.",
+      "say25": "¿No hay nombres? Está bien… en ese caso te llamaré pequeña.",
+      "say29": "(Se supone que está en el suelo…)",
+      "say37": "Lo entendemos.",
+      "say-1": "(Otro hombre sale de la habitación, sin ninguna duda el marido de Susan)",
+      "say56": "Qué lugar tan agradable y feliz…",
+      "say19": "Ah, eres tú. La que siempre se queda de pie en una esquina.",
+      "say53": "(Aunque tampoco es que haya otro sitio al que ir)",
+      "say21": "Hmmm… No puedo recordarlo. Dime, ¿quién es la jovencita que te acompaña?",
+      "say22": "Verás… Ella es… una amiga.",
+      "say6": "(Es una habitación ordenada, con muebles nuevos dispuestos como una sala de estar. El espacio es más luminoso que cualquier luz de emergencia…)",
+      "say46": "(Cojo uno y le doy otro a la chica, luego le doy un mordisco)",
+      "say30": "(Se fue a trabajar en la construcción de unas instalaciones…)",
+      "say47": "¡Están… deliciosas!",
+      "say9": "(No hay sonido de lluvia…)",
+      "say17": "(¿Es así como se ve a sí misma en su sueño?)",
+      "say5": "Abro lentamente los ojos y me impresiona de inmediato lo que veo)",
+      "say15": "(Susan sale de la habitación, vestida con ropa limpia. En su rostro hay una expresión relajada y satisfecha)"
+    },
+    "fr": {
+      "say58": "Alors demain, nous la convaincrons de s’en réveiller.",
+      "say43": "Les cookies sont prêts ! Venez les goûter !",
+      "say4": "Où suis-je… ?",
+      "say2": "(Ma vision s'assombrit soudainement, comme si quelque chose fermait involontairement mes yeux.)",
+      "say35": "Nous… nous aimerions beaucoup.",
+      "say41": "La maison est le rêve de Susan.",
+      "say31": "Salut…",
+      "say1": "Euh…",
+      "say38": "(Après le départ de Robert, je m’approche de la porte, voulant voir la vue depuis cette maison.)",
+      "say24": "Je n’en ai pas.",
+      "say34": "Elle <i>adore</i> faire des cookies, et ils sont incroyables ! Tu devrais en goûter si tu veux.",
+      "say33": "(Susan se tourne et entre dans la cuisine, où, dans le monde réel, elle ne pouvait cuisiner qu’avec une flamme nue et une casserole, mais ici, elle a un four.)",
+      "say7": "(La lumière du soleil entre par les fenêtres.)",
+      "say51": "(Avant même que je ne commence, la fille à côté de moi attrape un autre cookie avec enthousiasme, comme une enfant.)",
+      "say13": "Ouais… C'est complètement différent du monde réel d'où nous venons.",
+      "say23": "Oh, comment t'appelles-tu, petite fille ?",
+      "say42": "Donc il n’y a pas de monde derrière la porte…",
+      "say14": "Oh, avons-nous des invités ?",
+      "say28": "Oh, bonjour. Désolé de ne pas être venu vous saluer plus tôt.",
+      "say36": "Je t’en prie, fais comme chez toi, pendant que je retourne travailler sur mes créations ; ces derniers temps ont été chargés.",
+      "say48": "Sucré…",
+      "say52": "(Au final, nous avons passé la nuit dans la chambre d’amis, chaleureusement invités par Robert et Susan.)",
+      "say8": "(Je ne vois pas ce qu'il y a à l'extérieur)",
+      "say3": "(Un doux arôme flotte dans mes narines, plus attrayant que des champignons cuits au four et du bouillon de viande.)",
+      "say32": "Ah oui, les cookies sont presque prêts. Pourquoi ne t'assieds-tu pas ici pendant que j'irai voir comment ils vont.",
+      "say40": "Elle ne s’ouvre pas…",
+      "say44": "(Susan porte des gants de cuisine, et sur une plaque de cuisson sont soigneusement alignés des cookies tout juste sortis du four, leurs surfaces dorées parsemées de pépites.)",
+      "say54": "On dirait un peu le monde réel, la nuit.",
+      "say45": "Oh, merci.",
+      "say57": "Mais… il faut la réveiller. C’est un rêve. Ce n’est pas réel…",
+      "say55": "Et il n’y a pas de pluie…",
+      "say12": "C'est presque exactement comme ce que j'ai vu sur les photos. Tellement beau…",
+      "say11": "Voilà donc le rêve de Susan.",
+      "say18": "Su… <i>Tante Susan.</i>",
+      "say20": "Attends… Quel coin…",
+      "say59": "Oui, sinon elle restera…",
+      "say39": "(Mais quand je tourne la poignée, je découvre que je ne peux pas l’ouvrir du tout, comme si la porte n’était qu’un mur.)",
+      "say50": "Héhé… prends-en d’autres si tu veux. Voir les autres apprécier les douceurs que je prépare, c’est la plus belle récompense pour moi.",
+      "say10": "(Suis-je… dans le monde des <i>rêves ?</i>)",
+      "say16": "(Mais en réalité, elle devrait être allongée dans son lit, reliée à un respirateur artificiel…)",
+      "say27": "Robert, nous avons des invités à la maison ! Viens les rencontrer -- --",
+      "say49": "(Je n’ai jamais goûté quelque chose d’aussi parfumé et sucré, aussi croustillant. L’amertume légère du chocolat se mêle à la douceur du biscuit, réchauffant le corps et l’âme.)",
+      "say26": "Bien sûr.",
+      "say25": "Pas de noms ? Ok… Je t'appellerai juste petite fille alors ?",
+      "say29": "(Il est censé être au sol…)",
+      "say37": "Nous comprendons.",
+      "say-1": "(Un autre homme sort de la pièce, visiblement le mari de Susan.)",
+      "say56": "Un endroit si paisible…",
+      "say19": "Ah, c'est toi. Celui qui reste toujours dans le coin.",
+      "say53": "(Et puis, il n’y a nulle part d’autre où aller.)",
+      "say21": "Hmm… je ne m'en souviens plus. Alors, qui est cette jeune femme à côté de toi ?",
+      "say22": "Euh… C'est… mon amie.",
+      "say6": "(C'est une pièce bien rangée, avec de nouveaux meubles disposés comme un salon. L'espace est plus lumineux que n'importe quelle lumière de secours…)",
+      "say46": "(Je prends un cookie et en tends un autre à la fille, puis j’en croque une bouchée.)",
+      "say30": "(Allé travailler sur la construction de certaines installations…)",
+      "say47": "C'est... délicieux... !",
+      "say9": "(Il n’y a pas de bruit de pluie…)",
+      "say17": "(Est-ce ainsi qu'elle se voit dans son rêve ?)",
+      "say5": "(J'ouvre lentement les yeux et suis immédiatement frappé par ce que je vois.)",
+      "say15": "(Susan sort de la pièce, habillée de vêtements propres. Il y a une expression détendue et satisfaite sur son visage.)"
+    },
+    "ko": {
+      "say58": "그럼 우리가 내일 꿈에서 깨도록 설득해 보자.",
+      "say43": "쿠키 다 됐어! 와서 먹어 봐!",
+      "say4": "나 어디에 있는거야…?",
+      "say2": "(뭔가 무의식적으로 눈을 감은 듯 갑자기 시야가 어두워졌다.)",
+      "say35": "조…좋아요.",
+      "say41": "집 자체가 수잔의 꿈이야.",
+      "say31": "안녕하세요…",
+      "say1": "어…",
+      "say38": "(로버트가 떠난 후, 난 바깥 풍경을 보고 싶어서 문 가까이 다가갔다.)",
+      "say24": "전 이름이 없어요.",
+      "say34": "수잔은 쿠키 굽는 것을 <i>좋아</i>하는데, 정말 맛있어! 원한다면 한 번 먹어 보렴.",
+      "say33": "(수잔 이모는 돌아서 부엌으로 들어갔다. 현실 세계에서는 불과 냄비로만 요리할 수 있었지만 여기엔 오븐이 있었다.)",
+      "say7": "(창문으로 햇빛이 들어왔다.)",
+      "say51": "(내가 먹기도 전에 옆에 있던 소녀가 어린아이처럼 열심히 한 조각을 집어 들었다.)",
+      "say13": "응… 우리가 사는 현실 세계와는 전혀 달라.",
+      "say23": "아, 이름이 뭐야, 아가씨?",
+      "say42": "그럼 문밖엔 세상이 없는거구나…",
+      "say14": "아, 손님이 있나요?",
+      "say28": "오 안녕. 더 일찍 인사하러 나오지 못해서 미안하다.",
+      "say36": "난 디자인 작업을 다시 하러 가야 해서, 그동안 편히 쉬렴. 바쁘네.",
+      "say48": "달콤해…",
+      "say52": "(결국 우리는 로버트와 수잔의 따뜻한 초대로 객실에서 하룻밤을 보냈다.)",
+      "say8": "(밖에 뭐가 있는지 볼 수가 없다)",
+      "say3": "(구운 버섯과 고기 국물보다 더 유혹적인 달콤한 향이 코에 맴돌았다.)",
+      "say32": "아 맞다, 쿠키가 거의 다 됐어. 여기 앉아 있으면 내가 가서 가져다줄게.",
+      "say40": "안 열려…",
+      "say44": "(수잔 이모는 오븐 장갑을 끼고 있었고 베이킹 트레이에는 갓 구운 쿠키가 금빛 표면으로 장식되어 깔끔하게 배열되어 있었다.)",
+      "say54": "밤에는 현실 세계와 비슷해 보여.",
+      "say45": "오, 고마워요.",
+      "say57": "하지만… 우리가 그녀를 깨워야 해. 이건 꿈이잖아. 이건 진짜가 아니라고…",
+      "say55": "그리고 비도 안오고…",
+      "say12": "사진에서 본 것과 거의 똑같네. 너무 아름다워…",
+      "say11": "이게 바로 수잔의 꿈이야.",
+      "say18": "수… <i>수잔 이모.</i>",
+      "say20": "잠만… 무슨 구석…",
+      "say59": "응, 그렇지 않으면 이모는…",
+      "say39": "(하지만 손잡이를 돌리니 문이 벽인 것처럼 전혀 열리지 않는다는 걸 알게 되었다.)",
+      "say50": "헤헤헤… 원하면 좀 더 먹어. 내가 만든 간식을 다른 사람들이 맛있게 먹는 모습을 보는 게 나에게는 최고의 보상이거든.",
+      "say10": "(나…<i>꿈</i> 속 세계에 있는 건가?)",
+      "say16": "(근데 현실에서는 침대에 누워 생명유지 장치와 연결되어 있는데…)",
+      "say27": "로버트, 집에 손님이 왔어요! 나와서 한번 보세요!",
+      "say49": "(이렇게 향긋하고 달콤하고 바삭바삭한 맛을 느껴본 적이 없다. 초콜릿의 은은한 쓴맛과 쿠키의 달콤함이 어우러져 몸과 마음을 따뜻하게 해줬다.)",
+      "say26": "좋아요.",
+      "say25": "이름이 없어? 알았어… 그럼 그냥 아가씨라고 부를게.",
+      "say29": "(그는 지상에 있을 것으로 추정된다…)",
+      "say37": "알겠어요.",
+      "say-1": "(또 다른 남자가 방에서 나왔는데, 확실히 수잔 이모의 남편이었다.)",
+      "say56": "너무 행복한 곳…",
+      "say19": "아, 너 구나. 늘 구석에 서 있는 애.",
+      "say53": "(그리고 더 이상 갈 곳도 없었다.)",
+      "say21": "흠… 기억이 안나네. 그럼 옆에 있는 이 젊은 아가씨는 누구야?",
+      "say22": "어… 이 애는… 제 친구예요.",
+      "say6": "(새 가구를 거실처럼 배치한 깔끔한 방이었다. 그 어떤 비상등보다 이 공간이 더 밝았다…)",
+      "say46": "(난 하나를 집어 소녀에게 건네주고, 나도 한입 먹었다.)",
+      "say30": "(시설 공사를 하러 갔다가…)",
+      "say47": "이거… 맛있어요!",
+      "say9": "(빗 소리도 안 들려…)",
+      "say17": "(이것이 그녀가 꿈에서 보는 자신의 모습인가?)",
+      "say5": "(천천히 눈을 떴는데, 내가 바라본 것에 바로 큰 충격을 받았다.)",
+      "say15": "(수잔이 깨끗한 옷을 입고 방에서 나왔다. 그녀의 얼굴에는 편안하고 만족스러운 표정이 떠오른다.)"
+    },
+    "ru": {
+      "say58": "Тогда завтра мы убедим ее очнуться от этого",
+      "say43": "Печенья готовы! Приходите и попробуйте!",
+      "say4": "Где это я…?",
+      "say2": "(Мое зрение внезапно потемнело, как будто что-то непроизвольно закрыло мне глаза.)",
+      "say35": "Мы…мы с удовольствием",
+      "say41": "Это дом во сне Сьюзена",
+      "say31": "Здравствуйте…",
+      "say1": "Эээ…",
+      "say38": "(После этого, Роберт ушел. Я подошел к двери, чтобы посмотреть, что происходит снаружи.)",
+      "say24": "У меня его нет.",
+      "say34": "Она <i>любит</i> готовить печенья и у нее они получаются просто восхитительными! Вам следует тоже попробовать, если вы любите.",
+      "say33": "(Сьюзен разворачивается и ушла обратно на кухню, где в реальном мире она могла только готовить на огне и в маленьком котелке, а здесь у нее есть духовка.)",
+      "say7": "(Солнечные лучи проникают в окна.)",
+      "say51": "(Не успеваю я начать, как девушка рядом со мной с нетерпением, как ребенок, берет другой кусок).",
+      "say13": "Да… это совершенно не похоже на наш мир.",
+      "say23": "Оу, как тебя зовут, девочка?",
+      "say42": "Так что…За дверью ничего нет…",
+      "say14": "Оу, у нас есть гости?",
+      "say28": "Оу, привет. Извиняюсь, что не вышел поприветствовать вас раньше.",
+      "say36": "Пожалуйста, чувствуйте себя как дома, а пока мне нужно вернуться к работе над своими проектами; я был очень занят.",
+      "say48": "Сладко…",
+      "say52": "(В итоге мы провели ночь в гостевой комнате по теплому приглашению Роберта и Сьюзен).",
+      "say8": "(Я не вижу, что происходит на улице.)",
+      "say3": "(Сладкий аромат вливается в мои ноздри, более заманчиво, чем запеченные грибы и мясного бульона.)",
+      "say32": "Ох точно, печенье почти готово. Почему бы вам не присесть, а я пойду смотреть за ними",
+      "say40": "Не открывается…",
+      "say44": "(Сьюзан надевает рукавицы для духовки, а на противне аккуратно разложено свежеиспеченное печенье с золотистой поверхностью).",
+      "say54": "Это похоже на реальный мир ночью.",
+      "say45": "Оу, спасибо.",
+      "say57": "Но… мы должны разбудить её. Это сон. Это нереально.",
+      "say55": "И здесь нету этого дождя.",
+      "say12": "Почти так же, как я видела на фотографиях. Так красиво…",
+      "say11": "Так вот, что снится Сьюзен",
+      "say18": "Сью… <i>Тетя Сьюзен.</i>",
+      "say20": "Погоди… что за угол…",
+      "say59": "Ага…В противном случае она…",
+      "say39": "(Но когда я поворачиваю ручку, я понял, что я не могу открыть её. Это была обычная стена",
+      "say50": "Хехехе…Пожалуйста, возьмите еще, если вам понравилось. Видеть, как другие наслаждаются закусками, которые я готовлю, - лучшая награда для меня.",
+      "say10": "(Я… в мире <i>снов?</i>)",
+      "say16": "(Но в реальности, она должна лежать в постели, подключенной к системе жизнеобеспечения…)",
+      "say27": "Роберт, У нас гости! Приходи и познакомься с ним!",
+      "say49": "(Никогда не пробовал что-то такое ароматное, сладкое и хрустящее. Легкая горечь шоколада смешивается со сладостью печенья, согревая и тело, и душу.)",
+      "say26": "Хорошо.",
+      "say25": "Нет имени? Ладно… Я тогда буду просто называть тебя маленькой девочкой.",
+      "say29": "(Он же должен быть на земле…)",
+      "say37": "Мы понимаем",
+      "say-1": "(Появляется другой человек из комнаты, очевидно, муж Сьюзен.)",
+      "say56": "Просто потрясающее место…",
+      "say19": "Ах, это ты. Тот, кто вечно сидит в углу.",
+      "say53": "(К тому же, идти больше некуда.)",
+      "say21": "Хмм…не помню. И так, кто это молодая леди, стоящая рядом с тобой?",
+      "say22": "ээ…Она… моя подруга",
+      "say6": "(Чистая комната, с новой фурнитурой обустроена как гостиная. Это место светится ярче любых аварийных огней…)",
+      "say46": "(Я беру один и передаю другой девушке, а затем откусываю",
+      "say30": "(Ушел работать на строительство какого-то проекта…)",
+      "say47": "Это…Вкусно!",
+      "say9": "(Здесь не слышно дождя…)",
+      "say17": "(Это так она видит себя во сне?)",
+      "say5": "(Я медленно открываю глаза и меня сразу же поразило, то что я увидел.)",
+      "say15": "(Сьюзен выходит из комнаты, одетая в чистую одежду. На ее лице - расслабленное и довольное выражение.)"
+    },
+    "vi": {
+      "say58": "Thế ngày mai chúng ta sẽ thuyết phục cô ấy tỉnh dậy.",
+      "say43": "Bánh quy nướng xong rồi! Lại đây và thử xem!",
+      "say4": "Đây là đâu đây… ?",
+      "say2": "(Mắt tôi bỗng tối sầm lại, như thể có thứ gì đó vô tình nhắm mắt tôi lại.)",
+      "say35": "Chúng cháu… chúng cháu cũng thích ạ.",
+      "say41": "Ngôi nhà là giấc mơ của Susan rồi.",
+      "say31": "Chào…",
+      "say1": "Ư…",
+      "say38": "(Sau khi Robert rời đi, Tôi đến gần cánh cửa, muốn xem khung cảnh bên ngoài ngôi nhà.)",
+      "say24": "Cháu không có tên.",
+      "say34": "Cô ấy <i>yêu thích</i> nướng bánh quy lắm, và chúng ngon tuyệt vời! Cháu nên thử một ít nếu cháu thích.",
+      "say33": "(Susan quay người và đi vào phòng bếp, nơi mà thế giới thực cô ấy chỉ có thể nấu ăn bằng ngọn lửa và một cái nồi, nhưng ở đây, cô có nguyên cái lò nướng.)",
+      "say7": "(Ánh nắng chiếu qua cửa sổ.)",
+      "say51": "(Trước khi tôi kịp hành động, cô gái bên cạnh tôi đã háo hức cầm lên một cái khác ăn, cứ như là trẻ con vậy.)",
+      "say13": "Đúng… Nó hoàn toàn khác xa với thế giới thực mà chúng ta đang sống.",
+      "say23": "Ồ, vậy tên cháu là gì, cô bé ?",
+      "say42": "Nên sẽ không có thế giới nào bên ngoài cánh cửa…",
+      "say14": "Ồ, chúng ta có khách sao ?",
+      "say28": "Ồ, xin chào. Xin lỗi vì chú không ra sớm để chào các cháu.",
+      "say36": "Thoải mái đi, hãy cứ tự nhiên như ở nhà, trong khi chú phải quay lại làm thiết kế; bận cực kì.",
+      "say48": "Thật ngọt ngào…",
+      "say52": "(Đến cuối cùng, chúng tôi đã qua đêm trong phòng khách theo lời mời nồng nhiệt của Robert và Susan.)",
+      "say8": "(Tôi không thể nhìn được có gì ở bên ngoài)",
+      "say3": "(Mùi thơm ngọt ngào xộc thẳng vào mũi tôi, hấp dẫn hơn cả nấm nướng và nước luộc thịt.)",
+      "say32": "À phải rồi, bánh quy sắp xong rồi đó. Tại sao cháu không ngồi xuống đây và dì sẽ đi kiểm tra chúng.",
+      "say40": "Không mở được…",
+      "say44": "(Susan đeo đôi găng tay dành cho lò nướng, và trên khay nướng là những chiếc bánh quy mới được sắp xếp gọn gàng, bề mặt được nạm vàng.)",
+      "say54": "Trông giống như khung cảnh ở thế giới thực vào buổi đêm.",
+      "say45": "Vâng, cháu cảm ơn ạ.",
+      "say57": "Nhưng… chúng ta cần phải đánh thức cô ấy dậy. Đó chỉ là giấc mơ. Không phải thực tế…",
+      "say55": "Và không có mưa…",
+      "say12": "Nó gần giống như những gì tớ được thấy qua những bức ảnh. Thật là đẹp quá…",
+      "say11": "Và đó là giấc mơ của Susan.",
+      "say18": "Su… <i>Dì Susan.</i>",
+      "say20": "Hả… Góc nào…",
+      "say59": "Phải rồi, nếu không thì cô ấy sẽ…",
+      "say39": "(Nhưng khi tôi vặn tay nắm cửa, tôi nhận ra không thể mở được, như thể cánh cửa chỉ là một bức tường.)",
+      "say50": "Hehehe, cứ lấy thêm nếu cháu muốn. Nhìn người khác tận hưởng đồ ăn nhẹ cô làm đã là phần thưởng lớn nhất với cô rồi.",
+      "say10": "(Liệu tôi… có đang ở thế giới của những <i>giấc mơ ?</i>)",
+      "say16": "(Nhưng thực tế, cô đáng ra là đang nằm trên giường, kết nối với máy duy trì sự sống…)",
+      "say27": "Robert, chúng ta có khách đến chơi nhà này! Ra đây và gặp họ đi nào!",
+      "say49": "(Chưa bao giờ tôi được nếm thứ gì thơm ngọt, giòn tan đến thế. Vị đắng nhẹ của socola hòa quyền với bị ngọt của bánh quy, sưởi ấm cả thể xác lẫn tâm hồn.)",
+      "say26": "Được ạ.",
+      "say25": "Không có tên sao? Được rồi… Dì cứ gọi cháu là cô bé nhé.",
+      "say29": "(Anh ấy đáng nhẽ ra phải ở trên mặt đất…)",
+      "say37": "Bọn cháu hiểu rồi.",
+      "say-1": "(Một người đàn ông khác bước ra từ căn phòng, tất nhiên là chồng của Susan rồi.)",
+      "say56": "Đúng là một nơi thật hạnh phúc…",
+      "say19": "À, thì ra là cháu. Người mà hay đứng trong góc phòng.",
+      "say53": "(Và ngoài ra, không còn nơi nào khác để đi.)",
+      "say21": "Hmm… dì cũng không nhớ nữa. Vậy, còn cô gái trẻ bên cạnh cháu là ai ?",
+      "say22": "Ùm… Cô ấy… là bạn của cháu.",
+      "say6": "(Đó là một căn phòng gọn gàng, với nội thất được sắp xếp như phòng khách. Không gian sáng hơn cả bất kì chiếc đèn khẩn cấp nào…)",
+      "say46": "(Tôi lấy một cái và đưa một cái khác cho cô gái, rồi cắn một miếng.)",
+      "say30": "(Đi làm việc ở một số công trình xây dựng…)",
+      "say47": "Nó… ngon tuyệt vời !",
+      "say9": "(Không có tiếng mưa…)",
+      "say17": "(Ra đây là cách cô ấy nhìn chính mình trong giấc mơ ư ?)",
+      "say5": "(Tôi từ từ mở mắt và ngay lập tức bị ấn tượng bởi cảnh tượng trông thấy.)",
+      "say15": "(Susan bước ra khỏi phòng, quần áo sạch sẽ. Trên khuôn mặt cô ấy tỏ ra rất thoải mái và hài lòng.)"
+    }
+  },
+  "names": {
+    "zh_Hans": {
+      "lwy": "露薇娅",
+      "pb": "",
+      "rbt": "罗伯特",
+      "ss": "苏珊",
+      "w": "我"
+    },
+    "zh_Hant": {
+      "lwy": "露薇婭",
+      "pb": "",
+      "rbt": "羅伯特",
+      "ss": "蘇珊",
+      "w": "我"
+    },
+    "yue_Hant": {
+      "lwy": "露薇婭",
+      "pb": "",
+      "rbt": "羅伯特",
+      "ss": "蘇珊",
+      "w": "我"
+    },
+    "en": {
+      "lwy": "Luvia",
+      "pb": "",
+      "rbt": "Robert",
+      "ss": "Susan",
+      "w": "Me"
+    },
+    "ja": {
+      "lwy": "Luvia",
+      "pb": "",
+      "rbt": "Robert",
+      "ss": "Susan",
+      "w": "私"
+    },
+    "es": {
+      "lwy": "Luvia",
+      "pb": "",
+      "rbt": "Robert",
+      "ss": "Susan",
+      "w": "Yo"
+    },
+    "fr": {
+      "lwy": "Luvia",
+      "pb": "",
+      "rbt": "Robert",
+      "ss": "Susan",
+      "w": "Moi"
+    },
+    "ko": {
+      "lwy": "루비아",
+      "pb": "",
+      "rbt": "로버트",
+      "ss": "수잔",
+      "w": "나"
+    },
+    "ru": {
+      "lwy": "Лювия",
+      "pb": "",
+      "rbt": "Роберт",
+      "ss": "Сьюзен",
+      "w": "Я"
+    },
+    "vi": {
+      "lwy": "Luvia",
+      "pb": "",
+      "rbt": "Robert",
+      "ss": "Susan",
+      "w": "Tôi"
+    }
+  },
+  "commands": [
+    {
+      "cmd": "scene",
+      "arg": "living_room"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "1",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "2",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "3",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "4",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "5",
+      "emotion": ""
+    },
+    {
+      "cmd": "bgm",
+      "arg": "warm"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "6",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "7",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "8",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "9",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "11",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "12",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "13",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss?",
+      "id": "14",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy+ss"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "15",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "16",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "17",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "18",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "19",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "20",
+      "emotion": "default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "21",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "22",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "23",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "24",
+      "emotion": "default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "25",
+      "emotion": "surprise"
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "26",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "27",
+      "emotion": "laugh"
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "ss+rbt"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "-1",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "rbt",
+      "id": "28",
+      "emotion": "laugh"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "29",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "30",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "31",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "32",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "rbt"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "33",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "rbt",
+      "id": "34",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "35",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "rbt",
+      "id": "36",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "37",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy"
+    },
+    {
+      "cmd": "scene",
+      "arg": "susan_door"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "38",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "39",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "40",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "41",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "42",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "living_room"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy+ss"
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "43",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "44",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "45",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "46",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "47",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "48",
+      "emotion": "surprise"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "49",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "ss",
+      "id": "50",
+      "emotion": "laugh"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "51",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "52",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "53",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy/default"
+    },
+    {
+      "cmd": "scene",
+      "arg": "bedroom"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "54",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "55",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "56",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "57",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "58",
+      "emotion": "frown"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "59",
+      "emotion": ""
+    }
+  ]
+}

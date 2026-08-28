@@ -1,0 +1,667 @@
+{
+  "episode": "main_story_1_3",
+  "blocks": [
+    {
+      "type": "scene",
+      "value": "living_space"
+    },
+    {
+      "type": "chara",
+      "value": "lwy"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "874512",
+          "speaker": "pb"
+        },
+        {
+          "id": "235678",
+          "speaker": "pb"
+        },
+        {
+          "id": "987123",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|sad"
+    },
+    {
+      "type": "bgs",
+      "value": "rain_inside"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "456789",
+          "speaker": "pb"
+        },
+        {
+          "id": "654321",
+          "speaker": "w"
+        },
+        {
+          "id": "234567",
+          "speaker": "lwy"
+        },
+        {
+          "id": "876543",
+          "speaker": "w"
+        },
+        {
+          "id": "345678",
+          "speaker": "lwy"
+        },
+        {
+          "id": "543210",
+          "speaker": "w"
+        },
+        {
+          "id": "98765411",
+          "speaker": "lwy"
+        },
+        {
+          "id": "321098",
+          "speaker": "w"
+        },
+        {
+          "id": "789012",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "1001",
+      "options": [
+        "1001",
+        "1002"
+      ],
+      "labels": {
+        "zh_Hans": {},
+        "zh_Hant": {},
+        "yue_Hant": {},
+        "en": {},
+        "ja": {},
+        "es": {},
+        "fr": {},
+        "ko": {},
+        "ru": {},
+        "vi": {}
+      },
+      "branches": {
+        "1001": [
+          {
+            "id": "4567892",
+            "speaker": "w"
+          },
+          {
+            "id": "567890",
+            "speaker": "lwy"
+          }
+        ],
+        "1002": [
+          {
+            "id": "3456780",
+            "speaker": "w"
+          }
+        ]
+      }
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|default"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "123456",
+          "speaker": "w"
+        },
+        {
+          "id": "2345671",
+          "speaker": "lwy"
+        },
+        {
+          "id": "8765437",
+          "speaker": "w"
+        },
+        {
+          "id": "3456782",
+          "speaker": "lwy"
+        },
+        {
+          "id": "987654",
+          "speaker": "w"
+        },
+        {
+          "id": "2345672",
+          "speaker": "lwy"
+        },
+        {
+          "id": "8765434",
+          "speaker": "w"
+        },
+        {
+          "id": "9876548",
+          "speaker": "lwy"
+        }
+      ]
+    }
+  ],
+  "dialogues": {
+    "zh_Hans": {
+      "say567890": "我是好孩子。",
+      "say987654": "什……只要这样就行了吗？但是说起来容易做起来，不可能吧……让自己想要从梦里醒来。",
+      "say321098": "就算这样也不能……这不就是杀人……",
+      "say543210": "怎、他们怎么能这样做！？",
+      "say4567892": "因为你是好孩子。",
+      "say3456780": "没人能随意决定别人的生死。",
+      "say345678": "我在楼梯间，听到居民的谈话，他们说要关掉苏珊的维生设备。",
+      "say8765437": "……！但……怎么做……？",
+      "say2345672": "我们进入她的梦。",
+      "say654321": "你怎么来了？",
+      "say234567": "苏珊……有危险。",
+      "say9876548": "嗯。",
+      "say874512": "（自从上次的外出后，她好像就经常一个人到处走来走去。）",
+      "say876543": "怎么回事？",
+      "say456789": "（正当我这么自言自语时，一个戴着兜帽的小巧身形的人站在了我的面前。）",
+      "say98765411": "他们说，没有必要把资源浪费在醒不来的人身上。",
+      "say123456": "但是……怎么救？我们根本说服不了他们……",
+      "say789012": "不知道为什么，我想救苏珊。",
+      "say987123": "不过，居然能看到梦里的景象……她身体的谜题好像越来越多了。",
+      "say235678": "（还好我跟她说不要与任何人交流……但还是很担心她会暴露的可能……）",
+      "say3456782": "让她在梦里说出自己想要醒来，她就会醒过来。",
+      "say8765434": "你……你能做到吗？",
+      "say2345671": "苏珊醒过来，她就能得救了吧？",
+      "choice1001": "你是好孩子",
+      "choice1002": "生死不该让别人决定"
+    },
+    "zh_Hant": {
+      "say567890": "我是好孩子。",
+      "say987654": "什……只要這樣就行了嗎？但是說起來容易做起來，不可能吧……讓自己想要從夢裡醒來。",
+      "say321098": "就算這樣也不能……這不就是殺人……",
+      "say543210": "怎、他們怎麼能這樣做！？",
+      "say4567892": "因為你是好孩子。",
+      "say3456780": "沒人能隨意決定別人的生死。",
+      "say345678": "我在樓梯間，聽到居民的談話，他們說要關掉蘇珊的維生設備。",
+      "say8765437": "……！但……怎麼做……？",
+      "say2345672": "我們進入她的夢。",
+      "say654321": "你怎麼來了？",
+      "say234567": "蘇珊……有危險。",
+      "say9876548": "嗯。",
+      "say874512": "（自從上次的外出後，她好像就經常一個人到處走來走去。）",
+      "say876543": "怎麼回事？",
+      "say456789": "（正當我這麼自言自語時，一個戴著兜帽的小巧身形的人站在了我的面前。）",
+      "say98765411": "他們說，沒有必要把資源浪費在醒不來的人身上。",
+      "say123456": "但是……怎麼救？我們根本說服不了他們……",
+      "say789012": "不知道為什麼，我想救蘇珊。",
+      "say987123": "不過，居然能看到夢裡的景象……她身體的謎題好像越來越多了。",
+      "say235678": "（還好我跟他說不要與任何人交流……但還是很擔心他會暴露的可能……）",
+      "say3456782": "讓他在夢裡說出自己想要醒來，他就會醒過來。",
+      "say8765434": "你……你能做到嗎？",
+      "say2345671": "蘇珊醒過來，他就能得救了吧？",
+      "choice1001": "你是好孩子",
+      "choice1002": "生死不該讓別人決定"
+    },
+    "yue_Hant": {
+      "say567890": "我係好人。",
+      "say987654": "咁⋯⋯噉就得喇？話埋咁易，做埋，點可能⋯⋯自己想醒。",
+      "say321098": "就算咁樣都唔得……呢個唔就係殺人咩……",
+      "say543210": "點、點解佢地可以咁做！？",
+      "say4567892": "因為你係個好人。",
+      "say3456780": "冇人可以隨意決定其他人嘅生死。",
+      "say345678": "我喺樓梯間，聽到啲居民話，佢地話要熄左蘇珊嘅生命維持設備。",
+      "say8765437": "……！但……但係，點做？",
+      "say2345672": "我哋進入佢的夢。",
+      "say654321": "你點解黎左？",
+      "say234567": "蘇珊……有危險。",
+      "say9876548": "嗯。",
+      "say874512": "（自從上次出左去之後，佢好似成日一個人走黎走去。）",
+      "say876543": "發生咩事？",
+      "say456789": "（就係我自言自語嗰陣，一個戴着\"兜帽\"嘅細細粒的人企係我面前。）",
+      "say98765411": "佢地話，冇必要將資源浪費係醒唔到啲人身上。",
+      "say123456": "但係……要點救呢？我地根本勸唔到佢地……",
+      "say789012": "唔知點解，我想去救蘇珊。",
+      "say987123": "不過，居然可以睇到夢裡面嘅畫面……佢身體嘅謎題好似越黎越多。",
+      "say235678": "（好彩我同佢講唔洗同任何人交流……但都係好擔心佢會暴露……）",
+      "say3456782": "叫佢喺夢入面講出自己想醒，佢就會醒。",
+      "say8765434": "你⋯⋯做得到？",
+      "say2345671": "蘇珊醒返，就救返咗啦？",
+      "choice1001": "你真係個好人啊",
+      "choice1002": "生死唔應該畀人決定"
+    },
+    "en": {
+      "say567890": "I know.",
+      "say987654": "What… that's all it takes? But that's easier said than done. We can’t just <i>make</i> someone to say they want to wake up.",
+      "say321098": "Even so, they can’t… that's <i>murder!</i>",
+      "say543210": "What? How can they do that!?",
+      "say4567892": "Because you're a good kid.",
+      "say3456780": "No one can decide who lives and who dies.",
+      "say345678": "I heard the residents talking in the stairwell. They plan to turn off Susan's life support.",
+      "say8765437": "… What?! But… how?",
+      "say2345672": "We'll enter her dream.",
+      "say654321": "What are you doing here?",
+      "say234567": "Susan… is in danger.",
+      "say9876548": "Yes.",
+      "say874512": "(Since our last outing, she often roams around by herself.)",
+      "say876543": "What do you mean?",
+      "say456789": "(Just as I'm musing, a small figure in a hood shows up in front of me.)",
+      "say98765411": "They said it's not worth wasting resources on someone who won't wake up.",
+      "say123456": "But… how do we save her? We can't just convince them not to…",
+      "say789012": "I don't know why, but I want to save Susan.",
+      "say987123": "But… she has visions of other people’s dreams… the mysteries of the girl keep piling up.",
+      "say235678": "(It's a relief that I’ve already told her not to talk to anyone, but I'm still worried about the possibility of her being exposed.)",
+      "say3456782": "If she can say she wants to wake up in her dream, she'll wake up.",
+      "say8765434": "You… can do that?",
+      "say2345671": "If Susan wakes up, she'll be safe, right?",
+      "choice1001": "You're a good kid",
+      "choice1002": "They have no rights"
+    },
+    "ja": {
+      "say567890": "私は良い子だよ。",
+      "say987654": "な、そんなことができるのか？でも、言うのは簡単だけど、実際にやるのは無理じゃないか…自分が夢から目を覚ましたいと思うだけで。",
+      "say321098": "それでも…それは殺人じゃないか…",
+      "say543210": "な、彼らがそんなことをするなんて！？",
+      "say4567892": "いい子だからね。",
+      "say3456780": "誰も他人の命を勝手に決めることはできない。",
+      "say345678": "階段のところで住民たちの会話を聞いたんだ。彼らはスーザンの生命維持装置を切るつもりだと言った。",
+      "say8765437": "…！でも…どうやって…？",
+      "say2345672": "私たちは彼女の夢の中に入るんだ。",
+      "say654321": "どうしてここに来たの？",
+      "say234567": "スーザンには危険が…。",
+      "say9876548": "うん。",
+      "say874512": "「前の外出以来、彼女はいつもひとりでどこかを歩き回っていた。」",
+      "say876543": "どうしたの？",
+      "say456789": "「そんなことを独り言のように言っていると、フードを被った小柄な人影が私の前に現れた。」",
+      "say98765411": "彼らは、目覚めない人に資源を無駄にする必要はないと言っている。",
+      "say123456": "でも…どうやって助けるの？私たちには彼らを説得することなんてできない…",
+      "say789012": "なぜか分からないけど、スーザンを助けたい。",
+      "say987123": "それにしても、夢の中の光景が見えるなんて…彼女の体にはまだまだ謎が多いね。",
+      "say235678": "「彼女には誰とも話さないように言っておいて良かった…でも、彼女がバレる可能性がとても心配だ…」",
+      "say3456782": "彼女に夢の中で目覚めたいと言わせれば、目を覚ますだろう。",
+      "say8765434": "あなた……あなたにはできるの？",
+      "say2345671": "スーザンが目を覚ませば、彼女は助かるだろう？",
+      "choice1001": "君は良い子だよ",
+      "choice1002": "命は他人に決めさせてはいけない"
+    },
+    "es": {
+      "say567890": "Lo sé.",
+      "say987654": "¿Qué… eso es todo lo que hace falta? Pero es más fácil decirlo que hacerlo. No podemos <i>hacer</i> que alguien diga que se despierte así como si nada.",
+      "say321098": "Aún así, no pueden… ¡Eso es <i>asesinato!</i>",
+      "say543210": "¿Qué? ¿¡Cómo pueden hacer eso!?",
+      "say4567892": "Porque tienes un corazón de oro.",
+      "say3456780": "Nadie puede decidir quien vive y quien muere.",
+      "say345678": "Oí a los residentes hablando en la escalera. Planean desconectar el soporte vital de Susan.",
+      "say8765437": "… ¡¿Qué?! Pero… ¿cómo?",
+      "say2345672": "Entraremos en su sueño.",
+      "say654321": "¿Qué estás haciendo aquí?",
+      "say234567": "Susa… está en peligro.",
+      "say9876548": "Sí.",
+      "say874512": "(Desde nuestra última escapada, suele deambular sola)",
+      "say876543": "¿A qué te refieres?",
+      "say456789": "(Justo cuando estoy cavilando, una pequeña figura con capucha aparece frente a mí)",
+      "say98765411": "Dicen que no vale la pena invertir recursos en alguien que no se despertará.",
+      "say123456": "Pero… ¿cómo la salvamos? No podemos convencerlos para que no…",
+      "say789012": "No sé por qué, pero quiero salvar a Susan.",
+      "say987123": "Pero… tiene visiones de los sueños de otras personas… los misterios de la chica siguen acumulándose.",
+      "say235678": "(Es un alivio que ya le haya dicho que no hable con nadie, pero me sigue preocupando la posibilidad de que se descubra)",
+      "say3456782": "Si puede decir que quiere despertar en su sueño, despertará.",
+      "say8765434": "¿Puedes… hacer eso?",
+      "say2345671": "Si Susan se despierta, estará a salvo, ¿verdad?",
+      "choice1001": "Tienes un corazón de oro",
+      "choice1002": "La vida y la muerte no deberían decidirlas otros"
+    },
+    "fr": {
+      "say567890": "Je sais.",
+      "say987654": "Quoi… c'est tout ce qu'il faut ? Mais c'est plus facile à dire qu'à faire. On ne peut pas simplement forcer quelqu'un à dire qu'il veut se réveiller.",
+      "say321098": "Même ainsi, ils ne peuvent pas… c’est un <i>meurtre</i> ! …",
+      "say543210": "Quoi ? Comment peuvent-ils faire ça ?!",
+      "say4567892": "Parce que tu es un bon enfant.",
+      "say3456780": "Personne ne peut décider qui vit et qui meurt.",
+      "say345678": "J'ai entendu les habitants parler dans la cage d'escalier. Ils prévoient de débrancher le respirateur artificiel de Susan.",
+      "say8765437": "… Quoi ?! Mais… comment ?",
+      "say2345672": "Nous entrerons dans son rêve.",
+      "say654321": "Que fais-tu ici ?",
+      "say234567": "Susan… est en danger.",
+      "say9876548": "Oui.",
+      "say874512": "(Depuis notre dernière sortie, elle se promène souvent seule.)",
+      "say876543": "Que veux-tu dire ?",
+      "say456789": "(Alors que je réfléchissais, une petite silhouette avec une capuche apparaît devant moi.)",
+      "say98765411": "Ils ont dit que cela ne valait pas la peine de gaspiller des ressources pour quelqu'un qui ne se réveillera pas.",
+      "say123456": "Mais… comment la sauver ? On ne peut pas simplement les convaincre de ne pas le faire…",
+      "say789012": "Je ne sais pas pourquoi, mais je veux sauver Susan.",
+      "say987123": "Mais… elle a des visions des rêves des autres… les mystères de la fille continuent de s’accumuler.",
+      "say235678": "(C'est un soulagement que je lui ai déjà dit de ne parler à personne, mais je suis toujours inquiet de la possibilité qu'elle soit exposée.)",
+      "say3456782": "Si elle peut dire qu'elle veut se réveiller dans son rêve, elle se réveillera.",
+      "say8765434": "Tu… peux faire ça ?",
+      "say2345671": "Si Susan se réveille, elle sera en sécurité, n'est-ce pas ?",
+      "choice1001": "Tu es un bon enfant",
+      "choice1002": "Ils n'ont aucun droit"
+    },
+    "ko": {
+      "say567890": "나도 알거든.",
+      "say987654": "뭐… 그게 다야? 근데 말처럼 쉽지는 않을걸. 누군가가 깨어나고 싶다고 말하도록 <i>만들 수는</i> 없잖아.",
+      "say321098": "그래도 그들은… 그건 <i>살인이잖아!</i>",
+      "say543210": "뭣? 왜 그런 짓을 하는건데!?",
+      "say4567892": "넌 좋은 사람이구나.",
+      "say3456780": "누가 살고 누가 죽는지는 그 어느 누구도 결정할 수 없어.",
+      "say345678": "계단에서 주민들이 말하는 소리가 들렸어요. 수잔의 생명 유지 장치를 끌거래.",
+      "say8765437": "… 뭐?! 하지만… 어떻게 하려고?",
+      "say2345672": "우리가 꿈에 들어가면 돼.",
+      "say654321": "여기서 뭐하는거야?",
+      "say234567": "수잔이… 위험해.",
+      "say9876548": "응.",
+      "say874512": "(지난번 산책 이후로 그녀는 자주 혼자 돌아다녔다.)",
+      "say876543": "무슨 소리야?",
+      "say456789": "(생각 좀 하고 있던 순간, 후드를 쓴 작은 형체가 내 앞에 나타났다.)",
+      "say98765411": "사람들이 깨어나지 않는 사람한테 굳이 자원을 낭비할 필요가 없다고 하던데.",
+      "say123456": "근데… 그녀를 어떻게 구할건데? 우리가 그 사람들한테 말리도록 설득할 순 없…",
+      "say789012": "이유는 나도 모르겠는데, 수잔을 구하고 싶어.",
+      "say987123": "근데… 그 애는 다른 사람들의 꿈에 대한 환상을 갖고 있는데… 미스터리는 계속해서 커져간다.",
+      "say235678": "(이미 아무에게도 말하면 안된다고 해서 다행이지만, 혹시라도 들킬까봐 걱정이 된다.)",
+      "say3456782": "꿈에서 깨어나고 싶다고 하면 깨어날 거야.",
+      "say8765434": "넌… 할 수 있어?",
+      "say2345671": "수잔이 깨어나면 안전한거지, 그치?",
+      "choice1001": "넌 좋은 사람이네",
+      "choice1002": "그 사람들은 그럴 권리가 없어"
+    },
+    "ru": {
+      "say567890": "Я знаю.",
+      "say987654": "Что… это все что нужно сделать? Но легко сказать, чем сделать. Мы не можем просто <i>заставить</i> кого-то сказать, что она хочет проснуться.",
+      "say321098": "Даже так, они не могут этого сделать… это <i>убийство!</i>",
+      "say543210": "Что? Как они смеют!?",
+      "say4567892": "Потому что ты хорошая.",
+      "say3456780": "Никто не может решать, кому умереть, а кому жить.",
+      "say345678": "Я слышала, о чем говорили жители на лестнице. Они планируют отключить ей аппарат жизнеобеспечения.",
+      "say8765437": "… Что?! Но… как?",
+      "say2345672": "Мы попадем в её сон.",
+      "say654321": "Что ты здесь делаешь?",
+      "say234567": "Сьюзен… она в опасности.",
+      "say9876548": "Да.",
+      "say874512": "(После нашей последней прогулки она начала часто бродить по окрестностям одна.)",
+      "say876543": "Что ты имеешь в виду?",
+      "say456789": "(Пока я размышлял, передо мной появляется маленькая фигура в капюшоне появляется.)",
+      "say98765411": "Они говорили, что не стоит тратить ресурсы на тех, кто уже не проснется.",
+      "say123456": "Но… как мы спасем её? Мы не можем просто убедить их не делать этого…",
+      "say789012": "Я не знаю почему, но я хочу спасти Сьюзен.",
+      "say987123": "Но… она видит сны других людей… Загадки этой девушки продолжают накапливаться.",
+      "say235678": "(Меня успокаивает то, что я уже сказал ей не говорить ни с кем, но я все равно беспокоюсь о том, что ее могут раскрыть.)",
+      "say3456782": "Если она сможет сказать, что хочет проснуться у нее во сне, то она проснется.",
+      "say8765434": "Ты… можешь это сделать?",
+      "say2345671": "Если Сьюзен проснется, она будет в безопасности, да?",
+      "choice1001": "Ты хорошая",
+      "choice1002": "Они не имеют права!"
+    },
+    "vi": {
+      "say567890": "Tớ biết.",
+      "say987654": "Hả… Chỉ có vậy thôi sao? Nhưng nói thì dễ hơn làm. Chúng ta không thể cứ <i>làm</i> cho ai đó nói là họ muốn dậy được.",
+      "say321098": "Dù vậy, nhưng họ không thể… như thế là <i>giết người</i>",
+      "say543210": "Hả ? Họ sao mà có thể làm được việc đó !?",
+      "say4567892": "Vì cậu là một người tốt.",
+      "say3456780": "Không ai có thể quyết định ai sống và ai chết.",
+      "say345678": "Tớ nghe được người dân nói chuyện ở chỗ cầu thang. Họ bàn nhau việc tắt máy giúp duy trì sự sống của Susan.",
+      "say8765437": "… Hả?! Nhưng… làm thế nào?",
+      "say2345672": "Chúng ta sẽ vào trong giấc mơ của cô ấy.",
+      "say654321": "Cậu đang làm gì ở đây thế ?",
+      "say234567": "Susan… đang gặp nguy hiểm.",
+      "say9876548": "Đúng thế.",
+      "say874512": "(Kế từ lần cuối chúng tôi đi ra ngoài, cô ấy thường đi lang thang một mình.)",
+      "say876543": "Ý cậu là sao ?",
+      "say456789": "(Khi tôi đang trầm ngâm, một bóng người nhỏ bé đội mũ trùm đầu xuất hiện trước mặt tôi.)",
+      "say98765411": "Họ bảo không hề đáng để lãng phí tài nguyên vào người nào đó mà mãi không chịu dậy.",
+      "say123456": "Nhưng… làm sao chúng ta cứu cô ấy được? Không thể cứ thuyết phục họ là không được…",
+      "say789012": "Mình không hiểu tại sao, nhưng mình muốn cứu Susan.",
+      "say987123": "Nhưng… cô ấy nhìn được giấc mơ của người khác… những bí ẩn về cô cứ chồng chất lên.",
+      "say235678": "(Thật nhẹ nhõm vì tôi đã bảo cô ấy không được nói chuyện với ai, nhưng tôi vẫn lo lắng về khả năng cô ấy bị lộ.)",
+      "say3456782": "Nếu cô có thể nói là muốn thức dậy ở trong giấc mơ, cô ấy sẽ tỉnh lại.",
+      "say8765434": "Cậu… có thể làm được sao ?",
+      "say2345671": "Nếu Susan mà tỉnh lại, cô ấy sẽ an toàn, đúng chứ ?",
+      "choice1001": "Cậu đúng là một người tốt",
+      "choice1002": "Họ không có quyền gì cả"
+    }
+  },
+  "names": {
+    "zh_Hans": {
+      "lwy": "露薇娅",
+      "pb": "",
+      "w": "我"
+    },
+    "zh_Hant": {
+      "lwy": "露薇婭",
+      "pb": "",
+      "w": "我"
+    },
+    "yue_Hant": {
+      "lwy": "露薇婭",
+      "pb": "",
+      "w": "我"
+    },
+    "en": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Me"
+    },
+    "ja": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "私"
+    },
+    "es": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Yo"
+    },
+    "fr": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Moi"
+    },
+    "ko": {
+      "lwy": "루비아",
+      "pb": "",
+      "w": "나"
+    },
+    "ru": {
+      "lwy": "Лювия",
+      "pb": "",
+      "w": "Я"
+    },
+    "vi": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Tôi"
+    }
+  },
+  "commands": [
+    {
+      "cmd": "scene",
+      "arg": "living_space"
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "874512",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "235678",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "987123",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "rain_inside"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "456789",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "654321",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "234567",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "876543",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "345678",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "543210",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "98765411",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "321098",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "789012",
+      "emotion": ""
+    },
+    {
+      "cmd": "question",
+      "id": "1000"
+    },
+    {
+      "cmd": "option",
+      "id": "1001"
+    },
+    {
+      "cmd": "option",
+      "id": "1002"
+    },
+    {
+      "cmd": "choice_start",
+      "id": "1001"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "4567892",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "567890",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "choice_end"
+    },
+    {
+      "cmd": "choice_start",
+      "id": "1002"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "3456780",
+      "emotion": ""
+    },
+    {
+      "cmd": "choice_end"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "123456",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "2345671",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "8765437",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "3456782",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "987654",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "2345672",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "8765434",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy?",
+      "id": "9876548",
+      "emotion": "smile"
+    }
+  ]
+}

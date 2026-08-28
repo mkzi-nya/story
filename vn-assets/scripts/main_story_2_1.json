@@ -1,0 +1,1684 @@
+{
+  "episode": "main_story_2_1",
+  "blocks": [
+    {
+      "type": "scene",
+      "value": "black"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10001",
+          "speaker": "pb"
+        },
+        {
+          "id": "10002",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10003",
+          "speaker": "pb"
+        },
+        {
+          "id": "10004",
+          "speaker": "w"
+        },
+        {
+          "id": "10005",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10006",
+          "speaker": "pb"
+        },
+        {
+          "id": "10007",
+          "speaker": "pb"
+        },
+        {
+          "id": "10008",
+          "speaker": "w"
+        },
+        {
+          "id": "10009",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10010",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "bgs",
+      "value": "rainstorm"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10011",
+          "speaker": "pb"
+        },
+        {
+          "id": "10012",
+          "speaker": "pb"
+        },
+        {
+          "id": "10013",
+          "speaker": "pb"
+        },
+        {
+          "id": "10014",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10015",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "bgs",
+      "value": "rain_inside"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10016",
+          "speaker": "pb"
+        },
+        {
+          "id": "10017",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "scene",
+      "value": "ground_grocery"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10018",
+          "speaker": "pb"
+        },
+        {
+          "id": "10019",
+          "speaker": "pb"
+        },
+        {
+          "id": "10020",
+          "speaker": "pb"
+        },
+        {
+          "id": "10021",
+          "speaker": "pb"
+        },
+        {
+          "id": "10022",
+          "speaker": "pb"
+        },
+        {
+          "id": "10023",
+          "speaker": "pb"
+        },
+        {
+          "id": "10024",
+          "speaker": "pb"
+        },
+        {
+          "id": "10025",
+          "speaker": "pb"
+        },
+        {
+          "id": "10026",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "se",
+      "value": "avg/eating"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10027",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "chara",
+      "value": "lwy/surprise"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10028",
+          "speaker": "pb"
+        },
+        {
+          "id": "10029",
+          "speaker": "pb"
+        },
+        {
+          "id": "10030",
+          "speaker": "w"
+        },
+        {
+          "id": "10031",
+          "speaker": "lwy"
+        }
+      ]
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|lovely_angry"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10032",
+          "speaker": "pb"
+        },
+        {
+          "id": "10033",
+          "speaker": "w"
+        },
+        {
+          "id": "10034",
+          "speaker": "pb"
+        },
+        {
+          "id": "10035",
+          "speaker": "pb"
+        },
+        {
+          "id": "10036",
+          "speaker": "w"
+        },
+        {
+          "id": "10037",
+          "speaker": "pb"
+        },
+        {
+          "id": "10038",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10039",
+          "speaker": "w"
+        },
+        {
+          "id": "10040",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10041",
+          "speaker": "pb"
+        },
+        {
+          "id": "10042",
+          "speaker": "pb"
+        },
+        {
+          "id": "10043",
+          "speaker": "pb"
+        },
+        {
+          "id": "10044",
+          "speaker": "w"
+        },
+        {
+          "id": "10045",
+          "speaker": "pb"
+        },
+        {
+          "id": "10046",
+          "speaker": "pb"
+        },
+        {
+          "id": "10047",
+          "speaker": "pb"
+        },
+        {
+          "id": "10048",
+          "speaker": "w"
+        },
+        {
+          "id": "10049",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10050",
+          "speaker": "w"
+        },
+        {
+          "id": "10051",
+          "speaker": "lwy"
+        },
+        {
+          "id": "10052",
+          "speaker": "w"
+        },
+        {
+          "id": "10053",
+          "speaker": "w"
+        },
+        {
+          "id": "10054",
+          "speaker": "pb"
+        },
+        {
+          "id": "10055",
+          "speaker": "pb"
+        },
+        {
+          "id": "10056",
+          "speaker": "pb"
+        },
+        {
+          "id": "10057",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "scene",
+      "value": "black"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10058",
+          "speaker": "pb"
+        },
+        {
+          "id": "10059",
+          "speaker": "pb"
+        },
+        {
+          "id": "10060",
+          "speaker": "pb"
+        },
+        {
+          "id": "10061",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|default"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10062",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10063",
+          "speaker": "pb"
+        },
+        {
+          "id": "10064",
+          "speaker": "pb"
+        },
+        {
+          "id": "10065",
+          "speaker": "pb"
+        }
+      ]
+    },
+    {
+      "type": "hide_dialog",
+      "value": ""
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10066",
+          "speaker": "w"
+        }
+      ]
+    },
+    {
+      "type": "emotion",
+      "value": "lwy|default"
+    },
+    {
+      "type": "text",
+      "says": [
+        {
+          "id": "10067",
+          "speaker": "pb"
+        },
+        {
+          "id": "10068",
+          "speaker": "pb"
+        },
+        {
+          "id": "10069",
+          "speaker": "pb"
+        },
+        {
+          "id": "10070",
+          "speaker": "pb"
+        },
+        {
+          "id": "10071",
+          "speaker": "pb"
+        }
+      ]
+    }
+  ],
+  "dialogues": {
+    "zh_Hans": {
+      "say10034": "露薇娅拿的是一包（已经完全凝成土豆泥了的）薯片，这已经算是遭到时间摧残的食物里受害程度最轻的了。",
+      "say10042": "淹过我脚踝的水潭。而且……若是有光照的话，估计还算得上清澈。被清澈的水淹没是最绝望的处境，因为这些水已经不会自己流走了。",
+      "say10013": "我们是幸运的，但这也不代表我们不需要穿着被彻底浸湿的衣服艰难前行。",
+      "say10019": "我望向屋内几乎全空的食物货架，前去扫荡一番，但果不其然已经过期太久了吗……",
+      "say10055": "灵光乍现一般。",
+      "say10044": "其实还是别碰这些蘑菇比较好。我不敢保证它没毒。",
+      "say10066": "抓紧我，无论脚下踩空了，还是感觉自己要摔倒了，都千万别松手。",
+      "say10003": "而对露薇娅而言……",
+      "say10067": "她没有回应，但抓住我的那只手握得更紧了。",
+      "say10004": "还在发呆吗？",
+      "say10071": "我希望它会是正确的。",
+      "say10046": "我们短暂地不再交流。事实上，直到夜幕降临，我们真正进行过的谈话往往比这次还要简短。",
+      "say10026": "雨并非仅是影响我们。并非仅是人类。",
+      "say10041": "苏珊梦境中的景象再度映于我眼前。我一晃脑袋，只见残破的废墟。以及，天花板破了个洞，正有汇聚的雨水似微型瀑布般跌落至水潭。",
+      "say10001": "天际跌落的雨水冰凉透彻，但寒冷的温度能有效地使我们保持清醒。",
+      "say10010": "鸟？这种时候，这种地方，怎么会有鸟？",
+      "say10025": "事实也是如此：我不清楚外界如何，但这座城市内几乎所有能够为植物授粉的动物都死绝了。",
+      "say10048": "短时间可能不会变小了。",
+      "say10021": "我向仅剩下铁格与几片碎玻璃的窗外望去。",
+      "say10053": "这里是我们从未涉足过的区域，一定要当心。任何水坑都可能通往深不见底的下水道，甚至可能会有哪里的电线还保持通电……",
+      "say10043": "但总之……我又一次阻止了这次转而向那些小蘑菇伸手的露薇娅。",
+      "say10056": "一定不止那一栋楼里有幸存者。若是居民楼会有延续了百余年的残存文明，那百货大楼孕育出新生命的可能显然更高。",
+      "say10064": "却光滑柔软，和我与其他居民为了生存而变得粗糙的手完全不同。",
+      "say10065": "露薇娅在这之前没有做过苦力活。这意味着什么……？",
+      "say10054": "我这么细心交代她这些，是因为我脑中产生了一个想法。",
+      "say10068": "雨声盖住了所有雨声之外的动静。",
+      "say10039": "说不定可以拿这些纸包的零食种蘑菇。",
+      "say10069": "而在这方圆一公里内，雨声之外的全部动静，恐怕便只有我与她在楼房废墟间的翻越与穿行。",
+      "say10007": "她在看什么？",
+      "say10006": "她只是继续抬头，望着面前残破的钢铁森林——不，我总觉得她并没看着那些人类留下的现代遗迹。",
+      "say10029": "我扶着额头，赶紧走向她。",
+      "say10023": "爬山虎附着在我身边的墙面上。我试着揪下一片叶子，顺着叶藤视线上移，却见一巨大的树干自水泥建筑中探出半条身躯，其上枝繁叶茂。",
+      "say10036": "露薇娅，是蘑菇。",
+      "say10050": "第一次来外面吗？",
+      "say10058": "这不是为了投奔一个新的小型避难所。因为我们无法确认那些人是否会比大楼里的居民更加愚昧。",
+      "say10012": "这就是为什么他们需要防护服才能勉强行动。",
+      "say10030": "等等，我知道你饿了，但你先别饿。",
+      "say10016": "她慌张地跟在我后面，顺着一道大开的楼门小跑而入。",
+      "say10008": "在看什么？",
+      "say10063": "冰冷。",
+      "say10022": "灰蒙蒙的夜色打湿了这座无人的都市，放眼望去除了破败的残垣，仅剩下深绿色的植被。这是自然从人类手中夺回的生命力。",
+      "say10033": "这些食物都不知道是什么时候留下来的了。吃了可能会有问题。有些……嗯，有些已经明显出问题了。",
+      "say10040": "颜色……很像苏珊阿姨梦里的饼干。味道会像饼干一样吗？",
+      "say10061": "没有接触到任何物体。我因此转过头去。",
+      "say10062": "她那清澈剔透的蓝色眼眸朝我表达着不解。但过了数秒，她轻轻地握住了我的手。",
+      "say10017": "我们离开大楼的时间点挑得不算太好（其实历史也没留给我们选择的余地）。夜色虽然遮掩了我们逃跑的行迹，可本来就不会有任何人来追我们。",
+      "say10018": "我带露薇娅闯进的是一家已经无人管理的便利店。雨的沉睡虽然对我们无效，可谁都不愿意站在瓢泼大雨的正中央。",
+      "say10052": "对我而言也没多少区别。为了这种事情离开大楼，我是第一次。",
+      "say10024": "仅有绿叶。",
+      "say10047": "便利店虽然比街道里的东西要多很多，但能够辨别出真身的商品已经寥寥无几。我们很快就浏览完毕，现今只是杵在水上静静望着窗外的雨。",
+      "say10011": "——簌簌作响的雨点逐渐密集起来。雨势变大了。甚至还没有到雨季，但此等雨势足以击溃一切雨伞或雨衣的防御。",
+      "say10005": "……",
+      "say10009": "那些……像是白色的鸟。",
+      "say10015": "啊……",
+      "say10002": "自打踏入外界后，我时常感到恍惚——面前的景象我并非初次瞧见，但距离上次离开大楼到底已经有多久了？我并不清楚日数。",
+      "say10045": "我得将话说清楚，毕竟露薇娅可能会把我的玩笑当真。",
+      "say10035": "那些塑料包装的食物过期还算是小问题。纸类包装的小零食多数已经腐败，甚至有新的“食物”从它们上面长了出来……",
+      "say10038": "真的哎，是蘑菇。",
+      "say10051": "……嗯。我有点紧张……",
+      "say10037": "露薇娅凑近凝视着那些黄白色的，像是伪装在纸包装之上的小巧菇盖。",
+      "say10057": "露薇娅，我们走这后面。我知道我们该去哪了。",
+      "say10014": "不好，先跟我进来。",
+      "say10060": "来到便利店的储藏室门前时，我向身后的露薇娅伸出手。",
+      "say10027": "就在这时，耳畔传来了显然是较为干燥的窸窸窣窣声，明显有别于外面的雨。",
+      "say10049": "……",
+      "say10031": "唔喔？",
+      "say10032": "她不情不愿地将包装袋放回了货架上。总之，听了我的劝。",
+      "say10020": "太久了。这里的人们，曾经都以什么样的方式生活着？",
+      "say10028": "我困惑地顺着声音的来源看去，只见露薇娅拆了一包零食，正从塑料包装内取出一坨一坨的物体往嘴里送。",
+      "say10059": "再怎么说，从雨中到来，连一件雨衣都没披的我们，到底是不是闭眼的恶魔……？甚至连我自己都无法准确回答这个问题。",
+      "say10070": "我们做出了我们唯一的选择。"
+    },
+    "zh_Hant": {
+      "say10034": "露薇婭拿的是一包（已經完全凝成土豆泥了的）薯片，這已經算是遭到時間摧殘的食物裡受害程度最輕的了。",
+      "say10042": "淹過我腳踝的水潭。而且……若是有光照的話，估計還算得上清澈。被清澈的水淹沒是最絕望的處境，因為這些水已經不會自己流走了。",
+      "say10013": "我們是幸運的，但這也不代表我們不需要穿著被徹底浸溼的衣服艱難前行。",
+      "say10019": "我望向屋內幾乎全空的食物貨架，前去掃蕩一番，但果不其然已經過期太久了嗎……",
+      "say10055": "靈光乍現一般。",
+      "say10044": "其實還是別碰這些蘑菇比較好。我不敢保證它沒毒。",
+      "say10066": "抓緊我，無論腳下踩空了，還是感覺自己要摔倒了，都千萬別鬆手。",
+      "say10003": "而對露薇婭而言……",
+      "say10067": "她沒有回應，但抓住我的那隻手握得更緊了。",
+      "say10004": "還在發呆嗎？",
+      "say10071": "我希望它會是正確的。",
+      "say10046": "我們短暫地不再交流。事實上，直到夜幕降臨，我們真正進行過的談話往往比這次還要簡短。",
+      "say10026": "雨並非僅是影響我們。並非僅是人類。",
+      "say10041": "蘇珊夢境中的景象再度映於我眼前。我一晃腦袋，只見殘破的廢墟。以及，天花板破了個洞，正有匯聚的雨水似微型瀑布般跌落至水潭。",
+      "say10001": "天際跌落的雨水冰涼透徹，但寒冷的溫度能有效地使我們保持清醒。",
+      "say10010": "鳥？這種時候，這種地方，怎麼會有鳥？",
+      "say10025": "事實也是如此：我不清楚外界如何，但這座城市內幾乎所有能夠為植物授粉的動物都死絕了。",
+      "say10048": "短時間可能不會變小了。",
+      "say10021": "我向僅剩下鐵格與幾片碎玻璃的窗外望去。",
+      "say10053": "這裡是我們從未涉足過的區域，一定要當心。任何水坑都可能通往深不見底的下水道，甚至可能會有哪裡的電線還保持通電……",
+      "say10043": "但總之……我又一次阻止了這次轉而向那些小蘑菇伸手的露薇婭。",
+      "say10056": "一定不止那一棟樓裡有幸存者。若是居民樓會有延續了百餘年的殘存文明，那百貨大樓孕育出新生命的可能顯然更高。",
+      "say10064": "卻光滑柔軟，和我與其他居民為了生存而變得粗糙的手完全不同。",
+      "say10065": "露薇婭在這之前沒有做過苦力活。這意味著什麼……？",
+      "say10054": "我這麼細心交代她這些，是因為我腦中產生了一個想法。",
+      "say10068": "雨聲蓋住了所有雨聲之外的動靜。",
+      "say10039": "說不定可以拿這些紙包的零食種蘑菇。",
+      "say10069": "而在這方圓一公里內，雨聲之外的全部動靜，恐怕便只有我與她在樓房廢墟間的翻越與穿行。",
+      "say10007": "她在看什麼？",
+      "say10006": "她只是繼續抬頭，望著面前殘破的鋼鐵森林——不，我總覺得她並沒看著那些人類留下的現代遺蹟。",
+      "say10029": "我扶著額頭，趕緊走向她。",
+      "say10023": "爬山虎附著在我身邊的牆面上。我試著揪下一片葉子，順著葉藤視線上移，卻見一巨大的樹幹自水泥建築中探出半條身軀，其上枝繁葉茂。",
+      "say10036": "露薇婭，是蘑菇。",
+      "say10050": "第一次來外面嗎？",
+      "say10058": "這不是為了投奔一個新的小型避難所。因為我們無法確認那些人是否會比大樓裡的居民更加愚昧。",
+      "say10012": "這就是為什麼他們需要防護服才能勉強行動。",
+      "say10030": "等等，我知道你餓了，但你先別餓。",
+      "say10016": "她慌張地跟在我後面，順著一道大開的樓門小跑而入。",
+      "say10008": "在看什麼？",
+      "say10063": "冰冷。",
+      "say10022": "灰濛濛的夜色打溼了這座無人的都市，放眼望去除了破敗的殘垣，僅剩下深綠色的植被。這是自然從人類手中奪回的生命力。",
+      "say10033": "這些食物都不知道是什麼時候留下來的了。吃了可能會有問題。有些……嗯，有些已經明顯出問題了。",
+      "say10040": "顏色……很像蘇珊阿姨夢裡的餅乾。味道會像餅乾一樣嗎？",
+      "say10061": "沒有接觸到任何物體。我因此轉過頭去。",
+      "say10062": "她那清澈剔透的藍色眼眸朝我表達著不解。但過了數秒，她輕輕地握住了我的手。",
+      "say10017": "我們離開大樓的時間點挑得不算太好（其實歷史也沒留給我們選擇的餘地）。夜色雖然遮掩了我們逃跑的行跡，可本來就不會有任何人來追我們。",
+      "say10018": "我帶露薇婭闖進的是一家已經無人管理的便利店。雨的沉睡雖然對我們無效，可誰都不願意站在瓢潑大雨的正中央。",
+      "say10052": "對我而言也沒多少區別。為了這種事情離開大樓，我是第一次。",
+      "say10024": "僅有綠葉。",
+      "say10047": "便利店雖然比街道里的東西要多很多，但能夠辨別出真身的商品已經寥寥無幾。我們很快就瀏覽完畢，現今只是杵在水上靜靜望著窗外的雨。",
+      "say10011": "——簌簌作響的雨點逐漸密集起來。雨勢變大了。甚至還沒有到雨季，但此等雨勢足以擊潰一切雨傘或雨衣的防禦。",
+      "say10005": "……",
+      "say10009": "那些……像是白色的鳥。",
+      "say10015": "啊……",
+      "say10002": "自打踏入外界後，我時常感到恍惚——面前的景象我並非初次瞧見，但距離上次離開大樓到底已經有多久了？我並不清楚日數。",
+      "say10045": "我得將話說清楚，畢竟露薇婭可能會把我的玩笑當真。",
+      "say10035": "那些塑料包裝的食物過期還算是小問題。紙類包裝的小零食多數已經腐敗，甚至有新的“食物”從它們上面長了出來……",
+      "say10038": "真的哎，是蘑菇。",
+      "say10051": "……嗯，我有點緊張……",
+      "say10037": "露薇婭湊近凝視著那些黃白色的，像是偽裝在紙包裝之上的小巧菇蓋。",
+      "say10057": "露薇婭，我們走這後面。我知道我們該去哪了。",
+      "say10014": "不好，先跟我進來。",
+      "say10060": "來到便利店的儲藏室門前時，我向身後的露薇婭伸出手。",
+      "say10027": "就在這時，耳畔傳來了顯然是較為乾燥的窸窸窣窣聲，明顯有別於外面的雨。",
+      "say10049": "……",
+      "say10031": "唔喔？",
+      "say10032": "她不情不願地將包裝袋放回了貨架上。總之，聽了我的勸。",
+      "say10020": "太久了。這裡的人們，曾經都以什麼樣的方式生活著？",
+      "say10028": "我困惑地順著聲音的來源看去，只見露薇婭拆了一包零食，正從塑料包裝內取出一坨一坨的物體往嘴裡送。",
+      "say10059": "再怎麼說，從雨中到來，連一件雨衣都沒披的我們，到底是不是閉眼的惡魔……？甚至連我自己都無法準確回答這個問題。",
+      "say10070": "我們做出了我們唯一的選擇。"
+    },
+    "yue_Hant": {
+      "say10034": "露薇婭攞住嘅係一包（已經完全凝成薯蓉嘅）薯片，呢已經算係被時間摧殘嘅食物入面受害程度最輕嘅一種。",
+      "say10042": "淹過我腳踝嘅水潭。而且……如果有光照嘅話，估計仲算得上清澈。被清澈嘅水淹沒係最絕望嘅處境，因為呢啲水已經唔會自己流走。",
+      "say10013": "我哋係幸運嘅，但呢都唔代表我哋唔需要着住被徹底浸濕嘅衫艱難咁前行。",
+      "say10019": "我望向屋內幾乎全空嘅食物貨架，走去掃蕩一番，但果不其然，已經過期太耐喇嗎……",
+      "say10055": "就好似靈光乍現一樣。",
+      "say10044": "其實都係唔好掂呢啲蘑菇比較好。我唔敢保證佢冇毒。",
+      "say10066": "捉實我，無論腳下踩空，定係覺得自己就快跌低，都千祈唔好鬆手。",
+      "say10003": "但對露薇婭來講……",
+      "say10067": "佢冇回應，但捉住我嗰隻手握得更緊咗。",
+      "say10004": "仲響度發緊呆？",
+      "say10071": "我希望佢會係正確嘅。",
+      "say10046": "我哋短暫咁唔再交流。事實上，直到夜幕降臨，我哋真正進行過嘅談話往往比呢次仲要簡短。",
+      "say10026": "雨並非只係影響我哋。並非只係影響人類。",
+      "say10041": "蘇珊夢境中嘅景象再度映喺我眼前。我晃一晃腦袋，只見殘破嘅廢墟。以及，天花板破咗個洞，正有匯聚嘅雨水似微型瀑布般跌落到水潭。",
+      "say10001": "雨水從天際落下，冰寒徹骨，但寒冷嘅温度能有效使我哋保持清醒。",
+      "say10010": "雀仔？依家呢種時候，呢種地方，點解會有雀仔？",
+      "say10025": "事實亦係如此：我唔清楚外界點樣，但呢座城市入面，幾乎所有能夠為植物授粉嘅動物都死絕咗。",
+      "say10048": "短時間內可能唔會變細喇。",
+      "say10021": "我望向窗外，只剩低鐵格同幾片碎玻璃。",
+      "say10053": "呢度係我哋從未踏足過嘅區域，一定要小心。任何水坑都可能通往深不見底嘅下水道，甚至可能會有邊度嘅電線仲保持通電……",
+      "say10043": "但總之……我又一次阻止咗呢次轉而向嗰啲小蘑菇伸手嘅露薇婭。",
+      "say10056": "一定唔止嗰棟樓入面有倖存者。如果居民樓可以有延續咗百餘年嘅殘存文明，咁百貨大樓孕育出新生命嘅可能性顯然更高。",
+      "say10064": "卻光滑柔軟，同我同其他居民為咗生存而變得粗糙嘅手完全唔同。",
+      "say10065": "露薇婭喺呢之前冇做過苦力活。呢意味住乜……？",
+      "say10054": "我咁細心交代佢呢啲，係因為我腦入面產生咗一個諗法。",
+      "say10068": "雨聲蓋過咗所有雨聲之外嘅動靜。",
+      "say10039": "話唔定可以攞呢啲紙包零食嚟種蘑菇。",
+      "say10069": "而喺呢方圓一公里之內，雨聲之外嘅全部動靜，恐怕就只有我同佢喺樓房廢墟之間翻越同穿行。",
+      "say10007": "咁佢望緊乜？",
+      "say10006": "佢只係繼續抬頭，望住眼前殘破嘅鋼鐵森林——唔，我總覺得佢望緊嘅並唔係嗰啲人類留下嘅現代遺跡。",
+      "say10029": "我扶住額頭，趕緊行向佢。",
+      "say10023": "爬山虎附着喺我身邊嘅牆面上。我試住揪下一片葉，順住葉藤將視線上移，卻見到一棵巨大嘅樹幹由水泥建築入面探出半截身軀，上面枝繁葉茂。",
+      "say10036": "露薇婭，係蘑菇。",
+      "say10050": "第一次嚟外面？",
+      "say10058": "呢唔係為咗投奔一個新嘅小型避難所。因為我哋無法確認嗰啲人係咪會比大樓入面嘅居民更加愚昧。",
+      "say10012": "嗰就係點解佢哋需要防護服先可以勉強行動。",
+      "say10030": "等陣，我知你肚餓，但你先忍著。",
+      "say10016": "佢慌張咁跟喺我身後，沿住一道敞開嘅樓門碎步跑入去。",
+      "say10008": "你望緊啲乜？",
+      "say10063": "冰冷。",
+      "say10022": "灰濛濛嘅夜色打濕咗呢座無人嘅都市，放眼望去除咗破敗嘅殘垣，就只剩低深綠色嘅植被。呢係自然從人類手中奪返嚟嘅生命力。",
+      "say10033": "呢啲食物都唔知係幾時留下嚟嘅。食咗可能會有問題。有啲……嗯，有啲已經明顯出咗問題。",
+      "say10040": "顏色……好似蘇珊阿姨夢入面嘅餅乾。味道會唔會好似餅乾？",
+      "say10061": "冇接觸到任何物體。我因此轉過頭去。",
+      "say10062": "佢嗰雙清澈剔透嘅藍色眼眸向我表達住不解。但過咗幾秒，佢輕輕握住咗我嘅手。",
+      "say10017": "我哋離開大樓嘅時間揀得唔係幾好（查實歷史都冇俾我哋選擇嘅餘地）。夜色雖然遮掩咗我哋逃跑嘅行蹤，但本來就冇人會嚟追我哋。",
+      "say10018": "我帶住露薇婭闖入嘅係一間已經無人管理嘅士多。雨嘅沉睡雖然對我哋無效，但冇人會鍾意企響瓢潑大雨嘅正中間。",
+      "say10052": "對我而言都冇幾大分別。為咗呢種事離開大樓，我係第一次。",
+      "say10024": "只有綠葉。",
+      "say10047": "便利店雖然比街道入面嘅東西多好多，但能夠辨認出真身嘅商品已經寥寥無幾。我哋好快就瀏覽完畢，而家只係企喺水入面靜靜望住窗外嘅雨。",
+      "say10011": "——簌簌作響嘅雨點逐漸密集起嚟。雨勢變大咗。甚至仲未到雨季，但雨勢足以突破一切遮同雨褸嘅防禦。",
+      "say10005": "……",
+      "say10009": "嗰啲……好似係白色嘅雀仔。",
+      "say10015": "啊……",
+      "say10002": "自從踏入外界，我經常感到恍惚——眼前嘅景象並唔係第一次見，但距離上次離開大樓係幾耐之前？我唔知。",
+      "say10045": "我得將話講清楚，畢竟露薇婭可能會將我嘅玩笑當真。",
+      "say10035": "嗰啲塑膠包裝嘅食物過期仲算係小問題。紙類包裝嘅小零食大多數已經腐敗，甚至有新嘅「食物」從佢哋上面生咗出嚟……",
+      "say10038": "真係喎，係蘑菇。",
+      "say10051": "……嗯。我有啲緊張……",
+      "say10037": "露薇婭湊近凝視住嗰啲黃白色、好似偽裝喺紙包裝上面嘅細小菇蓋。",
+      "say10057": "露薇婭，我哋行後面呢條路。我知我哋應該去邊喇。",
+      "say10014": "唔掂，跟我入嚟先。",
+      "say10060": "嚟到便利店嘅儲藏室門前時，我向身後嘅露薇婭伸出手。",
+      "say10027": "就在呢個時候，耳邊傳嚟明顯較為乾燥嘅窸窸窣窣聲，同外面嘅雨明顯唔同。",
+      "say10049": "……",
+      "say10031": "唔喔？",
+      "say10032": "佢不情願咁將包裝袋放返貨架上。總之，佢聽咗我嘅話。",
+      "say10020": "太耐喇。呢度嘅人，曾經係以點樣嘅方式生活？",
+      "say10028": "我困惑咁順住聲音來源望去，只見露薇婭拆開咗一包零食，正從塑膠包裝入面拎出一坨一坨嘅物體送入口。",
+      "say10059": "再點講，從雨中而來，連一件雨衣都冇披嘅我哋，到底係咪閉眼嘅惡魔……？甚至連我自己都無法準確回答呢個問題。",
+      "say10070": "我哋作出咗我哋唯一嘅選擇。"
+    },
+    "en": {
+      "say10034": "Luvia had picked a bag of chips that had completely turned into mashed potato. Even that was among the least damaged foods here.",
+      "say10042": "A puddle above my ankles. And... with light, it would probably even look clear. Being swallowed by clear water is the most hopeless situation, because this water will never drain away on its own.",
+      "say10013": "We are lucky, but that does not mean we can avoid trudging forward in completely soaked clothes.",
+      "say10019": "I looked at the nearly empty food shelves and scavenged around, but as expected, everything had expired far too long ago…",
+      "say10055": "Like a sudden flash of insight.",
+      "say10044": "Actually, it's still better not to touch these mushrooms. Can't guarantee they're not poisonous.",
+      "say10066": "Hold on tight to me. Even if you lose your footing or feel like you’re about to fall, don’t let go. No matter what.",
+      "say10003": "But for Luvia…",
+      "say10067": "She did not respond, but that hand holding mine tightened.",
+      "say10004": "Spacing out?",
+      "say10071": "I hope it was the correct one.",
+      "say10046": "We stopped talking for a while. In fact, until night falls, the conversations we truly have are usually even shorter than this.",
+      "say10026": "The rain was not affecting only us. Not only human beings.",
+      "say10041": "The scene from Susan's dream appeared before my eyes again. I shook my head and saw only broken ruins. And a hole in the ceiling, where gathered rainwater fell into a puddle like a tiny waterfall.",
+      "say10001": "The rain falling from the sky is cold and piercing, but the chill helps keep us awake.",
+      "say10010": "Birds? Now and here? How could it be?",
+      "say10025": "And that is the truth: I do not know about the outside world, but almost all animals that could pollinate plants are extinct in this city.",
+      "say10048": "It probably won't let up anytime soon.",
+      "say10021": "I looked out through the window frame, where only iron bars and a few shards of glass remained.",
+      "say10053": "This is an area we've never set foot in, so be careful. Any puddle could lead to a bottomless sewer, and maybe some wires are still live somewhere…",
+      "say10043": "But anyway... once again I stopped Luvia as she reached for those little mushrooms.",
+      "say10056": "There must be survivors in more than just that one building. If apartment blocks can preserve remnants of civilization for over a century, then a department store is even more likely to have nurtured new life.",
+      "say10064": "Yet smooth and soft, completely unlike the rough hands that I and other residents developed just to survive.",
+      "say10065": "Luvia had never done hard labor before this. What does that indicate...?",
+      "say10054": "I explained all this to her carefully because an idea came to my mind.",
+      "say10068": "The sound of the rain drowned out everything else.",
+      "say10039": "Maybe we could grow mushrooms by using these paper-wrapped snacks.",
+      "say10069": "And within a one-kilometer radius, the only sounds besides rain were probably just me and her climbing and moving through the ruins.",
+      "say10007": "What is she looking at?",
+      "say10006": "She simply continued to look up at the ruined concrete jungle before us—no... I can't help but feel she wasn't really looking at those modern relics left behind by humanity.",
+      "say10029": "I held my forehead and hurried over to her.",
+      "say10023": "Ivy clung to the wall beside me. I plucked a leaf and followed the vine upward with my eyes, only to see a huge trunk jutting halfway out of a concrete building, crowned with dense branches and leaves.",
+      "say10036": "Luvia, look, mushrooms.",
+      "say10050": "First time outside?",
+      "say10058": "This was not about seeking shelter in another small refuge. Because we couldn't be sure those people would be any less ignorant than the residents in our building.",
+      "say10012": "That's why they need protective suits just to barely move around.",
+      "say10030": "Wait, I know you’re hungry, but please stop being hungry for a second.",
+      "say10016": "She hurried after me and jogged through a wide-open building entrance.",
+      "say10008": "What are you looking at?",
+      "say10063": "Freezing cold.",
+      "say10022": "The dim, ashen night soaked this deserted city. Everywhere I looked, there was nothing but ruined remains and deep green plant life. This was nature reclaiming its vitality from humanity.",
+      "say10033": "There’s no telling how long this food has been sitting here. It could cause problems. Some of it... well, some of it has obviously gone bad.",
+      "say10040": "The color... looks a lot like the cookies in Aunt Susan's dream. Would they taste like cookies too?",
+      "say10061": "Didn't touch a thing. So I turned around.",
+      "say10062": "Her clear, crystal-blue eyes showed confusion. But a few seconds later, she quietly took my hand.",
+      "say10017": "The timing of our departure from the building wasn't ideal (though, in truth, history never left us much of a choice). The cover of night hid our escape, but no one was going to come after us anyway.",
+      "say10018": "I led Luvia into a convenience store where we could now shop freely-and-freely. The sleep brought on by the rain had no effect on us, but neither of us would want to stand in the middle of a downpour.",
+      "say10052": "It doesn't make much of a difference to me. This is the first time I've left the building for something like this.",
+      "say10024": "Merely leaves.",
+      "say10047": "The convenience store had far more things than the street outside, but only a few items could still be recognizable. We finished looking around quickly, and now we just stood in the water, quietly watching the rain outside.",
+      "say10011": "The pattering raindrops grow denser. The rain is getting heavier. It's not even rainy season yet, but this kind of downpour can overwhelm any umbrella or raincoat.",
+      "say10005": "…",
+      "say10009": "Those... Those look like white birds.",
+      "say10015": "Ah…",
+      "say10002": "Ever since stepping outside, I’ve often felt dazed. The scene before me is not unfamiliar, and yet... how long has it been since I last left the building? I do not know.",
+      "say10045": "I have to be clear, since Luvia might take my jokes seriously.",
+      "say10035": "Expired plastic-packaged food was only a minor issue. Most paper-packaged snacks had already rotted, and new \"growths\" had even started sprouting from them…",
+      "say10038": "Wow. They really are mushrooms.",
+      "say10051": "...Mm. I am a bit nervous…",
+      "say10037": "Luvia leaned in, staring at the tiny yellowish-white mushroom caps that seemed to be disguised as part of the paper packaging.",
+      "say10057": "Luvia, let's go through the back. I know where we should go now.",
+      "say10014": "Doesn't look right. Come in first.",
+      "say10060": "When we reached the convenience store stockroom door, I held my hand out to Luvia behind me.",
+      "say10027": "Just then, I heard a dry rustling sound by my ear, clearly different from the rain outside.",
+      "say10049": "…",
+      "say10031": "Huh?",
+      "say10032": "Reluctantly, she put the bag back on the shelf. Anyway, she listened to me.",
+      "say10020": "Far too long. How did humans here used to live?",
+      "say10028": "Feeling confused, I turned toward the source of the sound, only to see Luvia opening a bag of snacks and pulling out lump after lump from the plastic wrapper to stuff into her mouth.",
+      "say10059": "After all, we had come in from the rain without even a single raincoat between us. Could it be that we were demons who could not recognize our own kind...? Even I couldn’t answer that question for certain.",
+      "say10070": "We made our only choice."
+    },
+    "ja": {
+      "say10034": "Luviaが手に取ったのは（完全にマッシュポテト状になってしまった）ポテトチップスの袋で、時間に侵された食べ物の中ではまだ被害が軽い方だった。",
+      "say10042": "足首まで浸かる水たまり。そして……もし光が差し込めば、おそらく澄んで見えるだろう。澄んだ水に浸かるのは最も絶望的な状況だ。なぜならその水はもう自ら流れていかないからだ。",
+      "say10013": "私たちは運が良かったが、それでもびしょ濡れの服のまま苦労して進むしかなかった。",
+      "say10019": "私はほとんど空になった食料棚を見渡し、漁るために近づいたが、案の定どれも長い間期限を過ぎているようだった……",
+      "say10055": "ひらめきのように。",
+      "say10044": "実際、これらのキノコには触らない方がいい。毒がないとは保証できない。",
+      "say10066": "しっかり握って。足を踏み外しても、落ちそうになっても、絶対に手を離さないで。",
+      "say10003": "そしてLuviaにとっては……",
+      "say10067": "彼女は返事をしなかったが、握る手にさらに力を込めた。",
+      "say10004": "まだぼーっとしてるの？",
+      "say10071": "それが正しい選択であることを願っている...。",
+      "say10046": "私たちはしばらく言葉を交わさなかった。実際、夜が更けるまでに交わした会話は今回よりもさらに短いことが多かった。",
+      "say10026": "雨は私たちだけに影響を与えているわけではない。人間だけでもない。",
+      "say10041": "スーザンの夢の光景が再び私の目に浮かんだ。私は頭を振ると、壊れた廃墟が見えた。天井に穴が開き、集まった雨水が小さな滝のように水たまりへ落ちている。",
+      "say10001": "天から落ちる雨は冷たく澄んでいたが、その冷たさが私たちの意識を冴えさせた。",
+      "say10010": "鳥？こんな時に、こんな場所で、鳥がいるなんてどういうことだ？",
+      "say10025": "事実も同じだった: 外の世界がどうなっているかは分からないが、この都市の中では植物に受粉をもたらす動物のほとんどが絶滅していた。",
+      "say10048": "短時間では止みそうにない。",
+      "say10021": "私は鉄格子と数片の割れたガラスしか残っていない窓の外を見た。",
+      "say10053": "ここは私たちが足を踏み入れたことのない区域だから気をつけて。どんな水たまりも底なしの下水道につながっているかもしれないし、どこかで電線がまだ通電しているかもしれない……",
+      "say10043": "ともあれ……私は再びLuviaがその小さなキノコに手を伸ばすのを止めた。",
+      "say10056": "あの一棟だけに生存者がいるはずがない。もし住居棟に百年余り続く残存文明があるなら、百貨店の方が新たな命を育んでいる可能性は明らかに高い。",
+      "say10064": "だが滑らかで柔らかく、私や他の住人が生き延びるために荒れてしまった手とはまったく違っていた。",
+      "say10065": "Luviaはこれまで力仕事をしたことがなかった。これは何を意味するのだろう……？",
+      "say10054": "私がこんなに細かく注意を促したのは、ある考えが頭に浮かんだからだ。",
+      "say10068": "雨音が雨以外のすべての音をかき消している。",
+      "say10039": "もしかしたらこれらの紙包装の菓子でキノコを栽培できるかもしれない。",
+      "say10069": "この1キロ圏内では、雨音以外の動きはおそらく私たち二人が廃屋を越え、通り抜ける音だけだろう。",
+      "say10007": "彼女は何を見ているのだろう？",
+      "say10006": "彼女はただ頭を上げ続け、目の前の壊れた鋼の森を見つめている。いや、私はいつも彼女が人間の残した近代の遺構を見ているとは思えなかった。",
+      "say10029": "私は額に手を当て、急いで彼女の方へ歩み寄った。",
+      "say10023": "ツタが私の隣の壁面に張り付いている。私は葉を1枚引きちぎり、蔓に沿って視線を上げると、コンクリートの建物から半身を乗り出す巨大な幹が見え、その上には枝葉が茂っていた。",
+      "say10036": "Luvia、それはキノコだよ。",
+      "say10050": "外に出るのは初めて？",
+      "say10058": "これは新しい小さな避難所に合流するためではない。あの人たちが私たちの建物の住人より愚かでないとは限らないからだ。",
+      "say10012": "だから彼らは防護服を着てかろうじて行動しているのだ。",
+      "say10030": "待って、君がお腹を空かせているのは分かるけど、まだ食べないで。",
+      "say10016": "彼女は慌てて私の後に続き、大きく開いた建物の扉から小走りに入っていった。",
+      "say10008": "何を見ているの？",
+      "say10063": "冷たい。",
+      "say10022": "灰色の夜がこの無人の都市を濡らしていた。見渡す限り、崩れた残骸のほかには深い緑の植生だけが残っている。これは自然が人間から取り戻した生命力だ。",
+      "say10033": "これらの食べ物がいつ置かれたものかは分からない。食べれば問題が起きるかもしれない。いくつかは……うん、明らかに状態が悪くなっている。",
+      "say10040": "色が……スーザンおばさんの夢に出てきたクッキーにとても似ている。味もクッキーみたいかな？",
+      "say10061": "何も触れなかった。私は顔を向け直した。",
+      "say10062": "彼女の澄んだ透き通るような青い瞳が私を不思議そうに見つめている。数秒後、彼女はそっと私の手を握った。",
+      "say10017": "私たちが建物を出たタイミングはあまり良くなかった（実際、歴史は私たちに選択の余地を残していなかった）。\n夜の闇は逃走の足跡を隠してくれたが、そもそも誰かが私たちを追うことなどあり得なかった。",
+      "say10018": "私がLuviaを連れて入ったのは、既に管理者のいないコンビニエンスストアだった。雨のやみどころは私たちにとって無意味だが、誰も豪雨の真ん中に立ち続けたくはない。",
+      "say10052": "私にとっても大差はない。こういう理由で建物を出るのは私も初めてだ。",
+      "say10024": "ただ緑の葉だけ。",
+      "say10047": "コンビニは通りよりは物が残っていたが、元の姿を識別できる商品はごくわずかだった。私たちは手早く見て回り、今はただ水の上に立って静かに窓の外の雨を眺めているだけだった。",
+      "say10011": "ぽつぽつと降る雨音が次第に勢いを増した。雨脚が強くなっていく。まだ雨季でもないのに、その勢いは傘や合羽の防御を打ち砕くほどだ。",
+      "say10005": "……",
+      "say10009": "あれ……白い鳥のようなもの。",
+      "say10015": "あ……",
+      "say10002": "外へ踏み出して以来、私はしばしばぼんやりしてしまう。目の前の光景は見覚えがあるのに、最後に建物を出てからどれほどの時間が経ったのか、日数すら分からない。",
+      "say10045": "冗談を本気にされないよう、はっきりと言っておかねばならなかった。",
+      "say10035": "プラスチック包装の食べ物が期限切れなのは小さな問題だ。紙包装の小菓子は大半が腐敗しており、そこから新しい“食べ物”が生えてきているものさえあった……",
+      "say10038": "本当にキノコだ。",
+      "say10051": "「……うん。ちょっと緊張してる……」",
+      "say10037": "Luviaは紙包装の上に擬態するかのように付いた、小さな黄白色の傘をじっと覗き込んだ。",
+      "say10057": "Luvia、こっちの裏手を行こう。行くべき場所が分かっている。",
+      "say10014": "まずは中に入って。",
+      "say10060": "コンビニの倉庫の扉の前に着くと、私は後ろのLuviaに手を差し伸べた。",
+      "say10027": "その時、明らかに外の雨とは異なる、より乾いたかさかさした音が耳に入ってきた。",
+      "say10049": "……",
+      "say10031": "えっ？",
+      "say10032": "彼女は渋々包装袋を棚に戻した。とにかく、私の言うことを聞いてくれた。",
+      "say10020": "あまりにも長い。ここにいた人々は、かつてどのように暮らしていたのだろう？",
+      "say10028": "私は不思議に思って音の方へ目を向けると、Luviaが一袋のスナックを破り、プラスチックの包装から塊を取り出して口に運んでいるのが見えた。",
+      "say10059": "何しろ雨の中を来て、雨具すら着ていない私たちは、本当に目を閉じた悪魔なのだろうか……？私自身でも正確には答えられない。",
+      "say10070": "私たちは唯一の選択をした。"
+    },
+    "es": {
+      "say10034": "Luvia had picked a bag of chips that had completely turned into mashed potato. Even that was among the least damaged foods here.",
+      "say10042": "A puddle above my ankles. And... with light, it would probably even look clear. Being swallowed by clear water is the most hopeless situation, because this water will never drain away on its own.",
+      "say10013": "We are lucky, but that does not mean we can avoid trudging forward in completely soaked clothes.",
+      "say10019": "I looked at the nearly empty food shelves and scavenged around, but as expected, everything had expired far too long ago…",
+      "say10055": "Like a sudden flash of insight.",
+      "say10044": "Actually, it's still better not to touch these mushrooms. Can't guarantee they're not poisonous.",
+      "say10066": "Hold on tight to me. Even if you lose your footing or feel like you’re about to fall, don’t let go. No matter what.",
+      "say10003": "But for Luvia…",
+      "say10067": "She did not respond, but that hand holding mine tightened.",
+      "say10004": "Spacing out?",
+      "say10071": "I hope it was the correct one.",
+      "say10046": "We stopped talking for a while. In fact, until night falls, the conversations we truly have are usually even shorter than this.",
+      "say10026": "The rain was not affecting only us. Not only human beings.",
+      "say10041": "The scene from Susan's dream appeared before my eyes again. I shook my head and saw only broken ruins. And a hole in the ceiling, where gathered rainwater fell into a puddle like a tiny waterfall.",
+      "say10001": "The rain falling from the sky is cold and piercing, but the chill helps keep us awake.",
+      "say10010": "Birds? Now and here? How could it be?",
+      "say10025": "And that is the truth: I do not know about the outside world, but almost all animals that could pollinate plants are extinct in this city.",
+      "say10048": "It probably won't let up anytime soon.",
+      "say10021": "I looked out through the window frame, where only iron bars and a few shards of glass remained.",
+      "say10053": "This is an area we've never set foot in, so be careful. Any puddle could lead to a bottomless sewer, and maybe some wires are still live somewhere…",
+      "say10043": "But anyway... once again I stopped Luvia as she reached for those little mushrooms.",
+      "say10056": "There must be survivors in more than just that one building. If apartment blocks can preserve remnants of civilization for over a century, then a department store is even more likely to have nurtured new life.",
+      "say10064": "Yet smooth and soft, completely unlike the rough hands that I and other residents developed just to survive.",
+      "say10065": "Luvia had never done hard labor before this. What does that indicate...?",
+      "say10054": "I explained all this to her carefully because an idea came to my mind.",
+      "say10068": "The sound of the rain drowned out everything else.",
+      "say10039": "Maybe we could grow mushrooms by using these paper-wrapped snacks.",
+      "say10069": "And within a one-kilometer radius, the only sounds besides rain were probably just me and her climbing and moving through the ruins.",
+      "say10007": "What is she looking at?",
+      "say10006": "She simply continued to look up at the ruined concrete jungle before us—no... I can't help but feel she wasn't really looking at those modern relics left behind by humanity.",
+      "say10029": "I held my forehead and hurried over to her.",
+      "say10023": "Ivy clung to the wall beside me. I plucked a leaf and followed the vine upward with my eyes, only to see a huge trunk jutting halfway out of a concrete building, crowned with dense branches and leaves.",
+      "say10036": "Luvia, look, mushrooms.",
+      "say10050": "First time outside?",
+      "say10058": "This was not about seeking shelter in another small refuge. Because we couldn't be sure those people would be any less ignorant than the residents in our building.",
+      "say10012": "That's why they need protective suits just to barely move around.",
+      "say10030": "Wait, I know you’re hungry, but please stop being hungry for a second.",
+      "say10016": "She hurried after me and jogged through a wide-open building entrance.",
+      "say10008": "What are you looking at?",
+      "say10063": "Freezing cold.",
+      "say10022": "The dim, ashen night soaked this deserted city. Everywhere I looked, there was nothing but ruined remains and deep green plant life. This was nature reclaiming its vitality from humanity.",
+      "say10033": "There’s no telling how long this food has been sitting here. It could cause problems. Some of it... well, some of it has obviously gone bad.",
+      "say10040": "The color... looks a lot like the cookies in Aunt Susan's dream. Would they taste like cookies too?",
+      "say10061": "Didn't touch a thing. So I turned around.",
+      "say10062": "Her clear, crystal-blue eyes showed confusion. But a few seconds later, she quietly took my hand.",
+      "say10017": "The timing of our departure from the building wasn't ideal (though, in truth, history never left us much of a choice). The cover of night hid our escape, but no one was going to come after us anyway.",
+      "say10018": "I led Luvia into a convenience store where we could now shop freely-and-freely. The sleep brought on by the rain had no effect on us, but neither of us would want to stand in the middle of a downpour.",
+      "say10052": "It doesn't make much of a difference to me. This is the first time I've left the building for something like this.",
+      "say10024": "Merely leaves.",
+      "say10047": "The convenience store had far more things than the street outside, but only a few items could still be recognizable. We finished looking around quickly, and now we just stood in the water, quietly watching the rain outside.",
+      "say10011": "The pattering raindrops grow denser. The rain is getting heavier. It's not even rainy season yet, but this kind of downpour can overwhelm any umbrella or raincoat.",
+      "say10005": "…",
+      "say10009": "Those... Those look like white birds.",
+      "say10015": "Ah…",
+      "say10002": "Ever since stepping outside, I’ve often felt dazed. The scene before me is not unfamiliar, and yet... how long has it been since I last left the building? I do not know.",
+      "say10045": "I have to be clear, since Luvia might take my jokes seriously.",
+      "say10035": "Expired plastic-packaged food was only a minor issue. Most paper-packaged snacks had already rotted, and new \"growths\" had even started sprouting from them…",
+      "say10038": "Wow. They really are mushrooms.",
+      "say10051": "...Mm. I am a bit nervous…",
+      "say10037": "Luvia leaned in, staring at the tiny yellowish-white mushroom caps that seemed to be disguised as part of the paper packaging.",
+      "say10057": "Luvia, let's go through the back. I know where we should go now.",
+      "say10014": "Doesn't look right. Come in first.",
+      "say10060": "When we reached the convenience store stockroom door, I held my hand out to Luvia behind me.",
+      "say10027": "Just then, I heard a dry rustling sound by my ear, clearly different from the rain outside.",
+      "say10049": "…",
+      "say10031": "Huh?",
+      "say10032": "Reluctantly, she put the bag back on the shelf. Anyway, she listened to me.",
+      "say10020": "Far too long. How did humans here used to live?",
+      "say10028": "Feeling confused, I turned toward the source of the sound, only to see Luvia opening a bag of snacks and pulling out lump after lump from the plastic wrapper to stuff into her mouth.",
+      "say10059": "After all, we had come in from the rain without even a single raincoat between us. Could it be that we were demons who could not recognize our own kind...? Even I couldn’t answer that question for certain.",
+      "say10070": "We made our only choice."
+    },
+    "fr": {
+      "say10034": "Luvia had picked a bag of chips that had completely turned into mashed potato. Even that was among the least damaged foods here.",
+      "say10042": "A puddle above my ankles. And... with light, it would probably even look clear. Being swallowed by clear water is the most hopeless situation, because this water will never drain away on its own.",
+      "say10013": "We are lucky, but that does not mean we can avoid trudging forward in completely soaked clothes.",
+      "say10019": "I looked at the nearly empty food shelves and scavenged around, but as expected, everything had expired far too long ago…",
+      "say10055": "Like a sudden flash of insight.",
+      "say10044": "Actually, it's still better not to touch these mushrooms. Can't guarantee they're not poisonous.",
+      "say10066": "Hold on tight to me. Even if you lose your footing or feel like you’re about to fall, don’t let go. No matter what.",
+      "say10003": "But for Luvia…",
+      "say10067": "She did not respond, but that hand holding mine tightened.",
+      "say10004": "Spacing out?",
+      "say10071": "I hope it was the correct one.",
+      "say10046": "We stopped talking for a while. In fact, until night falls, the conversations we truly have are usually even shorter than this.",
+      "say10026": "The rain was not affecting only us. Not only human beings.",
+      "say10041": "The scene from Susan's dream appeared before my eyes again. I shook my head and saw only broken ruins. And a hole in the ceiling, where gathered rainwater fell into a puddle like a tiny waterfall.",
+      "say10001": "The rain falling from the sky is cold and piercing, but the chill helps keep us awake.",
+      "say10010": "Birds? Now and here? How could it be?",
+      "say10025": "And that is the truth: I do not know about the outside world, but almost all animals that could pollinate plants are extinct in this city.",
+      "say10048": "It probably won't let up anytime soon.",
+      "say10021": "I looked out through the window frame, where only iron bars and a few shards of glass remained.",
+      "say10053": "This is an area we've never set foot in, so be careful. Any puddle could lead to a bottomless sewer, and maybe some wires are still live somewhere…",
+      "say10043": "But anyway... once again I stopped Luvia as she reached for those little mushrooms.",
+      "say10056": "There must be survivors in more than just that one building. If apartment blocks can preserve remnants of civilization for over a century, then a department store is even more likely to have nurtured new life.",
+      "say10064": "Yet smooth and soft, completely unlike the rough hands that I and other residents developed just to survive.",
+      "say10065": "Luvia had never done hard labor before this. What does that indicate...?",
+      "say10054": "I explained all this to her carefully because an idea came to my mind.",
+      "say10068": "The sound of the rain drowned out everything else.",
+      "say10039": "Maybe we could grow mushrooms by using these paper-wrapped snacks.",
+      "say10069": "And within a one-kilometer radius, the only sounds besides rain were probably just me and her climbing and moving through the ruins.",
+      "say10007": "What is she looking at?",
+      "say10006": "She simply continued to look up at the ruined concrete jungle before us—no... I can't help but feel she wasn't really looking at those modern relics left behind by humanity.",
+      "say10029": "I held my forehead and hurried over to her.",
+      "say10023": "Ivy clung to the wall beside me. I plucked a leaf and followed the vine upward with my eyes, only to see a huge trunk jutting halfway out of a concrete building, crowned with dense branches and leaves.",
+      "say10036": "Luvia, look, mushrooms.",
+      "say10050": "First time outside?",
+      "say10058": "This was not about seeking shelter in another small refuge. Because we couldn't be sure those people would be any less ignorant than the residents in our building.",
+      "say10012": "That's why they need protective suits just to barely move around.",
+      "say10030": "Wait, I know you’re hungry, but please stop being hungry for a second.",
+      "say10016": "She hurried after me and jogged through a wide-open building entrance.",
+      "say10008": "What are you looking at?",
+      "say10063": "Freezing cold.",
+      "say10022": "The dim, ashen night soaked this deserted city. Everywhere I looked, there was nothing but ruined remains and deep green plant life. This was nature reclaiming its vitality from humanity.",
+      "say10033": "There’s no telling how long this food has been sitting here. It could cause problems. Some of it... well, some of it has obviously gone bad.",
+      "say10040": "The color... looks a lot like the cookies in Aunt Susan's dream. Would they taste like cookies too?",
+      "say10061": "Didn't touch a thing. So I turned around.",
+      "say10062": "Her clear, crystal-blue eyes showed confusion. But a few seconds later, she quietly took my hand.",
+      "say10017": "The timing of our departure from the building wasn't ideal (though, in truth, history never left us much of a choice). The cover of night hid our escape, but no one was going to come after us anyway.",
+      "say10018": "I led Luvia into a convenience store where we could now shop freely-and-freely. The sleep brought on by the rain had no effect on us, but neither of us would want to stand in the middle of a downpour.",
+      "say10052": "It doesn't make much of a difference to me. This is the first time I've left the building for something like this.",
+      "say10024": "Merely leaves.",
+      "say10047": "The convenience store had far more things than the street outside, but only a few items could still be recognizable. We finished looking around quickly, and now we just stood in the water, quietly watching the rain outside.",
+      "say10011": "The pattering raindrops grow denser. The rain is getting heavier. It's not even rainy season yet, but this kind of downpour can overwhelm any umbrella or raincoat.",
+      "say10005": "…",
+      "say10009": "Those... Those look like white birds.",
+      "say10015": "Ah…",
+      "say10002": "Ever since stepping outside, I’ve often felt dazed. The scene before me is not unfamiliar, and yet... how long has it been since I last left the building? I do not know.",
+      "say10045": "I have to be clear, since Luvia might take my jokes seriously.",
+      "say10035": "Expired plastic-packaged food was only a minor issue. Most paper-packaged snacks had already rotted, and new \"growths\" had even started sprouting from them…",
+      "say10038": "Wow. They really are mushrooms.",
+      "say10051": "...Mm. I am a bit nervous…",
+      "say10037": "Luvia leaned in, staring at the tiny yellowish-white mushroom caps that seemed to be disguised as part of the paper packaging.",
+      "say10057": "Luvia, let's go through the back. I know where we should go now.",
+      "say10014": "Doesn't look right. Come in first.",
+      "say10060": "When we reached the convenience store stockroom door, I held my hand out to Luvia behind me.",
+      "say10027": "Just then, I heard a dry rustling sound by my ear, clearly different from the rain outside.",
+      "say10049": "…",
+      "say10031": "Huh?",
+      "say10032": "Reluctantly, she put the bag back on the shelf. Anyway, she listened to me.",
+      "say10020": "Far too long. How did humans here used to live?",
+      "say10028": "Feeling confused, I turned toward the source of the sound, only to see Luvia opening a bag of snacks and pulling out lump after lump from the plastic wrapper to stuff into her mouth.",
+      "say10059": "After all, we had come in from the rain without even a single raincoat between us. Could it be that we were demons who could not recognize our own kind...? Even I couldn’t answer that question for certain.",
+      "say10070": "We made our only choice."
+    },
+    "ko": {
+      "say10034": "루비아는 칩이 완전히 조각난 감자칩 한 봉지를 들고 있었는데, 여기 음식들 중에서 그나마 덜 상한 상태였다.",
+      "say10042": "발목까지 차오른 물이다. 아마... 빛을 비추면 물이 꽤 맑을 것 같다. 맑은 물에 잠기는 건 정말 절망적인 상황이다.  저절로 빠져나가지 않을 테니까.",
+      "say10013": "우리는 운이 좋았지만, 그렇다고 옷이 완전히 젖은 채로 고생하지 않아도 된다는 뜻은 아니다.",
+      "say10019": "텅 빈 식품 진열대를 둘러보고 주위를 샅샅이 뒤져봤는데, 역시 모든 식품의 유통기한이 한참 지나버렸다…",
+      "say10055": "마치 번뜩이는 영감처럼.",
+      "say10044": "일단 이 버섯들은 만지지 않는 게 좋을 것 같아. 독이 없다는 보장은 없으니까.",
+      "say10066": "날 꼭 붙잡아. 발이 아파도, 넘어질 것 같아도 놓지 마.",
+      "say10003": "루비아같은 경우라면…",
+      "say10067": "그녀는 대답하지 않았지만 손을 꽉 잡았다.",
+      "say10004": "아직도 멍하니 있는거야?",
+      "say10071": "그게 옳은 선택이었기를...",
+      "say10046": "우리는 한동안 말을 멈췄다. 사실, 원래 밤이 되기 전까지는 이것보다 더 짧게 대화를 나누었다.",
+      "say10026": "비는 우리에게만 영향을 미치는 것이 아니었다. 인간에게만 영향을 미치는 것도 아니었다.",
+      "say10041": "수잔의 꿈속 장면이 다시 눈앞에 떠올랐다. 고개를 저으니, 보이는 건 또 다시 폐허뿐이었다. 천장에는 구멍이 뚫려 있고, 그 구멍으로 빗물이 작은 폭포처럼 떨어져 아래에 웅덩이를 이루고 있었다.",
+      "say10001": "하늘에서 내리는 비는 얼음처럼 차가웠지만, 그 추위 덕분에 잠을 잘 수 있었다.",
+      "say10010": "새? 여기에 새가 있다고?",
+      "say10025": "진짜로, 바깥 세상에서 무슨 일이 일어나고 있는지는 모르겠지만, 이 도시에서 식물의 수분을 매개할 수 있는 동물들이 거의 다 사라졌다.",
+      "say10048": "아마 당분간은 나아지지 않을 것 같아.",
+      "say10021": "창틀에는 쇠창살과 깨진 유리 조각 몇 개만 있었다.",
+      "say10053": "여긴 우리가 한 번도 와 본 적이 없는 곳이라 조심해야 해. 작은 물웅덩이 밟다가 하수구로 빠질 수도 있고, 심지어 아직도 전기가 흐르는 곳이 있을 수도 있고…",
+      "say10043": "어쨌든... 루비아가 다시 버섯에 손대려는 걸 막았다.",
+      "say10056": "그 건물 하나에서만 생존자가 있지는 않을 것이다. 아파트 단지에서 문명이 100년 넘게 유지됐다면, 백화점은 새로운 생명이 탄생했을 가능성이 훨씬 더 높을 것이다.",
+      "say10064": "나와 다른 사람들이 생존하면서 생긴 거친 손과는 다르게 완전히 매끄럽고 부드럽다.",
+      "say10065": "루비아는 지금까지 힘든 일을 해본 적이 없었다. 이게 무슨 의미일까……?",
+      "say10054": "내가 이렇게 자세히 설명한 이유는 문득 좋은 생각이 떠올랐기 때문이다.",
+      "say10068": "빗소리가 다른 소리를 모두 덮어버렸다.",
+      "say10039": "어쩌면 종이로 포장된 과자를 써서서 버섯을 키울 수 있을 것 같아.",
+      "say10069": "그리고 반경 1km 내에서 빗소리 외에 유일한 소리는 아마 우리가 건물의 폐허 속을 기어오르고 걷는 소리 뿐일 것이다.",
+      "say10007": "뭘 보고 있는 걸까?",
+      "say10006": "그녀는 그저 눈앞의 황폐한 콘크리트 숲을 계속해서 올려다보고 있었다. 아니, 난 인간이 남긴 현대의 유물을 보고 있는 것이 아니라고 항상 느꼈다.",
+      "say10029": "나는 이마를 탁 치고 그녀에게 달려갔다.",
+      "say10023": "담쟁이덩굴이 내 옆에 있는 벽에 달라붙어 있었다. 잎사귀 하나를 뜯어 올려서 덩굴을 따라 위로 올라가 보니, 콘크리트 건물에서 반쯤 튀어나온 거대한 줄기 위에 무성한 가지와 잎들이 자라 있었다.",
+      "say10036": "루비아, 봐봐, 버섯이야.",
+      "say10050": "밖으로 나온 건 이번이 처음이야?",
+      "say10058": "이건 단순히 또 다른 작은 피난처를 찾는 문제가 아니다. 그곳에 사는 사람들이 여기 사람들보다 더 무지한지 확신할 수 없다.",
+      "say10012": "그래서 사람들은 보호복을 입어도 제대로 움직이지 못하는 것이다.",
+      "say10030": "야야야야, 배고픈 건 아는데, 잠깐 참아줘.",
+      "say10016": "그녀는 서둘러 나를 따라와 활짝 열린 건물 입구를 통해 들어갔다.",
+      "say10008": "뭐 보고 있어?",
+      "say10063": "차갑다.",
+      "say10022": "어두운 밤이 이 버려진 도시를 뒤덮었다. 눈이 닿는 곳마다 허물어진 폐허와 짙은 초록빛 식물들 뿐이었다. 자연이 인간으로부터 다시 생명을 되찾고 있는 모습이었다.",
+      "say10033": "이 음식이 얼마나 오래된건지 알 수 없잖아. 먹으면 몸에 문제 생길걸. 어떤건... 엄, 이미 상했네.",
+      "say10040": "색깔이... 수잔 이모의 꿈에 나왔던 쿠키랑 정말 비슷해 보여. 쿠키 맛이 날까?",
+      "say10061": "아직 아무것도 건드리지 않았다. 나는 고개를 돌렸다.",
+      "say10062": "그녀의 맑고 푸른 눈은 나를 바라보며 혼란스러운 표정을 지었지만, 금방 부드럽게 내 손을 잡았다.",
+      "say10017": "우리가 건물을 나서는 타이밍은 그리 좋지는 않았다. 이 상황 자체가 선택의 여지를 거의 주지 않았다. 어둠이 우리의 탈출을 가려주었지만, 어차피 아무도 우리를 쫓아오지 않을 것이다.",
+      "say10018": "루비아를 데리고 더 이상 운영하지 않는 편의점으로 들어갔다. 비가 우리에게는 아무 영향을 미치지는 않지만, 우리는 폭우 속에 서 있고 싶지는 않았다.",
+      "say10052": "나도 똑같아. 이런 일로 건물 나온 건 처음이거든.",
+      "say10024": "그저 잎이다.",
+      "say10047": "편의점은 밖에 있는 다른 가게들보다 상품이 훨씬 다양했지만, 그래도 알아볼 수 있는 제품은 거의 없었다. 우리는 재빨리 둘러보고 물가에 서서 조용히 창밖의 비를 바라보았다.",
+      "say10011": "빗방울 소리가 점점 더 거세졌다. 비가 점점 더 쏟아졌다. 아직 장마도 아닌데, 쏟아지는 비가 우산이나 우비를 망가뜨릴 정도였다.",
+      "say10005": "……",
+      "say10009": "저기... 흰 새가 보여.",
+      "say10015": "아…",
+      "say10002": "밖으로 나선 이후로 늘 방향 감각을 잃은 듯한 기분이 들었다. 눈앞의 풍경은 낯설지는 않지만, 마지막으로 건물을 나선 게 언제였더라? 정확히는 잘 모르겠다.",
+      "say10045": "루비아가 농담을 진지하게 받아들일 수도 있으니 말을 제대로 해줘야겠다.",
+      "say10035": "유통기한이 지난 플라스틱 포장 식품은 사소한 문제였다. 종이 포장에 담긴 간식은 대부분 이미 썩어 있고, 심지어는 새로운 \"식품\"이 자라나는 경우도 있다.",
+      "say10038": "오, 진짜 버섯이네.",
+      "say10051": "음... 조금 긴장되는데...…",
+      "say10037": "루비아는 몸을 더 가까이 기울여 종이 포장지에 위장한 것처럼 작고 노란빛이 도는 흰색 버섯 갓들을 쳐다봤다.",
+      "say10057": "루비아, 이쪽으로 가자. 어디로 갈지 정했어.",
+      "say10014": "뭔가 이상해. 빨리 와봐.",
+      "say10060": "편의점 창고에 도착하자, 나는 뒤에 있던 루비아에게 손을 뻗었다.",
+      "say10027": "바로 그때, 밖에서 비 소리와는 확연히 다른, 오히려 바스락거리는 소리가 들렸다.",
+      "say10049": "...…",
+      "say10031": "으음?",
+      "say10032": "그녀는 마지못해 봉지를 선반 위에 다시 올려놓았다. 어쨌든 내 말은 들어줬다.",
+      "say10020": "너무 오래됐다. 여기 사람들은 예전에 어떻게 살았을까?",
+      "say10028": "당황해서 소리가 나는 쪽을 보니 루비아가 과자 봉지를 뜯고 과자 덩어리를 꺼내 입에 넣고 있었다.",
+      "say10059": "어쨌든 우리는 우비도 없이 비를 맞았는데, 설마 우리는 눈이 먼 악마인 걸까...? 나조차도 이 질문에 정확히 답할 수 없다.",
+      "say10070": "우리는 유일한 선택을 했다."
+    },
+    "ru": {
+      "say10034": "Luvia had picked a bag of chips that had completely turned into mashed potato. Even that was among the least damaged foods here.",
+      "say10042": "A puddle above my ankles. And... with light, it would probably even look clear. Being swallowed by clear water is the most hopeless situation, because this water will never drain away on its own.",
+      "say10013": "We are lucky, but that does not mean we can avoid trudging forward in completely soaked clothes.",
+      "say10019": "I looked at the nearly empty food shelves and scavenged around, but as expected, everything had expired far too long ago…",
+      "say10055": "Like a sudden flash of insight.",
+      "say10044": "Actually, it's still better not to touch these mushrooms. Can't guarantee they're not poisonous.",
+      "say10066": "Hold on tight to me. Even if you lose your footing or feel like you’re about to fall, don’t let go. No matter what.",
+      "say10003": "Но если не считать Лювию…",
+      "say10067": "She did not respond, but that hand holding mine tightened.",
+      "say10004": "В облаках летаешь?",
+      "say10071": "I hope it was the correct one.",
+      "say10046": "We stopped talking for a while. In fact, until night falls, the conversations we truly have are usually even shorter than this.",
+      "say10026": "The rain was not affecting only us. Not only human beings.",
+      "say10041": "The scene from Susan's dream appeared before my eyes again. I shook my head and saw only broken ruins. And a hole in the ceiling, where gathered rainwater fell into a puddle like a tiny waterfall.",
+      "say10001": "Дождь, падающий с неба, холодный и пронизывающий, но именно этот холод не даёт нам уснуть.",
+      "say10010": "Птицы? Сейчас и здесь? Как такое возможно?",
+      "say10025": "And that is the truth: I do not know about the outside world, but almost all animals that could pollinate plants are extinct in this city.",
+      "say10048": "It probably won't let up anytime soon.",
+      "say10021": "I looked out through the window frame, where only iron bars and a few shards of glass remained.",
+      "say10053": "This is an area we've never set foot in, so be careful. Any puddle could lead to a bottomless sewer, and maybe some wires are still live somewhere…",
+      "say10043": "But anyway... once again I stopped Luvia as she reached for those little mushrooms.",
+      "say10056": "There must be survivors in more than just that one building. If apartment blocks can preserve remnants of civilization for over a century, then a department store is even more likely to have nurtured new life.",
+      "say10064": "Yet smooth and soft, completely unlike the rough hands that I and other residents developed just to survive.",
+      "say10065": "Luvia had never done hard labor before this. What does that indicate...?",
+      "say10054": "I explained all this to her carefully because an idea came to my mind.",
+      "say10068": "The sound of the rain drowned out everything else.",
+      "say10039": "Maybe we could grow mushrooms by using these paper-wrapped snacks.",
+      "say10069": "And within a one-kilometer radius, the only sounds besides rain were probably just me and her climbing and moving through the ruins.",
+      "say10007": "На что она смотрит?",
+      "say10006": "Она просто продолжает смотреть на разрушенные бетонные джунгли перед нами — нет... я не могу отделаться от ощущения, что она на самом деле не смотрит на эти современные реликвии, оставленные человечеством.",
+      "say10029": "I held my forehead and hurried over to her.",
+      "say10023": "Ivy clung to the wall beside me. I plucked a leaf and followed the vine upward with my eyes, only to see a huge trunk jutting halfway out of a concrete building, crowned with dense branches and leaves.",
+      "say10036": "Luvia, look, mushrooms.",
+      "say10050": "First time outside?",
+      "say10058": "This was not about seeking shelter in another small refuge. Because we couldn't be sure those people would be any less ignorant than the residents in our building.",
+      "say10012": "That's why they need protective suits just to barely move around.",
+      "say10030": "Wait, I know you’re hungry, but please stop being hungry for a second.",
+      "say10016": "She hurried after me and jogged through a wide-open building entrance.",
+      "say10008": "На что ты смотришь?",
+      "say10063": "Freezing cold.",
+      "say10022": "The dim, ashen night soaked this deserted city. Everywhere I looked, there was nothing but ruined remains and deep green plant life. This was nature reclaiming its vitality from humanity.",
+      "say10033": "There’s no telling how long this food has been sitting here. It could cause problems. Some of it... well, some of it has obviously gone bad.",
+      "say10040": "The color... looks a lot like the cookies in Aunt Susan's dream. Would they taste like cookies too?",
+      "say10061": "Didn't touch a thing. So I turned around.",
+      "say10062": "Her clear, crystal-blue eyes showed confusion. But a few seconds later, she quietly took my hand.",
+      "say10017": "The timing of our departure from the building wasn't ideal (though, in truth, history never left us much of a choice). The cover of night hid our escape, but no one was going to come after us anyway.",
+      "say10018": "I led Luvia into a convenience store where we could now shop freely-and-freely. The sleep brought on by the rain had no effect on us, but neither of us would want to stand in the middle of a downpour.",
+      "say10052": "It doesn't make much of a difference to me. This is the first time I've left the building for something like this.",
+      "say10024": "Merely leaves.",
+      "say10047": "The convenience store had far more things than the street outside, but only a few items could still be recognizable. We finished looking around quickly, and now we just stood in the water, quietly watching the rain outside.",
+      "say10011": "Капли дождя, падающие ручьем, становятся все плотнее. Дождь усиливается. Сезон дождей еще даже не начался, но такой ливень может смыть любой зонт или дождевик.",
+      "say10005": ". . .",
+      "say10009": "Эти... Эти похожи на белых птиц.",
+      "say10015": "Ah…",
+      "say10002": "С тех пор как я вышел на улицу, меня часто охватывает чувство растерянности. Вид передо мной не чужд, и всё же… как давно я в последний раз покидал это здание? Я не знаю.",
+      "say10045": "I have to be clear, since Luvia might take my jokes seriously.",
+      "say10035": "Expired plastic-packaged food was only a minor issue. Most paper-packaged snacks had already rotted, and new \"growths\" had even started sprouting from them…",
+      "say10038": "Wow. They really are mushrooms.",
+      "say10051": "...Mm. I am a bit nervous…",
+      "say10037": "Luvia leaned in, staring at the tiny yellowish-white mushroom caps that seemed to be disguised as part of the paper packaging.",
+      "say10057": "Luvia, let's go through the back. I know where we should go now.",
+      "say10014": "Doesn't look right. Come in first.",
+      "say10060": "When we reached the convenience store stockroom door, I held my hand out to Luvia behind me.",
+      "say10027": "Just then, I heard a dry rustling sound by my ear, clearly different from the rain outside.",
+      "say10049": "…",
+      "say10031": "Huh?",
+      "say10032": "Reluctantly, she put the bag back on the shelf. Anyway, she listened to me.",
+      "say10020": "Far too long. How did humans here used to live?",
+      "say10028": "Feeling confused, I turned toward the source of the sound, only to see Luvia opening a bag of snacks and pulling out lump after lump from the plastic wrapper to stuff into her mouth.",
+      "say10059": "After all, we had come in from the rain without even a single raincoat between us. Could it be that we were demons who could not recognize our own kind...? Even I couldn’t answer that question for certain.",
+      "say10070": "We made our only choice."
+    },
+    "vi": {
+      "say10034": "Luvia đã chọn một gói bim bim khoai tây đã bị biến thành khoai tây ghiền. Ngay cả như vậy đó là món ăn ít bị hư hại nhất ở đây.",
+      "say10042": "Vũng nước đã ngập qua mắt cá chân tôi. Và… nếu có ánh sáng, nó có lẽ còn trong vắt. Bị nước trong vắt nuốt chửng là cảnh ngộ tuyệt vọng nhất, bởi vì những dòng nước ấy sẽ không còn tự rút đi.",
+      "say10013": "Chúng tôi thì may mắn đấy, nhưng không thể không tránh khỏi việc lê bước về phía trước với bộ quần áo ướt sũng.",
+      "say10019": "Nhìn vào mấy kệ thực phẩm gần như trống rỗng rồi lục lọi xung quanh, đúng như tôi nghĩ, mọi thứ đã hết hạn từ lâu rồi…",
+      "say10055": "Giống như tia sáng lóe lên.",
+      "say10044": "Tốt hơn hết là không đụng vào chúng. Tớ không biết nó có độc hay không.",
+      "say10066": "Bám chặt vào tớ. Nếu cậu cảm thấy trượt chân hoặc sắp muốn ngã, đừng bào giờ buông tay dù xảy ra chuyện gì.",
+      "say10003": "Còn Luvia thì…",
+      "say10067": "Cậu ý không nói gì, nhưng bàn tay đã ôm chặt lấy tôi.",
+      "say10004": "Vẫn còn lơ mơ sao ?",
+      "say10071": "Tôi hi vọng đó là lựa chọn đúng.",
+      "say10046": "Chúng tôi im lặng một lúc. Thực tế, cho đến khi màn đêm buông xuống, chúng tôi càng lúc nói càng ít đi.",
+      "say10026": "Cơn mưa không chỉ ảnh hưởng đến chúng tôi hay con người.",
+      "say10041": "Cảnh tượng trong giấc mơ của Susan hiện lên trước mắt tôi. Tôi lắc đầu và chỉ thấy đống tàn tích. Một lỗ thủng trên trần nhà, nơi nước mưa đọng lại thành vũng như một thác nước nhỏ.",
+      "say10001": "Bên ngoài trời mưa rơi thật lạnh buốt, nhưng cơn lạnh ấy giúp chúng tôi tỉnh táo.",
+      "say10010": "Chim ? Ngay lúc này sao, ở một nơi như này sao, làm sao mà có thể có chim được ?",
+      "say10025": "Sự thật là: tôi không hề biết về thế giới bên ngoài, nhưng mà thành phố này, hầu hết các loài động vật có thể thụ phấn cho cây trồng đã tuyệt chủng.",
+      "say10048": "Tình hình có lẽ sẽ không khả quan hơn trong thời gian ngắn tới.",
+      "say10021": "Tôi nhìn ra bên ngoài khung cửa sổ, chỉ còn song sắt và vài mảnh kính vỡ.",
+      "say10053": "Đây là khu vực chúng mình chưa từng đặt chân đến, nên phải thật cẩn thận. Mỗi một vũng nước có thể là một hố sâu không đáy, và vẫn có thể còn dây điện đang hoạt động ở đâu đó…",
+      "say10043": "Dù sao thì... một lần nữa tôi ngăn Luvia đến mấy cây nấm nhỏ bé ấy.",
+      "say10056": "Nhất định không chỉ tòa nhà ấy mới có người sống sót. Nếu những khu nhà dân cư có thể giữ lại tàn tích văn minh hơn trăm năm, thì khả năng bách hóa ươm mầm sự sống mới hiển nhiên lớn hơn.",
+      "say10064": "Nhưng cũng thật mềm mại, không như những bàn tay thô ráp của tôi và những cư dân khác dùng để sinh tồn.",
+      "say10065": "Luvia chưa từng làm những công việc nặng nhọc này trước đây. Điều này nghĩa là sao đây... ?",
+      "say10054": "Tôi giải thích mọi thứ thật cẩn thận vì có một ý tưởng nảy ra trong đầu.",
+      "say10068": "Tiếng mưa át đi mọi âm thanh khác.",
+      "say10039": "Có lẽ chúng ta có thể dùng đống bao bì đó trồng nấm.",
+      "say10069": "Và trong phạm vi 1km, ngoài tiếng mưa ra thì chỉ có duy nhất tiếng tôi và cậu ấy leo trèo qua những tàn tích.",
+      "say10007": "Cậu ấy đang nhìn gì nhỉ ?",
+      "say10006": "Cậu ấy cứ ngước lên những tòa nhà đổ nát phù đầy rêu trước mặt. Không... sao cứ cảm giác cậu ý không nhìn đống đó đâu.",
+      "say10029": "Tôi ôm đầu vội vàng chạy về phía cậu ta.",
+      "say10023": "Dây thường xuân bám ở bức tường bên cạng. Tôi ngắt một chiếc lá rồi nhìn lên theo hướng dây leo, chỉ thấy một thây cây khổng lồ nhô ra gần hết tòa nhà bê tông, phủ đầy những cành lá rậm rạp.",
+      "say10036": "Luvia, đó là những cây nấm.",
+      "say10050": "Lần đầu cậu ra ngoài sao ?",
+      "say10058": "Không phải để tìm đến một chỗ trú ẩn nhỏ khác. Chúng ta không thể xác định liệu những người ở đó có ngu dốt hơn những cư dân trong tòa nhà hay không.",
+      "say10012": "Đó là lý do vì sao họ không thể di chuyển được dù đang có đồ bảo hộ.",
+      "say10030": "Khoan, Tớ biết cậu đói, nhưng kìm nén lại đi đã.",
+      "say10016": "Cậu ấy vội vã chạy theo tôi vào một tòa nhà rộng rãi.",
+      "say10008": "Cậu đang nhìn cái gì thế ?",
+      "say10063": "Thật lạnh lẽo.",
+      "say10022": "Mưa đêm xám xịt bao chùm thành phố hoang vắng này. Theo như tôi thấy, ngoài những tàn tích ra, thì chỉ còn lại thảm thực vật xanh thẫm. Thiên nhiên đang giành lại sự sống từ bàn tay con người.",
+      "say10033": "Bọn mình còn không biết đồ ăn để đấy bao lâu rồi. Ăn nó sẽ rất nguy hiểm. Một trong số đó... rõ ràng, đã hỏng rồi.",
+      "say10040": "Màu sắc... trông như rất nhiều chiếc bánh quy trong giấc mơ của Dì Susan. Không biết vị có giống như bánh quy không nhỉ ?",
+      "say10061": "Chả tìm thấy gì, nên tôi quay người lại.",
+      "say10062": "Đôi mắt xanh tinh khiết như pha lê của cậu ý ánh lên sự khó hiểu khi nhìn tôi. Chỉ sau vài giây, cậu ấy khẽ nắm lấy tay tôi.",
+      "say10017": "Thời điểm chúng tôi rời khỏi tòa nhà không hề tốt chút nào (Thực tế không cho chúng tôi bất kì lựa chọn nào). Màn đêm che giấu cho chúng tôi trốn thoát, mà cũng không ai đuổi theo đâu.",
+      "say10018": "Tôi đưa Luvia đến một cửa hàng tiện lợi, nơi bạn có thể mua sắm thoải mái. Mưa không thể ru ngủ chúng tôi, nhưng chẳng ai muốn đứng giữa cơn mưa như trút nước cả.",
+      "say10052": "Tớ cũng chẳng khác gì. Rời khỏi tòa nhà vì chuyện này cũng là lần đầu của tớ.",
+      "say10024": "Có mỗi lá.",
+      "say10047": "Cửa hàng tiện lợi có nhiều mặt hàng hơn hẳn số với ngoài phố, nhưng chỉ còn một vài món đồ quen thuộc. Chúng tôi nhanh chóng xem xong mọi thứ, và giờ chỉ đứng trong làn nước, lặng lẽ ngắm mưa rơi bên ngoài.",
+      "say10011": "Những hạt mưa rơi lưa thưa ngày càng nhiều hơn. Mưa càng lúc nặng hạt. Thậm chí còn chưa đến mùa mưa, nhưng kiểu mưa rào như này sẽ làm thấm đẫm bất kì chiếc ô hoặc áo mưa nào.",
+      "say10005": "…",
+      "say10009": "Chỗ đó... Trông chúng như những con chim trắng.",
+      "say10015": "A…",
+      "say10002": "Kể từ khi bước ra ngoài, tôi thường cảm thấy đau đầu. Cảnh tượng trước mắt không mấy xa lạ, nhưng đã bao lâu rồi kể từ khi rời khỏi tòa nhà ấy? Chẳng biết nữa.",
+      "say10045": "Tôi buộc phải nói rõ ràng, vì Luvia có thể nghĩ mấy lời nói đùa của tôi là nghiêm túc.",
+      "say10035": "Thực phẩm đóng gói hết hạn chỉ là chuyện nhỏ. Hầu hết bim bim ở đây đã bị hỏng, thậm chí là \"thức ăn\" mới đã mọc trên đó…",
+      "say10038": "Cậu nói đúng, đó là nấm.",
+      "say10051": "...Ưm. Tớ thấy hơi lo…",
+      "say10037": "Luvia nghiêng người lại gần, nhìn chằm chằm vào những chiếc nắp nhỏ màu vàng pha trắng nhạt, như thể được ngụy trang trên bề mặt bao bì giấy.",
+      "say10057": "Luvia, đi theo lối phía sau này. Tớ biết chúng ta nên đi đâu rồi.",
+      "say10014": "Không ổn rồi. Theo tớ vào trong trước đã.",
+      "say10060": "Khi chúng tôi bước đến phòng chứa đồ của cửa hàng tiện lợi, tôi buông tay Luvia ra.",
+      "say10027": "Ngay lúc ấy, tôi nghe thấy tiếng sột soạt bên tai, khác hẳn tiếng mưa bên ngoài.",
+      "say10049": "…",
+      "say10031": "Ỏa ?",
+      "say10032": "Cậu ấy miễn cưỡng đặt gói bim bim quay trở lại kệ. Cũng may cậu ấy đã nghe tôi.",
+      "say10020": "Rất lâu rồi... Con người trước đây họ sống như nào nhỉ ?",
+      "say10028": "Tôi hoang mang, lần theo tiếng âm thanh thấy Luvia đang mở một gói bim bim, lấy những miếng thức ăn đã vón cục bỏ thẳng vào miệng chính cậu ấy.",
+      "say10059": "Dù thế nào đi nữa, chúng ta từ cơn mưa bước tới, không hề khoác lấy một chiếc áo mưa. Rốt cuộc chúng ta có phải là những con quỷ nhắm mắt hay không……? Ngay cả bản thân tôi cũng không thể đưa ra câu trả lời chính xác.",
+      "say10070": "Chúng tôi đã đưa ra lựa chọn duy nhất."
+    }
+  },
+  "names": {
+    "zh_Hans": {
+      "lwy": "露薇娅",
+      "pb": "",
+      "w": "我"
+    },
+    "zh_Hant": {
+      "lwy": "露薇婭",
+      "pb": "",
+      "w": "我"
+    },
+    "yue_Hant": {
+      "lwy": "露薇婭",
+      "pb": "",
+      "w": "我"
+    },
+    "en": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Me"
+    },
+    "ja": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "私"
+    },
+    "es": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Yo"
+    },
+    "fr": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Moi"
+    },
+    "ko": {
+      "lwy": "루비아",
+      "pb": "",
+      "w": "나"
+    },
+    "ru": {
+      "lwy": "Лювия",
+      "pb": "",
+      "w": "Я"
+    },
+    "vi": {
+      "lwy": "Luvia",
+      "pb": "",
+      "w": "Tôi"
+    }
+  },
+  "commands": [
+    {
+      "cmd": "scene",
+      "arg": "black"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10001",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10002",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10003",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10004",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10005",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10006",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10007",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10008",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10009",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10010",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "bgs",
+      "arg": "rainstorm"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10011",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10012",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10013",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10014",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10015",
+      "emotion": ""
+    },
+    {
+      "cmd": "bgs",
+      "arg": "rain_inside"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10016",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10017",
+      "emotion": ""
+    },
+    {
+      "cmd": "scene",
+      "arg": "ground_grocery"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10018",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10019",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10020",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10021",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10022",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10023",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10024",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10025",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10026",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10027",
+      "emotion": ""
+    },
+    {
+      "cmd": "chara",
+      "arg": "lwy/surprise"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10028",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10029",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10030",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10031",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10032",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10033",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10034",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10035",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10036",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10037",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10038",
+      "emotion": "surprise"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10039",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10040",
+      "emotion": "smile"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10041",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10042",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10043",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10044",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10045",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10046",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10047",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10048",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10049",
+      "emotion": "default"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10050",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "lwy",
+      "id": "10051",
+      "emotion": "sad"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10052",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10053",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10054",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10055",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10056",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10057",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "scene",
+      "arg": "black"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10058",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10059",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10060",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10061",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10062",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10063",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10064",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10065",
+      "emotion": ""
+    },
+    {
+      "cmd": "hide_dialog"
+    },
+    {
+      "cmd": "say",
+      "speaker": "w",
+      "id": "10066",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10067",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10068",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10069",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10070",
+      "emotion": ""
+    },
+    {
+      "cmd": "say",
+      "speaker": "pb",
+      "id": "10071",
+      "emotion": ""
+    }
+  ]
+}

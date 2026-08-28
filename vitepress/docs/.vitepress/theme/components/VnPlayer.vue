@@ -31,7 +31,6 @@
                 :src="charImgSrc(ch)"
                 :alt="ch.name"
                 class="vn-char-img"
-                :style="charImgStyle(ch)"
                 @error="onCharError($event, ch)"
                 draggable="false"
               />
@@ -107,6 +106,16 @@
             </div>
           </transition>
 
+          <!-- 手机横屏提示 -->
+          <transition name="vn-fade">
+            <div v-if="showRotate" class="vn-rotate">
+              <div class="vn-rotate-phone">⟳</div>
+              <p class="vn-rotate-text">
+                {{ currentLang === 'zh_Hans' ? '请将手机横屏观看' : currentLang === 'ja' ? '横向きにしてご覧ください' : 'Rotate to landscape' }}
+              </p>
+            </div>
+          </transition>
+
           <!-- 音频（隐藏） -->
           <audio ref="bgmAudio" loop preload="auto" @error="onAudioError(bgmAudio)"></audio>
           <audio ref="bgsAudio" loop preload="auto" @error="onAudioError(bgsAudio)"></audio>
@@ -168,6 +177,7 @@ let chapterEndTimer = null
 
 let blocks = []
 let dialogues = {}
+let epNames = {}    // 每集 JSON 中的多语言角色名表 names[currentLang]
 let currentLang = ref('')
 let blockIdx = 0
 let sayIdx = 0
@@ -227,7 +237,11 @@ const SUB_NAME_TABLE = {
 const speakerName = computed(() => {
   if (!currentSay.value) return ''
   const sp = currentSay.value.speaker
-  if (!sp || sp === 'pb') return ''
+  if (!sp) return ''
+  // 优先使用该集 JSON 自带的多语言角色名
+  const ln = epNames[sp]
+  if (ln != null && ln !== '') return ln
+  if (sp === 'pb') return ''
   const [baseRaw, sub] = (sp || '').split(',')
   const base = (baseRaw || '').split('/')[0].trim()
   if (!base) return ''
@@ -252,29 +266,11 @@ const currentText = computed(() => {
   return t
 })
 
-// 立绘：优先使用烘焙后的透明 .webp；缺失时回退 .avif + alpha mask
+// 立绘：一律使用烘焙后的透明 .webp（缺失时先回退 default，再隐藏）
 const SLOTS = { 1: [50], 2: [32, 68], 3: [22, 50, 78], 4: [15, 38, 62, 85] }
 function charImgSrc(ch) {
   const folder = ch.folder || folderFor(ch.name)
-  const ext = ch.avif ? 'avif' : 'webp'
-  return `${BASE}vn-assets/character/${folder}/${ch.expr}.${ext}`
-}
-function charAlphaSrc(ch) {
-  const folder = ch.folder || folderFor(ch.name)
-  return `${BASE}vn-assets/character/${folder}/${ch.expr}.alpha.avif`
-}
-function alphaMaskStyle(ch) {
-  const a = charAlphaSrc(ch)
-  return {
-    WebkitMaskImage: `url("${a}")`,
-    maskImage: `url("${a}")`,
-    WebkitMaskSize: 'contain', maskSize: 'contain',
-    WebkitMaskRepeat: 'no-repeat', maskRepeat: 'no-repeat',
-    WebkitMaskPosition: 'center bottom', maskPosition: 'center bottom'
-  }
-}
-function charImgStyle(ch) {
-  return ch.avif ? alphaMaskStyle(ch) : {}
+  return `${BASE}vn-assets/character/${folder}/${ch.expr}.webp`
 }
 function charPosStyle(idx) {
   const n = characters.value.length
@@ -292,9 +288,9 @@ function charPosStyle(idx) {
 }
 function onBgError(e) { e.target.style.display = 'none' }
 function onCharError(e, ch) {
-  if (ch.avif) { e.target.style.display = 'none'; return }
-  if (ch.expr !== 'default') { ch.expr = 'default'; return }
-  ch.avif = true
+  if (ch.triedDefault) { e.target.style.display = 'none'; return }
+  ch.triedDefault = true
+  ch.expr = 'default'
 }
 
 // 音频控制：禁用文本 bgm，播放 VN 音频
@@ -406,6 +402,7 @@ async function loadEpisode() {
     const data = await res.json()
     blocks = data.blocks || []
     dialogues = data.dialogues || {}
+    epNames = (data.names || {})[currentLang.value] || (data.names || {})['en'] || {}
     // 也加载 commands 供音频/场景使用（若存在）
     if (data.commands) {
       // 合并 commands 到 blocks 的便捷：我们已在 blocks 中包含 scene/chara，此处额外处理 bgm/bgs/snd
@@ -466,7 +463,7 @@ function next() {
       const opts = blk.options || []
       currentChoiceOptions.value = opts.map(oid => ({
         id: oid,
-        label: blk.labels?.[oid] || dialogues[currentLang.value]?.[`choice${oid}`] || dialogues['zh_Hans']?.[`choice${oid}`] || dialogues['en']?.[`choice${oid}`] || oid
+        label: blk.labels?.[currentLang.value]?.[oid] || blk.labels?.['zh_Hans']?.[oid] || dialogues[currentLang.value]?.[`choice${oid}`] || dialogues['zh_Hans']?.[`choice${oid}`] || dialogues['en']?.[`choice${oid}`] || oid
       }))
       showChoices.value = true
       return
@@ -503,7 +500,7 @@ function next() {
       if (nm && ex) {
         emotions[nm.trim()] = ex.trim()
         characters.value = characters.value.map(c =>
-          c.name === nm.trim() ? { ...c, expr: ex.trim(), avif: false } : c
+          c.name === nm.trim() ? { ...c, expr: ex.trim() } : c
         )
       }
       blockIdx++; continue
@@ -583,9 +580,19 @@ watch(finished, (v) => {
 
 // 手机上播放时自动横屏：进入全屏并尝试锁定横屏
 let landscapeLocked = false
+const showRotate = ref(false)
 function isMobile() {
   if (typeof window === 'undefined') return false
-  return (window.matchMedia && window.matchMedia('(pointer: coarse)').matches) || window.innerWidth < 900
+  return (window.matchMedia && window.matchMedia('(pointer: coarse)').matches) ||
+    (navigator.maxTouchPoints && navigator.maxTouchPoints > 0) ||
+    window.innerWidth < 900
+}
+function isLandscape() {
+  if (typeof window === 'undefined') return true
+  return window.innerWidth > window.innerHeight
+}
+function updateRotate() {
+  showRotate.value = !!(open.value && isMobile() && !isLandscape())
 }
 async function enterLandscape() {
   if (!isMobile() || landscapeLocked) return
@@ -600,6 +607,7 @@ async function enterLandscape() {
       landscapeLocked = true
     }
   } catch (e) { /* 部分浏览器不支持锁定 */ }
+  updateRotate()
 }
 function exitLandscape() {
   if (!landscapeLocked && !document.fullscreenElement) return
@@ -620,8 +628,14 @@ watch(open, (v) => {
   if (v) {
     loadEpisode()
     enterLandscape()
+    window.addEventListener('resize', updateRotate)
+    window.addEventListener('orientationchange', updateRotate)
   }
-  else if (typeof document !== 'undefined') document.body.style.overflow = ''
+  else {
+    if (typeof document !== 'undefined') document.body.style.overflow = ''
+    window.removeEventListener('resize', updateRotate)
+    window.removeEventListener('orientationchange', updateRotate)
+  }
 })
 
 function onKey(e) {
@@ -677,6 +691,11 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   flex-direction: column;
   background: #02020a;
   outline: none;
+}
+/* 手机端点击不闪蓝色高亮 */
+.vn-root * {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
 }
 
 .vn-stage {
@@ -988,6 +1007,53 @@ onUnmounted(() => window.removeEventListener('keydown', onKey))
   transition: all 0.2s;
 }
 .vn-btn-ghost:hover { background: rgba(255,255,255,0.10); border-color: rgba(255,255,255,0.22); }
+
+/* 手机横屏提示 */
+.vn-rotate {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  background: rgba(6, 6, 12, 0.82);
+  backdrop-filter: blur(10px);
+}
+.vn-rotate-phone {
+  width: 58px;
+  height: 96px;
+  border: 3px solid rgba(255,255,255,0.85);
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+  font-size: 22px;
+  color: #fff;
+  animation: vn-rotate-swing 1.6s ease-in-out infinite;
+}
+@keyframes vn-rotate-swing {
+  0%, 20%, 100% { transform: rotate(0deg); }
+  40% { transform: rotate(-90deg); }
+  60% { transform: rotate(-78deg); }
+}
+.vn-rotate-text {
+  margin: 0;
+  font-size: 15px;
+  letter-spacing: 0.12em;
+  color: rgba(255,255,255,0.88);
+}
+
+/* 触屏设备：对话更大、贴底更近 */
+@media (pointer: coarse) {
+  .vn-dialog-wrap { padding: 0 14px 14px; }
+  .vn-dialog { width: 100%; padding: 14px 16px 14px; border-radius: 14px; }
+  .vn-text { font-size: 17px; line-height: 1.7; }
+  .vn-speaker-name { font-size: 14px; }
+  .vn-topbar { padding: 10px 14px; }
+  .vn-choices-inner { width: min(92vw, 620px); }
+  .vn-char-img { max-width: 60vw; }
+}
 
 /* 动效 */
 .vn-dialog-fade-enter-active, .vn-dialog-fade-leave-active { transition: opacity 0.2s, transform 0.2s; }
