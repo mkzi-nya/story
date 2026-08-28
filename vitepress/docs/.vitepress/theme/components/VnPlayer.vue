@@ -276,14 +276,11 @@ function charPosStyle(idx) {
   const n = characters.value.length
   const slots = SLOTS[n] || SLOTS[Math.min(n, 4)]
   const pos = slots[idx] != null ? slots[idx] : 50
-  const wide = typeof window === 'undefined' || window.innerWidth >= 800
-  let height
-  if (!wide) {
-    height = n >= 3 ? 'min(52vh, 480px)' : n === 2 ? 'min(60vh, 560px)' : 'min(64vh, 620px)'
-  } else if (n >= 4) height = 'min(66vh, 780px)'
-  else if (n === 3) height = 'min(72vh, 850px)'
-  else if (n === 2) height = 'min(84vh, 1000px)'
-  else height = 'min(88vh, 1080px)'
+  // 立绘高度按视口高度等比缩放；上限随分辨率自适应（高分辨率/长屏不再显得小）
+  const vh = (typeof window === 'undefined') ? 900 : window.innerHeight
+  const pct = n >= 4 ? 64 : n === 3 ? 70 : n === 2 ? 80 : 88
+  const cap = Math.min(Math.max(Math.round(vh), 900), 1500)
+  const height = `min(${pct}vh, ${cap}px)`
   return { left: pos + '%', height }
 }
 function onBgError(e) { e.target.style.display = 'none' }
