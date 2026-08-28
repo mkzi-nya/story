@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import { h } from 'vue'
 import ChatBubble from './components/ChatBubble.vue'
+import StoryChoice from './components/StoryChoice.vue'
 import './style.css'
 
 // 音乐播放按钮组件
@@ -65,5 +66,7 @@ export default {
   enhanceApp({ app }) {
     // 注册 ChatBubble 组件
     app.component('ChatBubble', ChatBubble)
+    // 注册剧情分支选项组件
+    app.component('StoryChoice', StoryChoice)
   }
 }

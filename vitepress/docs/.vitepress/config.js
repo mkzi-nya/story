@@ -31,7 +31,7 @@ export default defineConfig({
             { text: 'TiếngViệt', link: '/milthm/story/vi' },
             ]
           },
-          {
+                              {
             text: 'Raingpt',
             collapsible: true,
             collapsed: true,
@@ -45,14 +45,15 @@ export default defineConfig({
             { text: '蓝牙耳机<span class="fav">❤</span>', link: '/milthm/raingpt/bluetooth' },
             { text: '“绮梦”玩法<span class="fav">❤</span>', link: '/milthm/raingpt/character-guidence' },
             { text: '怎么兑换歌曲<span class="fav">❤</span>', link: '/milthm/raingpt/garden-guidence' },
-            { text: '新用户福利?', link: '/milthm/raingpt/gift' },
-            { text: '你是谁?', link: '/milthm/raingpt/who-are-you' },
+            { text: '在线 Reality<span class="fav">❤</span>', link: '/milthm/raingpt/online-reality' },
+            { text: '新用户福利！', link: '/milthm/raingpt/gift' },
+            { text: '你是谁？', link: '/milthm/raingpt/who-are-you' },
             { text: '倾盆大雨是什么', link: '/milthm/raingpt/what-is-downpour' },
             { text: '那个“❤”是什么', link: '/milthm/raingpt/what-is-heart' },
             { text: '下午茶', link: '/milthm/raingpt/coffee' },
-            { text: '被砍了怎么办?', link: '/milthm/raingpt/susan' },
+            { text: '被砍了怎么办？', link: '/milthm/raingpt/susan' },
             { text: '哄我睡觉', link: '/milthm/raingpt/sleep' },
-            { text: '你知道吗?', link: '/milthm/raingpt/do-you-know' },
+            { text: '你知道吗？', link: '/milthm/raingpt/do-you-know' },
             { text: '还是场景原画师', link: '/milthm/raingpt/or-scene-illustration' },
             { text: '奖励', link: '/milthm/raingpt/rain' },
             { text: '七大怪谈', link: '/milthm/raingpt/ghost' },
