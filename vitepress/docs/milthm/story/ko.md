@@ -42,6 +42,8 @@
 
 #### 1.1 <a id="chapter1-1"></a>
 
+<VnPlayer episode="main_story_1_1" title="1.1" />
+
 - …
 - ……
 - 왜 울고 있어요?
@@ -80,6 +82,8 @@
 ---
 
 #### 1.2 <a id="chapter1-2"></a>
+
+<VnPlayer episode="main_story_1_2" title="1.2" />
 
 - (그 이후로 시간은 빠르게 흘렀다. 매일 그녀에게 음식과 책을 전해줬고, 소녀는 이 생활에 점점 익숙해지는 것 같았다. 자연스럽게 말도 놓기로 했다.)
 - (칸막이 공간 문 앞에 서서 정해진 리듬으로 문으로 두드렸다. 이건 그녀와 약속한 암호다. 이렇게 두드리지 않으면 그녀는 방에 숨어야 한다.)
@@ -174,6 +178,8 @@
 
 #### 1.3 <a id="chapter1-3"></a>
 
+<VnPlayer episode="main_story_1_3" title="1.3" />
+
 - (지난번 산책 이후로 그녀는 자주 혼자 돌아다녔다.)
 - (이미 아무에게도 말하면 안된다고 해서 다행이지만, 혹시라도 들킬까봐 걱정이 된다.)
 - 근데… 그 애는 다른 사람들의 꿈에 대한 환상을 갖고 있는데… 미스터리는 계속해서 커져간다.
@@ -217,6 +223,8 @@
 
 #### 1.4 <a id="chapter1-4"></a>
 
+<VnPlayer episode="main_story_1_4" title="1.4" />
+
 - (생명 유지 장치는 아직 웅웅 거리며 돌아가고 있었다.)
 - (수잔 이모는 병원 침대에 평화롭게 누워 있었다. 우린 그 사람들이 그녀의 운명을 결정하도록 놔둘 수 없었다.)
 - 너 눈이 사나워.
@@ -253,6 +261,8 @@
 ---
 
 #### 1.5 <a id="chapter1-5"></a>
+
+<VnPlayer episode="main_story_1_5" title="1.5" />
 
 - 어…
 - (뭔가 무의식적으로 눈을 감은 듯 갑자기 시야가 어두워졌다.)
@@ -318,6 +328,8 @@
 ---
 
 #### 1.6 <a id="chapter1-6"></a>
+
+<VnPlayer episode="main_story_1_6" title="1.6" />
 
 - (수잔 이모가 점심을 만들고 있다. 수프 냄비처럼 보인다.)
 - (향신료를 곁들인 버섯과 고기를 끓인 스튜같은 다소 익숙한 냄새였다.)
@@ -415,6 +427,8 @@
 ---
 
 #### 1.7 <a id="chapter1-7"></a>
+
+<VnPlayer episode="main_story_1_7" title="1.7" />
 
 - (또 다시 비가 쏟아지는 소리다.)
 - (이젠 좀 짜증난다.)
@@ -531,6 +545,8 @@
 
 #### 尾声 <a id="chapter1-ed"></a>
 
+<VnPlayer episode="main_story_1_ed_1" title="尾声" />
+
 - 목에서 피 맛이 치밀어 오른다. 옷도 땀으로 흠뻑 젖었다.
 - 계단에서는 발소리가 끊임 없이 울렸다.
 - 다리가 너무 무거워서 들어 올릴 수 없고, 산소가 부족해 앞이 흐릿해졌지만, 내 뒤에 있는 소녀의 손을 계속 잡고 있다.
@@ -626,6 +642,8 @@
 
 #### 2.1 <a id="chapter2-1"></a>
 
+<VnPlayer episode="main_story_2_1" title="2.1" />
+
 - 하늘에서 내리는 비는 얼음처럼 차가웠지만, 그 추위 덕분에 잠을 잘 수 있었다.
 - 밖으로 나선 이후로 늘 방향 감각을 잃은 듯한 기분이 들었다. 눈앞의 풍경은 낯설지는 않지만, 마지막으로 건물을 나선 게 언제였더라? 정확히는 잘 모르겠다.
 - 루비아같은 경우라면…
@@ -701,6 +719,8 @@
 ---
 
 #### 2.2 <a id="chapter2-2"></a>
+
+<VnPlayer episode="main_story_2_2" title="2.2" />
 
 - 떨어지는 물방울 때문에 눈앞이 점점 흐려졌고, 파쿠르 보다도 더 힘들고 고된 오르막에 내 몸은 점점 무거워졌다.
 - 아마 지친 루비아를 끌고 벽과 창문을 넘나들고 있었기 때문일 수도 있다. 그녀의 체력은 내 절반도 안 된다.
@@ -1008,6 +1028,8 @@
 
 #### 2.3 <a id="chapter2-3"></a>
 
+<VnPlayer episode="main_story_2_3" title="2.3" />
+
 - Stop right there! Who are you?!
 - A beam of harsh light appeared from behind the corner of the corridor.
 - I looked toward the light. I could hear two sets of footsteps.
@@ -1193,6 +1215,8 @@
 
 #### 2.4 <a id="chapter2-4"></a>
 
+<VnPlayer episode="main_story_2_4" title="2.4" />
+
 - When I opened my eyes, I found myself in my own room, lying in my own bed. I could feel the softness of the pillow against my chest—my sleeping posture must have been an absolute mess.
 - Although we used things like plastic sheets as mattresses back in the building, this was my first time actually resting on a real bed.
 - ...It's so soft... It's making me feel sleepy all over again…
@@ -1348,6 +1372,10 @@
 
 </StoryChoice>
 
+<StoryChoice :options='["mark.ch2_4_route1 == explore", "其它情况"]'>
+
+<template #branch-0>
+
 - Oh! Not only Lord Selene's assistants, but members of the expedition team too! You two must be quite the important figures!
 - Important figures…?
 - Please don't hold it against me for stopping you earlier—there have been a lot of spies lately… But if you're former expedition members, then there's definitely no issue!
@@ -1395,6 +1423,11 @@
 - Lucky for you, I was already planning to take you to the factory. I'll let today's incident slide.
 - Don't let it happen again. Understood?
 - This one humbly acknowledges her mistake…
+
+</template>
+
+<template #branch-1>
+
 - That evening I figured it was best to keep a low profile, so I didn't dare wander around anymore. Luvia and I just bought a few pieces of bread from a bakery on the street.
 - We carried our bread back to our respective rooms and didn't go out again that night.
 - Unlike the exhausted Luvia, I probably didn't fall asleep until the early hours of the morning.
@@ -1448,6 +1481,11 @@
 - Don't touch anything, don't wander off, wait for me to come back. Got it?
 - Got it. We won't go anywhere.
 - Solara came back after a while.
+
+</template>
+
+</StoryChoice>
+
 - Led by Solara, Luvia and I arrived at District 2 of Arcadia: the farm district.
 - …Can you eat these green plants?
 - Good lord. If vegetables aren't for eating, what—are they just for decoration?
@@ -1578,6 +1616,8 @@
 ---
 
 #### 2.5 <a id="chapter2-5"></a>
+
+<VnPlayer episode="main_story_2_5" title="2.5" />
 
 - In the council chamber, Selene stood at the center.
 - These two residents can operate on the surface without effective protection. The mechanism is unclear, but the fact is right in front of us.
@@ -1718,11 +1758,26 @@
 - Don't just stand there, come down!
 - Mm... hello.
 - Hehe, if you're doing farm work, first step is recognizing crops.
+
+<StoryChoice :options='["planted_state.2 >= planted", "其它情况"]'>
+
+<template #branch-0>
+
 - I see water fern! I've tried growing this before.
 - Smart little sister. Over there with white petals, do you know that one?
 - Um... mm, not very familiar.
 - It's okay, I'll teach you. The tubers under those white flowers are the potatoes we eat…
+
+</template>
+
+<template #branch-1>
+
 - Look, the one with white petals, the tubers underneath are the potatoes we eat…
+
+</template>
+
+</StoryChoice>
+
 - I can see water fern and potatoes!
 - Oh my, smart little sister. Looks like you'll pick up the work quickly too.
 - Please guide me.
@@ -1774,6 +1829,12 @@
 
 #### 2.6 <a id="chapter2-6"></a>
 
+<VnPlayer episode="main_story_2_6" title="2.6" />
+
+<StoryChoice :options='["highest_score < 700000", "highest_score >= 950000", "其它情况"]'>
+
+<template #branch-0>
+
 - …
 - Y-you... are you a caveman? Is what I taught you really that... that hard to understand?!
 - Did you not listen a single word I said? Are you still thinking about those corn?!!
@@ -1783,6 +1844,11 @@
 - Sorry... I will take it very seriously next time.
 - I really hope everything I told you got into your head. Time is tight, come with me to the maintenance site.
 - But let me remind you again: you really could die. You must be careful, careful, really careful!
+
+</template>
+
+<template #branch-1>
+
 - …
 - How about becoming my direct disciple?
 - Hm…?
@@ -1790,6 +1856,11 @@
 - Sorry for calling you a savage before. I see you in a whole new light now.
 - At your current level, there should be no problem. Come with me. Next time is live operation!
 - Fair warning: if danger appears during live operation, I may not be able to save you. You could die. So watch every single move you make.
+
+</template>
+
+<template #branch-2>
+
 - Mm... passable. Let's count it as learned.
 - Is there anything I should review and reinforce?
 - Don't connect every cable you see. Not all wires can be connected. Do you want to electrocute yourself?
@@ -1797,6 +1868,11 @@
 - If you fail in live operation, you're very likely to die. Really die.
 - I... understand.
 - Follow me.
+
+</template>
+
+</StoryChoice>
+
 - At the site, high-temperature steam was spraying from a ruptured pipe with a piercing hiss.
 - Good, the damage isn't too serious. Let's fix these while we're here.
 - Is there anything I need to do?
@@ -1876,6 +1952,8 @@
 ---
 
 #### 2.7 <a id="chapter2-7"></a>
+
+<VnPlayer episode="main_story_2_7" title="2.7" />
 
 - Ah, ngh...!
 - When the doctor applied medicine to Solara's arm, pain instantly twisted her expression.
@@ -2064,12 +2142,27 @@
 - Back in District 4, Luvia was already sitting at an outdoor cafe table by the residential block entrance, with orange juice on the table. She noticed me as soon as I approached.
 - You're back. Good work.
 - You too, Luvia. Any new gains today?
+
+<StoryChoice :options='["planted_state.10 >= planted", "其它情况"]'>
+
+<template #branch-0>
+
 - Today Sister Zoya taught me how to make strawberries grow by hand!
 - That technique is exactly something we can use too.
 - So happy. Growing strawberries will be easier later.
+
+</template>
+
+<template #branch-1>
+
 - Today I learned manual strawberry pollination from Sister Zoya!
 - Maybe we'll use it.
 - Mm... if I ever need to grow fruit myself, this must be useful.
+
+</template>
+
+</StoryChoice>
+
 - After our usual post-work chat, I shared with Luvia what Selene had told me.
 - Aunt Susan's child…
 - So, want to go see him?
@@ -2144,6 +2237,8 @@
 ---
 
 #### 2.8 <a id="chapter2-8"></a>
+
+<VnPlayer episode="main_story_2_8" title="2.8" />
 
 - After several days, Luvia and I returned to the surface again.
 - The sky was still overcast and rain kept falling. Even at noon, thick dark clouds gave this empty city overwhelming pressure.
@@ -2435,6 +2530,8 @@
 
 #### 2.9 <a id="chapter2-9"></a>
 
+<VnPlayer episode="main_story_2_9" title="2.9" />
+
 - You... why are you here?
 - In a maintenance room at the edge of the factory district, I found Solara alone.
 - Thank goodness, we found you…! Solara, your sister is really worried about you…
@@ -2562,6 +2659,8 @@
 
 #### 2.10 <a id="chapter2-10"></a>
 
+<VnPlayer episode="main_story_2_10" title="2.10" />
+
 - Hold... on!!
 - Selene dragged a crying girl and lifted her toward dry ground. An adult up there who couldn't swim grabbed the child.
 - Chairman Selene, grab my hand, I'll pull you up too!!
@@ -2664,6 +2763,8 @@
 ---
 
 #### 2.11 <a id="chapter2-11"></a>
+
+<VnPlayer episode="main_story_2_11" title="2.11" />
 
 - Two and a half hours have passed since the alarm sounded.
 - The flood that had been expected to completely swallow Arcadia by now was held back, thanks to the desperate repair efforts at the front lines.
@@ -2772,6 +2873,8 @@
 ---
 
 #### 2.12 <a id="chapter2-12"></a>
+
+<VnPlayer episode="main_story_2_12" title="2.12" />
 
 - A low, furious roar came from the distance.
 - The flood. It had finally arrived.

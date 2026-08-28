@@ -45,6 +45,22 @@ RAINGPT_DOCS = DOCS / "milthm/raingpt"
 RAINGPT_FILES_DST = RAINGPT_DOCS / "files"
 FILES_RAINGPT_DST = HERE / "files/raingpt"
 CONFIG_JS = DOCS / ".vitepress/config.js"
+# VN 静态资源（背景/立绘/音频/剧本 JSON）直接放到 story 根目录的 vn-assets，
+# 不经 vitepress 编译/复制，由播放器以 /story/vn-assets/... 直接引用。
+VN_PUBLIC = HERE / "vn-assets"
+VN_PUBLIC_BG = VN_PUBLIC / "background"
+VN_PUBLIC_CHAR = VN_PUBLIC / "character"
+VN_PUBLIC_CG = VN_PUBLIC / "cg"
+VN_PUBLIC_SCRIPTS = VN_PUBLIC / "scripts"
+VN_PUBLIC_AUDIO = VN_PUBLIC / "audio"
+VN_AVG_BG_SRC = CK / "milthm_unpack/Assets/Resources/AVG/background"
+VN_AVG_CHAR_SRC = CK / "milthm_unpack/Assets/Resources/AVG/character"
+VN_AVG_CG_SRC = CK / "milthm_unpack/Assets/Resources/AVG/cg"
+VN_TEXTASSET_BG = TEXTASSET  # bg_* 等也在 TextAsset
+# 音频源（剧情脚本中的 ##bgm / ##bgs / ##snd 引用的资源）
+VN_AUDIO_BGM_SRC = CK / "milthm_unpack/Assets/Resources/bgm"
+VN_AUDIO_BGS_SRC = CK / "milthm_unpack/Assets/Resources/bgs"
+VN_AUDIO_SND_SRC = CK / "milthm_unpack/Assets/Resources/snd"
 
 LANGS = ["zh_Hans","zh_Hant","yue_Hant","en","ja","es","fr","ko","ru","vi"]
 
@@ -254,32 +270,198 @@ def decode_story_bytes():
     return out
 
 # ---------- 解析 AVG 剧本 ----------
-def parse_avg_blocks(script_text):
+def cond_label(src):
+    """把 ##if/##elseif 条件整理为可直接展示的条件代码（去掉 uuid 等噪音）。"""
+    s2=(src or "").strip()
+    if not s2: return "条件分支"
+    parts=[p.strip() for p in s2.split("|")]
+    key=parts[0].strip()
+    # 清理 key：保留变量名/编号段，去掉形如 uuid 的段
+    segs=[]
+    for x in key.split(","):
+        x=x.strip()
+        if not x: continue
+        if re.fullmatch(r"[0-9a-fA-F]+(?:-[0-9a-fA-F]+)+", x):
+            continue
+        segs.append(x)
+    if len(parts) >= 3:
+        op=parts[1]; val=parts[2]
+        return f"{'.'.join(segs)} {op} {val}"
+    return ".".join(segs)
+
+def parse_say_line(raw, for_player):
+    """解析一行 ##say:...|ID，返回 {id,speaker}（for_player）或 say id。"""
+    m=re.match(r'^##say2?:(.*?)\|(-?\d+)\s*$', raw.strip())
+    if not m: return None
+    payload=m.group(1); sid=m.group(2)
+    speaker=payload.split("|")[0].strip().rstrip("?")
+    return {"id":sid,"speaker":speaker} if for_player else sid
+
+def parse_say_lines(buf, for_player):
+    """把收集到的整段原始行过滤为 say 列表。"""
+    out=[]
+    for raw in buf:
+        e=parse_say_line(raw, for_player)
+        if e is not None:
+            out.append(e)
+    return out
+
+def parse_avg_blocks(script_text, for_player=False):
     """
     解析 AVG 剧本为 blocks：
-      ('text', [say_id, ...])
+      ('text', [say_id, ...] 或 [{id,speaker},...] 当 for_player)
       ('choice', opts=[id,...], branches={id:[say_id,...]}, order=[id,...])
+      ('scene', value)
+      ('chara', value)
     分支缩进由 StoryChoice 组件处理，默认选中第一个。
     忽略 ##if/##mark 等状态指令，仅收集 say。
+    for_player=True 时保留 speaker/scene/chara 供播放器使用
     """
     lines=script_text.splitlines()
     blocks=[]
-    text_buf=[]
+    text_buf=[]  # 存放 {id,speaker} 或 sid
     pending=None  # {opts:[], branches:{}, cur:None, order:[]}
+    cond_stack=[]  # 条件分支栈，每项 {stage, buf, start, order, labels, branches, cur, skip}
     i=0
+    def _open_cond(cond):
+        # 开启一个新条件分支收集
+        order=cond.get("order", [])
+        nid=f"c{len(order)}"
+        order.append(nid)
+        cond.setdefault("labels", {})[nid]=cond_label(cond.get("if_cond"))
+        cond.setdefault("branches", {})[nid]=[]
+        cond["cur"]=nid
     while i < len(lines):
         raw=lines[i]; s=raw.strip()
         if not s or s.startswith("//"):
             i+=1; continue
+        top=cond_stack[-1] if cond_stack else None
+        # -- 条件栈内的分界/结束指令（stacked 状态在 buf/choice 阶段处理） --
+        if top is not None and top["stage"] in ("buf","choice"):
+            if s.startswith("##elseif") or s.startswith("##else"):
+                # 关闭当前分支，开启下一分支
+                top["branches"][top["cur"]]=parse_say_lines(top["buf"], for_player)
+                top["buf"]=[]
+                if top["stage"]=="buf":
+                    top["stage"]="choice"
+                top["if_cond"]=s.split(":",1)[1].strip() if ":" in s else ("其它情况" if s.startswith("##else") else "")
+                _open_cond(top)
+                i+=1; continue
+            if s.startswith("##endif"):
+                # 结束条件
+                if top["stage"]=="choice":
+                    top["branches"][top["cur"]]=parse_say_lines(top["buf"], for_player)
+                    cond_stack.pop()
+                    if text_buf:
+                        blocks.append(("text", list(text_buf)))
+                        text_buf=[]
+                    condchoice={
+                        "opts": list(top["order"]),
+                        "order": list(top["order"]),
+                        "labels": dict(top["labels"]),
+                        "branches": {o: top["branches"][o] for o in top["order"]},
+                        "cond": True,
+                    }
+                    if condchoice["order"]:
+                        blocks.append(("choice", condchoice))
+                else:
+                    # 单分支条件：回退为普通解析（默认取该分支）
+                    cond_stack.pop()
+                    i=top["start"]-1
+                i+=1; continue
+            if s.startswith("##question") or (s.startswith("##choice:") and top["stage"]=="buf"):
+                # 条件分支内含有真正的玩家选择 -> 放弃条件选项，按普通解析处理（取第一分支）
+                top["stage"]="transparent"; top["skip"]=False
+                i=top["start"]  # 回退到 ##if 之后的首行，普通处理
+                continue
+            if s.startswith("##mark:"):
+                i+=1; continue
+        elif top is not None:  # stage transparent / raw：普通解析，仅跳过 elseif/else 分支体
+            if s.startswith("##elseif") or s.startswith("##else"):
+                top["skip"]=True
+                i+=1; continue
+            if s.startswith("##endif"):
+                cond_stack.pop()
+                i+=1; continue
+            if top.get("skip"):
+                i+=1; continue
+        # -- 开启/兜底条件指令 --
+        if s.startswith("##if"):
+            if pending is not None and pending.get("cur") is not None:
+                # 真实选项分支内出现条件：普通解析
+                cond_stack.append({"stage":"raw","skip":False})
+            else:
+                cond_stack.append({
+                    "stage":"buf", "buf":[], "start":i+1,
+                    "order":[], "labels":{}, "branches":{},
+                    "if_cond": s.split(":",1)[1].strip() if ":" in s else "", "cur":None,
+                })
+                _open_cond(cond_stack[-1])
+            i+=1; continue
+        elif s.startswith("##elseif") or s.startswith("##else") or s.startswith("##endif") or s.startswith("##mark:"):
+            i+=1; continue  # 无栈的孤立指令
+        # -- 条件收集模式下，把 body 记入当前分支 --
+        if top is not None and top["stage"] in ("buf","choice"):
+            top["buf"].append(raw)
+            i+=1; continue
         if s.startswith("##story:") or s.startswith("##non-block") or s.startswith("##end_non-block"):
             i+=1; continue
-        m_say=re.match(r'^##say2?:.*\|(-?\d+)\s*$', s)
+        # 场景 / 角色 / 音频 / 情感等 供播放器（故事 md 忽略）
+        if for_player:
+            block=None
+            if s.startswith("##scene:"):
+                val=s[len("##scene:"):].split("|")[0].strip()
+                block=("scene", val)
+            elif s.startswith("##chara_settings:"):
+                val=s[len("##chara_settings:"):].strip()
+                block=("chara_settings", val)
+            elif s.startswith("##chara:"):
+                val=s.split(":",1)[1].strip() if ":" in s else ""
+                block=("chara", val)
+            elif s.startswith("##bgm:"):
+                block=("bgm", s[len("##bgm:"):].split("|")[0].strip())
+            elif s == "##stop_bgm":
+                block=("bgm", "stop")
+            elif s.startswith("##bgs:"):
+                block=("bgs", s[len("##bgs:"):].split("|")[0].strip())
+            elif s == "##stop_bgs":
+                block=("bgs", "stop")
+            elif s.startswith("##volume_bgs:"):
+                block=("volume_bgs", s[len("##volume_bgs:"):].strip())
+            elif s.startswith("##snd") and len(s)>5 and s[5] in (":","("):
+                val=s.split(":",1)[1].strip()
+                block=("se", val)
+            elif s.startswith("##emotion:"):
+                block=("emotion", s[len("##emotion:"):].strip())
+            elif s.startswith("##hide_dialog"):
+                block=("hide_dialog", "")
+            if block is not None:
+                # 分支出（##choice:..##end_choice）内的指令不进入主 blocks
+                if pending is not None and pending.get("cur") is not None:
+                    pass
+                else:
+                    # flush text
+                    if text_buf:
+                        blocks.append(("text", list(text_buf)))
+                        text_buf=[]
+                    blocks.append(block)
+                i+=1; continue
+        m_say=re.match(r'^##say2?:(.*?)\|(-?\d+)\s*$', s)
         if m_say:
-            sid=m_say.group(1)
+            payload=m_say.group(1)  # speaker 部分
+            sid=m_say.group(2)
+            # 提取 speaker（取 '|' 前第一段，去掉 emotion）
+            # payload 如 "pb" 或 "lwy?|smile" 或 "solara/frown" 或 "npc-nameless,worker-on-platform|frown"
+            # 实际 speaker 为 payload 按 '|' 分割的第一段
+            # 对于 ##say:solara|surprise|10011 -> payload = solara|surprise -> speaker = solara
+            speaker = payload.split("|")[0].strip() if payload else ""
+            # 去除 ? 后缀
+            speaker = speaker.rstrip("?")
+            entry = {"id": sid, "speaker": speaker} if for_player else sid
             if pending is not None and pending.get("cur") is not None:
-                pending["branches"][pending["cur"]].append(sid)
+                pending["branches"][pending["cur"]].append(entry)
             else:
-                text_buf.append(sid)
+                text_buf.append(entry)
             i+=1; continue
         if s.startswith("##question:"):
             # flush text
@@ -288,7 +470,6 @@ def parse_avg_blocks(script_text):
                 text_buf=[]
             # flush previous pending choice if any
             if pending is not None and pending.get("opts"):
-                # 完成上一个 choice（若还在 pending 且有分支）
                 blocks.append(("choice", pending))
             pending={"opts":[], "branches":{}, "cur":None, "order":[]}
             i+=1; continue
@@ -301,7 +482,6 @@ def parse_avg_blocks(script_text):
                     pending["branches"][opt]=[]
             i+=1; continue
         if s.startswith("##choice:"):
-            # ##choice:ID 或 ##choice:ID|cond
             cid=s[len("##choice:"):].split("|")[0].strip()
             if pending is not None:
                 pending["cur"]=cid
@@ -310,38 +490,320 @@ def parse_avg_blocks(script_text):
                     if cid not in pending["order"]:
                         pending["order"].append(cid)
             else:
-                # 孤立的 choice（理论上不应出现，视为新 choice）
                 pending={"opts":[cid], "branches":{cid:[]}, "cur":cid, "order":[cid]}
             i+=1; continue
         if s.startswith("##end_choice"):
             if pending is not None:
                 pending["cur"]=None
-                # 预判下一个是否为 choice，若不是则 choice 结束，继续收集 text
-                # 实际上多个 choice 连续属于同一 question；下一个若不是 choice 则 choice 块结束
-                # 偷看下一行
                 nxt = lines[i+1].strip() if i+1 < len(lines) else ""
                 if not nxt.startswith("##choice:"):
-                    # choice 块结束，落盘
-                    # 仅当 opts 非空才视为有效 choice；否则丢弃
                     if pending["opts"] or pending["order"]:
-                        # 若 opts 为空但有 branches，用 order
                         if not pending["opts"]:
                             pending["opts"]=list(pending["order"])
                         blocks.append(("choice", pending))
                     pending=None
             i+=1; continue
-        if s.startswith("##if") or s.startswith("##else") or s.startswith("##endif") or s.startswith("##mark:"):
-            i+=1; continue
-        # 其他指令（scene/chara/bgm 等）忽略
+        # 其他指令（scene/chara/bgm 等）忽略（已处理 scene/chara）
         i+=1
     if text_buf:
         blocks.append(("text", list(text_buf)))
     if pending is not None and (pending.get("opts") or pending.get("order")):
-        # 兜底：若 opts 为空用 order
         if not pending["opts"]:
             pending["opts"]=list(pending["order"])
         blocks.append(("choice", pending))
     return blocks
+
+def convert_audio_to_ogg(src_path: Path, dst_path: Path):
+    """把任意格式的游戏音频（Ogg/Vorbis、WAV、MP3）统一转码为 .ogg，目标已存在则跳过。"""
+    if dst_path.exists() and dst_path.stat().st_size > 0:
+        return
+    dst_path.parent.mkdir(parents=True, exist_ok=True)
+    head = src_path.read_bytes()[:4] if src_path.exists() else b""
+    # 已是 Ogg：直接拷贝（避免无谓转码）
+    if head == b"OggS":
+        shutil.copy2(src_path, dst_path)
+        return
+    if shutil.which("ffmpeg") is None:
+        print(f"  ! 未找到 ffmpeg，跳过音频 {src_path.name}")
+        return
+    cmd = ["ffmpeg", "-y", "-v", "error", "-i", str(src_path),
+           "-c:a", "libopus", "-b:a", "96k", "-f", "ogg", str(dst_path)]
+    subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=False)
+    if not dst_path.exists() or dst_path.stat().st_size == 0:
+        print(f"  ! 音频转码失败: {src_path.name}")
+
+
+def extract_vn_audio():
+    """将剧情用 bgm / bgs / snd 音频导出为 vn-assets/audio 下的 ogg。"""
+    print("  == 音频 (bgm/bgs/snd) ==")
+    targets = [
+        (VN_AUDIO_BGM_SRC, VN_PUBLIC_AUDIO / "bgm"),
+        (VN_AUDIO_BGS_SRC, VN_PUBLIC_AUDIO / "bgs"),
+    ]
+    for src_dir, dst_dir in targets:
+        if not src_dir.exists():
+            continue
+        dst_dir.mkdir(parents=True, exist_ok=True)
+        for p in src_dir.glob("*.bytes"):
+            convert_audio_to_ogg(p, dst_dir / f"{p.stem}.ogg")
+    # snd 保留子目录结构（如 snd/avg/xxx -> audio/snd/avg/xxx）
+    if VN_AUDIO_SND_SRC.exists():
+        for p in VN_AUDIO_SND_SRC.rglob("*.bytes"):
+            rel = p.relative_to(VN_AUDIO_SND_SRC).with_suffix(".ogg")
+            convert_audio_to_ogg(p, VN_PUBLIC_AUDIO / "snd" / rel)
+
+
+def bake_character_alpha():
+    """将立绘的 color(.avif) 与 alpha(.alpha.avif) 合并为带透明通道的 .webp，
+    浏览器可直接显示，不再依赖 CSS mask（旧方案在透明区域显示黑底）。"""
+    print("  == 立绘透明烘焙 (avif+alpha -> webp) ==")
+    if shutil.which("ffmpeg") is None:
+        print("  ! 未找到 ffmpeg，跳过立绘烘焙")
+        return
+    done = 0
+    for char_dir in VN_PUBLIC_CHAR.iterdir():
+        if not char_dir.is_dir():
+            continue
+        for color in char_dir.glob("*.avif"):
+            if color.name.endswith(".alpha.avif"):
+                continue
+            alpha = color.with_name(color.stem + ".alpha.avif")
+            if not alpha.exists():
+                continue
+            webp = color.with_suffix(".webp")
+            if webp.exists():
+                continue
+            tmp_out = Path("/tmp/vn_bake_out.webp")
+            cmd = ["ffmpeg", "-y", "-v", "error", "-i", str(color), "-i", str(alpha),
+                   "-filter_complex", "[0:v][1:v]alphamerge", "-frames:v", "1",
+                   "-c:v", "libwebp", "-lossless", "1", "-q", "85", str(tmp_out)]
+            r = subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=False)
+            if r.returncode == 0 and tmp_out.exists() and tmp_out.stat().st_size > 0:
+                shutil.copy2(tmp_out, webp)
+                done += 1
+                tmp_out.unlink(missing_ok=True)
+    if done:
+        print(f"  -> 新烘焙 {done} 个立绘 (.webp)")
+
+
+def extract_vn_assets():
+    """用 unified.py 解压 milimg 背景/立绘/CG 到 public/vn-assets"""
+    print("== 提取 VN 资源 ==")
+    for src, dst in [
+        (VN_AVG_BG_SRC, VN_PUBLIC_BG),
+        (VN_AVG_CG_SRC, VN_PUBLIC_CG),
+        (TEXTASSET, VN_PUBLIC / "textasset"),
+    ]:
+        if not src.exists():
+            continue
+        dst.mkdir(parents=True, exist_ok=True)
+        # 收集 .bytes
+        tmp_src = Path("/tmp/vn_extract_src")
+        tmp_out = Path("/tmp/vn_extract_out")
+        tmp_src.mkdir(parents=True, exist_ok=True)
+        tmp_out.mkdir(parents=True, exist_ok=True)
+        for p in src.glob("*.bytes"):
+            shutil.copy2(p, tmp_src / p.name)
+        # 背景
+        if any(tmp_src.glob("*.bytes")):
+            try:
+                subprocess.run([sys.executable, str(UNIFIED_PY), str(tmp_src), "-o", str(tmp_out)], check=False, stdout=subprocess.DEVNULL)
+                for f in tmp_out.glob("*.avif"):
+                    shutil.copy2(f, dst / f.name)
+                for f in tmp_out.glob("*.alpha.avif"):
+                    shutil.copy2(f, dst / f.name)
+                # 清理
+                for f in tmp_src.glob("*.bytes"):
+                    f.unlink()
+                for f in tmp_out.glob("*"):
+                    f.unlink()
+            except Exception as e:
+                print(f"  ! 背景解压失败 {src}: {e}")
+    # 角色（递归）
+    if VN_AVG_CHAR_SRC.exists():
+        VN_PUBLIC_CHAR.mkdir(parents=True, exist_ok=True)
+        for char_dir in VN_AVG_CHAR_SRC.iterdir():
+            if not char_dir.is_dir():
+                continue
+            dst_char = VN_PUBLIC_CHAR / char_dir.name
+            dst_char.mkdir(parents=True, exist_ok=True)
+            tmp_src = Path("/tmp/vn_char_src")
+            tmp_out = Path("/tmp/vn_char_out")
+            tmp_src.mkdir(parents=True, exist_ok=True)
+            tmp_out.mkdir(parents=True, exist_ok=True)
+            for p in char_dir.glob("*.bytes"):
+                shutil.copy2(p, tmp_src / p.name)
+            if any(tmp_src.glob("*.bytes")):
+                try:
+                    subprocess.run([sys.executable, str(UNIFIED_PY), str(tmp_src), "-o", str(tmp_out)], check=False, stdout=subprocess.DEVNULL)
+                    for f in tmp_out.glob("*.avif*"):
+                        shutil.copy2(f, dst_char / f.name)
+                    for f in tmp_src.glob("*.bytes"):
+                        f.unlink()
+                    for f in tmp_out.glob("*"):
+                        f.unlink()
+                except Exception as e:
+                    print(f"  ! 角色 {char_dir.name} 解压失败: {e}")
+    # 音频（Ogg 直拷与 MUA 经 unified.py）
+    VN_PUBLIC_AUDIO.mkdir(parents=True, exist_ok=True)
+    # TextAsset 中的 Ogg（如 rain_heavy 等）直接拷贝
+    for p in TEXTASSET.glob("*.bytes"):
+        try:
+            head = p.read_bytes()[:4]
+            if head == b'OggS':
+                dst = VN_PUBLIC_AUDIO / (p.stem + ".ogg")
+                if not dst.exists():
+                    shutil.copy2(p, dst)
+        except:
+            pass
+    # 尝试用 unified.py 解压 TextAsset 中其余 MUA 音频
+    tmp_src = Path("/tmp/vn_audio_src")
+    tmp_out = Path("/tmp/vn_audio_out")
+    tmp_src.mkdir(parents=True, exist_ok=True)
+    tmp_out.mkdir(parents=True, exist_ok=True)
+    for p in TEXTASSET.glob("*.bytes"):
+        # 跳过已处理的 Ogg 与已知非音频
+        if p.read_bytes()[:4] == b'OggS':
+            continue
+        # 仅尝试可能的音频（通过 unified.py 分类）
+        shutil.copy2(p, tmp_src / p.name)
+    if any(tmp_src.glob("*.bytes")):
+        try:
+            subprocess.run([sys.executable, str(UNIFIED_PY), str(tmp_src), "-o", str(tmp_out)], check=False, stdout=subprocess.DEVNULL)
+            for f in tmp_out.glob("*.ogg"):
+                shutil.copy2(f, VN_PUBLIC_AUDIO / f.name)
+            for f in tmp_src.glob("*.bytes"):
+                f.unlink()
+            for f in tmp_out.glob("*"):
+                f.unlink()
+        except Exception as e:
+            print(f"  ! 音频解压失败: {e}")
+    # 剧情用的 bgm / bgs / snd
+    extract_vn_audio()
+    # 立绘透明烘焙
+    bake_character_alpha()
+
+def gen_vn_scripts():
+    """为每个 AVG 剧集生成 JSON 供 VnPlayer 使用"""
+    print("== 生成 VN 剧本 JSON ==")
+    scripts = decode_story_bytes()
+    VN_PUBLIC_SCRIPTS.mkdir(parents=True, exist_ok=True)
+    # 加载所有语言对话
+    all_langs = {}
+    for lang in LANGS:
+        p = LOCALIZATION / f"{lang}.json"
+        if p.exists():
+            all_langs[lang] = json.load(open(p, encoding="utf-8"))
+        else:
+            all_langs[lang] = {}
+    # 为每个剧集生成 blocks + dialogues（播放器需要 speaker/scene/chara，故用 for_player=True）
+    for ep, script in scripts.items():
+        blocks = parse_avg_blocks(script, for_player=True)
+        # 收集所有 say/choice id（兼容 dict/sid 两种形式）
+        say_ids = set()
+        choice_ids = set()
+        for kind, *rest in blocks:
+            if kind == "text":
+                for item in rest[0]:
+                    sid = item["id"] if isinstance(item, dict) else item
+                    say_ids.add(sid)
+            elif kind == "choice":
+                info = rest[0]
+                for oid in info.get("order", []):
+                    choice_ids.add(oid)
+                for lst in info.get("branches", {}).values():
+                    for it in lst:
+                        sid = it["id"] if isinstance(it, dict) else it
+                        say_ids.add(sid)
+            elif kind in ("scene","chara"):
+                continue
+        # 构造 dialogues per lang
+        dialogues = {}
+        for lang in LANGS:
+            d = all_langs.get(lang, {})
+            mp = {}
+            for sid in say_ids:
+                k = f"{ep}.say{sid}"
+                v = d.get(k) or all_langs.get("en", {}).get(k) or ""
+                mp[f"say{sid}"] = v
+            for cid in choice_ids:
+                k = f"{ep}.choice{cid}"
+                v = d.get(k) or all_langs.get("en", {}).get(k) or ""
+                mp[f"choice{cid}"] = v
+            # 也包含分支内可能用到的 say（已覆盖）
+            dialogues[lang] = mp
+        # 将 blocks 转为可序列化结构（保留 speaker/scene/chara）
+        serial_blocks = []
+        for kind, *rest in blocks:
+            if kind == "text":
+                # rest[0] 为 [{id,speaker},...]
+                serial_blocks.append({"type": "text", "says": rest[0]})
+            elif kind == "choice":
+                info = rest[0]
+                serial_blocks.append({
+                    "type": "choice",
+                    "id": info.get("opts", [None])[0] if info.get("opts") else "",
+                    "options": info.get("order", []) or info.get("opts", []),
+                    "labels": info.get("labels", {}),
+                    "branches": info.get("branches", {})
+                })
+            elif kind in ("scene","chara","chara_settings","emotion","bgm","bgs","se","hide_dialog","volume_bgs"):
+                serial_blocks.append({"type": kind, "value": rest[0]})
+        out = {
+            "episode": ep,
+            "blocks": serial_blocks,
+            "dialogues": dialogues
+        }
+        # 同时解析 scene/chara 等指令，生成简化 commands 供播放器
+        # 解析原始脚本的 scene/chara 等
+        commands = []
+        for line in script.splitlines():
+            s = line.strip()
+            if s.startswith("##scene:"):
+                commands.append({"cmd": "scene", "arg": s[len("##scene:"):].split("|")[0].strip()})
+            elif s.startswith("##chara:"):
+                commands.append({"cmd": "chara", "arg": s[len("##chara:"):].strip()})
+            elif s.startswith("##chara_settings:"):
+                commands.append({"cmd": "chara_settings", "arg": s[len("##chara_settings:"):].strip()})
+            elif s.startswith("##say:") or s.startswith("##say2:"):
+                # 保留 speaker 和 id 供播放器显示
+                # 格式 ##say:speaker|emotion|id 或 ##say:speaker|id
+                try:
+                    payload = s.split(":", 1)[1]
+                    parts = payload.split("|")
+                    sid = parts[-1].strip()
+                    speaker = parts[0].strip()
+                    emotion = parts[1].strip() if len(parts) == 3 else ""
+                    commands.append({"cmd": "say", "speaker": speaker, "id": sid, "emotion": emotion})
+                except:
+                    pass
+            elif s.startswith("##question:"):
+                qid = s.split("|")[-1].strip() if "|" in s else ""
+                commands.append({"cmd": "question", "id": qid})
+            elif s.startswith("|"):
+                commands.append({"cmd": "option", "id": s[1:].strip()})
+            elif s.startswith("##choice:"):
+                cid = s[len("##choice:"):].split("|")[0].strip()
+                commands.append({"cmd": "choice_start", "id": cid})
+            elif s.startswith("##end_choice"):
+                commands.append({"cmd": "choice_end"})
+            elif s.startswith("##if:"):
+                commands.append({"cmd": "if", "cond": s[len("##if:"):].strip()})
+            elif s.startswith("##else"):
+                commands.append({"cmd": "else"})
+            elif s.startswith("##endif"):
+                commands.append({"cmd": "endif"})
+            elif s.startswith("##mark:"):
+                commands.append({"cmd": "mark", "arg": s[len("##mark:"):].strip()})
+            elif s.startswith("##hide_dialog"):
+                commands.append({"cmd": "hide_dialog"})
+            elif s.startswith("##bgm:"):
+                commands.append({"cmd": "bgm", "arg": s[len("##bgm:"):].strip()})
+            elif s.startswith("##bgs:"):
+                commands.append({"cmd": "bgs", "arg": s[len("##bgs:"):].strip()})
+        out["commands"] = commands
+        (VN_PUBLIC_SCRIPTS / f"{ep}.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  -> {ep}.json ({len(serial_blocks)} blocks)")
 
 # ---------- 生成 story md ----------
 def gen_story_md():
@@ -410,6 +872,8 @@ def gen_story_md():
             script=scripts.get(ep,"")
             out_lines.append(f"#### 1.{n} <a id=\"chapter1-{n}\"></a>")
             out_lines.append("")
+            out_lines.append(f"<VnPlayer episode=\"{ep}\" title=\"1.{n}\" />")
+            out_lines.append("")
             if script:
                 blocks=parse_avg_blocks(script)
                 for kind, *rest in blocks:
@@ -426,8 +890,9 @@ def gen_story_md():
                         opts=info.get("opts") or info.get("order") or []
                         branches=info.get("branches",{})
                         order=info.get("order") or opts
-                        # 选项文本
-                        opt_labels=[choice_text(ep, o) or o for o in order]
+                        labels=info.get("labels") or {}
+                        # 选项文本（条件选择用预设标签，普通选项用 localize）
+                        opt_labels=[labels.get(o) or (choice_text(ep, o) or o) for o in order]
                         # 若分支为空则跳过
                         if not opt_labels:
                             continue
@@ -466,6 +931,8 @@ def gen_story_md():
         # 尾声 + 露薇娅 + 苏珊
         out_lines.append(f"#### 尾声 <a id=\"chapter1-ed\"></a>")
         out_lines.append("")
+        out_lines.append(f"<VnPlayer episode=\"main_story_1_ed_1\" title=\"尾声\" />")
+        out_lines.append("")
         ep="main_story_1_ed_1"
         script=scripts.get(ep,"")
         if script:
@@ -479,7 +946,8 @@ def gen_story_md():
                 elif kind=="choice":
                     info=rest[0]; opts=info.get("order") or info.get("opts") or []
                     branches=info.get("branches",{})
-                    opt_labels=[choice_text(ep,o) or o for o in opts]
+                    labels=info.get("labels") or {}
+                    opt_labels=[labels.get(o) or (choice_text(ep,o) or o) for o in opts]
                     if opt_labels:
                         import json as _json
                         opts_json=_json.dumps(opt_labels, ensure_ascii=False).replace("'","&#39;")
@@ -528,6 +996,8 @@ def gen_story_md():
             script=scripts.get(ep,"")
             out_lines.append(f"#### 2.{n} <a id=\"chapter2-{n}\"></a>")
             out_lines.append("")
+            out_lines.append(f"<VnPlayer episode=\"{ep}\" title=\"2.{n}\" />")
+            out_lines.append("")
             if script:
                 blocks=parse_avg_blocks(script)
                 for kind, *rest in blocks:
@@ -541,8 +1011,9 @@ def gen_story_md():
                         info=rest[0]
                         order=info.get("order") or info.get("opts") or []
                         branches=info.get("branches",{})
+                        labels=info.get("labels") or {}
                         # opts 来自 order
-                        opt_labels=[choice_text(ep,o) or o for o in order]
+                        opt_labels=[labels.get(o) or (choice_text(ep,o) or o) for o in order]
                         # 过滤空
                         if not opt_labels:
                             continue
@@ -745,6 +1216,8 @@ def do_build():
     # 确保 StoryChoice 已注册（若 update.py 单独运行，检查）
     # 直接在 vitepress 目录构建
     env=os.environ.copy()
+    # 限制 node 堆内存，防止构建异常膨胀占满内存（常规站点 4G 足够）
+    env.setdefault("NODE_OPTIONS", "--max-old-space-size=4096")
     # 使用 pnpm
     try:
         subprocess.run(["pnpm","run","docs:build"], cwd=str(vp), check=True)
@@ -781,6 +1254,14 @@ def main():
     print(f"  tips: {TIPS_DIR} {'✓' if TIPS_DIR.exists() else '✗'}")
     print(f"  unified.py: {UNIFIED_PY} {'✓' if UNIFIED_PY.exists() else '✗'}")
     gen_story_md()
+    try:
+        extract_vn_assets()
+    except Exception as e:
+        print(f"  ! VN 资源提取失败: {e}")
+    try:
+        gen_vn_scripts()
+    except Exception as e:
+        print(f"  ! VN 剧本生成失败: {e}")
     gen_raingpt()
     if not args.no_build:
         do_build()

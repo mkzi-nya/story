@@ -42,6 +42,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 #### 1.1 <a id="chapter1-1"></a>
 
+<VnPlayer episode="main_story_1_1" title="1.1" />
+
 - …
 - …
 - Tại sao bạn lại khóc vậy ?
@@ -80,6 +82,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 ---
 
 #### 1.2 <a id="chapter1-2"></a>
+
+<VnPlayer episode="main_story_1_2" title="1.2" />
 
 - (Thời gian trôi qua rất nhanh kể từ lúc đó. Mỗi ngày tôi mang cho cô ấy đồ ăn và một vài cuốn sách, và cô gái có vẻ đang dần thích nghi được với cuộc sống này.)
 - (Tôi đứng trước cánh cửa căn phòng nhỏ và gõ cửa theo nhịp điệu cụ thể. Đây là dấu hiệu mà chúng tôi đã thống nhất - nếu không phải tiếng gõ này, cô phải trốn trong đấy.)
@@ -174,6 +178,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 #### 1.3 <a id="chapter1-3"></a>
 
+<VnPlayer episode="main_story_1_3" title="1.3" />
+
 - (Kế từ lần cuối chúng tôi đi ra ngoài, cô ấy thường đi lang thang một mình.)
 - (Thật nhẹ nhõm vì tôi đã bảo cô ấy không được nói chuyện với ai, nhưng tôi vẫn lo lắng về khả năng cô ấy bị lộ.)
 - Nhưng… cô ấy nhìn được giấc mơ của người khác… những bí ẩn về cô cứ chồng chất lên.
@@ -217,6 +223,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 #### 1.4 <a id="chapter1-4"></a>
 
+<VnPlayer episode="main_story_1_4" title="1.4" />
+
 - (Máy duy trì sự sống vẫn chạy đều đặn.)
 - (Susan nằm yên bình trên giường bệnh; chúng ta không thể để họ quyết định sự sống của cô ấy.)
 - Ánh mắt cậu nhìn trông thật đáng sợ.
@@ -253,6 +261,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 ---
 
 #### 1.5 <a id="chapter1-5"></a>
+
+<VnPlayer episode="main_story_1_5" title="1.5" />
 
 - Ư…
 - (Mắt tôi bỗng tối sầm lại, như thể có thứ gì đó vô tình nhắm mắt tôi lại.)
@@ -318,6 +328,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 ---
 
 #### 1.6 <a id="chapter1-6"></a>
+
+<VnPlayer episode="main_story_1_6" title="1.6" />
 
 - (Susan đang làm bữa trưa. Trông giống như là nồi súp.)
 - (Mùi hương có gì đó rất quen thuộc, giống như mùi nấm và thịt với gia vị.)
@@ -415,6 +427,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 ---
 
 #### 1.7 <a id="chapter1-7"></a>
+
+<VnPlayer episode="main_story_1_7" title="1.7" />
 
 - (Tiếng mưa như trút nước lại vang lên.)
 - (Càng lúc càng thấy khó chịu thật.)
@@ -531,6 +545,8 @@ Tất cả đều đen ngòm. Một màu đen sâu thẳm.<br /><br /><br /><br 
 
 #### 尾声 <a id="chapter1-ed"></a>
 
+<VnPlayer episode="main_story_1_ed_1" title="尾声" />
+
 - Vị máu trào lên trong cổ họng. Quần áo tôi ướt đẫm mồ hôi.
 - Tiếng bước chân cứ mãi vang vọng trong cầu thang.
 - Dù đôi chân tôi cảm thấy nặng trĩu đến mức không nhấc nổi, và tầm nhìn mờ đi vì thiếu không khí, tôi vẫn nắm chặt tay cô gái đi theo sau.
@@ -626,6 +642,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 #### 2.1 <a id="chapter2-1"></a>
 
+<VnPlayer episode="main_story_2_1" title="2.1" />
+
 - Bên ngoài trời mưa rơi thật lạnh buốt, nhưng cơn lạnh ấy giúp chúng tôi tỉnh táo.
 - Kể từ khi bước ra ngoài, tôi thường cảm thấy đau đầu. Cảnh tượng trước mắt không mấy xa lạ, nhưng đã bao lâu rồi kể từ khi rời khỏi tòa nhà ấy? Chẳng biết nữa.
 - Còn Luvia thì…
@@ -701,6 +719,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 ---
 
 #### 2.2 <a id="chapter2-2"></a>
+
+<VnPlayer episode="main_story_2_2" title="2.2" />
 
 - Dòng nước chảy trên mặt khiến cho tầm nhìn của tôi bị mờ đi, cơ thể ngày càng nặng nề hơn sau chuyến đi gian khổ này, còn mệt hơn cả parkour.
 - Có lẽ cũng là vì tôi phải kéo theo Luvia đang kiệt quệ leo trèo qua từng bức tường và cửa sổ. Sức lực của cậy ấy còn chẳng bằng một nửa của tôi.
@@ -1008,6 +1028,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 #### 2.3 <a id="chapter2-3"></a>
 
+<VnPlayer episode="main_story_2_3" title="2.3" />
+
 - Đứng lại bọn kia! Chúng mày là ai ?!
 - Một luồng ánh sáng chói lóa bất ngờ xuất hiện từ phía sau góc hành lang.
 - Tôi nhìn về phía ánh sáng. Tôi nghe thấy hai tiếng bước chân.
@@ -1193,6 +1215,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 #### 2.4 <a id="chapter2-4"></a>
 
+<VnPlayer episode="main_story_2_4" title="2.4" />
+
 - Khi tôi mở mắt, thấy bản thân đang nằm trên chiếc giường, trong chính phòng của mình. Cảm nhận được sự mềm mại của chiếc gối áp vào ngực thật êm làm sao - chắc tư thế mình ngủ hẳn rất tệ.
 - Mặc dù hồi còn ở trong tòa nhà, chúng tôi dùng những thứ như tấm nhựa làm đệm, nhưng đây là lần đầu tiên tôi được nằm ngủ trên một chiếc giường thực sự.
 - ...Mềm mại quá đi... Làm mình muốn đánh tiếp một giấc quá…
@@ -1348,6 +1372,10 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 </StoryChoice>
 
+<StoryChoice :options='["mark.ch2_4_route1 == explore", "其它情况"]'>
+
+<template #branch-0>
+
 - Ồ! Không chỉ là trợ lý của Sếp Selene, mà còn là thành viên của đoàn thám hiểm nữa! Hai người hẳn là những nhân vật rất quan trọng!
 - Những nhân vật quan trọng… ?
 - Xin đừng trách tôi vì đã ngăn cản hai anh chị lúc nãy - dạo này có rất nhiều gián điệp… Nhưng nếu các anh chị là thành viên cũ của đoàn thám hiểm, thì chắc chắn không có vấn đề gì!
@@ -1395,6 +1423,11 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Hên đấy, nay tôi cũng định đưa mấy người đến nhà máy. Tôi sẽ coi như sự việc hôm nay không có gì.
 - Đừng để chuyện đó xảy ra lần nữa. Rõ chưa?
 - Tôi xin khiêm nhường thừa nhận sai sót của mình…
+
+</template>
+
+<template #branch-1>
+
 - Tối hôm đó, tôi nghĩ tốt nhất là nên giữ im lặng, nên tôi không dám đi lang thang thêm nữa. Luvia và tôi chỉ mua vài ổ bánh mì ở một tiệm bánh trên phố.
 - Chúng tôi mang bánh mì về phòng và không ra ngoài nữa tối hôm đó.
 - Chẳng mệt mỏi như Luvia, tôi còn chẳng ngủ nổi mãi đến tận sáng sớm mới ngủ được.
@@ -1448,6 +1481,11 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Đừng chạm vào cái gì, đừng đi lung tung, đợi tôi quay lại. Rõ chưa ?
 - Đã rõ. Chúng tôi sẽ không đi đâu cả.
 - Solara quay lại sau một lúc.
+
+</template>
+
+</StoryChoice>
+
 - Được Solara dẫn đường, Luvia và tôi đã đến Khu 2 của Arcadia: khu nông trại.
 - …Những loại cây xanh này có ăn được không?
 - Trời ơi. Rau mà không ăn được, không nhẽ để làm cảnh ?
@@ -1578,6 +1616,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 ---
 
 #### 2.5 <a id="chapter2-5"></a>
+
+<VnPlayer episode="main_story_2_5" title="2.5" />
 
 - Trong phòng họp hội đồng, Selene đứng ở vị trí trung tâm.
 - Hai cư dân này có thể hoạt động trên bề mặt mà không cần biện pháp bảo vệ hiệu quả. Cơ chế vẫn chưa rõ ràng, nhưng sự thật thì hiển nhiên trước mắt chúng ta.
@@ -1718,11 +1758,26 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Đừng đứng đó mãi vậy, làm thôi !
 - Dạ... vâng ạ.
 - Hì hì, cháu mà đang trồng trọt, thì bước đầu là nhận biết loại cây đã.
+
+<StoryChoice :options='["planted_state.2 >= planted", "其它情况"]'>
+
+<template #branch-0>
+
 - Cháu thấy cây dương xỉ nước này! Cháu đã từng thử trồng loại cây này rồi.
 - Cháu gái, đằng kia có nhiều cánh hoa trắng, cháu có biết là gì không ?
 - Ưm... ờm, cháu không biết ạ.
 - Không sao, để dì dạy cháu. Phần củ bên dưới chính là khoai tây mà chúng ta ăn…
+
+</template>
+
+<template #branch-1>
+
 - Nhìn kìa, cái cây có nhiều cánh hoa trắng đó, phần củ bên dưới chính là khoai tây mà chúng ta ăn…
+
+</template>
+
+</StoryChoice>
+
 - Cháu thấy cây dương xỉ nước và khoai tây rồi !
 - Ồ, cháu giỏi lắm. Có vẻ cháu nắm bắt công việc nhanh ra phết đấy.
 - Mong được chỉ giáo ạ.
@@ -1774,6 +1829,12 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 #### 2.6 <a id="chapter2-6"></a>
 
+<VnPlayer episode="main_story_2_6" title="2.6" />
+
+<StoryChoice :options='["highest_score < 700000", "highest_score >= 950000", "其它情况"]'>
+
+<template #branch-0>
+
 - …
 - C-cô... là người tiền sử hả? Tôi dạy cô... khó hiểu đến thế cơ à ?!
 - Cô không nghe hiểu tôi nói gì sao? Hay vẫn còn nghĩ đến mấy bắp ngô đó ?!
@@ -1783,6 +1844,11 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Mình xin lỗi... mình sẽ làm nghiêm túc hơn lần tới.
 - Tôi mong mọi thứ tôi nói cô đều nhớ hết vào đầu rồi. Thời gian đã hết, đi với tôi qua khu bảo trì.
 - Mà tôi nhắc lại: cô sẽ chết thật đấy. Phải thật cẩn thận, rất rất rất cẩn thận !
+
+</template>
+
+<template #branch-1>
+
 - …
 - Cô có muốn trở thành đệ tử của tôi không ?
 - Hửm... ?
@@ -1790,6 +1856,11 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Xin lỗi vì đã gọi cô là kẻ man rợ trước đó. Giờ thì tôi thấy bạn hoàn toàn khác bọt rồi.
 - Với trình độ hiện tại của cô, chắc chắn sẽ không có vấn đề gì. Đi theo tôi. Tiếp theo là quá trình làm việc trực tiếp !
 - Cảnh báo trước: nếu có nguy hiểm xảy ra trong quá trình làm việc trực tiếp, tôi có thể không cứu được cô. Cô có thể chết. Vì vậy, hãy cẩn thận với từng cử động của mình.
+
+</template>
+
+<template #branch-2>
+
 - Ừm... tạm được. Coi như đã học được rồi.
 - Mình có cần xem xét và củng cố thêm điều gì nữa không?
 - Đừng nối mọi sợi dây cáp cô thấy. Không phải tất cả các dây điện đều có thể nối với nhau. Cô có muốn bị điện giật không?
@@ -1797,6 +1868,11 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Nếu cô gặp sự cố trong quá trình thực hiện nhiệm vụ thực tế, rất có thể cô sẽ chết. Chết thật đấy.
 - Mình... đã hiểu.
 - Theo tôi.
+
+</template>
+
+</StoryChoice>
+
 - Tại hiện trường, hơi nước ở nhiệt độ cao phun ra từ một đường ống bị vỡ kèm theo tiếng rít chói tai.
 - Tốt, thiệt hại không quá nghiêm trọng. Chúng ta hãy sửa những thứ này luôn nhé.
 - Mình có cần làm gì không ?
@@ -1876,6 +1952,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 ---
 
 #### 2.7 <a id="chapter2-7"></a>
+
+<VnPlayer episode="main_story_2_7" title="2.7" />
 
 - A, ư... !
 - Khi bác sĩ bôi thuốc vào cánh tay Solara, cơn đau lập tức nhói lên.
@@ -2064,12 +2142,27 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 - Trở lại Khu 4, Luvia đã ngồi ở một bàn cà phê ngoài trời cạnh lối vào khu dân cư, trên bàn có ly nước cam. Chị ấy nhận ra ngay khi tôi đến gần.
 - Cậu quay lại rồi. Hay quá.
 - Cậu cũng vậy Luvia. Nay có thu hoạch được gì không ?
+
+<StoryChoice :options='["planted_state.10 >= planted", "其它情况"]'>
+
+<template #branch-0>
+
 - Hôm nay Dì Zoya đã dạy tớ cách trồng dâu tây bằng tay !
 - Chúng ta hoàn toàn có thể dùng tay được mà ta.
 - Vui quá đi. Trồng dâu tây sau này sẽ dễ hơn nhiều.
+
+</template>
+
+<template #branch-1>
+
 - Hôm nay tớ đã học được cách thụ phấn dâu tây bằng tay từ Dì Zoya !
 - Có lẽ chúng ta sẽ dùng đến nó đấy.
 - Ừm... nếu sau này mình cần tự trồng trái cây, thì cái này chắc sẽ hữu ích lắm.
+
+</template>
+
+</StoryChoice>
+
 - Sau cuộc trò chuyện thường lệ sau giờ làm, tôi đã chia sẻ với Luvia những gì Selene đã kể cho tôi nghe.
 - Con của Dì Susan…
 - Thế, cậu có muốn gặp em ý không ?
@@ -2144,6 +2237,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 ---
 
 #### 2.8 <a id="chapter2-8"></a>
+
+<VnPlayer episode="main_story_2_8" title="2.8" />
 
 - Nhiều ngày sau, Luvia và tôi lần nữa quay trở lại mặt đất.
 - Bầu trời vẫn âm u và mưa vẫn không ngừng rơi. Ngay cả giữa trưa, những đám mây đen dày đặc vẫn tạo ra áp lực nặng nề lên thành phố vắng vẻ này.
@@ -2435,6 +2530,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 #### 2.9 <a id="chapter2-9"></a>
 
+<VnPlayer episode="main_story_2_9" title="2.9" />
+
 - Ơ... sao ngươi lại ở đây ?
 - Tôi tìm thấy Solara một mình trong một phòng bảo trì, ở rìa khu nhà máy.
 - May quá, chúng tôi đã tìm thấy cô rồi…! Solara, chị gái cô đang rất lo lắng đấy…
@@ -2562,6 +2659,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 
 #### 2.10 <a id="chapter2-10"></a>
 
+<VnPlayer episode="main_story_2_10" title="2.10" />
+
 - Bắt... lấy !!
 - Selene kéo một bé gái đang khóc và bế lên chỗ đất khô. Một người lớn ở trên đó, không biết bơi, đã túm lấy đứa trẻ.
 - Chủ tịch Selene, nắm lấy tay tôi, tôi sẽ kéo cô lên cùng!!
@@ -2664,6 +2763,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 ---
 
 #### 2.11 <a id="chapter2-11"></a>
+
+<VnPlayer episode="main_story_2_11" title="2.11" />
 
 - Đã hai tiếng rưỡi trôi qua kể từ khi chuông báo động vang lên.
 - Trận lụt lẽ ra đã nhấn chìm hoàn toàn Arcadia vào thời điểm này đã được ngăn chặn phần nào, nhờ những nỗ lực sửa chữa khẩn cấp ở tiền tuyến.
@@ -2772,6 +2873,8 @@ Tôi chưa từng mong con mình phải sinh ra trong thế giới này — đ�
 ---
 
 #### 2.12 <a id="chapter2-12"></a>
+
+<VnPlayer episode="main_story_2_12" title="2.12" />
 
 - Một tiếng gầm rú dữ dội, trầm thấp vọng lại từ xa.
 - Cơn lũ, cuối cùng cũng tràn vào.
