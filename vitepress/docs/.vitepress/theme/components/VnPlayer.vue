@@ -1,6 +1,6 @@
 <template>
   <span class="vn-trigger-wrapper">
-    <button class="vn-play-btn" @click="open = true" :title="`播放 ${title || episode}`">
+    <button class="vn-play-btn" @click="openPlayer" :title="`播放 ${title || episode}`">
       <span class="vn-play-icon">▶</span>
       <span>播放</span>
     </button>
@@ -594,15 +594,30 @@ function isLandscape() {
 function updateRotate() {
   showRotate.value = !!(open.value && isMobile() && !isLandscape())
 }
-async function enterLandscape() {
-  if (!isMobile() || landscapeLocked) return
+function openPlayer() {
+  // 必须在用户手势内发起全屏才能隐藏浏览器界面（像播视频一样）
+  enterFullscreenOnGesture()
+  open.value = true
+}
+// 在真实点击手势里立即请求全屏（.vn-root 此时尚未挂载，故全屏 documentElement，
+// 之后 z-index 最高的 .vn-root 覆盖全屏画面）
+function enterFullscreenOnGesture() {
+  if (typeof document === 'undefined') return
   try {
-    if (rootEl.value && rootEl.value.requestFullscreen) {
-      await rootEl.value.requestFullscreen()
+    const d = document.documentElement
+    if (d && document.fullscreenEnabled && d.requestFullscreen) {
+      d.requestFullscreen({ navigationUI: 'hide' }).catch(() => {})
+    } else if (d && d.webkitRequestFullscreen) {
+      d.webkitRequestFullscreen()
     }
-  } catch (e) { /* 全屏被拒绝时忽略 */ }
+  } catch (e) { /* 被拒绝/不支持时忽略 */ }
+}
+async function enterLandscape() {
+  // 手机上播放时自动横屏锁定 + 竖屏提示（全屏已在用户手势内完成，此处只补移动端）
+  if (landscapeLocked) return
+  if (typeof document === 'undefined') return
   try {
-    if (window.screen?.orientation?.lock) {
+    if (isMobile() && window.screen?.orientation?.lock) {
       await window.screen.orientation.lock('landscape')
       landscapeLocked = true
     }
